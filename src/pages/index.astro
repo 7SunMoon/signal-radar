@@ -1,0 +1,81 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import DigestSection from '@/components/DigestSection.astro';
+import { formatDigestDate, getLatestDigest } from '@/lib/data';
+
+const digest = getLatestDigest();
+const mustRead = digest.articles.filter((article) => article.readingTier === 'must-read');
+const worthReading = digest.articles.filter((article) => article.readingTier === 'worth-reading');
+const signals = digest.articles.filter((article) => article.readingTier === 'signal');
+const chineseCount = digest.articles.filter((article) => article.language.toLowerCase().startsWith('zh')).length;
+const foreignCount = digest.articles.length - chineseCount;
+const reviewLabel = digest.mode === 'openai'
+  ? 'AI REVIEWED'
+  : digest.mode === 'demo'
+    ? 'DEMO REVIEW'
+    : 'METADATA REVIEW';
+const isLimitedReview = digest.mode !== 'openai';
+---
+
+<BaseLayout>
+  <div class="page-shell">
+    <section class="today-head" aria-labelledby="today-title">
+      <div class="date-block">
+        <span class="eyebrow">TODAY · {digest.date}</span>
+        <h1 id="today-title">{formatDigestDate(digest.date)}</h1>
+        <p>今天值得你投入注意力的少数信息。</p>
+      </div>
+      <div class="run-status">
+        <span class:list={['mode-pill', { demo: isLimitedReview }]}>{reviewLabel}</span>
+        <span class="language-mix">中文 {chineseCount} · 外文 {foreignCount}</span>
+        <span>更新于 {new Date(digest.generatedAt).toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' })}</span>
+      </div>
+    </section>
+
+    <section class="metric-strip" aria-label="今日信息筛选统计">
+      <div class="metric">
+        <span>发现候选</span>
+        <strong>{digest.stats.discovered}</strong>
+        <small>DISCOVERED</small>
+      </div>
+      <div class="metric-flow" aria-hidden="true">→</div>
+      <div class="metric">
+        <span>深度评审</span>
+        <strong>{digest.stats.deepReviewed}</strong>
+        <small>DEEP REVIEW</small>
+      </div>
+      <div class="metric-flow" aria-hidden="true">→</div>
+      <div class="metric metric-accent">
+        <span>最终推荐</span>
+        <strong>{digest.stats.recommended}</strong>
+        <small>RECOMMENDED</small>
+      </div>
+      <div class="precision-note">
+        <span class="precision-mark"></span>
+        <p><strong>Precision first.</strong><br />不为数量牺牲判断质量。</p>
+      </div>
+    </section>
+
+    <DigestSection
+      eyebrow="01 / FOCUS"
+      title="Must Read"
+      description="今天最值得完整精读、做笔记并进入思考链路的内容。"
+      articles={mustRead}
+    />
+
+    <DigestSection
+      eyebrow="02 / EXPLORE"
+      title="Worth Reading"
+      description="有明确增量价值，可根据当日精力选择阅读。"
+      articles={worthReading}
+    />
+
+    <DigestSection
+      eyebrow="03 / SCAN"
+      title="Signals"
+      description="值得知道的早期变化；快速浏览，等待更多证据。"
+      articles={signals}
+      compact
+    />
+  </div>
+</BaseLayout>

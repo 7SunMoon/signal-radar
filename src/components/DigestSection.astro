@@ -1,0 +1,32 @@
+---
+import type { Article } from '@/lib/types';
+import ArticleCard from './ArticleCard.astro';
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  description: string;
+  articles: Article[];
+  compact?: boolean;
+}
+
+const { eyebrow, title, description, articles, compact = false } = Astro.props;
+---
+
+<section class="digest-section">
+  <div class="section-heading">
+    <div>
+      <span class="eyebrow">{eyebrow}</span>
+      <h2>{title}</h2>
+    </div>
+    <p>{description}</p>
+    <span class="section-count">{String(articles.length).padStart(2, '0')}</span>
+  </div>
+  {articles.length > 0 ? (
+    <div class="article-list">
+      {articles.map((article, index) => <ArticleCard article={article} compact={compact} rank={index + 1} />)}
+    </div>
+  ) : (
+    <div class="empty-section">今天没有达到这一档标准的内容。少而准确，比凑数更重要。</div>
+  )}
+</section>

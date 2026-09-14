@@ -1,0 +1,45 @@
+pre_ranking:
+  candidate_pool_size: 40
+  max_age_days: 10
+
+thresholds:
+  must_read: 88
+  worth_reading: 78
+  signal: 64
+
+limits:
+  total: 8
+  must_read: 3
+  worth_reading: 5
+  signals: 10
+
+diversity:
+  max_per_source: 2
+  max_per_topic: 2
+  title_similarity_threshold: 0.84
+
+language_balance:
+  enabled: true
+  target_chinese_ratio: 0.5
+
+rubrics:
+  ai-news:
+    eventImpact: 30
+    sourceCredibility: 20
+    novelty: 20
+    aiProductImpact: 20
+    personalRelevance: 10
+  product-insight:
+    insightDensity: 20
+    argumentDepth: 20
+    evidenceQuality: 15
+    nonConsensusValue: 15
+    transferability: 15
+    personalRelevance: 15
+  career:
+    authenticity: 20
+    specificity: 20
+    transferability: 20
+    personalRelevance: 20
+    insightDensity: 10
+    novelty: 10

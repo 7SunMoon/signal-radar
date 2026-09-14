@@ -1,0 +1,167 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import FeedbackControls from '@/components/FeedbackControls.astro';
+import { formatPublishedAt, getLatestDigest } from '@/lib/data';
+import type { Article } from '@/lib/types';
+
+export function getStaticPaths() {
+  return getLatestDigest().articles.map((article) => ({
+    params: { id: article.id },
+    props: { article },
+  }));
+}
+
+interface Props {
+  article: Article;
+}
+
+const { article } = Astro.props;
+const scoreLabels: Record<string, string> = {
+  eventImpact: '事件影响',
+  sourceCredibility: '来源可信度',
+  novelty: '新颖度',
+  aiProductImpact: 'AI 产品影响',
+  personalRelevance: '个人相关性',
+  insightDensity: '洞察密度',
+  argumentDepth: '论证深度',
+  evidenceQuality: '证据质量',
+  nonConsensusValue: '非共识价值',
+  transferability: '可迁移性',
+  authenticity: '真实性',
+  specificity: '具体程度',
+};
+const tierLabel = {
+  'must-read': 'MUST READ',
+  'worth-reading': 'WORTH READING',
+  signal: 'SIGNAL',
+  unselected: 'REVIEWED',
+}[article.readingTier];
+const needsTranslation = !article.language.toLowerCase().startsWith('zh');
+const translationAvailable = article.translationStatus === 'available' && Boolean(article.translationZh);
+const summaryIndex = needsTranslation ? '03' : '02';
+const ideasIndex = needsTranslation ? '04' : '03';
+const termsIndex = needsTranslation ? '05' : '04';
+---
+
+<BaseLayout title={`${article.titleZh} · Signal Radar`} description={article.whyForMe}>
+  <div class="detail-shell">
+    <a class="back-link" href="/">← 返回今日雷达</a>
+    <div class="detail-grid">
+      <article class="detail-article">
+        <header class="article-hero">
+          <div class="detail-kicker">
+            <span class:list={['category', `category-${article.category}`]}>{article.category}</span>
+            <span>{tierLabel}</span>
+          </div>
+          <h1>{article.titleZh}</h1>
+          {article.titleZh !== article.title && <p class="detail-original-title">{article.title}</p>}
+          <div class="detail-meta">
+            <span>{article.source}</span>
+            {article.author && <span>{article.author}</span>}
+            <span>{formatPublishedAt(article.publishedAt)}</span>
+            {article.estimatedReadingMinutes && <span>约 {article.estimatedReadingMinutes} 分钟</span>}
+            <span>{article.contentAvailability === 'full' ? '全文评审' : '部分内容评审'}</span>
+          </div>
+        </header>
+
+        <section class="why-panel">
+          <span class="section-index">01</span>
+          <div>
+            <h2>为什么值得读</h2>
+            <p>{article.whyForMe}</p>
+          </div>
+        </section>
+
+        {needsTranslation && (
+          <section class:list={['reading-section', 'translation-section', { pending: !translationAvailable }]}>
+            <span class="section-index">02</span>
+            <div>
+              <div class="translation-heading">
+                <h2>中文译文 · 核心内容</h2>
+                <span>{translationAvailable ? 'AI TRANSLATED' : 'PENDING'}</span>
+              </div>
+              {translationAvailable ? (
+                <p class="summary-copy">{article.translationZh}</p>
+              ) : (
+                <div class="translation-empty">
+                  <p>原文已完成采集。配置 OpenAI API 后再次运行 Pipeline，即会生成中文核心译文。</p>
+                  {article.sourceSnippet && <blockquote lang={article.language}>{article.sourceSnippet}</blockquote>}
+                </div>
+              )}
+            </div>
+          </section>
+        )}
+
+        <section class="reading-section">
+          <span class="section-index">{summaryIndex}</span>
+          <div>
+            <h2>中文摘要</h2>
+            <p class="summary-copy">{article.summaryZh}</p>
+          </div>
+        </section>
+
+        <section class="reading-section">
+          <span class="section-index">{ideasIndex}</span>
+          <div>
+            <h2>核心观点</h2>
+            <ol class="key-ideas">
+              {article.keyIdeas.map((idea) => <li>{idea}</li>)}
+            </ol>
+          </div>
+        </section>
+
+        <section class="counter-panel">
+          <div class="counter-heading">
+            <span class="counter-symbol">?</span>
+            <div>
+              <span class="eyebrow">CRITICAL LENS</span>
+              <h2>值得质疑</h2>
+            </div>
+          </div>
+          <p>{article.counterPoint}</p>
+        </section>
+
+        {article.importantTerms?.length > 0 && (
+          <section class="reading-section terms-section">
+            <span class="section-index">{termsIndex}</span>
+            <div>
+              <h2>重要术语</h2>
+              <dl>
+                {article.importantTerms.map((item) => (
+                  <div><dt>{item.term}</dt><dd>{item.explanationZh}</dd></div>
+                ))}
+              </dl>
+            </div>
+          </section>
+        )}
+
+        <section class="topic-row" aria-label="文章主题">
+          {article.topics.map((topic) => <span>{topic}</span>)}
+        </section>
+      </article>
+
+      <aside class="detail-rail">
+        <div class="score-panel">
+          <span>FINAL SCORE</span>
+          <strong>{article.finalScore}</strong>
+          <small>/ 100</small>
+        </div>
+        <div class="score-breakdown">
+          <h2>评分拆解</h2>
+          {Object.entries(article.scores).map(([key, value]) => (
+            <div class="score-row">
+              <div><span>{scoreLabels[key] || key}</span><strong>{value.toFixed(1)}</strong></div>
+              <div class="score-track"><span style={`width: ${Math.max(0, Math.min(100, value / 5 * 100))}%`}></span></div>
+            </div>
+          ))}
+        </div>
+        <div class="rail-actions">
+          <FeedbackControls articleId={article.id} />
+          <a class="original-link" href={article.url} target="_blank" rel="noopener noreferrer">
+            Read Original <span aria-hidden="true">↗</span>
+          </a>
+        </div>
+      </aside>
+    </div>
+  </div>
+</BaseLayout>

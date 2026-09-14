@@ -1,0 +1,51 @@
+---
+import type { Article } from '@/lib/types';
+import { formatPublishedAt } from '@/lib/data';
+import FeedbackControls from './FeedbackControls.astro';
+
+interface Props {
+  article: Article;
+  compact?: boolean;
+  rank: number;
+}
+
+const { article, compact = false, rank } = Astro.props;
+const categoryLabel = {
+  'ai-news': 'AI NEWS',
+  'product-insight': 'PRODUCT INSIGHT',
+  career: 'CAREER',
+  other: 'OTHER',
+}[article.category];
+---
+
+<article class:list={['article-card', `tier-${article.readingTier}`, { compact }]}>
+  <div class="card-rank" aria-label={`本组第 ${rank} 条`}>{String(rank).padStart(2, '0')}</div>
+  <div class="card-main">
+    <div class="card-meta">
+      <span class:list={['category', `category-${article.category}`]}>{categoryLabel}</span>
+      <span>{article.source}</span>
+      {article.author && <span>{article.author}</span>}
+      <span>{formatPublishedAt(article.publishedAt)}</span>
+      {article.estimatedReadingMinutes && <span>{article.estimatedReadingMinutes} min</span>}
+      {article.translationStatus === 'pending' && <span class="translation-pending">待生成中文译文</span>}
+    </div>
+    <a class="card-title-link" href={`/articles/${article.id}`}>
+      <h3>{article.titleZh || article.title}</h3>
+      {article.titleZh !== article.title && <p class="original-title">{article.title}</p>}
+    </a>
+    <p class="why-line"><span>WHY</span>{article.whyForMe}</p>
+    {!compact && article.keyIdeas?.length > 0 && (
+      <ul class="idea-preview">
+        {article.keyIdeas.slice(0, 2).map((idea) => <li>{idea}</li>)}
+      </ul>
+    )}
+    <div class="card-footer">
+      <FeedbackControls articleId={article.id} compact />
+      <a class="details-link" href={`/articles/${article.id}`}>查看分析 <span aria-hidden="true">→</span></a>
+    </div>
+  </div>
+  <a class="score" href={`/articles/${article.id}`} aria-label={`评分 ${article.finalScore}`}>
+    <strong>{article.finalScore}</strong>
+    <span>/ 100</span>
+  </a>
+</article>

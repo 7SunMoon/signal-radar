@@ -1,0 +1,82 @@
+sources:
+  - name: OpenAI News
+    url: https://openai.com/news/rss.xml
+    type: rss
+    category: ai-news
+    priority: high
+    language: en
+
+  - name: Google DeepMind Blog
+    url: https://deepmind.google/blog/rss.xml
+    type: rss
+    category: ai-news
+    priority: high
+    language: en
+
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    type: rss
+    category: ai-news
+    priority: high
+    language: en
+
+  - name: Lenny's Newsletter
+    url: https://www.lennysnewsletter.com/feed
+    type: rss
+    category: product-insight
+    priority: medium
+    language: en
+
+  - name: Silicon Valley Product Group
+    url: https://www.svpg.com/feed/
+    type: rss
+    category: product-insight
+    priority: high
+    language: en
+
+  - name: 量子位
+    url: https://www.qbitai.com/feed
+    type: rss
+    category: ai-news
+    priority: high
+    language: zh-CN
+
+  - name: 少数派
+    url: https://sspai.com/feed
+    type: rss
+    category: product-insight
+    priority: medium
+    language: zh-CN
+
+  - name: 人人都是产品经理
+    url: https://www.woshipm.com/feed
+    type: rss
+    category: product-insight
+    priority: medium
+    language: zh-CN
+
+  - name: 人人都是产品经理 · 面试
+    url: https://www.woshipm.com/tag/%E9%9D%A2%E8%AF%95/feed
+    type: rss
+    category: career
+    priority: high
+    language: zh-CN
+
+  - name: Hacker News
+    type: hacker-news
+    category: other
+    priority: medium
+    language: en
+    limit: 45
+
+web_search:
+  provider: brave
+  enabled: true
+  max_results_per_query: 8
+  queries:
+    - query: latest important AI model product research release
+      category: ai-news
+    - query: AI product management deep analysis case study
+      category: product-insight
+    - query: AI product manager interview real project experience
+      category: career

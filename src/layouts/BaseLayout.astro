@@ -1,0 +1,122 @@
+---
+import '@/styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = 'Signal Radar',
+  description = '每天筛出真正值得阅读和思考的少数信息。',
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#111827" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="/" aria-label="Signal Radar 首页">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 28 28" role="img">
+              <circle cx="14" cy="14" r="10"></circle>
+              <circle cx="14" cy="14" r="5"></circle>
+              <path d="M14 14 23 8"></path>
+              <circle class="brand-ping" cx="23" cy="8" r="2"></circle>
+            </svg>
+          </span>
+          <span>Signal Radar</span>
+        </a>
+        <div class="header-context" aria-label="产品定位">
+          <span class="live-dot"></span>
+          <span>Personal research feed</span>
+        </div>
+      </div>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <span>Signal Radar</span>
+      <span>发现 → 阅读 → 思考 → Thoughtbase</span>
+    </footer>
+    <div class="feedback-toast" role="status" aria-live="polite" aria-atomic="true"></div>
+    <script>
+      const storageKey = 'signal-radar:feedback:v1';
+      const labels: Record<string, string> = {
+        read: '已标记为读过',
+        'worth-it': '已标记为值得',
+        'not-worth-it': '已标记为不值得',
+        saved: '已收藏',
+        thoughtbase: '已加入 Thoughtbase 队列',
+      };
+
+      type FeedbackState = Record<string, boolean>;
+      type FeedbackStore = Record<string, FeedbackState>;
+
+      function readStore(): FeedbackStore {
+        try {
+          return JSON.parse(localStorage.getItem(storageKey) || '{}') as FeedbackStore;
+        } catch {
+          return {};
+        }
+      }
+
+      function syncArticle(articleId: string, state?: FeedbackState) {
+        document.querySelectorAll(`[data-feedback-group="${articleId}"] [data-feedback]`).forEach((button) => {
+          const key = button.getAttribute('data-feedback');
+          const active = key ? Boolean(state?.[key]) : false;
+          button.classList.toggle('is-active', active);
+          button.setAttribute('aria-pressed', String(active));
+        });
+      }
+
+      function initialiseFeedback() {
+        const store = readStore();
+        document.querySelectorAll('[data-feedback-group]').forEach((group) => {
+          const articleId = group.getAttribute('data-feedback-group');
+          if (articleId) syncArticle(articleId, store[articleId]);
+        });
+      }
+
+      document.addEventListener('click', (event) => {
+        const target = event.target;
+        if (!(target instanceof Element)) return;
+        const button = target.closest('[data-feedback]');
+        if (!(button instanceof HTMLButtonElement)) return;
+        const group = button.closest('[data-feedback-group]');
+        const articleId = group?.getAttribute('data-feedback-group');
+        const key = button.getAttribute('data-feedback');
+        if (!articleId || !key) return;
+
+        const store = readStore();
+        const state = store[articleId] || {};
+        state[key] = !state[key];
+        if (key === 'worth-it' && state[key]) state['not-worth-it'] = false;
+        if (key === 'not-worth-it' && state[key]) state['worth-it'] = false;
+        store[articleId] = state;
+        localStorage.setItem(storageKey, JSON.stringify(store));
+        syncArticle(articleId, state);
+
+        const toast = document.querySelector('.feedback-toast');
+        if (toast) {
+          toast.textContent = state[key] ? labels[key] || '已保存' : '已取消';
+          toast.classList.add('is-visible');
+          window.setTimeout(() => toast.classList.remove('is-visible'), 1600);
+        }
+      });
+
+      initialiseFeedback();
+      document.addEventListener('astro:page-load', initialiseFeedback);
+    </script>
+  </body>
+</html>

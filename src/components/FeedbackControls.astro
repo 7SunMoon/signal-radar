@@ -1,0 +1,27 @@
+---
+interface Props {
+  articleId: string;
+  compact?: boolean;
+}
+const { articleId, compact = false } = Astro.props;
+const actions = [
+  { key: 'read', label: '读过', icon: 'check' },
+  { key: 'worth-it', label: '值得', icon: 'up' },
+  { key: 'not-worth-it', label: '不值得', icon: 'down' },
+  { key: 'saved', label: '收藏', icon: 'bookmark' },
+  { key: 'thoughtbase', label: 'Thoughtbase', icon: 'arrow' },
+];
+---
+
+<div class:list={['feedback-controls', { compact }]} data-feedback-group={articleId} aria-label="阅读反馈">
+  {actions.map((action) => (
+    <button type="button" data-feedback={action.key} aria-pressed="false" title={action.label}>
+      {action.icon === 'check' && <svg viewBox="0 0 20 20"><path d="m4 10 4 4 8-9" /></svg>}
+      {action.icon === 'up' && <svg viewBox="0 0 20 20"><path d="m5 12 5-5 5 5" /></svg>}
+      {action.icon === 'down' && <svg viewBox="0 0 20 20"><path d="m5 8 5 5 5-5" /></svg>}
+      {action.icon === 'bookmark' && <svg viewBox="0 0 20 20"><path d="M5.5 3.5h9v13L10 13.7l-4.5 2.8z" /></svg>}
+      {action.icon === 'arrow' && <svg viewBox="0 0 20 20"><path d="M4 10h11m-4-4 4 4-4 4" /></svg>}
+      <span>{action.label}</span>
+    </button>
+  ))}
+</div>
