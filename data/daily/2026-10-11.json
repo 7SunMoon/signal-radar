@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T01:35:13Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 235,
+    "afterDeduplication": 233,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "77a6fe42b025eb",
+      "title": "Bitwarden Dual License Model",
+      "titleZh": "Bitwarden Dual License Model",
+      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "author": "Cider9986",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-10T14:32:50Z",
+      "discoveredAt": "2026-10-11T01:35:03Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Bitwarden Dual License Model”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Bitwarden Dual License Model",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 3.9,
+        "novelty": 4.5,
+        "aiProductImpact": 4.6,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 84.6,
+      "preRankingScore": 79.9,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 346,
+        "comments": 249,
+        "hnUrl": "https://news.ycombinator.com/item?id=50033407"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 9,
+      "duplicateSources": []
+    },
+    {
+      "id": "fcda46628807ac",
+      "title": "被字节开除的AI实习生，刚刚融资2个亿",
+      "titleZh": "被字节开除的AI实习生，刚刚融资2个亿",
+      "url": "https://www.woshipm.com/ai/6475968.html",
+      "author": "运营派",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-10T07:59:02Z",
+      "discoveredAt": "2026-10-11T01:35:05Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。AI创业圈又出了一个挺有意思的故事。 2024年，字节跳动曾经因为一名实习生恶意干扰大模型训练任务，将其辞退，后来双方还打起了官司。当时这件事在网上闹得沸沸扬扬，不少人应该还有印象。 田柯宇/图片来源凤凰网 而如今，这位当事人田柯宇，居然自己创业搞起了AI，还拿到了一笔不小的融资。 据彭博社10月8日报道， 田柯宇创办的AI公司已经完成近3000万美元融资，折合人民币约2亿元，公司投后估值达到2亿美元，约合13.4亿元。 投资方包括五源资本、IDG资本等知名机构，其中五源资本此前还投资过杨植麟创办的月之暗面（Kimi）。 更有意思的是，这家公司目前只有10人左右，连正式名称都还没公开，也没有对外发布产品，预计要到2027年才会推出完整模型。 10个人，没有正式产品，估值就超过13亿元。放在前几年，这样的融资故事",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "AI创业圈又出了一个挺有意思的故事。 2024年，字节跳动曾经因为一名实习生恶意干扰大模型训练任务，将其辞退，后来双方还打起了官司。当时这件事在网上闹得沸沸扬扬，不少人应该还有印象。 田柯宇/图片来源凤凰网 而如今，这位当事人田柯宇，居然自己创业搞起了AI，还拿到了一笔不小的融资。 据彭博社10月8日报道， 田柯宇创办的AI公司已经完成近3000万美元融资，折合人民币约2亿元，公司投后估值达到2亿美元，约合13.4亿元。 投资方包括五源资本、IDG资本等知名机构，其中五源资本此前还投资过杨植麟创办的月之暗面（Kimi）。 更有意思的是，这家公司目前只有10人左右，连正式名称都还没公开，也没有对外发布产品，预计要到2027年才会推出完整模型。 10个人，没有正式产品，估值就超过13亿元。放在前几年，这样的融资故事多少有些不可思议，但放到今天的AI圈，似乎也没有那么稀奇了。 不过，田柯宇这次创业的方向，还真值得关注。 他选择的是最近特别火的 世界模型（World Model） ，而且准备走一条与李飞飞等研究团队不同的技术路线，希望大幅降低AI理解和生成视频的成本。 10个人撑起13亿估值，资本看中了什么？ 先说说田柯宇的技术背景。 上图是他的github主页 他毕业于北京大学，2024年曾作为第一作者，与字节跳动及北大的研究人员共同发表论文《Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction》，并获得NeurIPS 2024最佳论文奖。 NeurIPS是全球人工智能领域最具影响力的学术会议之一，每年都有大量来自Google、Meta、微软、OpenAI以及全球高校的研究成果参与评选。 能够拿到最佳论文奖，已经是很有分量的成绩了。 这篇论文提出了一种叫VAR的视觉生成模型。简单来说，它改变了传统自回归图像生成逐个预测图像元素的方式，改为先生成粗略的整体画面，再逐步补充更高分辨率的细节。 有点像画画，先勾勒轮廓，再逐步把细节补齐。 这个方法的优势主要体现在效率上。根据论文公布的实验结果，VAR在特定图像生成基准测试中，相比此前的自回归模型实现了约20倍的推理速度提升，同时在生成质量和模型扩展性方面取得了不错的表现。 当然，这项成果由多名研究人员共同完成，不能简单算到某一个人头上。但田柯宇作为第一作者，至少证明了他在视觉生成模型研究方面具备相当不错的能力。 而这次创业，他也延续了之前的研究方向，只不过把目标从图像生成扩展到了更复杂的视频和世界模型。 按照彭博社的报道，团队目前已经开发出一套包含约20万个符号的视觉词典，希望让AI通过这些符号来表示、理解和预测视频中的信息。 田柯宇还提出了一个比较有吸引力的目标： 将生成一秒钟视频的成本降低至少一个数量级。",
+      "keyIdeas": [
+        "核心信号围绕“被字节开除的AI实习生，刚刚融资2个亿”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "被字节开除的AI实习生，刚刚融资2个亿",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.5,
+        "argumentDepth": 4.3,
+        "evidenceQuality": 4.3,
+        "nonConsensusValue": 4.5,
+        "transferability": 3.4,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 84.4,
+      "preRankingScore": 73.24,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "edd58468d56444",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "titleZh": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-09T07:00:00Z",
+      "discoveredAt": "2026-10-11T01:35:02Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "keyIdeas": [
+        "核心信号围绕“Sophos cuts threat investigation time by 96% with OpenAI Daybreak”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Sophos cuts threat investigation time by 96% wit",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.9,
+        "novelty": 4.2,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 83.4,
+      "preRankingScore": 63.26,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "6b75dae75d979d",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "titleZh": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "author": "rociiu",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-10T10:52:09Z",
+      "discoveredAt": "2026-10-11T01:35:03Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Talorys – A self-hosted personal AI agent on Cloudflare's free tier”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Talorys – A self-hosted personal AI agent on Clo",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.0,
+        "novelty": 4.4,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 83.0,
+      "preRankingScore": 77.91,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 247,
+        "comments": 121,
+        "hnUrl": "https://news.ycombinator.com/item?id=50031614"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "f4c0a6f779ac6b",
+      "title": "Claude、GPT“跨界”做视频，Seedance们的护城河还牢吗？",
+      "titleZh": "Claude、GPT“跨界”做视频，Seedance们的护城河还牢吗？",
+      "url": "https://www.woshipm.com/ai/6474292.html",
+      "author": "AI价值官",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-10T08:42:51Z",
+      "discoveredAt": "2026-10-11T01:35:05Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。AI视频领域最热的讨论并非围绕 Seedance、Minmax 等专业视频模型，而是越界闯入的通用大模型。Claude Opus 5.5 靠代码渲染视频，带火了新的创作范式；GPT-6 Astra 则扮演 AI 导演，深入专业软件做分镜预演与剪辑。 过去一个月，AI视频领域最激动人心的讨论热潮，并非围绕Seedance、Minmax、可灵等专业视频模型，而是“越界”闯入的通用大模型。 Claude Opus 5.5 靠代码渲染视频，短短数日内催生出大量科普动画、创意短片和音乐MV，在X等平台涌现出多条爆款，甚至带火了一种新的创作范式：Vibe Video。 GPT-6 Astra则扮演起了“AI导演”，从分镜规划做到白模预演，通过深入 Blender、Unreal Engine、DaVinci Resolve ",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "AI视频领域最热的讨论并非围绕 Seedance、Minmax 等专业视频模型，而是越界闯入的通用大模型。Claude Opus 5.5 靠代码渲染视频，带火了新的创作范式；GPT-6 Astra 则扮演 AI 导演，深入专业软件做分镜预演与剪辑。 过去一个月，AI视频领域最激动人心的讨论热潮，并非围绕Seedance、Minmax、可灵等专业视频模型，而是“越界”闯入的通用大模型。 Claude Opus 5.5 靠代码渲染视频，短短数日内催生出大量科普动画、创意短片和音乐MV，在X等平台涌现出多条爆款，甚至带火了一种新的创作范式：Vibe Video。 GPT-6 Astra则扮演起了“AI导演”，从分镜规划做到白模预演，通过深入 Blender、Unreal Engine、DaVinci Resolve 等专业软件，承担场景搭建、镜头预演、剪辑执行等工作，逐渐开始占据视频生成的上游。 两者走的是截然不同的两条路：一条是代码渲染的程序化创意，一条是空间规划的影视工业化。它们都没有在画质上正面硬刚，却从上游入口和细分场景切入，悄悄改写着AI视频的能力边界。 就在通用大模型从外围跨界切入、悄然改写AI视频能力边界的同时，专业视频模型的布局也在加速推进。字节、MiniMax、快手等头部玩家集体向创作上游渗透，逐步覆盖脚本拆解、分镜调度、成片剪辑的完整生产链路。这种对创作全流程的深度扎根，让它们在这轮跨界冲击之中，具备了更强的不可替代性。 Opus 5.5带火Vibe Video，代码直接“画”出视频？ 9月22日，Anthropic 正式发布 Claude Opus 5.5。官方将发布重心放在编程能力与 Agent 任务执行上，视频能力并不是产品发布的主角。但在随后的开发者测试中，意外的爆点悄然出现：这款模型虽不直接输出像素画面，却能通过编写前端代码，生成完成度极高的动画视频。 这并非全新思路。此前 “SVG 画鹈鹕骑自行车” 一类的纯代码绘图测试早已在社区流传。但 Opus 5.5的代码稳定性与任务规划能力，让这种创作方式从玩具级演示走向了全面落地，相关作品先在X平台集中涌现，随后蔓延至小红书、抖音等国内平台。 有创作者调侃，Opus 5.5发布后的一周，自己的时间线几乎被各类AI代码视频填满。 热潮之中，最具破圈效应的标杆案例来自X平台博主 @anabology。他仅向 Opus 5.5 提供了一段参考提示词、Midjourney 调用权限与一份情绪板，模型便自主启动全流程制作，12小时后便输出了一部电影质感的反乌托邦短片。截至目前，该作品相关帖子的浏览量已突破2000万。 马斯克对这条作品表现出极高关注度，先后多次转发互动，直言 “这一次我真切感受到了AGI的深远影响”。他还对一条“Opus 5.5已达到通用人工智能80%-90%水平” 的观点帖回复 “",
+      "keyIdeas": [
+        "核心信号围绕“Claude、GPT“跨界”做视频，Seedance们的护城河还牢吗？”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Claude、GPT“跨界”做视频，Seedance们的护城河还牢吗？",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 3.9,
+        "argumentDepth": 3.9,
+        "evidenceQuality": 4.5,
+        "nonConsensusValue": 4.3,
+        "transferability": 4.0,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 82.5,
+      "preRankingScore": 73.31,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "43ef54e74d2760",
+      "title": "Impactful scheduling for GPU clusters",
+      "titleZh": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-10-09T15:20:29Z",
+      "discoveredAt": "2026-10-11T01:35:02Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Impactful scheduling for GPU clusters”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Impactful scheduling for GPU clusters",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.8,
+        "novelty": 4.1,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 82.8,
+      "preRankingScore": 62.58,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "739dc58db5098a",
+      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+      "titleZh": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+      "url": "https://www.qbitai.com/2026/10/502422.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-09T08:53:08Z",
+      "discoveredAt": "2026-10-11T01:35:04Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+      "keyIdeas": [
+        "核心信号围绕“联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.1,
+        "novelty": 3.8,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 81.8,
+      "preRankingScore": 66.41,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "c62bb1f290e4b5",
+      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+      "titleZh": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+      "url": "https://www.qbitai.com/2026/10/502125.html",
+      "author": "田, 晏林",
+      "source": "量子位",
+      "publishedAt": "2026-10-09T03:52:21Z",
+      "discoveredAt": "2026-10-11T01:35:04Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+      "keyIdeas": [
+        "核心信号围绕“清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 3.7,
+        "novelty": 4.0,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 81.0,
+      "preRankingScore": 65.97,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
