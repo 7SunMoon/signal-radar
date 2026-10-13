@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T03:22:53Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 220,
+    "afterDeduplication": 218,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "8e9f902d9bc18c",
+      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+      "titleZh": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+      "url": "https://www.qbitai.com/2026/10/502654.html",
+      "author": "一水",
+      "source": "量子位",
+      "publishedAt": "2026-10-12T05:48:36Z",
+      "discoveredAt": "2026-10-13T03:22:19Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。游戏打到21:0，AI甚至不用再调用大模型了",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "游戏打到21:0，AI甚至不用再调用大模型了",
+      "keyIdeas": [
+        "核心信号围绕“华为AI靠RSI通关25款游戏！操作次数比人类少56%”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.6,
+        "novelty": 4.5,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 83.8,
+      "preRankingScore": 68.06,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "da306405fe91a7",
+      "title": "竞品分析的本质是找到解决问题的思路：定义、拆解、结论三步法",
+      "titleZh": "竞品分析的本质是找到解决问题的思路：定义、拆解、结论三步法",
+      "url": "https://www.woshipm.com/share/6476791.html",
+      "author": "策略人藏锋",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-13T02:14:08Z",
+      "discoveredAt": "2026-10-13T03:22:20Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。竞品分析的本质是借别人的经验解决自己的问题，重点不是你看了多少东西，而是看完能得出什么结论。信息要扣题、分析要本质、结论要落地，从定义竞品范围，到拆解事实层、动机层与效果层。 竞品分析的本质，是找到解决问题的思路。 好的竞品分析，不在于你看了多少东西，而在于看完之后能得出什么结论，有什么解决方案。 但很多人做着做着就跑偏了，内容很多结论很少，或者就是得出的结论就是总结表面现象，而不是深刻洞察。 问题的本质，在于有没有一套有效的方法论和可参考借鉴的思路。 想不清楚，自然做不明白。做不明白，那做的事情就没啥意义。 接下来，我打算用极简的逻辑把竞品分析的思路拆解清楚，在什么情况下，做什么分析，要得出什么样的结论，希望能给到你一些启发。 1. 竞品分析的本质 了解竞品是路径，目的在于「借别人的经验，来解决自己的问题」。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "竞品分析的本质是借别人的经验解决自己的问题，重点不是你看了多少东西，而是看完能得出什么结论。信息要扣题、分析要本质、结论要落地，从定义竞品范围，到拆解事实层、动机层与效果层。 竞品分析的本质，是找到解决问题的思路。 好的竞品分析，不在于你看了多少东西，而在于看完之后能得出什么结论，有什么解决方案。 但很多人做着做着就跑偏了，内容很多结论很少，或者就是得出的结论就是总结表面现象，而不是深刻洞察。 问题的本质，在于有没有一套有效的方法论和可参考借鉴的思路。 想不清楚，自然做不明白。做不明白，那做的事情就没啥意义。 接下来，我打算用极简的逻辑把竞品分析的思路拆解清楚，在什么情况下，做什么分析，要得出什么样的结论，希望能给到你一些启发。 1. 竞品分析的本质 了解竞品是路径，目的在于「借别人的经验，来解决自己的问题」。 当leader让你做竞品分析时，主要有两大目的： 一是找参考。没思路时，看别人是怎么做的，找一个当下的最优解。 二是验证想法。本身有方向，但需要案例来佐证。说服自己，也说服别人。 只有理清竞品分析的本质，才知道如何做聚焦和做取舍。 竞品分析的极简定义：首先明确自己的问题，然后找到对应的分析对象，接着拆解其成功与失败的原因，最后得出对自己有用的结论。 别人做了什么不重要，重要的是「这对我到底有什么用」？ 2. 如何做竞品分析 竞品分析六字诀：信息→分析→结论。 信息要扣题，分析要本质，结论要落地。 绝大多数人做的竞品分析，都是把搜集信息当成了策略分析。潜意识里觉得，信息堆得越多，好像分析就越全面的样子。 信息不等于洞察，数据也不代表结论。如果信息不能产生结论，那这些信息就是无效的。 我在带团队做竞品分析时，经常会有五大灵魂拷问： 你要解决什么问题？ 哪些信息对解决这个问题真正有用？ 你是在哪里找的信息？ 你的分析是主观还是客观，是表面还是本质？ 你的结论是什么，对于我们这次项目有什么具体的帮助。 如果这五个问题答不上来，那这个竞品分析就是不合格的。 好的竞品分析，主要有三大关键动作：定义→拆解→结论。 2.1 定义我们的竞品范围 竞品分析，首先要解决「分析谁」的问题。 很多人一上来就把沾得上一点点边的品牌全看一遍，看完你问他：为什么分析这些对象？分析它们什么的什么板块？得出了什么结论？然后就是一问三不知。 不同项目不同场景，解决的问题不一，自然需要看的内容也不同。 比如品牌建设、品牌升级、产品开发、新品上市、节点营销、跨界联名这样的场景下，分析的逻辑和内容自然会有所区别。 我一般会想问自己三个问题： 我要解决的问题是什么？ 谁在这个问题上做得好/做得差？ 它们各自能给我什么参考？ 根据竞品承担的角色，主要分为五大类型： ① 核心竞品 和我们高度重合，处于同一细分市场，在产品功能、品牌定位、目标人群、营销投入等高度重合。是我们最直接的参照系，必须深挖。 ",
+      "keyIdeas": [
+        "核心信号围绕“竞品分析的本质是找到解决问题的思路：定义、拆解、结论三步法”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "竞品分析的本质是找到解决问题的思路：定义、拆解、结论三步法",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 3.9,
+        "argumentDepth": 4.2,
+        "evidenceQuality": 3.7,
+        "nonConsensusValue": 4.5,
+        "transferability": 4.5,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 83.7,
+      "preRankingScore": 74.89,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "edd58468d56444",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "titleZh": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-09T07:00:00Z",
+      "discoveredAt": "2026-10-13T03:22:20Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "keyIdeas": [
+        "核心信号围绕“Sophos cuts threat investigation time by 96% with OpenAI Daybreak”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Sophos cuts threat investigation time by 96% wit",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.9,
+        "novelty": 4.2,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 83.4,
+      "preRankingScore": 58.28,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "490ac16a59aa6f",
+      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+      "titleZh": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+      "url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+      "author": "Lenny Rachitsky",
+      "source": "Lenny's Newsletter",
+      "publishedAt": "2026-10-11T12:31:59Z",
+      "discoveredAt": "2026-10-13T03:22:17Z",
+      "language": "en",
+      "category": "product-insight",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Listen now (62 mins) | Josh Woodward of Google Labs on where great ideas come from, knowing when to kill them, and building for a world where what’s possible changes every week",
+      "keyIdeas": [
+        "核心信号围绕“Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Why every company now needs to think and operate",
+        "product-insight"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "insightDensity": 3.7,
+        "argumentDepth": 4.3,
+        "evidenceQuality": 4.4,
+        "nonConsensusValue": 4.4,
+        "transferability": 4.1,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 83.3,
+      "preRankingScore": 60.88,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "1a36455d359d6c",
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "titleZh": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "url": "https://news.ycombinator.com/item?id=50059096",
+      "author": "vishnukool",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-12T16:46:34Z",
+      "discoveredAt": "2026-10-13T03:22:18Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Hey HN, I’m Vishnu from Agent37 ( https://agent37.com ). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37/month per sandbox. You can view a video walkthrough of the product here: https://youtu.be/DK5ISR2tbNo We started as one of those OpenClaw wrapper companies back in February (yup.. judge me). In time we added more and more harnesses. One of the goals I had at the time was to offer a free plan to users, so as to gain more market share. But it was too cost prohibitive to do it right away. Especially since we were bootstrapped and servers were running on my savings. Today we’re actually able to offer the free plan thanks to the optimizations we’ve made since. Over 90% of the new signups we have are just free plan users and they host their personal Hermes/Openclaw/Claude Code etc on our cloud. Our infrastructure cost for the free sandboxes averages around $0.05 to $0.10 per user per month. Here are some techniques that have worked for lowering cost: * When you look at agent harnesses, they have certain patterns in the way they consume CPU and RAM. They need CPU in bursts when they’re initializing or ",
+      "keyIdeas": [
+        "核心信号围绕“Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Launch HN: Agent37 (YC F26) – Low-cost agent san",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.1,
+        "sourceCredibility": 4.5,
+        "novelty": 3.7,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 83.2,
+      "preRankingScore": 82.34,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 116,
+        "comments": 78,
+        "hnUrl": "https://news.ycombinator.com/item?id=50059096"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "43ef54e74d2760",
+      "title": "Impactful scheduling for GPU clusters",
+      "titleZh": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-10-09T15:20:29Z",
+      "discoveredAt": "2026-10-13T03:22:17Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Impactful scheduling for GPU clusters”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Impactful scheduling for GPU clusters",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.8,
+        "novelty": 4.1,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 82.8,
+      "preRankingScore": 57.6,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "fe40919fe46e68",
+      "title": "何恺明团队发布多模态Harness框架",
+      "titleZh": "何恺明团队发布多模态Harness框架",
+      "url": "https://www.qbitai.com/2026/10/502628.html",
+      "author": "henry",
+      "source": "量子位",
+      "publishedAt": "2026-10-11T08:59:06Z",
+      "discoveredAt": "2026-10-13T03:22:19Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。多模态模型的视觉原生Harness，来了！",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "多模态模型的视觉原生Harness，来了！",
+      "keyIdeas": [
+        "核心信号围绕“何恺明团队发布多模态Harness框架”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "何恺明团队发布多模态Harness框架",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 3.4,
+        "novelty": 4.4,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 81.2,
+      "preRankingScore": 65.97,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "9c546a6449ce1e",
+      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+      "titleZh": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+      "url": "https://www.qbitai.com/2026/10/502644.html",
+      "author": "henry",
+      "source": "量子位",
+      "publishedAt": "2026-10-11T09:04:31Z",
+      "discoveredAt": "2026-10-13T03:22:19Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。一套生成论文初稿的多智能体工作流",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "一套生成论文初稿的多智能体工作流",
+      "keyIdeas": [
+        "核心信号围绕“用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.5,
+        "novelty": 3.6,
+        "aiProductImpact": 3.7,
+        "personalRelevance": 3.4
+      },
+      "finalScore": 81.0,
+      "preRankingScore": 65.93,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    }
+  ],
+  "errors": [
+    {
+      "source": "Silicon Valley Product Group",
+      "error": "HTTPSConnectionPool(host='www.svpg.com', port=443): Read timed out.",
+      "timestamp": "2026-10-13T03:22:42Z"
+    }
+  ]
+}

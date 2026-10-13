@@ -1,105 +1,96 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T02:06:40Z",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T03:22:53Z",
   "mode": "metadata",
   "stats": {
-    "discovered": 234,
-    "afterDeduplication": 232,
+    "discovered": 220,
+    "afterDeduplication": 218,
     "deepReviewed": 40,
     "recommended": 8
   },
   "articles": [
     {
-      "id": "44c65736f8dd5a",
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "titleZh": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "author": "albertzeyer",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-11T20:20:52Z",
-      "discoveredAt": "2026-10-12T02:06:30Z",
-      "language": "en",
+      "id": "8e9f902d9bc18c",
+      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+      "titleZh": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+      "url": "https://www.qbitai.com/2026/10/502654.html",
+      "author": "一水",
+      "source": "量子位",
+      "publishedAt": "2026-10-12T05:48:36Z",
+      "discoveredAt": "2026-10-13T03:22:19Z",
+      "language": "zh-CN",
       "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。游戏打到21:0，AI甚至不用再调用大模型了",
       "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "游戏打到21:0，AI甚至不用再调用大模型了",
       "keyIdeas": [
-        "核心信号围绕“The gap in shared understanding of LLM capability is widening”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“华为AI靠RSI通关25款游戏！操作次数比人类少56%”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "The gap in shared understanding of LLM capabilit",
+        "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
         "ai-news"
       ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
+      "importantTerms": [],
       "scores": {
-        "eventImpact": 4.6,
-        "sourceCredibility": 3.8,
-        "novelty": 4.3,
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.6,
+        "novelty": 4.5,
         "aiProductImpact": 4.0,
-        "personalRelevance": 4.3
+        "personalRelevance": 4.5
       },
-      "finalScore": 84.6,
-      "preRankingScore": 80.42,
+      "finalScore": 83.8,
+      "preRankingScore": 68.06,
       "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 256,
-        "comments": 415,
-        "hnUrl": "https://news.ycombinator.com/item?id=50047422"
-      },
-      "contentAvailability": "partial",
-      "estimatedReadingMinutes": null,
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
       "duplicateSources": []
     },
     {
-      "id": "97fd7623467d0e",
-      "title": "卖掉 Cal AI 四个月后，19 岁的 Zach Yadegari 又融了 1000 万美金",
-      "titleZh": "卖掉 Cal AI 四个月后，19 岁的 Zach Yadegari 又融了 1000 万美金",
-      "url": "https://www.woshipm.com/chuangye/6476384.html",
-      "author": "深思圈",
+      "id": "da306405fe91a7",
+      "title": "竞品分析的本质是找到解决问题的思路：定义、拆解、结论三步法",
+      "titleZh": "竞品分析的本质是找到解决问题的思路：定义、拆解、结论三步法",
+      "url": "https://www.woshipm.com/share/6476791.html",
+      "author": "策略人藏锋",
       "source": "人人都是产品经理",
-      "publishedAt": "2026-10-12T01:31:57Z",
-      "discoveredAt": "2026-10-12T02:06:30Z",
+      "publishedAt": "2026-10-13T02:14:08Z",
+      "discoveredAt": "2026-10-13T03:22:20Z",
       "language": "zh-CN",
       "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。16岁卖掉游戏网站，19岁把拍照算热量的App做到年收入3000万美元，如今Zach带着个人AI助理Persona重返赛道。iMessage里的免费助理加上179美元的手环，他要同时说服用户交出权限、数据和手腕，这一次比拍一张午餐照片重得多。 你有没有想过，一个 19 岁的年轻人，履历可以有多长？Zach Yadegari 16 岁的时候，把自己做的游戏网站以 10 万美元卖掉。高中时，Zach 又做出了一个拍照算热量的 App，叫 Cal AI。收购方 MyFitnessPal 披露，这个应用在不到两年里下载量超过 1500 万次，年收入超过 3000 万美元。今年 3 月，MyFitnessPal 宣布收购它，而交易其实在去年 12 月就已经完成。6 月，Zach 离开了 MyFitnessPal，几个月后",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。竞品分析的本质是借别人的经验解决自己的问题，重点不是你看了多少东西，而是看完能得出什么结论。信息要扣题、分析要本质、结论要落地，从定义竞品范围，到拆解事实层、动机层与效果层。 竞品分析的本质，是找到解决问题的思路。 好的竞品分析，不在于你看了多少东西，而在于看完之后能得出什么结论，有什么解决方案。 但很多人做着做着就跑偏了，内容很多结论很少，或者就是得出的结论就是总结表面现象，而不是深刻洞察。 问题的本质，在于有没有一套有效的方法论和可参考借鉴的思路。 想不清楚，自然做不明白。做不明白，那做的事情就没啥意义。 接下来，我打算用极简的逻辑把竞品分析的思路拆解清楚，在什么情况下，做什么分析，要得出什么样的结论，希望能给到你一些启发。 1. 竞品分析的本质 了解竞品是路径，目的在于「借别人的经验，来解决自己的问题」。",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "16岁卖掉游戏网站，19岁把拍照算热量的App做到年收入3000万美元，如今Zach带着个人AI助理Persona重返赛道。iMessage里的免费助理加上179美元的手环，他要同时说服用户交出权限、数据和手腕，这一次比拍一张午餐照片重得多。 你有没有想过，一个 19 岁的年轻人，履历可以有多长？Zach Yadegari 16 岁的时候，把自己做的游戏网站以 10 万美元卖掉。高中时，Zach 又做出了一个拍照算热量的 App，叫 Cal AI。收购方 MyFitnessPal 披露，这个应用在不到两年里下载量超过 1500 万次，年收入超过 3000 万美元。今年 3 月，MyFitnessPal 宣布收购它，而交易其实在去年 12 月就已经完成。6 月，Zach 离开了 MyFitnessPal，几个月后，Zach 带着新的东西回来了。 10 月 8 日，TechCrunch 报道，Zach 的新公司 Persona 融资 1000 万美元，由 Vine Ventures 领投，Z Fellows 创始人 Cory Levy 和 Collective Global 跟投。Persona 是一个个人 AI 助理，现在以免费测试版的形式跑在 iMessage 里，有几千个测试用户，同时在预订一个 179 美元的手环。一个刚卖掉公司的 19 岁创始人，为什么要进入一个已经挤满了人的赛道，Zach 的筹码是什么，这个产品接下来要过哪几关。 一个高中生，是怎么做出 3000 万美元的 App Cal AI 的想法，来自 Zach 对现有热量记录应用的不满。以前记录一顿饭，要自己搜食物、选分量、一项一项手动输入，很多人试几天就放弃了。Cal AI 把这个动作缩成了一次拍照，应用识别餐食，直接估算热量、蛋白质、碳水和脂肪。产品的逻辑简单到一句话就能讲完，而这恰恰是它能传播的原因。增长主要靠网红和社交媒体上的传播，用户看到别人拍一张照片就出了结果，自己也想试一下。 数字方面，MyFitnessPal 告诉 TechCrunch，Cal AI 的下载量超过 1500 万次，年收入超过 3000 万美元。有媒体给过更高的估计，说过去 12 个月的销售额超过 4000 万美元，但那个数字不是收购方给的，这里以 3000 万美元为准。TechCrunch 还提到，Cal AI 在 App Store 的排名里一度超过了 MyFitnessPal 本身，这在 MyFitnessPal 看来，大概就是决定收购的理由。收购谈了将近一年，团队的 7 个人被整体留了下来，应用也保持独立运营。 我认为这段经历之所以值得认真看，是因为它证明了 Zach 最稀缺的一种能力，把一个简单的产品推到很多人手里。这种能力和模型技术没有关系，靠的是对用户在哪里、什么内容会被分享的直觉。个人 AI 助理",
+      "sourceSnippet": "竞品分析的本质是借别人的经验解决自己的问题，重点不是你看了多少东西，而是看完能得出什么结论。信息要扣题、分析要本质、结论要落地，从定义竞品范围，到拆解事实层、动机层与效果层。 竞品分析的本质，是找到解决问题的思路。 好的竞品分析，不在于你看了多少东西，而在于看完之后能得出什么结论，有什么解决方案。 但很多人做着做着就跑偏了，内容很多结论很少，或者就是得出的结论就是总结表面现象，而不是深刻洞察。 问题的本质，在于有没有一套有效的方法论和可参考借鉴的思路。 想不清楚，自然做不明白。做不明白，那做的事情就没啥意义。 接下来，我打算用极简的逻辑把竞品分析的思路拆解清楚，在什么情况下，做什么分析，要得出什么样的结论，希望能给到你一些启发。 1. 竞品分析的本质 了解竞品是路径，目的在于「借别人的经验，来解决自己的问题」。 当leader让你做竞品分析时，主要有两大目的： 一是找参考。没思路时，看别人是怎么做的，找一个当下的最优解。 二是验证想法。本身有方向，但需要案例来佐证。说服自己，也说服别人。 只有理清竞品分析的本质，才知道如何做聚焦和做取舍。 竞品分析的极简定义：首先明确自己的问题，然后找到对应的分析对象，接着拆解其成功与失败的原因，最后得出对自己有用的结论。 别人做了什么不重要，重要的是「这对我到底有什么用」？ 2. 如何做竞品分析 竞品分析六字诀：信息→分析→结论。 信息要扣题，分析要本质，结论要落地。 绝大多数人做的竞品分析，都是把搜集信息当成了策略分析。潜意识里觉得，信息堆得越多，好像分析就越全面的样子。 信息不等于洞察，数据也不代表结论。如果信息不能产生结论，那这些信息就是无效的。 我在带团队做竞品分析时，经常会有五大灵魂拷问： 你要解决什么问题？ 哪些信息对解决这个问题真正有用？ 你是在哪里找的信息？ 你的分析是主观还是客观，是表面还是本质？ 你的结论是什么，对于我们这次项目有什么具体的帮助。 如果这五个问题答不上来，那这个竞品分析就是不合格的。 好的竞品分析，主要有三大关键动作：定义→拆解→结论。 2.1 定义我们的竞品范围 竞品分析，首先要解决「分析谁」的问题。 很多人一上来就把沾得上一点点边的品牌全看一遍，看完你问他：为什么分析这些对象？分析它们什么的什么板块？得出了什么结论？然后就是一问三不知。 不同项目不同场景，解决的问题不一，自然需要看的内容也不同。 比如品牌建设、品牌升级、产品开发、新品上市、节点营销、跨界联名这样的场景下，分析的逻辑和内容自然会有所区别。 我一般会想问自己三个问题： 我要解决的问题是什么？ 谁在这个问题上做得好/做得差？ 它们各自能给我什么参考？ 根据竞品承担的角色，主要分为五大类型： ① 核心竞品 和我们高度重合，处于同一细分市场，在产品功能、品牌定位、目标人群、营销投入等高度重合。是我们最直接的参照系，必须深挖。 ",
       "keyIdeas": [
-        "核心信号围绕“卖掉 Cal AI 四个月后，19 岁的 Zach Yadegari 又融了 1000 万美金”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“竞品分析的本质是找到解决问题的思路：定义、拆解、结论三步法”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "卖掉 Cal AI 四个月后，19 岁的 Zach Yadegari 又融了 1000 万美金",
+        "竞品分析的本质是找到解决问题的思路：定义、拆解、结论三步法",
         "product-insight"
       ],
       "importantTerms": [],
       "scores": {
-        "insightDensity": 4.5,
-        "argumentDepth": 3.9,
-        "evidenceQuality": 4.0,
+        "insightDensity": 3.9,
+        "argumentDepth": 4.2,
+        "evidenceQuality": 3.7,
         "nonConsensusValue": 4.5,
-        "transferability": 4.4,
-        "personalRelevance": 3.7
+        "transferability": 4.5,
+        "personalRelevance": 4.4
       },
-      "finalScore": 83.4,
-      "preRankingScore": 74.94,
+      "finalScore": 83.7,
+      "preRankingScore": 74.89,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 6,
+      "estimatedReadingMinutes": 3,
       "duplicateSources": []
     },
     {
@@ -110,7 +101,7 @@
       "author": "",
       "source": "OpenAI News",
       "publishedAt": "2026-10-09T07:00:00Z",
-      "discoveredAt": "2026-10-12T02:06:29Z",
+      "discoveredAt": "2026-10-13T03:22:20Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -141,7 +132,7 @@
         "personalRelevance": 3.5
       },
       "finalScore": 83.4,
-      "preRankingScore": 60.81,
+      "preRankingScore": 58.28,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -156,7 +147,7 @@
       "author": "Lenny Rachitsky",
       "source": "Lenny's Newsletter",
       "publishedAt": "2026-10-11T12:31:59Z",
-      "discoveredAt": "2026-10-12T02:06:29Z",
+      "discoveredAt": "2026-10-13T03:22:17Z",
       "language": "en",
       "category": "product-insight",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -188,7 +179,7 @@
         "personalRelevance": 4.2
       },
       "finalScore": 83.3,
-      "preRankingScore": 63.4,
+      "preRankingScore": 60.88,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -196,56 +187,64 @@
       "duplicateSources": []
     },
     {
-      "id": "e78b1eb856be5b",
-      "title": "设计系统负责人的编译确认：从”规则被写下”到”规则被正确翻译”",
-      "titleZh": "设计系统负责人的编译确认：从”规则被写下”到”规则被正确翻译”",
-      "url": "https://www.woshipm.com/ai/6476381.html",
-      "author": "魏雯 Akir",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-10-12T01:35:34Z",
-      "discoveredAt": "2026-10-12T02:06:30Z",
-      "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。设计系统负责人的职责正从评审语义定义延伸到确认机器可执行的YAML契约与编译产物。本文深入解析如何将语义定义翻译成YAML契约，并编译成四种消费格式，揭示设计系统负责人如何在机器不确定时介入，确保语义保真与一致性，避免语义分叉。 承上篇 《从管”长什么样”到管”意味着什么”》 展开了设计系统负责人在 语义令牌定义 ， 语义域划分 ， 约束显化规则 中的评审职责： 确认语义令牌边界清晰、核对语义域声明正确、判断约束显化规则合理 。这些动作的共同结果，是一份被确认过的 语义定义 —— 它回答了“这个场景下必须表达什么语义、不能突破什么边界” 。 但这份语义定义还坐在设计系统负责人的评审结论里， 没有进入机器可执行的形态 。本篇要展开的，是这份语义定义如何被翻译成 YAML契约 ，以及YAML契约如何 被编译成四种消",
+      "id": "1a36455d359d6c",
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "titleZh": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "url": "https://news.ycombinator.com/item?id=50059096",
+      "author": "vishnukool",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-12T16:46:34Z",
+      "discoveredAt": "2026-10-13T03:22:18Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "设计系统负责人的职责正从评审语义定义延伸到确认机器可执行的YAML契约与编译产物。本文深入解析如何将语义定义翻译成YAML契约，并编译成四种消费格式，揭示设计系统负责人如何在机器不确定时介入，确保语义保真与一致性，避免语义分叉。 承上篇 《从管”长什么样”到管”意味着什么”》 展开了设计系统负责人在 语义令牌定义 ， 语义域划分 ， 约束显化规则 中的评审职责： 确认语义令牌边界清晰、核对语义域声明正确、判断约束显化规则合理 。这些动作的共同结果，是一份被确认过的 语义定义 —— 它回答了“这个场景下必须表达什么语义、不能突破什么边界” 。 但这份语义定义还坐在设计系统负责人的评审结论里， 没有进入机器可执行的形态 。本篇要展开的，是这份语义定义如何被翻译成 YAML契约 ，以及YAML契约如何 被编译成四种消费格式 —— 设计系统负责人在其中承担“确认翻译准确性”的职责。 这不是”替语义翻译设计师写契约”，也不是”替工程团队做编译”——而是 作为“规则定义者”，在机器无法自行判断的节点上，确认“人定义的语义”被“机器正确理解”。 YAML 契约评审——确认”人定义的语义”被”正确编码” 角色消费场景：设计系统负责人为什么必须评审 YAML 契约 YAML契约是语义定义进入机器执行链路的第一个形态。它由语义翻译设计师编写，引用语义字典中的已注册项，包含7个冻结字段： 设计系统负责人的评审，不是检查YAML语法是否正确（机器做），而是检查“语义编码是否忠实于承上篇确认过的语义定义”。 翻译能力：从”评审结论”到”机器可执行的契约” 前文 《从管”长什么样”到管”意味着什么”》 中，设计系统负责人对某个漂移模式的评审结论可能是： “ERR-001（后果差异未分级）的致命级别，必须使用红色脉冲、八边形图标、必须提供刷新和导出历史两个行动按钮，文案必须说明对话上下文可能已丢失。” 这条评审结论需要被翻译成YAML契约中的 semantic_tokens.error_severity.fatal 节点。设计系统负责人的评审动作，是 确认这个翻译没有失真 ： 评审前（评审结论） ： 评审后（YAML 契约片段） ： 设计系统负责人核对的关键点： color_token： “status.critical” 是否正确映射到承上篇确认的致命状态？ motion_token： “pulse.red.urgent” 是否与“红色脉冲”的评审结论一致？ user_action 是否包含“刷新”和“导出历史”两个行动？优先级是否正确？ llm_constraints 是否覆盖了“文案必须说明上下文可能已丢失”的要求？ 关键决策点 1：机器不确定时 YAML契约评审中，机器“不确定”的情况通常出现在语义边界模糊的场景。 场景示例 ：语义翻译设计师在编写”限流提示”（Retryable",
+      "translationStatus": "pending",
+      "sourceSnippet": "Hey HN, I’m Vishnu from Agent37 ( https://agent37.com ). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37/month per sandbox. You can view a video walkthrough of the product here: https://youtu.be/DK5ISR2tbNo We started as one of those OpenClaw wrapper companies back in February (yup.. judge me). In time we added more and more harnesses. One of the goals I had at the time was to offer a free plan to users, so as to gain more market share. But it was too cost prohibitive to do it right away. Especially since we were bootstrapped and servers were running on my savings. Today we’re actually able to offer the free plan thanks to the optimizations we’ve made since. Over 90% of the new signups we have are just free plan users and they host their personal Hermes/Openclaw/Claude Code etc on our cloud. Our infrastructure cost for the free sandboxes averages around $0.05 to $0.10 per user per month. Here are some techniques that have worked for lowering cost: * When you look at agent harnesses, they have certain patterns in the way they consume CPU and RAM. They need CPU in bursts when they’re initializing or ",
       "keyIdeas": [
-        "核心信号围绕“设计系统负责人的编译确认：从”规则被写下”到”规则被正确翻译””展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "设计系统负责人的编译确认：从”规则被写下”到”规则被正确翻译”",
-        "product-insight"
+        "Launch HN: Agent37 (YC F26) – Low-cost agent san",
+        "ai-news"
       ],
-      "importantTerms": [],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
       "scores": {
-        "insightDensity": 3.8,
-        "argumentDepth": 3.8,
-        "evidenceQuality": 4.3,
-        "nonConsensusValue": 4.5,
-        "transferability": 4.3,
-        "personalRelevance": 4.5
+        "eventImpact": 4.1,
+        "sourceCredibility": 4.5,
+        "novelty": 3.7,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 3.9
       },
       "finalScore": 83.2,
-      "preRankingScore": 74.95,
+      "preRankingScore": 82.34,
       "readingTier": "worth-reading",
-      "socialSignals": {},
+      "socialSignals": {
+        "points": 116,
+        "comments": 78,
+        "hnUrl": "https://news.ycombinator.com/item?id=50059096"
+      },
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 5,
+      "estimatedReadingMinutes": 22,
       "duplicateSources": []
     },
     {
-      "id": "b1802d1de5ce94",
-      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-      "titleZh": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-      "url": "https://github.com/plimsollmark/plimsoll",
-      "author": "cagster",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-11T23:47:59Z",
-      "discoveredAt": "2026-10-12T02:06:30Z",
+      "id": "43ef54e74d2760",
+      "title": "Impactful scheduling for GPU clusters",
+      "titleZh": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-10-09T15:20:29Z",
+      "discoveredAt": "2026-10-13T03:22:17Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -253,13 +252,13 @@
       "translationStatus": "pending",
       "sourceSnippet": "",
       "keyIdeas": [
-        "核心信号围绕“Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Impactful scheduling for GPU clusters”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Show HN: Plimsoll, a self-hosted sandbox for cod",
+        "Impactful scheduling for GPU clusters",
         "ai-news"
       ],
       "importantTerms": [
@@ -270,105 +269,107 @@
       ],
       "scores": {
         "eventImpact": 4.4,
-        "sourceCredibility": 4.1,
+        "sourceCredibility": 3.8,
         "novelty": 4.1,
-        "aiProductImpact": 3.8,
-        "personalRelevance": 4.3
+        "aiProductImpact": 4.1,
+        "personalRelevance": 4.2
       },
-      "finalScore": 83.0,
-      "preRankingScore": 63.39,
+      "finalScore": 82.8,
+      "preRankingScore": 57.6,
       "readingTier": "signal",
-      "socialSignals": {
-        "points": 11,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=50049388"
-      },
+      "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 12,
+      "estimatedReadingMinutes": 22,
       "duplicateSources": []
     },
     {
-      "id": "c0918d0d4e2100",
-      "title": "硅谷AI现状：谁有算力谁是爹",
-      "titleZh": "硅谷AI现状：谁有算力谁是爹",
-      "url": "https://www.qbitai.com/2026/10/502585.html",
-      "author": "鹭羽",
+      "id": "fe40919fe46e68",
+      "title": "何恺明团队发布多模态Harness框架",
+      "titleZh": "何恺明团队发布多模态Harness框架",
+      "url": "https://www.qbitai.com/2026/10/502628.html",
+      "author": "henry",
       "source": "量子位",
-      "publishedAt": "2026-10-11T05:22:38Z",
-      "discoveredAt": "2026-10-12T02:06:31Z",
+      "publishedAt": "2026-10-11T08:59:06Z",
+      "discoveredAt": "2026-10-13T03:22:19Z",
       "language": "zh-CN",
       "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。马斯克连横A社，硅谷VC开始囤GPU",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。多模态模型的视觉原生Harness，来了！",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "马斯克连横A社，硅谷VC开始囤GPU",
+      "sourceSnippet": "多模态模型的视觉原生Harness，来了！",
       "keyIdeas": [
-        "核心信号围绕“硅谷AI现状：谁有算力谁是爹”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“何恺明团队发布多模态Harness框架”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "硅谷AI现状：谁有算力谁是爹",
+        "何恺明团队发布多模态Harness框架",
         "ai-news"
       ],
       "importantTerms": [],
       "scores": {
-        "eventImpact": 3.7,
-        "sourceCredibility": 4.5,
-        "novelty": 4.0,
-        "aiProductImpact": 3.8,
-        "personalRelevance": 4.2
+        "eventImpact": 4.5,
+        "sourceCredibility": 3.4,
+        "novelty": 4.4,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 3.7
       },
-      "finalScore": 79.8,
-      "preRankingScore": 68.11,
+      "finalScore": 81.2,
+      "preRankingScore": 65.97,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "9c546a6449ce1e",
+      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+      "titleZh": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+      "url": "https://www.qbitai.com/2026/10/502644.html",
+      "author": "henry",
+      "source": "量子位",
+      "publishedAt": "2026-10-11T09:04:31Z",
+      "discoveredAt": "2026-10-13T03:22:19Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。一套生成论文初稿的多智能体工作流",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "一套生成论文初稿的多智能体工作流",
+      "keyIdeas": [
+        "核心信号围绕“用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.5,
+        "novelty": 3.6,
+        "aiProductImpact": 3.7,
+        "personalRelevance": 3.4
+      },
+      "finalScore": 81.0,
+      "preRankingScore": 65.93,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
       "estimatedReadingMinutes": 2,
       "duplicateSources": []
-    },
-    {
-      "id": "03c53e328a0ee9",
-      "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
-      "titleZh": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
-      "url": "https://www.qbitai.com/2026/10/502496.html",
-      "author": "量子位的朋友们",
-      "source": "量子位",
-      "publishedAt": "2026-10-10T09:07:43Z",
-      "discoveredAt": "2026-10-12T02:06:31Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会",
-      "keyIdeas": [
-        "核心信号围绕“超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.1,
-        "sourceCredibility": 4.5,
-        "novelty": 3.7,
-        "aiProductImpact": 3.5,
-        "personalRelevance": 4.2
-      },
-      "finalScore": 79.8,
-      "preRankingScore": 66.41,
-      "readingTier": "signal",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 6,
-      "duplicateSources": []
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Silicon Valley Product Group",
+      "error": "HTTPSConnectionPool(host='www.svpg.com', port=443): Read timed out.",
+      "timestamp": "2026-10-13T03:22:42Z"
+    }
+  ]
 }
