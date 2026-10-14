@@ -1,121 +1,38 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T03:22:53Z",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T01:37:51Z",
   "mode": "metadata",
   "stats": {
-    "discovered": 220,
-    "afterDeduplication": 218,
+    "discovered": 234,
+    "afterDeduplication": 231,
     "deepReviewed": 40,
     "recommended": 8
   },
   "articles": [
     {
-      "id": "8e9f902d9bc18c",
-      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-      "titleZh": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-      "url": "https://www.qbitai.com/2026/10/502654.html",
-      "author": "一水",
-      "source": "量子位",
-      "publishedAt": "2026-10-12T05:48:36Z",
-      "discoveredAt": "2026-10-13T03:22:19Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。游戏打到21:0，AI甚至不用再调用大模型了",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "游戏打到21:0，AI甚至不用再调用大模型了",
-      "keyIdeas": [
-        "核心信号围绕“华为AI靠RSI通关25款游戏！操作次数比人类少56%”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.4,
-        "sourceCredibility": 3.6,
-        "novelty": 4.5,
-        "aiProductImpact": 4.0,
-        "personalRelevance": 4.5
-      },
-      "finalScore": 83.8,
-      "preRankingScore": 68.06,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
-      "duplicateSources": []
-    },
-    {
-      "id": "da306405fe91a7",
-      "title": "竞品分析的本质是找到解决问题的思路：定义、拆解、结论三步法",
-      "titleZh": "竞品分析的本质是找到解决问题的思路：定义、拆解、结论三步法",
-      "url": "https://www.woshipm.com/share/6476791.html",
-      "author": "策略人藏锋",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-10-13T02:14:08Z",
-      "discoveredAt": "2026-10-13T03:22:20Z",
-      "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。竞品分析的本质是借别人的经验解决自己的问题，重点不是你看了多少东西，而是看完能得出什么结论。信息要扣题、分析要本质、结论要落地，从定义竞品范围，到拆解事实层、动机层与效果层。 竞品分析的本质，是找到解决问题的思路。 好的竞品分析，不在于你看了多少东西，而在于看完之后能得出什么结论，有什么解决方案。 但很多人做着做着就跑偏了，内容很多结论很少，或者就是得出的结论就是总结表面现象，而不是深刻洞察。 问题的本质，在于有没有一套有效的方法论和可参考借鉴的思路。 想不清楚，自然做不明白。做不明白，那做的事情就没啥意义。 接下来，我打算用极简的逻辑把竞品分析的思路拆解清楚，在什么情况下，做什么分析，要得出什么样的结论，希望能给到你一些启发。 1. 竞品分析的本质 了解竞品是路径，目的在于「借别人的经验，来解决自己的问题」。",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "竞品分析的本质是借别人的经验解决自己的问题，重点不是你看了多少东西，而是看完能得出什么结论。信息要扣题、分析要本质、结论要落地，从定义竞品范围，到拆解事实层、动机层与效果层。 竞品分析的本质，是找到解决问题的思路。 好的竞品分析，不在于你看了多少东西，而在于看完之后能得出什么结论，有什么解决方案。 但很多人做着做着就跑偏了，内容很多结论很少，或者就是得出的结论就是总结表面现象，而不是深刻洞察。 问题的本质，在于有没有一套有效的方法论和可参考借鉴的思路。 想不清楚，自然做不明白。做不明白，那做的事情就没啥意义。 接下来，我打算用极简的逻辑把竞品分析的思路拆解清楚，在什么情况下，做什么分析，要得出什么样的结论，希望能给到你一些启发。 1. 竞品分析的本质 了解竞品是路径，目的在于「借别人的经验，来解决自己的问题」。 当leader让你做竞品分析时，主要有两大目的： 一是找参考。没思路时，看别人是怎么做的，找一个当下的最优解。 二是验证想法。本身有方向，但需要案例来佐证。说服自己，也说服别人。 只有理清竞品分析的本质，才知道如何做聚焦和做取舍。 竞品分析的极简定义：首先明确自己的问题，然后找到对应的分析对象，接着拆解其成功与失败的原因，最后得出对自己有用的结论。 别人做了什么不重要，重要的是「这对我到底有什么用」？ 2. 如何做竞品分析 竞品分析六字诀：信息→分析→结论。 信息要扣题，分析要本质，结论要落地。 绝大多数人做的竞品分析，都是把搜集信息当成了策略分析。潜意识里觉得，信息堆得越多，好像分析就越全面的样子。 信息不等于洞察，数据也不代表结论。如果信息不能产生结论，那这些信息就是无效的。 我在带团队做竞品分析时，经常会有五大灵魂拷问： 你要解决什么问题？ 哪些信息对解决这个问题真正有用？ 你是在哪里找的信息？ 你的分析是主观还是客观，是表面还是本质？ 你的结论是什么，对于我们这次项目有什么具体的帮助。 如果这五个问题答不上来，那这个竞品分析就是不合格的。 好的竞品分析，主要有三大关键动作：定义→拆解→结论。 2.1 定义我们的竞品范围 竞品分析，首先要解决「分析谁」的问题。 很多人一上来就把沾得上一点点边的品牌全看一遍，看完你问他：为什么分析这些对象？分析它们什么的什么板块？得出了什么结论？然后就是一问三不知。 不同项目不同场景，解决的问题不一，自然需要看的内容也不同。 比如品牌建设、品牌升级、产品开发、新品上市、节点营销、跨界联名这样的场景下，分析的逻辑和内容自然会有所区别。 我一般会想问自己三个问题： 我要解决的问题是什么？ 谁在这个问题上做得好/做得差？ 它们各自能给我什么参考？ 根据竞品承担的角色，主要分为五大类型： ① 核心竞品 和我们高度重合，处于同一细分市场，在产品功能、品牌定位、目标人群、营销投入等高度重合。是我们最直接的参照系，必须深挖。 ",
-      "keyIdeas": [
-        "核心信号围绕“竞品分析的本质是找到解决问题的思路：定义、拆解、结论三步法”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "竞品分析的本质是找到解决问题的思路：定义、拆解、结论三步法",
-        "product-insight"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "insightDensity": 3.9,
-        "argumentDepth": 4.2,
-        "evidenceQuality": 3.7,
-        "nonConsensusValue": 4.5,
-        "transferability": 4.5,
-        "personalRelevance": 4.4
-      },
-      "finalScore": 83.7,
-      "preRankingScore": 74.89,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
-      "duplicateSources": []
-    },
-    {
-      "id": "edd58468d56444",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "titleZh": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "author": "",
-      "source": "OpenAI News",
-      "publishedAt": "2026-10-09T07:00:00Z",
-      "discoveredAt": "2026-10-13T03:22:20Z",
+      "id": "035238119c6cb8",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "titleZh": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "author": "niztk",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-13T23:13:23Z",
+      "discoveredAt": "2026-10-14T01:37:42Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
       "translationStatus": "pending",
-      "sourceSnippet": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "sourceSnippet": "Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs. I felt there are not enough consumer apps that run locally with no calls to the outside world that help us manage sensitive corners of our lives. This app in its local variant only downloads a couple of models and occasional updates, it does not send any analytics nor data. Features-wise, Pulse local is a complete budgeting app that offers an assistant built on top of a fine-tuned model and thousands of rules embedded in the code itself. I'm sharing it for free with options to help me continue experimenting with fine-tuning and expanding along this direction. How it works: you import a CSV from any bank, in any currency. When you ask a question, a tuned Qwen3 0.6B model reads it into a structured query, and code, not the model, does the money math against the ledger. A 4B checker model double-checks each money answer; when the two readings disagree, the app says it is not sure instead of guessing. That ",
       "keyIdeas": [
-        "核心信号围绕“Sophos cuts threat investigation time by 96% with OpenAI Daybreak”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Sophos cuts threat investigation time by 96% wit",
+        "Show HN: Pulse Local, a Mac budgeting app whose ",
         "ai-news"
       ],
       "importantTerms": [
@@ -125,90 +42,309 @@
         }
       ],
       "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.5,
+        "novelty": 4.0,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 85.8,
+      "preRankingScore": 77.96,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 46,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=50080275"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "ffc748cb8d88a9",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "titleZh": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-13T12:00:00Z",
+      "discoveredAt": "2026-10-14T01:37:41Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "keyIdeas": [
+        "核心信号围绕“Higgsfield takes AI video from 1 minute to over 10”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Higgsfield takes AI video from 1 minute to over ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.0,
+        "novelty": 4.1,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 84.6,
+      "preRankingScore": 66.04,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "bf9df150608c4b",
+      "title": "花了一年时间，我是如何把品牌抖音体量翻三倍的？",
+      "titleZh": "花了一年时间，我是如何把品牌抖音体量翻三倍的？",
+      "url": "https://www.woshipm.com/share/6477473.html",
+      "author": "JoannaWang",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-13T09:04:44Z",
+      "discoveredAt": "2026-10-14T01:37:42Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。实体餐饮连锁如何借抖音实现线上GMV翻三倍？本文作者复盘一年实战：从品牌基础框架搭建、加盟门店规则制定，到新店开业营销模板复制，再到视频带货与直播的精细化运营，拆解如何将1100万盘子做到3600万。核心逻辑与可复制方法，值得每位操盘手细读。 接手的是家依托于实体门店的餐饮连锁品牌。 25年中体量大概在80家左右，目前110多家（中型连锁正餐），增量不到30%。 重点讲讲我是如何花一年时间把一盘散沙的抖音线上运营做到体量翻3倍的。 首先要了解一个底层逻辑，增量来源于哪里？ 对于实体门店来讲，线上GMV主要来源于顾客购买后的到店核销，线上售卖套餐也好，单品也好，都基于顾客到店后的消费。 那么什么时候会是门店流量最好的时候？ 答案一定是新店开业的首波营销活动。 老店提升是一个长期而缓慢的过程，太考验门店本身的经营状",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "实体餐饮连锁如何借抖音实现线上GMV翻三倍？本文作者复盘一年实战：从品牌基础框架搭建、加盟门店规则制定，到新店开业营销模板复制，再到视频带货与直播的精细化运营，拆解如何将1100万盘子做到3600万。核心逻辑与可复制方法，值得每位操盘手细读。 接手的是家依托于实体门店的餐饮连锁品牌。 25年中体量大概在80家左右，目前110多家（中型连锁正餐），增量不到30%。 重点讲讲我是如何花一年时间把一盘散沙的抖音线上运营做到体量翻3倍的。 首先要了解一个底层逻辑，增量来源于哪里？ 对于实体门店来讲，线上GMV主要来源于顾客购买后的到店核销，线上售卖套餐也好，单品也好，都基于顾客到店后的消费。 那么什么时候会是门店流量最好的时候？ 答案一定是新店开业的首波营销活动。 老店提升是一个长期而缓慢的过程，太考验门店本身的经营状况。 新店开业完全可以通过抖音线上打法做出漂亮数据。 所以在整合抖音线上运营的前三个月，一定把重点放在新门店上面，重点要做的，无外乎是 首先要在抖音平台把品牌基础框架搭好。 何为品牌基础框架？ 一是统一的品牌vi视觉体系； 二是统一的品牌话题，通常就是产品的卖点； 三是统一的货盘。 品牌在线上的势能以流量为载体，以销量为背书 。基础框架扎好，才能往里面填有价值的东西做沉淀。 其次要给加盟门店建规则 品牌与门店是互生互利的关系，让旗下门店都能纳入自己的规则体系，才能快速积累体量的优势。品牌如何给门店带曝光带转化，门店如何心甘情愿地让品牌合理抽佣，都需要建立在一套平衡的规则体系下。 让门店真实感受到借助平台的优势大于单打独斗，才能让线上统一运营更顺畅的执行下去。 最后，再好的理论也敌不过一场真刀真枪的实战。 拿一家新开门店做模板案例，成功后的说服力堪比讲10个PPT。 新店线上营销一般不会受门店历史因素的影响，一家门店在一个新区域开店，本质上是用线上产品的呈现做好首波流量的转化。 这里就有两个要素： 一是曝光，二是转化。 前几年抖音流量大多依托于达人带货，舍得花钱找人，舍得投放就会有流量。 这两年，尤其是今年，找达人几乎已经成为标配，流量持续下滑且越来越贵，花更多的钱未必达到相应的效果。 所以在营销策略调整上，曝光就不能光指望达人流量。 一般会在门店装修期间就帮助门店在抖音起号，通过各种福利互动做首批粉丝的积累，潜在达成预售的效果。 门店开业后阶段，再依托于达人去做集中曝光，通过本地推投放快速放大带量，结合开业营销活动集中售卖活动套餐。这个阶段的重点在于后期的投放策略，钱花刀刃上，尽可能打出更高的ROI。 曝光相对可控，很多品牌卡在转化这一关。 消费者看到了视频却没有购买欲望，就像一条失败的广告，有话题没销量。 餐饮的线上转化其实很直观， 是否有吃的欲望（拍的好看），是否有卖点（突出特色），是否有性价比（价格合理）。 当线上视频解决消费者能在无负担的心里决",
+      "keyIdeas": [
+        "核心信号围绕“花了一年时间，我是如何把品牌抖音体量翻三倍的？”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "花了一年时间，我是如何把品牌抖音体量翻三倍的？",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.0,
+        "argumentDepth": 4.5,
+        "evidenceQuality": 4.3,
+        "nonConsensusValue": 4.2,
+        "transferability": 3.9,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 83.8,
+      "preRankingScore": 73.34,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "61514929f532a5",
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "titleZh": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "author": "nryoo",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-13T07:28:34Z",
+      "discoveredAt": "2026-10-14T01:37:42Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "https://www.theverge.com/ai-artificial-intelligence/1009802/... https://techcrunch.com/2026/10/13/just-5-years-in-interactiv... https://www.reuters.com/legal/litigation/characterai-files-b... https://variety.com/2026/biz/news/disney-bids-on-character-a...",
+      "keyIdeas": [
+        "核心信号围绕“Character.ai has initiated voluntary Chapter 11 bankruptcy”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Character.ai has initiated voluntary Chapter 11 ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.6,
+        "novelty": 4.6,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 83.8,
+      "preRankingScore": 81.73,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 290,
+        "comments": 269,
+        "hnUrl": "https://news.ycombinator.com/item?id=50068036"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "b461a7bc3ca588",
+      "title": "AI 漫画的新玩法：每一格都能 360 度旋转",
+      "titleZh": "AI 漫画的新玩法：每一格都能 360 度旋转",
+      "url": "https://www.woshipm.com/ai/6477557.html",
+      "author": "月鹿造物",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-14T01:09:54Z",
+      "discoveredAt": "2026-10-14T01:37:42Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。X上有作者把AI漫画做出了新玩法：拖动任意一格，格子里的视角就会绕着人物转，从正面转到侧面再转到背后，而且每一格都能单独转。做法是先画分镜草稿，再让每张图绕着人物转一圈生成视频，最后拆成上百张画面放进网页，按拖动的角度切换。 我在 X 上刷到几页漫画，乍一看就是普通的分格漫画。 但用手拖一下，格子里的视角会绕着人物转，从正面转到侧面，再转到背后。 而且每一格都能单独转 ，这一格换了角度，旁边那一格还停在原来的画面。 先看日本作者 monoradio 做的《沙漠的灯塔》： 01 沙漠里的灯塔，可以换个角度看 整页是黑白漫画：沙漠里立着一座灯塔，一个背着包的人走过来，塔上的人正拿着望远镜往下看。 在试玩网页里，左右拖动任意一格，就能转那一格的视角。页面上还有几个按钮，可以显示对白、回到最初的视角、切换黑白。 mon",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "X上有作者把AI漫画做出了新玩法：拖动任意一格，格子里的视角就会绕着人物转，从正面转到侧面再转到背后，而且每一格都能单独转。做法是先画分镜草稿，再让每张图绕着人物转一圈生成视频，最后拆成上百张画面放进网页，按拖动的角度切换。 我在 X 上刷到几页漫画，乍一看就是普通的分格漫画。 但用手拖一下，格子里的视角会绕着人物转，从正面转到侧面，再转到背后。 而且每一格都能单独转 ，这一格换了角度，旁边那一格还停在原来的画面。 先看日本作者 monoradio 做的《沙漠的灯塔》： 01 沙漠里的灯塔，可以换个角度看 整页是黑白漫画：沙漠里立着一座灯塔，一个背着包的人走过来，塔上的人正拿着望远镜往下看。 在试玩网页里，左右拖动任意一格，就能转那一格的视角。页面上还有几个按钮，可以显示对白、回到最初的视角、切换黑白。 monoradio 的原帖（中文翻译界面截图） 作者说用的是 MiniMax-H3 和 ORB360 LoRA，还可以给人物参考图，让脸保持一致。后面的回复里放了最初的草图，流程是 先画分镜草稿，再生成图片，最后让画面转起来 。人物转到各个角度还像不像同一个人，要看具体生成的结果。 02 六格漫画，讲一个找猫的小故事 第二个是烁皓做的《寻猫》。 小女孩早上醒来，发现猫咪团子不见了。她去贴寻猫启事，问鱼摊大叔，爬上天台喊它，天黑下雨了也没找到。回到家打开书包，猫正在里面打哈欠。 这页是彩色的，也能一格一格拖着转。比如第一格，小女孩趴着找猫， 拖过去以后能看到她背后的蓝色书包 ，屋里的背景也跟着换了角度。 页面上有「全部转动」「复位」「网点」三个按钮。点一下格子可以推近看，拖空白的地方能让整页倾斜。作者说里面藏了彩蛋。 03 桌上的苹果和人物，也能转 日本作者山本清史（@yama_kiyo）也做了一页：第一格是桌上的红苹果，第二格是托着脸的女孩，第三格是戴眼镜的男孩。 整页还是漫画线条，只有苹果是红的。作者特意提到， 背景也能跟着转 。 作者的做法是让 Claude Code（一个能帮你写代码的 AI 工具）去读 MiniMax-H3 和 ORB360 LoRA 的说明，再通过 fal 这个平台调用模型， 失败了几次才做出来 。 山本清史的原帖（中文翻译界面截图） 作者还在考虑把对白气泡单独放一层，方便以后合成。 04 这种漫画是怎么做出来的 把三位作者说的做法放在一起，大概是三步。 第一步，先有一个小故事。 想清楚每一格出现谁、在做什么，再生成对应的图片。同一个人物要出现好几次的话，准备一张参考图。《寻猫》的六格，作者用的是 Qwen Image 2.1，一个生成图片的 AI 模型。 第二步，让每张图转起来。 给每张图生成一段绕着人物转的视频。MiniMax-H3 是生成视频的 AI 模型，ORB360 LoRA 可以理解成给它加的一个小补丁，专门让镜头绕着转",
+      "keyIdeas": [
+        "核心信号围绕“AI 漫画的新玩法：每一格都能 360 度旋转”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "AI 漫画的新玩法：每一格都能 360 度旋转",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.2,
+        "argumentDepth": 4.3,
+        "evidenceQuality": 4.5,
+        "nonConsensusValue": 4.1,
+        "transferability": 4.4,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 83.5,
+      "preRankingScore": 74.95,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "4e2811bb46a01d",
+      "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
+      "titleZh": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
+      "url": "https://www.qbitai.com/2026/10/502907.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-13T06:00:20Z",
+      "discoveredAt": "2026-10-14T01:37:42Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
+      "keyIdeas": [
+        "核心信号围绕““模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
         "eventImpact": 4.4,
-        "sourceCredibility": 3.9,
-        "novelty": 4.2,
+        "sourceCredibility": 4.1,
+        "novelty": 3.7,
         "aiProductImpact": 4.4,
         "personalRelevance": 3.5
       },
-      "finalScore": 83.4,
-      "preRankingScore": 58.28,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 7,
-      "duplicateSources": []
-    },
-    {
-      "id": "490ac16a59aa6f",
-      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
-      "titleZh": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
-      "url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
-      "author": "Lenny Rachitsky",
-      "source": "Lenny's Newsletter",
-      "publishedAt": "2026-10-11T12:31:59Z",
-      "discoveredAt": "2026-10-13T03:22:17Z",
-      "language": "en",
-      "category": "product-insight",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "Listen now (62 mins) | Josh Woodward of Google Labs on where great ideas come from, knowing when to kill them, and building for a world where what’s possible changes every week",
-      "keyIdeas": [
-        "核心信号围绕“Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Why every company now needs to think and operate",
-        "product-insight"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "insightDensity": 3.7,
-        "argumentDepth": 4.3,
-        "evidenceQuality": 4.4,
-        "nonConsensusValue": 4.4,
-        "transferability": 4.1,
-        "personalRelevance": 4.2
-      },
-      "finalScore": 83.3,
-      "preRankingScore": 60.88,
-      "readingTier": "worth-reading",
+      "finalScore": 82.2,
+      "preRankingScore": 68.44,
+      "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
       "estimatedReadingMinutes": 3,
       "duplicateSources": []
     },
     {
-      "id": "1a36455d359d6c",
-      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-      "titleZh": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-      "url": "https://news.ycombinator.com/item?id=50059096",
-      "author": "vishnukool",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-12T16:46:34Z",
-      "discoveredAt": "2026-10-13T03:22:18Z",
-      "language": "en",
+      "id": "674ec494e48979",
+      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "titleZh": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "url": "https://www.qbitai.com/2026/10/503093.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-13T09:33:37Z",
+      "discoveredAt": "2026-10-14T01:37:42Z",
+      "language": "zh-CN",
       "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。Winverse AI",
       "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "Hey HN, I’m Vishnu from Agent37 ( https://agent37.com ). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37/month per sandbox. You can view a video walkthrough of the product here: https://youtu.be/DK5ISR2tbNo We started as one of those OpenClaw wrapper companies back in February (yup.. judge me). In time we added more and more harnesses. One of the goals I had at the time was to offer a free plan to users, so as to gain more market share. But it was too cost prohibitive to do it right away. Especially since we were bootstrapped and servers were running on my savings. Today we’re actually able to offer the free plan thanks to the optimizations we’ve made since. Over 90% of the new signups we have are just free plan users and they host their personal Hermes/Openclaw/Claude Code etc on our cloud. Our infrastructure cost for the free sandboxes averages around $0.05 to $0.10 per user per month. Here are some techniques that have worked for lowering cost: * When you look at agent harnesses, they have certain patterns in the way they consume CPU and RAM. They need CPU in bursts when they’re initializing or ",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "Winverse AI",
       "keyIdeas": [
-        "核心信号围绕“Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Launch HN: Agent37 (YC F26) – Low-cost agent san",
+        "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.0,
+        "novelty": 4.4,
+        "aiProductImpact": 3.5,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 81.2,
+      "preRankingScore": 68.5,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "316153953adff7",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "titleZh": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "author": "",
+      "source": "Google DeepMind Blog",
+      "publishedAt": "2026-10-13T16:01:52Z",
+      "discoveredAt": "2026-10-14T01:37:41Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Gemini 4 Argon: Built to solve your hardest problems”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Gemini 4 Argon: Built to solve your hardest prob",
         "ai-news"
       ],
       "importantTerms": [
@@ -220,156 +356,18 @@
       "scores": {
         "eventImpact": 4.1,
         "sourceCredibility": 4.5,
-        "novelty": 3.7,
-        "aiProductImpact": 4.5,
-        "personalRelevance": 3.9
-      },
-      "finalScore": 83.2,
-      "preRankingScore": 82.34,
-      "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 116,
-        "comments": 78,
-        "hnUrl": "https://news.ycombinator.com/item?id=50059096"
-      },
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 22,
-      "duplicateSources": []
-    },
-    {
-      "id": "43ef54e74d2760",
-      "title": "Impactful scheduling for GPU clusters",
-      "titleZh": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "author": "",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-10-09T15:20:29Z",
-      "discoveredAt": "2026-10-13T03:22:17Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
-      "keyIdeas": [
-        "核心信号围绕“Impactful scheduling for GPU clusters”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Impactful scheduling for GPU clusters",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 4.4,
-        "sourceCredibility": 3.8,
-        "novelty": 4.1,
-        "aiProductImpact": 4.1,
-        "personalRelevance": 4.2
-      },
-      "finalScore": 82.8,
-      "preRankingScore": 57.6,
-      "readingTier": "signal",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 22,
-      "duplicateSources": []
-    },
-    {
-      "id": "fe40919fe46e68",
-      "title": "何恺明团队发布多模态Harness框架",
-      "titleZh": "何恺明团队发布多模态Harness框架",
-      "url": "https://www.qbitai.com/2026/10/502628.html",
-      "author": "henry",
-      "source": "量子位",
-      "publishedAt": "2026-10-11T08:59:06Z",
-      "discoveredAt": "2026-10-13T03:22:19Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。多模态模型的视觉原生Harness，来了！",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "多模态模型的视觉原生Harness，来了！",
-      "keyIdeas": [
-        "核心信号围绕“何恺明团队发布多模态Harness框架”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "何恺明团队发布多模态Harness框架",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.5,
-        "sourceCredibility": 3.4,
-        "novelty": 4.4,
-        "aiProductImpact": 3.9,
-        "personalRelevance": 3.7
-      },
-      "finalScore": 81.2,
-      "preRankingScore": 65.97,
-      "readingTier": "signal",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 4,
-      "duplicateSources": []
-    },
-    {
-      "id": "9c546a6449ce1e",
-      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-      "titleZh": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-      "url": "https://www.qbitai.com/2026/10/502644.html",
-      "author": "henry",
-      "source": "量子位",
-      "publishedAt": "2026-10-11T09:04:31Z",
-      "discoveredAt": "2026-10-13T03:22:19Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。一套生成论文初稿的多智能体工作流",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "一套生成论文初稿的多智能体工作流",
-      "keyIdeas": [
-        "核心信号围绕“用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.5,
-        "sourceCredibility": 4.5,
-        "novelty": 3.6,
-        "aiProductImpact": 3.7,
-        "personalRelevance": 3.4
+        "novelty": 4.2,
+        "aiProductImpact": 3.4,
+        "personalRelevance": 4.0
       },
       "finalScore": 81.0,
-      "preRankingScore": 65.93,
+      "preRankingScore": 65.04,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 2,
+      "estimatedReadingMinutes": 21,
       "duplicateSources": []
     }
   ],
-  "errors": [
-    {
-      "source": "Silicon Valley Product Group",
-      "error": "HTTPSConnectionPool(host='www.svpg.com', port=443): Read timed out.",
-      "timestamp": "2026-10-13T03:22:42Z"
-    }
-  ]
+  "errors": []
 }
