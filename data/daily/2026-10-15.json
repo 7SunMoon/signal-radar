@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T01:14:49Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 235,
+    "afterDeduplication": 233,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "6b22d085628e7c",
+      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "titleZh": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "url": "https://www.qbitai.com/2026/10/503294.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-14T10:41:47Z",
+      "discoveredAt": "2026-10-15T01:14:40Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。“具身进实景，劳动最光荣”",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "“具身进实景，劳动最光荣”",
+      "keyIdeas": [
+        "核心信号围绕“抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.5,
+        "novelty": 4.5,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 87.6,
+      "preRankingScore": 68.68,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "d91ead6950e781",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "titleZh": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "author": "sunshowers",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-14T20:30:54Z",
+      "discoveredAt": "2026-10-15T01:14:40Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Anthropic's Scion is heavily inspired by Mononoke”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Anthropic's Scion is heavily inspired by Mononok",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.5,
+        "novelty": 4.6,
+        "aiProductImpact": 4.6,
+        "personalRelevance": 4.6
+      },
+      "finalScore": 86.8,
+      "preRankingScore": 78.08,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 241,
+        "comments": 105,
+        "hnUrl": "https://news.ycombinator.com/item?id=50094694"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "672ebf75c430cf",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "titleZh": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-10-14T16:12:42Z",
+      "discoveredAt": "2026-10-15T01:14:38Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "HiRO-ACEv2: Simulating extreme weather at 3 km r",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.9,
+        "novelty": 4.3,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 84.2,
+      "preRankingScore": 65.1,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "ffc748cb8d88a9",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "titleZh": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-13T12:00:00Z",
+      "discoveredAt": "2026-10-15T01:14:38Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "keyIdeas": [
+        "核心信号围绕“Higgsfield takes AI video from 1 minute to over 10”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Higgsfield takes AI video from 1 minute to over ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.9,
+        "novelty": 4.0,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 82.6,
+      "preRankingScore": 63.68,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "42f74a31dcd904",
+      "title": "产品经理用上豆包工作，直接搞定竞品追踪、汇报PPT、定时周报！",
+      "titleZh": "产品经理用上豆包工作，直接搞定竞品追踪、汇报PPT、定时周报！",
+      "url": "https://www.woshipm.com/ai/6478069.html",
+      "author": "AI高手杜小虎",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-14T08:01:52Z",
+      "discoveredAt": "2026-10-15T01:14:40Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。产品经理的时间常常耗在导数据、写周报、翻对话拼 PRD、逐个看竞品更新上。文章附三套可直接复制的指令，用豆包工作的多 Agent 并行能力，让一个 Organizer 拆出五个子 Agent 各盯一个竞品，并演示跨对话汇总需求、定时产周报的步骤。 做产品经理，能用来想需求的时间并不多。周一早上导数据、写周报；评审前翻好几个对话拼PRD；迭代规划前，还要把几个竞品的更新记录挨个看一遍。 这三件事都不难，就是费时间，正好交给「豆包工作」。它是豆包推出的电脑版独立端，内置AI办公Agent，能像真人助理一样一句话派活，自己拆解任务，执行并交付。下面每件事都附了操作步骤和可以直接复制的指令。 竞品更新：5个竞品，分给5个Agent同时看 迭代规划前，我得知道竞品最近都上了什么。以前只能挨个打开官网和应用商店的更新记录，",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "产品经理的时间常常耗在导数据、写周报、翻对话拼 PRD、逐个看竞品更新上。文章附三套可直接复制的指令，用豆包工作的多 Agent 并行能力，让一个 Organizer 拆出五个子 Agent 各盯一个竞品，并演示跨对话汇总需求、定时产周报的步骤。 做产品经理，能用来想需求的时间并不多。周一早上导数据、写周报；评审前翻好几个对话拼PRD；迭代规划前，还要把几个竞品的更新记录挨个看一遍。 这三件事都不难，就是费时间，正好交给「豆包工作」。它是豆包推出的电脑版独立端，内置AI办公Agent，能像真人助理一样一句话派活，自己拆解任务，执行并交付。下面每件事都附了操作步骤和可以直接复制的指令。 竞品更新：5个竞品，分给5个Agent同时看 迭代规划前，我得知道竞品最近都上了什么。以前只能挨个打开官网和应用商店的更新记录，一个一个看完，再自己整理成表。 豆包工作最近上线了多Agents并行任务，指令里说一句“帮我用多个agent”就能触发。可以简单理解为Agents有了组织架构：一个主Organizer负责分配，子Agent各自完成子任务。5个竞品，正好分给5个Agent同时看。 打开「豆包工作」电脑版，选择“工作任务”，新建一个任务复制下方指令，把【竞品1】到【竞品5】换成你们的竞品名称后发送。 任务开始后，把豆包工作切成小窗，它在后台干活，你照常用电脑做别的事。跑的过程中想到新要求，直接在输入框里补一句，不用等它答完再插话。 帮我用多个agent，分别查看【竞品1】【竞品2】【竞品3】【竞品4】【竞品5】最近3个月的版本更新，每个agent负责一个竞品。整理成一张对比表，列出更新时间、新增功能、改动的页面或流程，以及可能针对的用户需求；每条信息保留公开来源链接。最后用3句话总结：哪些功能有两个以上竞品都在做，哪些值得我们下个迭代跟进。 我把 Notion、Asana、ClickUp、Trello、Linear 填进提示词实测了一遍。豆包工作先创建一个 Organizer，再拆出5个子Agent；任务切成小窗后仍在后台继续，完成时会弹出通知。 实测界面：右侧能看到5个子Agent及各自负责的竞品，主任务负责汇总。 最终共核验35条官方更新，并交付对比表、功能重叠统计和3句总结。结果里，AI智能体平台化覆盖全部5家，MCP生态连接和企业级AI治理各有4家在跟进。 一句话就拆成了5份并行的活，分工不用我操心，进度也不用我盯。省下来的时间，可以留给更需要判断的事：哪些功能该跟，哪些不该跟。 如果你需要用这份竞品调研内容做汇报，还可以生成一份更精美的格式 写PRD：散在几个对话里的需求，汇到一个任务里 一个需求从提出到评审，信息往往散在好几处。我习惯在豆包里分开聊，一个对话整理用户反馈，一个对话讨论方案，一个对话做数据测算。真到写PRD的时候，还得把这些内容一段段翻出来再拼到",
+      "keyIdeas": [
+        "核心信号围绕“产品经理用上豆包工作，直接搞定竞品追踪、汇报PPT、定时周报！”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "产品经理用上豆包工作，直接搞定竞品追踪、汇报PPT、定时周报！",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.4,
+        "argumentDepth": 4.5,
+        "evidenceQuality": 3.7,
+        "nonConsensusValue": 4.1,
+        "transferability": 3.4,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 82.4,
+      "preRankingScore": 73.28,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "7d10f0ddfecf20",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "titleZh": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-14T07:00:00Z",
+      "discoveredAt": "2026-10-15T01:14:38Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "keyIdeas": [
+        "核心信号围绕“How Block is building AI-powered security with OpenAI technology”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "How Block is building AI-powered security with O",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.3,
+        "novelty": 3.4,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 81.4,
+      "preRankingScore": 65.47,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "7c3167f65625c8",
+      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+      "titleZh": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+      "url": "https://www.qbitai.com/2026/10/503165.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-14T03:32:48Z",
+      "discoveredAt": "2026-10-15T01:14:40Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+      "keyIdeas": [
+        "核心信号围绕“响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Ag",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.3,
+        "novelty": 3.9,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 80.6,
+      "preRankingScore": 68.45,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "d78052b237c0be",
+      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+      "titleZh": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+      "url": "https://www.qbitai.com/2026/10/503211.html",
+      "author": "梦瑶",
+      "source": "量子位",
+      "publishedAt": "2026-10-14T07:03:44Z",
+      "discoveredAt": "2026-10-15T01:14:40Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。从创意到成本，AI正在重写综艺的生产逻辑",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "从创意到成本，AI正在重写综艺的生产逻辑",
+      "keyIdeas": [
+        "核心信号围绕“《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 3.7,
+        "novelty": 3.9,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 79.0,
+      "preRankingScore": 68.38,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
