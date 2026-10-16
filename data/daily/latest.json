@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-15",
-  "generatedAt": "2026-10-15T01:14:49Z",
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T01:01:19Z",
   "mode": "metadata",
   "stats": {
     "discovered": 235,
@@ -18,7 +18,7 @@
       "author": "量子位的朋友们",
       "source": "量子位",
       "publishedAt": "2026-10-14T10:41:47Z",
-      "discoveredAt": "2026-10-15T01:14:40Z",
+      "discoveredAt": "2026-10-16T01:01:11Z",
       "language": "zh-CN",
       "category": "ai-news",
       "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。“具身进实景，劳动最光荣”",
@@ -44,7 +44,7 @@
         "personalRelevance": 4.4
       },
       "finalScore": 87.6,
-      "preRankingScore": 68.68,
+      "preRankingScore": 66.3,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -52,99 +52,95 @@
       "duplicateSources": []
     },
     {
-      "id": "d91ead6950e781",
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "titleZh": "Anthropic's Scion is heavily inspired by Mononoke",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-      "author": "sunshowers",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-14T20:30:54Z",
-      "discoveredAt": "2026-10-15T01:14:40Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "id": "92459c07390d2e",
+      "title": "对话OpenAI产品负责人：当模型三个月迭代一次，跟不上前沿研究的 PM 只是假装在做产品",
+      "titleZh": "对话OpenAI产品负责人：当模型三个月迭代一次，跟不上前沿研究的 PM 只是假装在做产品",
+      "url": "https://www.woshipm.com/ai/6478995.html",
+      "author": "Z Finance",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-15T12:50:36Z",
+      "discoveredAt": "2026-10-16T01:01:12Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。当 AI 开始承担越来越多的执行工作，产品经理、工程师和设计师的价值将如何变化？在这期 Lenny’s Podcast 中，负责 OpenAI Codex 与 ChatGPT Work 产品的 Tara Seshan，分享了她在 AI 产品开发一线的观察。 加入 OpenAI 之前，她曾在 Stripe 工作六年，是公司最早的五位产品经理之一，也曾负责 Watershed 的产品，并有过创业和担任投资机构驻场创业者的经历。从成熟的支付业务走进快速演进的 AI 实验室，她发现，过去依靠长篇文档、严密推演和精细分工建立起来的工作方法，正在被快速实验、跨职能协作和人与 Agent 的共同执行重新塑造。 以下是她在本期对话中的主要观点： AI 产品应该面向两三个月后的模型能力设计。 围绕当下能力开发，容易在模型升级后过",
       "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "当 AI 开始承担越来越多的执行工作，产品经理、工程师和设计师的价值将如何变化？在这期 Lenny’s Podcast 中，负责 OpenAI Codex 与 ChatGPT Work 产品的 Tara Seshan，分享了她在 AI 产品开发一线的观察。 加入 OpenAI 之前，她曾在 Stripe 工作六年，是公司最早的五位产品经理之一，也曾负责 Watershed 的产品，并有过创业和担任投资机构驻场创业者的经历。从成熟的支付业务走进快速演进的 AI 实验室，她发现，过去依靠长篇文档、严密推演和精细分工建立起来的工作方法，正在被快速实验、跨职能协作和人与 Agent 的共同执行重新塑造。 以下是她在本期对话中的主要观点： AI 产品应该面向两三个月后的模型能力设计。 围绕当下能力开发，容易在模型升级后过时；押注一年后的能力，又可能迟迟无法落地。产品团队需要与研究团队紧密协作，把握能力演进与实际可用之间的窗口。 产品经理的核心价值，正在向定义问题和验证假设集中。 在高度不确定的市场中，长篇战略推演的作用下降，找到决定产品成败的关键问题，并用最快的实验获得反馈，成为更重要的能力。 未来的工作更像掌舵，Agent 承担越来越多划桨的任务。 人可以把更完整的任务交给 Agent，在关键节点审阅、反馈和调整方向，把精力投入目标选择、产品判断与最终责任。 Agent 将从一次性的助手，走向持续协作的同事。 下一阶段的工作方式，可能是多位同事带着各自的 Agent 共同推进任务，协作界面也需要从个人对话扩展到团队共享的工作过程。 Agent 能否真正发挥作用，同样取决于数据、权限与基础设施。 即使模型足够聪明，缺乏文档、数据库和业务系统的访问能力，也很难完成实际工作。可靠执行需要智能与工程条件共同支撑。 产品的长期目标，是让用户直接表达任务，无须理解底层模型和运行环境。 Chat、Work 与 Codex 的区分，在她看来属于过渡阶段；理想体验是系统自动选择合适的能力和界面，帮助用户完成工作。 知识工作需要让用户看见依据与过程。 一份漂亮的 PPT 或财务模型不足以建立信任，用户还需要检查数据来源、关键假设和分析路径，并在过程中参与判断。 她愿意把汇报交给 AI，但坚持亲自完成用于思考的写作。 对她而言，组织语言、删减和修改本身就是形成判断的过程；AI 可以帮助研究、整理数据和挑战观点，思考的起点与最终判断仍由自己把握。 原型和实验结果，正在成为更有说服力的沟通方式。 当长篇文档可以轻易生成，可交互的产品和真实的测试结果，更能帮助团队理解一个想法、检验它是否值得继续投入。 三个时代与一间没有秘密的实验室 Lenny Rachitsky： 今天的嘉宾是Tara Seshan。她在OpenAI负责Codex和ChatGPT Work的产品。这是目前增长最快、对知识工作",
       "keyIdeas": [
-        "核心信号围绕“Anthropic's Scion is heavily inspired by Mononoke”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“对话OpenAI产品负责人：当模型三个月迭代一次，跟不上前沿研究的 PM 只是假装在做产品”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Anthropic's Scion is heavily inspired by Mononok",
-        "ai-news"
+        "对话OpenAI产品负责人：当模型三个月迭代一次，跟不上前沿研究的 PM 只是假装在做产品",
+        "product-insight"
       ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
+      "importantTerms": [],
       "scores": {
-        "eventImpact": 3.8,
-        "sourceCredibility": 4.5,
-        "novelty": 4.6,
-        "aiProductImpact": 4.6,
-        "personalRelevance": 4.6
+        "insightDensity": 4.3,
+        "argumentDepth": 3.5,
+        "evidenceQuality": 4.5,
+        "nonConsensusValue": 4.5,
+        "transferability": 4.1,
+        "personalRelevance": 4.4
       },
-      "finalScore": 86.8,
-      "preRankingScore": 78.08,
-      "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 241,
-        "comments": 105,
-        "hnUrl": "https://news.ycombinator.com/item?id=50094694"
-      },
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 2,
-      "duplicateSources": []
-    },
-    {
-      "id": "672ebf75c430cf",
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "titleZh": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "author": "",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-10-14T16:12:42Z",
-      "discoveredAt": "2026-10-15T01:14:38Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
-      "keyIdeas": [
-        "核心信号围绕“HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "HiRO-ACEv2: Simulating extreme weather at 3 km r",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 4.4,
-        "sourceCredibility": 3.9,
-        "novelty": 4.3,
-        "aiProductImpact": 4.4,
-        "personalRelevance": 3.7
-      },
-      "finalScore": 84.2,
-      "preRankingScore": 65.1,
+      "finalScore": 83.7,
+      "preRankingScore": 73.78,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 5,
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "c099e6f9efcc9a",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "titleZh": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "author": "gmays",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-14T23:59:37Z",
+      "discoveredAt": "2026-10-16T01:01:12Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“LFM2.5-24B-A2B: Built for fast on-device agents”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "LFM2.5-24B-A2B: Built for fast on-device agents",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 3.8,
+        "novelty": 4.1,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 4.6
+      },
+      "finalScore": 82.8,
+      "preRankingScore": 77.18,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 283,
+        "comments": 76,
+        "hnUrl": "https://news.ycombinator.com/item?id=50097369"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 8,
       "duplicateSources": []
     },
     {
@@ -155,7 +151,7 @@
       "author": "",
       "source": "OpenAI News",
       "publishedAt": "2026-10-13T12:00:00Z",
-      "discoveredAt": "2026-10-15T01:14:38Z",
+      "discoveredAt": "2026-10-16T01:01:10Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -186,7 +182,7 @@
         "personalRelevance": 3.9
       },
       "finalScore": 82.6,
-      "preRankingScore": 63.68,
+      "preRankingScore": 61.3,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -194,70 +190,28 @@
       "duplicateSources": []
     },
     {
-      "id": "42f74a31dcd904",
-      "title": "产品经理用上豆包工作，直接搞定竞品追踪、汇报PPT、定时周报！",
-      "titleZh": "产品经理用上豆包工作，直接搞定竞品追踪、汇报PPT、定时周报！",
-      "url": "https://www.woshipm.com/ai/6478069.html",
-      "author": "AI高手杜小虎",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-10-14T08:01:52Z",
-      "discoveredAt": "2026-10-15T01:14:40Z",
-      "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。产品经理的时间常常耗在导数据、写周报、翻对话拼 PRD、逐个看竞品更新上。文章附三套可直接复制的指令，用豆包工作的多 Agent 并行能力，让一个 Organizer 拆出五个子 Agent 各盯一个竞品，并演示跨对话汇总需求、定时产周报的步骤。 做产品经理，能用来想需求的时间并不多。周一早上导数据、写周报；评审前翻好几个对话拼PRD；迭代规划前，还要把几个竞品的更新记录挨个看一遍。 这三件事都不难，就是费时间，正好交给「豆包工作」。它是豆包推出的电脑版独立端，内置AI办公Agent，能像真人助理一样一句话派活，自己拆解任务，执行并交付。下面每件事都附了操作步骤和可以直接复制的指令。 竞品更新：5个竞品，分给5个Agent同时看 迭代规划前，我得知道竞品最近都上了什么。以前只能挨个打开官网和应用商店的更新记录，",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "产品经理的时间常常耗在导数据、写周报、翻对话拼 PRD、逐个看竞品更新上。文章附三套可直接复制的指令，用豆包工作的多 Agent 并行能力，让一个 Organizer 拆出五个子 Agent 各盯一个竞品，并演示跨对话汇总需求、定时产周报的步骤。 做产品经理，能用来想需求的时间并不多。周一早上导数据、写周报；评审前翻好几个对话拼PRD；迭代规划前，还要把几个竞品的更新记录挨个看一遍。 这三件事都不难，就是费时间，正好交给「豆包工作」。它是豆包推出的电脑版独立端，内置AI办公Agent，能像真人助理一样一句话派活，自己拆解任务，执行并交付。下面每件事都附了操作步骤和可以直接复制的指令。 竞品更新：5个竞品，分给5个Agent同时看 迭代规划前，我得知道竞品最近都上了什么。以前只能挨个打开官网和应用商店的更新记录，一个一个看完，再自己整理成表。 豆包工作最近上线了多Agents并行任务，指令里说一句“帮我用多个agent”就能触发。可以简单理解为Agents有了组织架构：一个主Organizer负责分配，子Agent各自完成子任务。5个竞品，正好分给5个Agent同时看。 打开「豆包工作」电脑版，选择“工作任务”，新建一个任务复制下方指令，把【竞品1】到【竞品5】换成你们的竞品名称后发送。 任务开始后，把豆包工作切成小窗，它在后台干活，你照常用电脑做别的事。跑的过程中想到新要求，直接在输入框里补一句，不用等它答完再插话。 帮我用多个agent，分别查看【竞品1】【竞品2】【竞品3】【竞品4】【竞品5】最近3个月的版本更新，每个agent负责一个竞品。整理成一张对比表，列出更新时间、新增功能、改动的页面或流程，以及可能针对的用户需求；每条信息保留公开来源链接。最后用3句话总结：哪些功能有两个以上竞品都在做，哪些值得我们下个迭代跟进。 我把 Notion、Asana、ClickUp、Trello、Linear 填进提示词实测了一遍。豆包工作先创建一个 Organizer，再拆出5个子Agent；任务切成小窗后仍在后台继续，完成时会弹出通知。 实测界面：右侧能看到5个子Agent及各自负责的竞品，主任务负责汇总。 最终共核验35条官方更新，并交付对比表、功能重叠统计和3句总结。结果里，AI智能体平台化覆盖全部5家，MCP生态连接和企业级AI治理各有4家在跟进。 一句话就拆成了5份并行的活，分工不用我操心，进度也不用我盯。省下来的时间，可以留给更需要判断的事：哪些功能该跟，哪些不该跟。 如果你需要用这份竞品调研内容做汇报，还可以生成一份更精美的格式 写PRD：散在几个对话里的需求，汇到一个任务里 一个需求从提出到评审，信息往往散在好几处。我习惯在豆包里分开聊，一个对话整理用户反馈，一个对话讨论方案，一个对话做数据测算。真到写PRD的时候，还得把这些内容一段段翻出来再拼到",
-      "keyIdeas": [
-        "核心信号围绕“产品经理用上豆包工作，直接搞定竞品追踪、汇报PPT、定时周报！”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "产品经理用上豆包工作，直接搞定竞品追踪、汇报PPT、定时周报！",
-        "product-insight"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "insightDensity": 4.4,
-        "argumentDepth": 4.5,
-        "evidenceQuality": 3.7,
-        "nonConsensusValue": 4.1,
-        "transferability": 3.4,
-        "personalRelevance": 4.4
-      },
-      "finalScore": 82.4,
-      "preRankingScore": 73.28,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
-      "duplicateSources": []
-    },
-    {
-      "id": "7d10f0ddfecf20",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "titleZh": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
+      "id": "672ebf75c430cf",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "titleZh": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
       "author": "",
-      "source": "OpenAI News",
-      "publishedAt": "2026-10-14T07:00:00Z",
-      "discoveredAt": "2026-10-15T01:14:38Z",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-10-14T16:12:42Z",
+      "discoveredAt": "2026-10-16T01:01:10Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
       "translationStatus": "pending",
-      "sourceSnippet": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "sourceSnippet": "",
       "keyIdeas": [
-        "核心信号围绕“How Block is building AI-powered security with OpenAI technology”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "How Block is building AI-powered security with O",
+        "HiRO-ACEv2: Simulating extreme weather at 3 km r",
         "ai-news"
       ],
       "importantTerms": [
@@ -267,18 +221,64 @@
         }
       ],
       "scores": {
-        "eventImpact": 4.0,
-        "sourceCredibility": 4.3,
-        "novelty": 3.4,
-        "aiProductImpact": 4.4,
-        "personalRelevance": 4.5
+        "eventImpact": 4.3,
+        "sourceCredibility": 3.8,
+        "novelty": 4.2,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.6
       },
-      "finalScore": 81.4,
-      "preRankingScore": 65.47,
+      "finalScore": 82.2,
+      "preRankingScore": 62.72,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "fa14b8f7db4605",
+      "title": "Teaching students to think and learn through questions",
+      "titleZh": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-15T13:00:00Z",
+      "discoveredAt": "2026-10-16T01:01:10Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "keyIdeas": [
+        "核心信号围绕“Teaching students to think and learn through questions”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Teaching students to think and learn through que",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 3.4,
+        "novelty": 4.1,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 3.8
+      },
+      "finalScore": 81.0,
+      "preRankingScore": 66.29,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 7,
+      "estimatedReadingMinutes": 3,
       "duplicateSources": []
     },
     {
@@ -289,7 +289,7 @@
       "author": "量子位的朋友们",
       "source": "量子位",
       "publishedAt": "2026-10-14T03:32:48Z",
-      "discoveredAt": "2026-10-15T01:14:40Z",
+      "discoveredAt": "2026-10-16T01:01:11Z",
       "language": "zh-CN",
       "category": "ai-news",
       "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
@@ -315,7 +315,7 @@
         "personalRelevance": 4.3
       },
       "finalScore": 80.6,
-      "preRankingScore": 68.45,
+      "preRankingScore": 66.07,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -323,44 +323,44 @@
       "duplicateSources": []
     },
     {
-      "id": "d78052b237c0be",
-      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
-      "titleZh": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
-      "url": "https://www.qbitai.com/2026/10/503211.html",
-      "author": "梦瑶",
+      "id": "ca5684070dbad2",
+      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "titleZh": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "url": "https://www.qbitai.com/2026/10/503303.html",
+      "author": "听雨",
       "source": "量子位",
-      "publishedAt": "2026-10-14T07:03:44Z",
-      "discoveredAt": "2026-10-15T01:14:40Z",
+      "publishedAt": "2026-10-15T01:56:20Z",
+      "discoveredAt": "2026-10-16T01:01:11Z",
       "language": "zh-CN",
       "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。从创意到成本，AI正在重写综艺的生产逻辑",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。给企业Agent打了个样",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "从创意到成本，AI正在重写综艺的生产逻辑",
+      "sourceSnippet": "给企业Agent打了个样",
       "keyIdeas": [
-        "核心信号围绕“《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“7天几百元开一家店！用千问办公电商版，立省启动资金5万元”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+        "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
         "ai-news"
       ],
       "importantTerms": [],
       "scores": {
-        "eventImpact": 4.2,
-        "sourceCredibility": 3.7,
-        "novelty": 3.9,
+        "eventImpact": 3.7,
+        "sourceCredibility": 3.8,
+        "novelty": 4.2,
         "aiProductImpact": 4.1,
-        "personalRelevance": 3.5
+        "personalRelevance": 4.4
       },
-      "finalScore": 79.0,
-      "preRankingScore": 68.38,
+      "finalScore": 79.4,
+      "preRankingScore": 67.81,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 4,
+      "estimatedReadingMinutes": 3,
       "duplicateSources": []
     }
   ],
