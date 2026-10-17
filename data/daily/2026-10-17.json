@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T01:06:35Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 234,
+    "afterDeduplication": 232,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "9db4940a53f868",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "titleZh": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "discoveredAt": "2026-10-17T01:06:25Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "keyIdeas": [
+        "核心信号围绕“Stack Overflow for Agents triples signups with ChatGPT plugin”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Stack Overflow for Agents triples signups with C",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 3.9,
+        "novelty": 4.4,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 83.8,
+      "preRankingScore": 64.95,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "0342f39befa102",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "titleZh": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "author": "Anon84",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-16T18:32:35Z",
+      "discoveredAt": "2026-10-17T01:06:26Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Llama.cpp on a jailbroken PS5: run any GGUF mode",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 4.0,
+        "novelty": 3.6,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 83.2,
+      "preRankingScore": 73.16,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 185,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=50122431"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "87b4121c843444",
+      "title": "当写代码变成廉价体力活，如何避免产品沦为 AI Slop？",
+      "titleZh": "当写代码变成廉价体力活，如何避免产品沦为 AI Slop？",
+      "url": "https://www.woshipm.com/ai/6479464.html",
+      "author": "实战产品说",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-16T08:51:05Z",
+      "discoveredAt": "2026-10-17T01:06:27Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。2026年，AI编程工具让代码生成变得廉价，应用商店被低质同质的AI Slop淹没。本文深度剖析这一现象，揭示其三大特征与安全黑洞，并给出从生成速度转向治理与判断力的四大关键策略，助你打造真正有壁垒的产品。 2025 年，韦氏词典将 Slop 评为年度词汇，用来代指那些由人工智能批量制造、缺乏人工审核与实际价值的劣质数字内容，比如逻辑混乱的营销号文章、粗制滥造的合成视频。 步入 2026 年，这场数字泡沫已经越过图文和视频的边界，全面蔓延到了软件工程与移动应用生态。当自然语言生成代码的速度超过了人类阅读代码的速度，软件领域的 AI Slop 正在侵蚀全球应用商店与研发体系。 一、应用商店正在被代码泡沫淹没 过去一年里，国内外大模型的编程与软件工程自治能力经历了代际跃升。 在海外市场，以 Cursor 为代表的集",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "2026年，AI编程工具让代码生成变得廉价，应用商店被低质同质的AI Slop淹没。本文深度剖析这一现象，揭示其三大特征与安全黑洞，并给出从生成速度转向治理与判断力的四大关键策略，助你打造真正有壁垒的产品。 2025 年，韦氏词典将 Slop 评为年度词汇，用来代指那些由人工智能批量制造、缺乏人工审核与实际价值的劣质数字内容，比如逻辑混乱的营销号文章、粗制滥造的合成视频。 步入 2026 年，这场数字泡沫已经越过图文和视频的边界，全面蔓延到了软件工程与移动应用生态。当自然语言生成代码的速度超过了人类阅读代码的速度，软件领域的 AI Slop 正在侵蚀全球应用商店与研发体系。 一、应用商店正在被代码泡沫淹没 过去一年里，国内外大模型的编程与软件工程自治能力经历了代际跃升。 在海外市场，以 Cursor 为代表的集成开发环境年化收入在 2026 年初突破 20 亿美元，汇聚了超过 700 万名开发者；Anthropic 的 Claude Code 与 OpenAI 的 Codex 让复杂工程的批量重构成为日常；面向非技术人群的 Lovable 与 Bolt.new 等平台也呈爆发式增长，统计显示高达 63% 的氛围编程（Vibe Coding）使用者是产品经理、市场总监或独立创业者，全球活跃的平民开发者规模已突破 1600+万人。 国内的技术生态演进同样迅猛。字节跳动在 10 月将旗下的 TraeWork 与 TraeCode 正式合并升级为全链路开发平台 TRAE，打通了从任务规划到深度编码的完整闭环；阿里披露的 Qwen3.8-Max 实现了无人干预下的递归式自我改进；DeepSeek 推出的 V4.1 Flash、智谱的 GLM-5.3 以及阶跃星辰的 Step 5 Preview，更是将长程智能体与复杂编程任务的单次调用成本进一步压低。 技术门槛的彻底抹平，直接引爆了应用供给端的海啸。根据 Sensor Tower 与纽约时报披露的统计数据，苹果 App Store 在 2025 年全年收到了 55.7 万个新应用提交；而在 2026 年仅上半年，新增应用提交量就飙升至约 56 万个，几乎追平了去年全年的总和，全年新增应用数量正以前所未有的速度冲向 100 万大关。 然后，这场狂欢很快撞上了生态治理的铁板。海量、低质量应用的涌入彻底挤爆了应用商店的审核基建，原本 24 到 48 小时的常规审核周期被硬生生拉长到了 7 至 30 天以上。苹果不得不从今年 3 月起展开雷厉风行的清理行动，援引应用审核指南 2.5.2 条款拦截热更新并下架了多款纯靠自然语言动态生成功能的应用。 二、AI Slop：用完即弃的数字半成品 过去我们评判一个劣质软件，通常会看它是否频繁闪退或者界面粗糙。但在大模型时代，软件形态的 AI Slop 极具迷惑性。它们往往拥有极其精致的渐",
+      "keyIdeas": [
+        "核心信号围绕“当写代码变成廉价体力活，如何避免产品沦为 AI Slop？”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "当写代码变成廉价体力活，如何避免产品沦为 AI Slop？",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.3,
+        "argumentDepth": 4.4,
+        "evidenceQuality": 3.7,
+        "nonConsensusValue": 4.4,
+        "transferability": 3.4,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 82.5,
+      "preRankingScore": 73.37,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "251bde2eab1e8f",
+      "title": "每天回答一个问题，这个情侣 App 已被下载 800万次",
+      "titleZh": "每天回答一个问题，这个情侣 App 已被下载 800万次",
+      "url": "https://www.woshipm.com/share/6478957.html",
+      "author": "张艾拉",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-16T06:08:49Z",
+      "discoveredAt": "2026-10-17T01:06:27Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。英国团队 Paired 把情侣沟通拆成每天一道题：两人分别回答后才能看到对方答案，借此制造自然的聊天入口。平台已积累超 1000 个问题与测验，由伴侣咨询师和心理学研究者设计，年费 79.99 美元、一人付费两人共用，累计下载约 800 万次。 今天分享一个帮大家谈恋爱的 App： Paired， https://www.paired.com/ 两个人刚开始谈恋爱时，似乎有聊不完的话题。喜欢什么电影、小时候有什么趣事、以后想去哪里旅行，哪怕聊到凌晨两点，也不觉得累。 但在一起几年后，聊天内容可能逐渐变成了： 晚上吃什么、周末去谁家、孩子的家长会谁参加， 以及这个月还有哪些账单需要支付。 明明每天都在交流，却很久没有认真聊过彼此的感受。 有时候不是不想聊，而是不知道应该从哪里开始。 英国有一家创业公司， 专门为已",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "英国团队 Paired 把情侣沟通拆成每天一道题：两人分别回答后才能看到对方答案，借此制造自然的聊天入口。平台已积累超 1000 个问题与测验，由伴侣咨询师和心理学研究者设计，年费 79.99 美元、一人付费两人共用，累计下载约 800 万次。 今天分享一个帮大家谈恋爱的 App： Paired， https://www.paired.com/ 两个人刚开始谈恋爱时，似乎有聊不完的话题。喜欢什么电影、小时候有什么趣事、以后想去哪里旅行，哪怕聊到凌晨两点，也不觉得累。 但在一起几年后，聊天内容可能逐渐变成了： 晚上吃什么、周末去谁家、孩子的家长会谁参加， 以及这个月还有哪些账单需要支付。 明明每天都在交流，却很久没有认真聊过彼此的感受。 有时候不是不想聊，而是不知道应该从哪里开始。 英国有一家创业公司， 专门为已经在一起的情侣做了一款 App， 就是我们今天的主角： Paired 。 产品非常简单：每天向情侣发送一个问题，两个人分别回答，完成后才能解锁对方的答案。 问题可能是： 如果我们突然多了一个月假期，你最想一起做什么？最近有什么事情，让你觉得我没有真正理解你？或者，你觉得我们现在最需要改善的一个生活习惯是什么？ 有些问题只是为了让两个人轻松聊天，有些则涉及金钱、亲密关系、家庭分工和未来规划。 截至 2026年9月，Paired 在苹果应用商店累计下载量已经达到 800万次 。今年8月，它还获得了苹果应用商店的当日推荐。 Paired 既不是交友软件，也不提供虚拟的AI伴侣， 而是希望让已经建立关系的两个人，每天花五分钟，认真聊一点平时不会主动谈起的事情。 01 创始人介绍 Paired 成立于 2019年，创始人是 Kevin Shanahan 和 Diego López 。两人此前都在语言学习应用 Memrise 工作。 Kevin 创办 Paired 的想法，来自自己的感情经历。 他发现，即使两个人的关系很好， 也可能因为没有认真讨论某些重要问题，让小小的分歧逐渐发展成矛盾。 如果关系出现严重问题，当然可以寻求专业的伴侣咨询。但他认为，对于那些感情原本不错， 只是想进一步改善沟通的情侣， 市场上缺少足够容易使用的日常工具。 两个人因此决定借鉴语言学习应用的产品方式， 把改善伴侣关系拆分成每天都能完成的小任务。 2020年10月，Paired 正式推出，当时，公司已经获得100万美元融资。 团队还邀请英国开放大学的社会学与亲密关系教授 Jacqui Gabb 加入，担任首席关系官， 参与设计基于关系研究的内容。 Paired 最初在澳大利亚测试了约六个月， 不断调整每日提问、互动测验和专家课程， 随后才正式向更多市场推出。 2021年5月，公司又宣布完成 360万美元种子轮融资，当时产品上线仅半年多，已经有超过 5000名付费订阅者，日活跃用户超过2万",
+      "keyIdeas": [
+        "核心信号围绕“每天回答一个问题，这个情侣 App 已被下载 800万次”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "每天回答一个问题，这个情侣 App 已被下载 800万次",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.5,
+        "argumentDepth": 3.9,
+        "evidenceQuality": 4.2,
+        "nonConsensusValue": 4.4,
+        "transferability": 3.6,
+        "personalRelevance": 4.1
+      },
+      "finalScore": 82.5,
+      "preRankingScore": 73.1,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "a0696e415e0ea6",
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "titleZh": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "author": "JumpCrisscross",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-16T18:11:42Z",
+      "discoveredAt": "2026-10-17T01:06:26Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "https://finance.yahoo.com/technology/ai/articles/anthropic-s...",
+      "keyIdeas": [
+        "核心信号围绕“Anthropic assigned highest junk credit rating in June”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Anthropic assigned highest junk credit rating in",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.1,
+        "sourceCredibility": 4.2,
+        "novelty": 3.6,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 80.4,
+      "preRankingScore": 75.51,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 208,
+        "comments": 65,
+        "hnUrl": "https://news.ycombinator.com/item?id=50122112"
+      },
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "3229178faf95cc",
+      "title": "苹果AI国内上线，阿里百度浮出水面",
+      "titleZh": "苹果AI国内上线，阿里百度浮出水面",
+      "url": "https://www.qbitai.com/2026/10/503497.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-15T06:52:45Z",
+      "discoveredAt": "2026-10-17T01:06:26Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。",
+      "keyIdeas": [
+        "核心信号围绕“苹果AI国内上线，阿里百度浮出水面”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "苹果AI国内上线，阿里百度浮出水面",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 4.3,
+        "novelty": 4.0,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 3.4
+      },
+      "finalScore": 81.6,
+      "preRankingScore": 66.2,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "65ff6f6e4ac05c",
+      "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
+      "titleZh": "基元律动宣布开发者入驻超30万，开启双11预售福利",
+      "url": "https://www.qbitai.com/2026/10/503501.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-15T06:59:37Z",
+      "discoveredAt": "2026-10-17T01:06:26Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。基元律动（Token Rhythm）宣布已有超过30万名开发者入驻，同期推出双11预售限时福利。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "基元律动（Token Rhythm）宣布已有超过30万名开发者入驻，同期推出双11预售限时福利。",
+      "keyIdeas": [
+        "核心信号围绕“基元律动宣布开发者入驻超30万，开启双11预售福利”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "基元律动宣布开发者入驻超30万，开启双11预售福利",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.1,
+        "novelty": 3.7,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 81.0,
+      "preRankingScore": 66.27,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "dd00c04c9b9584",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "titleZh": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "discoveredAt": "2026-10-17T01:06:25Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "keyIdeas": [
+        "核心信号围绕“Sullivan & Cromwell brings legal expertise into agreement review”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Sullivan & Cromwell brings legal expertise into ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.4,
+        "novelty": 3.9,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 79.8,
+      "preRankingScore": 62.44,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
