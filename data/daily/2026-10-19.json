@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T00:52:12Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 235,
+    "afterDeduplication": 233,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "768304b3cd48b5",
+      "title": "I built a programming language that LLMs can't use",
+      "titleZh": "I built a programming language that LLMs can't use",
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "author": "dom96",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-17T22:26:47Z",
+      "discoveredAt": "2026-10-19T00:52:03Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“I built a programming language that LLMs can't use”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "I built a programming language that LLMs can't u",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.4,
+        "novelty": 4.2,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.8
+      },
+      "finalScore": 86.2,
+      "preRankingScore": 65.79,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 68,
+        "comments": 61,
+        "hnUrl": "https://news.ycombinator.com/item?id=50135762"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "9db4940a53f868",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "titleZh": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "discoveredAt": "2026-10-19T00:52:02Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "keyIdeas": [
+        "核心信号围绕“Stack Overflow for Agents triples signups with ChatGPT plugin”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Stack Overflow for Agents triples signups with C",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 3.9,
+        "novelty": 4.4,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 83.8,
+      "preRankingScore": 60.17,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "8e2dfa5ad77d4b",
+      "title": "智谱新模型，懂法方面全球第一了",
+      "titleZh": "智谱新模型，懂法方面全球第一了",
+      "url": "https://www.qbitai.com/2026/10/503965.html",
+      "author": "文婷",
+      "source": "量子位",
+      "publishedAt": "2026-10-17T12:13:45Z",
+      "discoveredAt": "2026-10-19T00:52:03Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。AI的风还是刮到了法律圈",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "AI的风还是刮到了法律圈",
+      "keyIdeas": [
+        "核心信号围绕“智谱新模型，懂法方面全球第一了”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "智谱新模型，懂法方面全球第一了",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 4.1,
+        "novelty": 4.4,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 83.6,
+      "preRankingScore": 66.46,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "13e2c19dd74e30",
+      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+      "titleZh": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+      "url": "https://www.qbitai.com/2026/10/503935.html",
+      "author": "梦瑶",
+      "source": "量子位",
+      "publishedAt": "2026-10-17T12:10:35Z",
+      "discoveredAt": "2026-10-19T00:52:03Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。整套系统原生支持MCP",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "整套系统原生支持MCP",
+      "keyIdeas": [
+        "核心信号围绕“清华开源！智能体操作系统任务成本降83%，AI记忆可查可改”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.5,
+        "novelty": 4.4,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 3.8
+      },
+      "finalScore": 83.6,
+      "preRankingScore": 66.44,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "a5bb32320853f4",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "titleZh": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "author": "allinonai",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-18T20:48:14Z",
+      "discoveredAt": "2026-10-19T00:52:03Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5",
+      "keyIdeas": [
+        "核心信号围绕“Hybrid Reasoning Agents: LLM agents that think in latent space, act through text”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Hybrid Reasoning Agents: LLM agents that think i",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 4.1,
+        "novelty": 3.5,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 3.6
+      },
+      "finalScore": 80.0,
+      "preRankingScore": 77.5,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 182,
+        "comments": 110,
+        "hnUrl": "https://news.ycombinator.com/item?id=50145337"
+      },
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "6f2aca72a3fc44",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "titleZh": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "author": "zoozla",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-18T21:36:10Z",
+      "discoveredAt": "2026-10-19T00:52:03Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly. This is a single user install because it's both gray area and very private - so point your agent at the repo and let it set things up.",
+      "keyIdeas": [
+        "核心信号围绕“Show HN: WhatsApp MCP running free on Cloudflare”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Show HN: WhatsApp MCP running free on Cloudflare",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 3.8,
+        "novelty": 3.4,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.4
+      },
+      "finalScore": 79.8,
+      "preRankingScore": 71.2,
+      "readingTier": "signal",
+      "socialSignals": {
+        "points": 32,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=50145715"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 17,
+      "duplicateSources": []
+    },
+    {
+      "id": "e2aad275a91213",
+      "title": "科技企业出海，为啥我推荐你去迪拜？",
+      "titleZh": "科技企业出海，为啥我推荐你去迪拜？",
+      "url": "https://www.qbitai.com/2026/10/503893.html",
+      "author": "一水",
+      "source": "量子位",
+      "publishedAt": "2026-10-17T09:05:08Z",
+      "discoveredAt": "2026-10-19T00:52:03Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。通往全球市场的超级跳板",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "通往全球市场的超级跳板",
+      "keyIdeas": [
+        "核心信号围绕“科技企业出海，为啥我推荐你去迪拜？”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "科技企业出海，为啥我推荐你去迪拜？",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.5,
+        "sourceCredibility": 4.3,
+        "novelty": 3.9,
+        "aiProductImpact": 3.4,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 76.2,
+      "preRankingScore": 66.13,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "ab1e61983c6cba",
+      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "titleZh": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "url": "https://www.qbitai.com/2026/10/504067.html",
+      "author": "鹭羽",
+      "source": "量子位",
+      "publishedAt": "2026-10-17T12:21:09Z",
+      "discoveredAt": "2026-10-19T00:52:03Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。新版本V4.1-Flash-1017，还开放了自研搜索API",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+      "keyIdeas": [
+        "核心信号围绕“突发！DeepSeek新模型发布，超级性价比斩杀一切”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.7,
+        "sourceCredibility": 3.8,
+        "novelty": 3.6,
+        "aiProductImpact": 3.7,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 73.6,
+      "preRankingScore": 66.65,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
