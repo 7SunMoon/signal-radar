@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T01:36:47Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 234,
+    "afterDeduplication": 232,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "18c6e7c34c390a",
+      "title": "RuneScape Bench: MMOs for Agents [video]",
+      "titleZh": "RuneScape Bench: MMOs for Agents [video]",
+      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+      "author": "evakhoury",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-17T23:24:05Z",
+      "discoveredAt": "2026-10-20T01:36:38Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Related: https://github.com/LostCityRS/Server",
+      "keyIdeas": [
+        "核心信号围绕“RuneScape Bench: MMOs for Agents [video]”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "RuneScape Bench: MMOs for Agents [video]",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.4,
+        "novelty": 4.2,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 3.8
+      },
+      "finalScore": 84.2,
+      "preRankingScore": 68.06,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 152,
+        "comments": 61,
+        "hnUrl": "https://news.ycombinator.com/item?id=50136126"
+      },
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "9db4940a53f868",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "titleZh": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "discoveredAt": "2026-10-20T01:36:37Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "keyIdeas": [
+        "核心信号围绕“Stack Overflow for Agents triples signups with ChatGPT plugin”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Stack Overflow for Agents triples signups with C",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 3.9,
+        "novelty": 4.4,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 83.8,
+      "preRankingScore": 57.7,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "4a3f72b6a8c755",
+      "title": "小杨哥，已经被直播电商“抛弃”",
+      "titleZh": "小杨哥，已经被直播电商“抛弃”",
+      "url": "https://www.woshipm.com/it/6480841.html",
+      "author": "蓝鲨消费",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-20T01:16:44Z",
+      "discoveredAt": "2026-10-20T01:36:38Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。小杨哥换号复播，粉丝却不再追随。直播电商的逻辑已从“人货场”翻转为“货人场”：平台把流量从超头主播拆散给店播与中小达人，品牌也看清了租脸带货不如自建阵地。当一张脸再也撬不动亿级GMV，超级主播的时代正悄然退场。 10月16日傍晚6点55分，两个穿白衣服的男人站在“小杨臻选”的镜头前。站姿规矩，表情严肃，身后是一块贴着抖音公告的背景板。他们说了四五分钟话，没有喊“上链接”，没有整活，同时在线人数不超过2000。 这是注销了“疯狂小杨哥”账号后，张庆杨以新号“庆杨”复播后的情形。两天后，新账号粉丝数在经历清零波动后恢复至6万。一个曾经粉丝1.2亿、单场带货过亿、被叫作“抖音一哥”的人，换了一个新号重新起跑，曾经的铁粉们并没有追随。 为什么曾经的“超头主播”带不动了呢？因为时代已经变了。 01 一张脸如何撬动亿级GM",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "小杨哥换号复播，粉丝却不再追随。直播电商的逻辑已从“人货场”翻转为“货人场”：平台把流量从超头主播拆散给店播与中小达人，品牌也看清了租脸带货不如自建阵地。当一张脸再也撬不动亿级GMV，超级主播的时代正悄然退场。 10月16日傍晚6点55分，两个穿白衣服的男人站在“小杨臻选”的镜头前。站姿规矩，表情严肃，身后是一块贴着抖音公告的背景板。他们说了四五分钟话，没有喊“上链接”，没有整活，同时在线人数不超过2000。 这是注销了“疯狂小杨哥”账号后，张庆杨以新号“庆杨”复播后的情形。两天后，新账号粉丝数在经历清零波动后恢复至6万。一个曾经粉丝1.2亿、单场带货过亿、被叫作“抖音一哥”的人，换了一个新号重新起跑，曾经的铁粉们并没有追随。 为什么曾经的“超头主播”带不动了呢？因为时代已经变了。 01 一张脸如何撬动亿级GMV 直播电商刚兴起的时候，更多被人称为“直播带货”，当时行业里流行一个词叫“人货场”：人在前，货在中，场在后。 因为那是一个“人”决定一切的年代。换而言之，那是一个“直播带货”的时代。消费者不是为了买一袋米走进直播间，是为了看主播。李佳琦一句“欧码噶，买它”，能瞬间点燃一个仓库；董宇辉讲一段苏东坡，能把大米卖成文化消费品；小杨哥的整活把品牌方“逼到崩溃”，能让无数人反复刷切片…… 彼时，主播主要靠两样东西来吸引粉丝：内容和福利。 内容，是吸引观众走进直播间的“利器”。以小杨哥为例，其核心能力实际上是“注意力套利”，即用夸张的表演、反向的剧本、家庭的烟火气，把注意力从全网吸过来。 但真正把围观变成粉丝的，是福利，比如最低价、独家赠品、买一送一、限量秒杀、“全网只有我这里这个价”。主播用这些东西，给了粉丝一个无法拒绝的理由，从而销量大爆。 从某种程度上来说，大主播卖的从来不是货，卖的是“占便宜的机会”。而内容负责拉新，福利负责留存和转化，两件事合起来，让超级主播们有了迅速崛起的机会。 但值得关注的是，直播带货看起来是主播在给粉丝让利，但让利的真正来源，不是主播的善意，而是超头主播用自己集中的流量，向品牌换来的议价权。 一个粉丝过亿的主播，一场直播能撬动数亿GMV，品牌为了进入这个流量入口，愿意接受压价、接受高佣金、接受“全网最低价”的排他条款。而主播拿到低价，再把低价包装成“给家人的福利”，粉丝因为福利而信任主播，信任又反过来强化主播的流量集中度。 （AI制图） 这就形成了一个以“人（超级主播）”为轴心的闭环：流量集中-议价权-福利-粉丝信任-更大的流量集中，打造了一个“规模换价格、价格换规模”的直播带货增长飞轮。 在这个阶段，平台是受益者，也是重要推手。一个超级头部IP，能带来用户、带来时长、带来GMV、带来整个电商板块的声量。平台愿意把免费的自然推荐流量，倾斜给这些有感染力的人。 而对于大量新品牌、新品类来说，在冷启动时期，没有搜索权重，没有用户评价积",
+      "keyIdeas": [
+        "核心信号围绕“小杨哥，已经被直播电商“抛弃””展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "小杨哥，已经被直播电商“抛弃”",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.2,
+        "argumentDepth": 4.5,
+        "evidenceQuality": 3.7,
+        "nonConsensusValue": 4.4,
+        "transferability": 4.5,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 83.1,
+      "preRankingScore": 74.97,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "f2c140c7808fd1",
+      "title": "产品经理需要了解的一些项目管理知识",
+      "titleZh": "产品经理需要了解的一些项目管理知识",
+      "url": "https://www.woshipm.com/share/6480290.html",
+      "author": "简谙",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-19T08:57:38Z",
+      "discoveredAt": "2026-10-20T01:36:38Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。业务要加需求，开发说没时间，产品经理夹在中间两头受气。这不是靠沟通技巧能解决的，而是项目管理的基本功问题。本文从范围管理、进度资源、变更管理、风险沟通四个维度，拆解产品经理如何用项目管理的底层逻辑，在现实约束下找到可执行的解决方案。 前几天带的一个新员工问我，有个项目最开始就跟业务定了范围，计划11月初上线。但是随着业务的发展，原先的方案已经无法实现完整的业务闭环，业务希望能在一期里面加入新的内容，但开发一口咬定说加不了，她现在夹在中间不知道怎么办了。 这是个非常典型的产品经理项目管理问题。做产品的应该多多少少都碰到过。 现实情况是，业务那边确实需要修改边界，开发这边也确实是没时间。 产品经理在中间两头为难。不管是尝试让业务松松口，还是让开发挤挤时间，双方都觉得你没理解人家的难处。 这时候，你再说什么沟通技巧，",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "业务要加需求，开发说没时间，产品经理夹在中间两头受气。这不是靠沟通技巧能解决的，而是项目管理的基本功问题。本文从范围管理、进度资源、变更管理、风险沟通四个维度，拆解产品经理如何用项目管理的底层逻辑，在现实约束下找到可执行的解决方案。 前几天带的一个新员工问我，有个项目最开始就跟业务定了范围，计划11月初上线。但是随着业务的发展，原先的方案已经无法实现完整的业务闭环，业务希望能在一期里面加入新的内容，但开发一口咬定说加不了，她现在夹在中间不知道怎么办了。 这是个非常典型的产品经理项目管理问题。做产品的应该多多少少都碰到过。 现实情况是，业务那边确实需要修改边界，开发这边也确实是没时间。 产品经理在中间两头为难。不管是尝试让业务松松口，还是让开发挤挤时间，双方都觉得你没理解人家的难处。 这时候，你再说什么沟通技巧，那就有点扯了。这不只是沟通的事儿，它还涉及项目范围、进度、资源，以及，决定权。 很多人跟我一样，考过软考，考过PMP，这些都会系统地讲项目管理知识。 但考试过了，不代表现实情况你就能解决，不代表教材理论就能处理实际需求。 我在之前的备考文章里提醒过，很多公司的项目管理并不规范，不能觉得自己工作当中一直是这么干的，考试里就一定这么答。 反过来也一样，回到工作里，也不能指着一套流程，指望所有人都按流程按部就班地配合你。 有的公司连专职项目经理都没有，产品经理从需求一路跟到上线。真的要把每份计划、每张表、每个流程都走得一步不差，可能项目还没开始，人已经累死了。 所以在实际工作中，产品经理学项目管理，不是理论越多越好，而是要先理解，这些方法想解决什么问题，它怎么能用在自己的项目里。 下面聊几个我个人认为比较实用的部分。 一、范围管理：先弄清楚，这个项目到底要做到哪一步 1. 先问这次要解决什么问题，再讨论做多少功能 客户提需求的时候，总是希望把所有的问题一起解决掉，越快越好，越全越好。 审批太慢，要优化；数据不好查，要加报表；电脑上不方便，最好再做个移动端。 每次都是，我再加个小点，我再优化个小问题，但堆在一起，工作量就上去了。然后发现，预算不够了，排期跟不上了。 这时候，就需要回头确认，这个项目当前最重要的目标是什么。 假设一期主要解决的是申请在线提交、审批结果可以查询，那么移动端体验、统计报表能做到什么程度，就需要根据实际情况取舍。 但也不能为了缩小范围，把必要的环节删掉。 申请能提交，审批能通过，但支付没打通，整个流程还是完成不了，业务还是没跑通，还是不能算完成。 范围要围着本期目标来定，至少得让使用的人能把一件事办完。 先做“雪中送炭”的事儿，再考虑“锦上添花”。 2. 把容易产生歧义的地方提前说清楚 我觉得范围管理最实用的地方，是让大家少一点想当然。 比如需求里写一个“数据导出”。 产品想的是导出当前列表，业务想的是按筛选条件导出全部历史数据，开发理",
+      "keyIdeas": [
+        "核心信号围绕“产品经理需要了解的一些项目管理知识”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "产品经理需要了解的一些项目管理知识",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.3,
+        "argumentDepth": 4.1,
+        "evidenceQuality": 4.5,
+        "nonConsensusValue": 4.4,
+        "transferability": 3.8,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 82.8,
+      "preRankingScore": 73.33,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "9dbc0d55ff9123",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "titleZh": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-10-19T00:00:00Z",
+      "discoveredAt": "2026-10-20T01:36:36Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“TorchNeuron: running HF models on AWS Trainium is easier than ever”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "TorchNeuron: running HF models on AWS Trainium i",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.1,
+        "novelty": 4.3,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 81.4,
+      "preRankingScore": 63.44,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "7809cba4601e91",
+      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+      "titleZh": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+      "url": "https://www.qbitai.com/2026/10/504136.html",
+      "author": "听雨",
+      "source": "量子位",
+      "publishedAt": "2026-10-18T11:49:49Z",
+      "discoveredAt": "2026-10-20T01:36:38Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。让人人都能自由创造并体验可交互世界",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "让人人都能自由创造并体验可交互世界",
+      "keyIdeas": [
+        "核心信号围绕“VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.0,
+        "novelty": 4.1,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 82.0,
+      "preRankingScore": 66.39,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "8e2dfa5ad77d4b",
+      "title": "智谱新模型，懂法方面全球第一了",
+      "titleZh": "智谱新模型，懂法方面全球第一了",
+      "url": "https://www.qbitai.com/2026/10/503965.html",
+      "author": "文婷",
+      "source": "量子位",
+      "publishedAt": "2026-10-17T12:13:45Z",
+      "discoveredAt": "2026-10-20T01:36:38Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。AI的风还是刮到了法律圈",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "AI的风还是刮到了法律圈",
+      "keyIdeas": [
+        "核心信号围绕“智谱新模型，懂法方面全球第一了”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "智谱新模型，懂法方面全球第一了",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.0,
+        "novelty": 4.3,
+        "aiProductImpact": 3.7,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 81.6,
+      "preRankingScore": 63.98,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "01db0834cbe3ee",
+      "title": "Agentic Monitoring",
+      "titleZh": "Agentic Monitoring",
+      "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+      "author": "bcongdon",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-19T14:52:04Z",
+      "discoveredAt": "2026-10-20T01:36:38Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Agentic Monitoring”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Agentic Monitoring",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.8,
+        "novelty": 3.5,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 79.4,
+      "preRankingScore": 64.23,
+      "readingTier": "signal",
+      "socialSignals": {
+        "points": 44,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=50153225"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 14,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
