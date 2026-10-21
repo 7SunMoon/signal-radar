@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T01:20:15Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 234,
+    "afterDeduplication": 232,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "96912027485f1b",
+      "title": "调教 AI Prompt 超全教程+案例！减少返工80%！",
+      "titleZh": "调教 AI Prompt 超全教程+案例！减少返工80%！",
+      "url": "https://www.woshipm.com/ai/6478936.html",
+      "author": "元尧",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-20T08:12:04Z",
+      "discoveredAt": "2026-10-21T01:20:08Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。很多人和 AI 聊了大半天仍拿不到满意结果，来回返工。文章指出与 AI 对话的底层逻辑不是“求它帮忙”而是“教它做事”，并按确定目标、输入指令、输出结果、校验迭代、沉淀复用五个环节，给出可落地的提示词方法与案例。 很多同学跟我说，做设计稿时自己跟 AI 聊了大半天，结果生成的内容还是不符合预期，来回改了十几次，本来想靠 AI 提效，最后反被 AI 消耗。 其实不是 AI 不行，是你没找对和 AI 对话的方法。我们与 AI 对话的底层逻辑： 不是“求 AI 帮忙” ，而 是“教 AI 做事” 。通常，与 AI 对话有五个环节： 1. 确定目标 2. 输入指令 3. 输出结果 4. 校验迭代 5. 沉淀复用 本文就从这五个环节来分享与 AI 对话的实用技巧，帮助你相对精准地控制 AI 的输出质量。 阶段 1 预设目",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "很多人和 AI 聊了大半天仍拿不到满意结果，来回返工。文章指出与 AI 对话的底层逻辑不是“求它帮忙”而是“教它做事”，并按确定目标、输入指令、输出结果、校验迭代、沉淀复用五个环节，给出可落地的提示词方法与案例。 很多同学跟我说，做设计稿时自己跟 AI 聊了大半天，结果生成的内容还是不符合预期，来回改了十几次，本来想靠 AI 提效，最后反被 AI 消耗。 其实不是 AI 不行，是你没找对和 AI 对话的方法。我们与 AI 对话的底层逻辑： 不是“求 AI 帮忙” ，而 是“教 AI 做事” 。通常，与 AI 对话有五个环节： 1. 确定目标 2. 输入指令 3. 输出结果 4. 校验迭代 5. 沉淀复用 本文就从这五个环节来分享与 AI 对话的实用技巧，帮助你相对精准地控制 AI 的输出质量。 阶段 1 预设目标 预设目标是为了让 AI 读懂你的 “隐性需求” ，更明确地执行指令。磨刀不误砍柴工，在和 AI 对话前，花几分钟在脑中打个草稿，具体做法如下： 1. 明确任务目标 清晰界定最终 产出成果 ，颗粒度越精细越好。比如： ❌ 错误描述：“做个 B 端产品的 Table 页面。” ✅ 正确描述：“输出 可直接对接开发 的 B 端 用户数据管理的 Table 页面的 交互设计方案。 ” 2. 清晰划定边界 明确 “要什么、不要什么”， 给 AI 设置硬性红线。比如： “必须 要 使用 Ant Design 5.0 的组件和规范， 不要 使用自定义的组件。” 3. 备好参考资料 将相关设计规范（如 AntD 组件官网 链接 或者 Skill 安装包）、同类产品的 Table 页面设计 样例 、业务背景 BRD、PRD （如用户画像、核心操作场景） 提前整理 ，随指令一并提供，或者提前安装在 AI Coding 工具的设置中，减少 AI 脑补空间。 要知道，AI 输出的质量，取决于 你输入的信息密度 。想要获得精准反馈，你的需求就要 足够具体 。 阶段 2 输入指令 预设好目标后，接下来的重点就是 “怎么表达” 。结构化的指令对 AI 来说更加有效。分享几个经验： 1. 参考公式 你描述的逻辑可以参考以下公式： AI 角色 + 业务背景 + 核心任务 + 硬性 规则 + 输出 格式 = 好的 Prompt 举个例子： ❌ 错误描述：“做个 B 端产品的 Table 页面。” ✅ 正确描述： “你是一位资深的 B 端交互设计师，擅长 B 端后台页面交互体验设计 （角色） 。 需求背景是公司新出的一款办公管理后台产品，帮助企业管理 xxx 群体的 xxx 数据和 xxx 信息，当前需要你设计用户数据管理模块的 Table 页面…… （背景） ； 你的核心任务是输出该 Table 页面的交互设计方案，能让用户操作高效、数据展示清晰 （任务） ； 页面设计的规则是使用 ",
+      "keyIdeas": [
+        "核心信号围绕“调教 AI Prompt 超全教程+案例！减少返工80%！”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "调教 AI Prompt 超全教程+案例！减少返工80%！",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.0,
+        "argumentDepth": 4.2,
+        "evidenceQuality": 4.4,
+        "nonConsensusValue": 4.3,
+        "transferability": 4.3,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 84.4,
+      "preRankingScore": 73.29,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "b3fcb2e42d3211",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "titleZh": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-20T10:00:00Z",
+      "discoveredAt": "2026-10-21T01:20:07Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "keyIdeas": [
+        "核心信号围绕“Franchisee reconciles cash in 94% less time with ChatGPT Work”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Franchisee reconciles cash in 94% less time with",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 3.5,
+        "novelty": 4.3,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 83.6,
+      "preRankingScore": 65.89,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "6a01ce2d8f2640",
+      "title": "Publish fake stats, get cited in LLMs",
+      "titleZh": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "author": "robtherobber",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-20T13:06:22Z",
+      "discoveredAt": "2026-10-21T01:20:08Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Publish fake stats, get cited in LLMs”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Publish fake stats, get cited in LLMs",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.7,
+        "sourceCredibility": 4.1,
+        "novelty": 4.3,
+        "aiProductImpact": 4.6,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 83.2,
+      "preRankingScore": 79.78,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 322,
+        "comments": 183,
+        "hnUrl": "https://news.ycombinator.com/item?id=50165801"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 20,
+      "duplicateSources": []
+    },
+    {
+      "id": "9a20c877508818",
+      "title": "一次产品改版失败，是需求、指标还是协作出了问题？",
+      "titleZh": "一次产品改版失败，是需求、指标还是协作出了问题？",
+      "url": "https://www.woshipm.com/share/6481477.html",
+      "author": "咖啡不加糖",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-21T00:50:45Z",
+      "discoveredAt": "2026-10-21T01:20:08Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。改版失败后，复盘常沦为甩锅大会。本文以订单售后页改版为例，拆解如何从原始假设、指标口径、实施范围和外部变化四条线定位真因，并将结论转化为可验证的下一步动作，帮你决定继续、调整还是停掉。 改版失败了，复盘时，多数人的第一反应就是在甩锅。 “需求当时就不清楚。” “研发实现的时候缩水了。” “指标没埋好，根本没法判断。” 吵来吵去，说不定最后的问题都还没解决。 实际上，复盘要回答的是这几个问题： 当初为什么认为这件事会有效？ 上线后究竟差在哪里？ 中间哪些决定改变了结果？ 接下来还要不要继续投入？ 用一个订单售后页的改版做例子说明具体情况： 一、两个可观察的结果 写效果时，不能直接说“效果不好”，至少要更具体、更细节一些： 用户在售后页能看到退款状态和更新时间，但关于到账时间的咨询没有减少。 退款处理链路中，审核、",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "改版失败后，复盘常沦为甩锅大会。本文以订单售后页改版为例，拆解如何从原始假设、指标口径、实施范围和外部变化四条线定位真因，并将结论转化为可验证的下一步动作，帮你决定继续、调整还是停掉。 改版失败了，复盘时，多数人的第一反应就是在甩锅。 “需求当时就不清楚。” “研发实现的时候缩水了。” “指标没埋好，根本没法判断。” 吵来吵去，说不定最后的问题都还没解决。 实际上，复盘要回答的是这几个问题： 当初为什么认为这件事会有效？ 上线后究竟差在哪里？ 中间哪些决定改变了结果？ 接下来还要不要继续投入？ 用一个订单售后页的改版做例子说明具体情况： 一、两个可观察的结果 写效果时，不能直接说“效果不好”，至少要更具体、更细节一些： 用户在售后页能看到退款状态和更新时间，但关于到账时间的咨询没有减少。 退款处理链路中，审核、发起退款、支付渠道确认等环节的耗时没有因为页面改版自动缩短。 这一步是重点。 很多复盘把“页面没有改变后台处理速度”写成产品失败，最后得出“这次改版没价值”。这是不对的，其实改版承担的目标可能只是让状态更清楚。目标没写清，指标就会替产品替研发背上所有责任。 我会把上线前的原样抄出来，再和结果并排对比： 假设一：用户看见明确状态和更新时间后，会少问“退款处理到哪一步”。 假设二：页面能让用户更早发现异常，客服能更快接手。 假设三：信息透明会缩短退款从申请到到账的总时间。 前两个假设需要看咨询原因、异常入口使用和人工处理记录。 第三个假设则要看后台流程和渠道耗时。它们不能共用一个“退款处理时间”指标。 二、沿着四条线查原因 1. 查原始假设 页面有状态，不代表用户就能理解状态。 “审核中”“退款处理中”“渠道确认中”对产品团队很清楚，对用户可能只是三个新的等待词。用户追问到账时间，说明他需要的是下一步和时间预期，而页面只给了过程状态。 这时要查用户原话、客服会话和页面点击路径。若用户主要问“什么时候能到账”，问题可能不是状态展示失败，而是最初把“信息透明”错当成了“时间预期明确”。假设错了，继续优化颜色和文案没有意义，需要重新定义页面要解决的问题。 2. 查指标口径 “退款处理时间”从哪里开始算？申请提交到审核完成，还是申请提交到支付渠道到账？是平均值、中位数，还是超时订单比例？不同答案会导向完全不同的结论。 产品看页面上线后的咨询量，研发看接口响应时间，业务看最终到账时间，客服看人工工单量。大家都说结果没有改善，实际比较的可能不是同一段链路。 指标口径要写成一句能交给数据同学执行的话：统计哪些订单、起止事件是什么、排除哪些异常、观察多长时间。口径写不出来，复盘结论就先放下。 3. 查实施有没有改变原方案 改版过程中经常会有范围收缩。比如预计到账时间需要稳定的支付渠道数据，接口无法提供，页面最终只展示退款状态、更新时间和人工入口。 这不一定是实施偏差，而是",
+      "keyIdeas": [
+        "核心信号围绕“一次产品改版失败，是需求、指标还是协作出了问题？”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "一次产品改版失败，是需求、指标还是协作出了问题？",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.4,
+        "argumentDepth": 4.3,
+        "evidenceQuality": 3.5,
+        "nonConsensusValue": 4.3,
+        "transferability": 4.5,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 82.2,
+      "preRankingScore": 74.95,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "8603bde2a27b91",
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "titleZh": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "url": "https://news.ycombinator.com/item?id=50167583",
+      "author": "Andydy25",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-20T15:09:29Z",
+      "discoveredAt": "2026-10-21T01:20:08Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Hey HN, this is Andy from Respan ( https://www.respan.ai ). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart routing). Instead of packaging tons of providers and features into one gateway, Respan provides a small core and public interfaces that teams can use to assemble the AI infrastructure their application needs. That way, users can build their own features as additional plugins without having to change the gateway's core. Here’s a video demo: https://www.youtube.com/watch?v=pVv2ibXiTXM There are countless LLM gateways and most of them solve a common problem: calling different providers from a single endpoint. However, adding new features can become prohibitively difficult. So developers can end up building another gateway to solve a specific problem. We've been building our gateway based on LiteLLM since 2024, and now it's providing services for thousands of orgs. Each org needs different API key settings, routes, and limits. To support that, we kept wrapping LiteLLM, adding more features t",
+      "keyIdeas": [
+        "核心信号围绕“Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Launch HN: Respan (YC W24) – Open-source Rust AI",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.1,
+        "novelty": 4.0,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 81.8,
+      "preRankingScore": 76.72,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 44,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=50167583"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "1f2765290ba241",
+      "title": "AI 开始挑战最复杂的系统：生命",
+      "titleZh": "AI 开始挑战最复杂的系统：生命",
+      "url": "https://www.qbitai.com/2026/10/504242.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-19T10:04:18Z",
+      "discoveredAt": "2026-10-21T01:20:08Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。",
+      "keyIdeas": [
+        "核心信号围绕“AI 开始挑战最复杂的系统：生命”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "AI 开始挑战最复杂的系统：生命",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.1,
+        "sourceCredibility": 4.2,
+        "novelty": 4.1,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 82.0,
+      "preRankingScore": 66.39,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "dbaa902542534b",
+      "title": "OpenAI acquires Orchestra Bio",
+      "titleZh": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "discoveredAt": "2026-10-21T01:20:07Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "keyIdeas": [
+        "核心信号围绕“OpenAI acquires Orchestra Bio”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "OpenAI acquires Orchestra Bio",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.8,
+        "novelty": 3.9,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 81.4,
+      "preRankingScore": 65.13,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "d82c5a70637ffc",
+      "title": "通研院孵化的团队，也盯上了RSI",
+      "titleZh": "通研院孵化的团队，也盯上了RSI",
+      "url": "https://www.qbitai.com/2026/10/504294.html",
+      "author": "思邈",
+      "source": "量子位",
+      "publishedAt": "2026-10-19T14:31:12Z",
+      "discoveredAt": "2026-10-21T01:20:08Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。当AI越来越懂你，如何让智能真正属于你？",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "当AI越来越懂你，如何让智能真正属于你？",
+      "keyIdeas": [
+        "核心信号围绕“通研院孵化的团队，也盯上了RSI”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "通研院孵化的团队，也盯上了RSI",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 3.8,
+        "novelty": 3.4,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 78.2,
+      "preRankingScore": 66.72,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
