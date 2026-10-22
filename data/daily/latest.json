@@ -1,55 +1,241 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-21T01:20:15Z",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T01:16:48Z",
   "mode": "metadata",
   "stats": {
     "discovered": 234,
-    "afterDeduplication": 232,
+    "afterDeduplication": 228,
     "deepReviewed": 40,
     "recommended": 8
   },
   "articles": [
     {
-      "id": "96912027485f1b",
-      "title": "调教 AI Prompt 超全教程+案例！减少返工80%！",
-      "titleZh": "调教 AI Prompt 超全教程+案例！减少返工80%！",
-      "url": "https://www.woshipm.com/ai/6478936.html",
-      "author": "元尧",
+      "id": "b9ff82b03e5afc",
+      "title": "微信上线「原创精选」，AI水文太多，官方决定让人来筛选",
+      "titleZh": "微信上线「原创精选」，AI水文太多，官方决定让人来筛选",
+      "url": "https://www.woshipm.com/share/6481904.html",
+      "author": "产品笔记",
       "source": "人人都是产品经理",
-      "publishedAt": "2026-10-20T08:12:04Z",
-      "discoveredAt": "2026-10-21T01:20:08Z",
+      "publishedAt": "2026-10-21T10:39:11Z",
+      "discoveredAt": "2026-10-22T01:16:41Z",
       "language": "zh-CN",
       "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。很多人和 AI 聊了大半天仍拿不到满意结果，来回返工。文章指出与 AI 对话的底层逻辑不是“求它帮忙”而是“教它做事”，并按确定目标、输入指令、输出结果、校验迭代、沉淀复用五个环节，给出可落地的提示词方法与案例。 很多同学跟我说，做设计稿时自己跟 AI 聊了大半天，结果生成的内容还是不符合预期，来回改了十几次，本来想靠 AI 提效，最后反被 AI 消耗。 其实不是 AI 不行，是你没找对和 AI 对话的方法。我们与 AI 对话的底层逻辑： 不是“求 AI 帮忙” ，而 是“教 AI 做事” 。通常，与 AI 对话有五个环节： 1. 确定目标 2. 输入指令 3. 输出结果 4. 校验迭代 5. 沉淀复用 本文就从这五个环节来分享与 AI 对话的实用技巧，帮助你相对精准地控制 AI 的输出质量。 阶段 1 预设目",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。公众号开始内测「原创精选」，首批用户叫伯乐：每天可举荐 3 篇，7 天内的原创才行；72 小时内超过六成同行认可，才算入选。被选中的文章拿到付费加热，举荐的人也跟着分到推流。 近日， 有人陆续收到了微信公众号官方发送的伯乐邀请。 邀请你成为「原创精选」的伯乐。 有人是在公众号后台收到的通知。 有人是在微信上，收到微信公众号平台服务号的邀请。 通过邀请可以看到。 微信公众号正在内测一个叫做「原创精选」的功能。 首批邀请使用这个功能的用户，就是伯乐。 伯乐，在这里，就是精选内容推荐官的意思。 1 接受邀请，成为伯乐 点击「查看详情」，进入邀请页，可点击确定来接受邀请。 接受邀请后，你就成为微信公众号一名优秀的伯乐（优质内容推荐官）。 从邀请函上可以看到几个关键信息： 1）作为伯乐的你，可以主动举荐内容 2）作为伯乐",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "很多人和 AI 聊了大半天仍拿不到满意结果，来回返工。文章指出与 AI 对话的底层逻辑不是“求它帮忙”而是“教它做事”，并按确定目标、输入指令、输出结果、校验迭代、沉淀复用五个环节，给出可落地的提示词方法与案例。 很多同学跟我说，做设计稿时自己跟 AI 聊了大半天，结果生成的内容还是不符合预期，来回改了十几次，本来想靠 AI 提效，最后反被 AI 消耗。 其实不是 AI 不行，是你没找对和 AI 对话的方法。我们与 AI 对话的底层逻辑： 不是“求 AI 帮忙” ，而 是“教 AI 做事” 。通常，与 AI 对话有五个环节： 1. 确定目标 2. 输入指令 3. 输出结果 4. 校验迭代 5. 沉淀复用 本文就从这五个环节来分享与 AI 对话的实用技巧，帮助你相对精准地控制 AI 的输出质量。 阶段 1 预设目标 预设目标是为了让 AI 读懂你的 “隐性需求” ，更明确地执行指令。磨刀不误砍柴工，在和 AI 对话前，花几分钟在脑中打个草稿，具体做法如下： 1. 明确任务目标 清晰界定最终 产出成果 ，颗粒度越精细越好。比如： ❌ 错误描述：“做个 B 端产品的 Table 页面。” ✅ 正确描述：“输出 可直接对接开发 的 B 端 用户数据管理的 Table 页面的 交互设计方案。 ” 2. 清晰划定边界 明确 “要什么、不要什么”， 给 AI 设置硬性红线。比如： “必须 要 使用 Ant Design 5.0 的组件和规范， 不要 使用自定义的组件。” 3. 备好参考资料 将相关设计规范（如 AntD 组件官网 链接 或者 Skill 安装包）、同类产品的 Table 页面设计 样例 、业务背景 BRD、PRD （如用户画像、核心操作场景） 提前整理 ，随指令一并提供，或者提前安装在 AI Coding 工具的设置中，减少 AI 脑补空间。 要知道，AI 输出的质量，取决于 你输入的信息密度 。想要获得精准反馈，你的需求就要 足够具体 。 阶段 2 输入指令 预设好目标后，接下来的重点就是 “怎么表达” 。结构化的指令对 AI 来说更加有效。分享几个经验： 1. 参考公式 你描述的逻辑可以参考以下公式： AI 角色 + 业务背景 + 核心任务 + 硬性 规则 + 输出 格式 = 好的 Prompt 举个例子： ❌ 错误描述：“做个 B 端产品的 Table 页面。” ✅ 正确描述： “你是一位资深的 B 端交互设计师，擅长 B 端后台页面交互体验设计 （角色） 。 需求背景是公司新出的一款办公管理后台产品，帮助企业管理 xxx 群体的 xxx 数据和 xxx 信息，当前需要你设计用户数据管理模块的 Table 页面…… （背景） ； 你的核心任务是输出该 Table 页面的交互设计方案，能让用户操作高效、数据展示清晰 （任务） ； 页面设计的规则是使用 ",
+      "sourceSnippet": "公众号开始内测「原创精选」，首批用户叫伯乐：每天可举荐 3 篇，7 天内的原创才行；72 小时内超过六成同行认可，才算入选。被选中的文章拿到付费加热，举荐的人也跟着分到推流。 近日， 有人陆续收到了微信公众号官方发送的伯乐邀请。 邀请你成为「原创精选」的伯乐。 有人是在公众号后台收到的通知。 有人是在微信上，收到微信公众号平台服务号的邀请。 通过邀请可以看到。 微信公众号正在内测一个叫做「原创精选」的功能。 首批邀请使用这个功能的用户，就是伯乐。 伯乐，在这里，就是精选内容推荐官的意思。 1 接受邀请，成为伯乐 点击「查看详情」，进入邀请页，可点击确定来接受邀请。 接受邀请后，你就成为微信公众号一名优秀的伯乐（优质内容推荐官）。 从邀请函上可以看到几个关键信息： 1）作为伯乐的你，可以主动举荐内容 2）作为伯乐的你，可以认可别的伯乐举荐的内容 3）被多数伯乐认可的内容，成为原创精选内容 4）作为伯乐的你，和被选为原创精选的内容，都会获得公众号推流 邀请函的有效期 7 天。 2 举荐内容，进入待评选池 你在看公众号文章过程中， 在文章底部，会有「举荐」入口 ，你可主动举荐。 或者点击 右上角分享，也有举荐入口。 每位伯乐每天可举荐 3 篇原创文章。 可举荐的公众号类型为个人号、企业号。 可举荐的文章，必须是 7 天内的原创文章。 不可举荐自己的文章。 你举荐后的文章，并不是马上成为原创精选，而是进入内容评选库。 分配给其他伯乐评选。 3 评选内容，成为原创精选 作为伯乐，如何评选内容？ 目前，公众号为伯乐提供了 两个「待评选」文章的入口。 1）公众号消息页入口 在公众号消息页顶部，新增了「原创精选·待评选」模块 伯乐点击可进入「待评选」文章列表，点击，进入待评选文章列表。 2）个人中心-创作者中心入口 在公众号消息-个人中心-创作者中心，有专门的「原创精选」入口。 点击进入原创精选页，里面有你举荐/评选的记录，也有待评选的内容。 打开待评选文章列表，阅读文章后，可在文章底部，可选择认可还是不认可。 综合多个伯乐的评估结果，来确定文章是否成为精选。 具体规则为： 72 小时内，伯乐评价中，超过 60%以上伯乐认可，即成为原创精选 举荐、评选结果不可修改。 4 多方激励 好内容，通过伯乐推荐-评选的方式，人工筛选出来。 1）原创精选文章的奖励 被评为原创精选的文章，会获得官方的付费加热推荐。 也就是获得更多的推荐流量，让更多人看到。 这对公众号原创博主，是最大的激励。 2）伯乐的奖励 作为伯乐，如果你举荐的文章被评为精选。 你也有机会获得平台的曝光奖励。 可用于助推自己的公众号文章。 这对于公众号内容创作者，是最有效激励。 3）用户的奖励 当更多优质内容，被挖掘出来后。 更多的优质内容会被用户看到，用户的阅读品质会提升。 这算不上奖励，这是一个自然而然的、对公众号",
       "keyIdeas": [
-        "核心信号围绕“调教 AI Prompt 超全教程+案例！减少返工80%！”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“微信上线「原创精选」，AI水文太多，官方决定让人来筛选”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "调教 AI Prompt 超全教程+案例！减少返工80%！",
+        "微信上线「原创精选」，AI水文太多，官方决定让人来筛选",
         "product-insight"
       ],
       "importantTerms": [],
       "scores": {
-        "insightDensity": 4.0,
-        "argumentDepth": 4.2,
+        "insightDensity": 4.2,
+        "argumentDepth": 4.3,
         "evidenceQuality": 4.4,
-        "nonConsensusValue": 4.3,
-        "transferability": 4.3,
-        "personalRelevance": 4.2
+        "nonConsensusValue": 4.5,
+        "transferability": 4.1,
+        "personalRelevance": 3.8
       },
       "finalScore": 84.4,
-      "preRankingScore": 73.29,
+      "preRankingScore": 73.54,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "1de8e62ff715d1",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "titleZh": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-21T04:50:00Z",
+      "discoveredAt": "2026-10-22T01:16:40Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "keyIdeas": [
+        "核心信号围绕“Using thousands of AI agents to uncover new leads in biological data”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Using thousands of AI agents to uncover new lead",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.5,
+        "novelty": 4.3,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 84.0,
+      "preRankingScore": 65.44,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
+      "estimatedReadingMinutes": 8,
+      "duplicateSources": [
+        "Hacker News"
+      ]
+    },
+    {
+      "id": "90e3466f8031ff",
+      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "titleZh": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "url": "https://alterauth.com/",
+      "author": "simfinii",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-21T06:42:12Z",
+      "discoveredAt": "2026-10-22T01:16:41Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Hi HN! We’re Srikar and Kevan, founders of Alter – https://alterauth.com/ . We’re building access control for agents that can take actions on behalf of multiple users. If you’ve built an internal agent people use through Slack, you may have experienced this scenario: everyone signs in with their own account, but the agent connects to the CRM or billing system with one shared API key, so the agent can do anything that the key can do. User-level authentication in Slack does nothing to control what the agent can do in an external system like the CRM or billing system. Here’s what Alter does: -It acts as a proxy and manages downstream credentials for every API request that an agent takes; -It takes identity into account for every action the agent does. Automatically take into account the end user identity of the person that the agent is taking actions on behalf of. -It enforces fine grained runtime policies and records compliance grade audit logs. Here’s a demo video: https://www.youtube.com/watch?v=9ZqPU14ipGE We started this because we saw first hand how hard it is to build agents in regulated industries. To unlock the true benefits of agents we need to allow agents to take actions, ",
+      "keyIdeas": [
+        "核心信号围绕“Launch HN: Alter (YC S25) – Access control for multi-user agents”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Launch HN: Alter (YC S25) – Access control for m",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.2,
+        "novelty": 4.4,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 3.6
+      },
+      "finalScore": 83.2,
+      "preRankingScore": 76.44,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 52,
+        "comments": 21,
+        "hnUrl": "https://news.ycombinator.com/item?id=50176908"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "5e6c6b52ce2b25",
+      "title": "REA的真相：能逆向任何程序的AI，唯独搞不定这个",
+      "titleZh": "REA的真相：能逆向任何程序的AI，唯独搞不定这个",
+      "url": "https://www.woshipm.com/share/6481864.html",
+      "author": "IPD产品研发管理",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-21T06:50:52Z",
+      "discoveredAt": "2026-10-22T01:16:41Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。GitHub 16万star的REA让逆向工程平民化，AI编码代理能直接分析应用行为与二进制。当塔尖能力都被自动化，编码能力已不再稀缺。本文深入探讨：真正稀缺的，是判断代码的能力——架构设计、性能优化、安全审计，这些都需要人的理解力与判断力。 REA（Reverse Engineer Anything），这个项目短时间内在GitHub上拿到了16+万star。功能如其名，它能 对任何事物进行逆向工程 。 这个开源的MCP框架，能把AI编码代理接上一整套逆向工程工具，让Agent从应用行为一路分析到原生二进制。 以前，你看到一个App的功能很惊艳，回去要用大量的时间成本才能搞清它怎么实现的。而现在，只需要告诉REA：帮我搞清楚怎么实现的。它就会给出原理和局限说明，还能根据你的技术栈重写一个。 这是不是意味着， 编",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "GitHub 16万star的REA让逆向工程平民化，AI编码代理能直接分析应用行为与二进制。当塔尖能力都被自动化，编码能力已不再稀缺。本文深入探讨：真正稀缺的，是判断代码的能力——架构设计、性能优化、安全审计，这些都需要人的理解力与判断力。 REA（Reverse Engineer Anything），这个项目短时间内在GitHub上拿到了16+万star。功能如其名，它能 对任何事物进行逆向工程 。 这个开源的MCP框架，能把AI编码代理接上一整套逆向工程工具，让Agent从应用行为一路分析到原生二进制。 以前，你看到一个App的功能很惊艳，回去要用大量的时间成本才能搞清它怎么实现的。而现在，只需要告诉REA：帮我搞清楚怎么实现的。它就会给出原理和局限说明，还能根据你的技术栈重写一个。 这是不是意味着， 编码能力不再是稀缺资源 ？ 一、逆向工程平民化意味着什么 传统逆向工程，要求我们能读懂汇编和伪代码，理解Mach-O、ELF、PE等二进制结构，在没有符号信息的海量函数中，还原调用链路与业务逻辑。 而REA就是将这种复杂的能力封装起来，让Claude Code、Cursor、Codex这类编码代理直接调用。我们 只需用自然语言下达指令 ，例如“分析这个APK的支付逻辑”，就能完成逆向分析。 逆向工程也许曾经是程序员能力金字塔的顶端。如今就连塔尖能力都开始自动化，那金字塔底层的编码能力，又会迎来怎样的变化？ 二、代码稀缺性已经是个伪命题 过去三年，我们能够看到，编码能力已经不再稀缺。 从写不出来变成写得出来 ：初级工程师花一周写的CRUD页面，Copilot、Cursor、Claude Code一小时就能交付。 从看不懂变成看得懂 ：这也是REA解决的用户痛点。过去我们拿到一个开源项目，要花几天读文档、读源码才能理解架构；现在把这件事交给REA，就能直接得到调用图、关键逻辑等等信息。 从做不到变成做得到 ：比如还原早年单机游戏这类门槛极高的工作，现在REA就可以轻松做到这一点。 有人或许会提出质疑：那些复杂系统的架构设计、高并发场景，或是关键代码的审计，不还是需要人来做吗？ 确实如此。我们仔细看这些仍然无法被AI完全取代的工作，就会 发现一个共同点：这类工作 需要的不是编写代码的能力，而是判断代码的能力 。 比如架构设计，是要看我们能不能在十几种方案里选择最合适的那个；比如性能优化，要让我们判断真正的瓶颈以及值不值得优化；再比如安全审计，要判断的是哪段代码在什么场景下会出问题。 三、什么才是真正稀缺的 既然代码能力已不再稀缺，那什么才是真正稀缺的？ 过去稀缺的 现在稀缺的 写出语法无误的代码 明确需要解决什么问题 能复现产品功能 能判断什么功能值得投入开发 精通特定框架与编程语言 跨领域的系统思维 快速落地业务需求 在多重约束下做出合理权衡 熟记API和开",
+      "keyIdeas": [
+        "核心信号围绕“REA的真相：能逆向任何程序的AI，唯独搞不定这个”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "REA的真相：能逆向任何程序的AI，唯独搞不定这个",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.3,
+        "argumentDepth": 3.8,
+        "evidenceQuality": 4.5,
+        "nonConsensusValue": 4.5,
+        "transferability": 4.2,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 82.5,
+      "preRankingScore": 73.16,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "9201054eeb4c74",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "titleZh": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-21T00:00:00Z",
+      "discoveredAt": "2026-10-22T01:16:40Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "keyIdeas": [
+        "核心信号围绕“Cloudflare links vulnerability discovery to defense with OpenAI”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Cloudflare links vulnerability discovery to defe",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 4.1,
+        "novelty": 3.6,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 82.2,
+      "preRankingScore": 65.06,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
       "duplicateSources": []
     },
     {
@@ -60,7 +246,7 @@
       "author": "",
       "source": "OpenAI News",
       "publishedAt": "2026-10-20T10:00:00Z",
-      "discoveredAt": "2026-10-21T01:20:07Z",
+      "discoveredAt": "2026-10-22T01:16:40Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -84,288 +270,100 @@
         }
       ],
       "scores": {
-        "eventImpact": 4.3,
-        "sourceCredibility": 3.5,
-        "novelty": 4.3,
-        "aiProductImpact": 4.4,
-        "personalRelevance": 4.5
+        "eventImpact": 4.2,
+        "sourceCredibility": 3.4,
+        "novelty": 4.2,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 4.4
       },
-      "finalScore": 83.6,
-      "preRankingScore": 65.89,
-      "readingTier": "worth-reading",
+      "finalScore": 81.6,
+      "preRankingScore": 63.49,
+      "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
       "estimatedReadingMinutes": 7,
       "duplicateSources": []
     },
     {
-      "id": "6a01ce2d8f2640",
-      "title": "Publish fake stats, get cited in LLMs",
-      "titleZh": "Publish fake stats, get cited in LLMs",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "author": "robtherobber",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-20T13:06:22Z",
-      "discoveredAt": "2026-10-21T01:20:08Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
-      "keyIdeas": [
-        "核心信号围绕“Publish fake stats, get cited in LLMs”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Publish fake stats, get cited in LLMs",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 3.7,
-        "sourceCredibility": 4.1,
-        "novelty": 4.3,
-        "aiProductImpact": 4.6,
-        "personalRelevance": 4.5
-      },
-      "finalScore": 83.2,
-      "preRankingScore": 79.78,
-      "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 322,
-        "comments": 183,
-        "hnUrl": "https://news.ycombinator.com/item?id=50165801"
-      },
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 20,
-      "duplicateSources": []
-    },
-    {
-      "id": "9a20c877508818",
-      "title": "一次产品改版失败，是需求、指标还是协作出了问题？",
-      "titleZh": "一次产品改版失败，是需求、指标还是协作出了问题？",
-      "url": "https://www.woshipm.com/share/6481477.html",
-      "author": "咖啡不加糖",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-10-21T00:50:45Z",
-      "discoveredAt": "2026-10-21T01:20:08Z",
+      "id": "8a2355503fe059",
+      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+      "titleZh": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+      "url": "https://www.qbitai.com/2026/10/504456.html",
+      "author": "鹭羽",
+      "source": "量子位",
+      "publishedAt": "2026-10-20T12:50:34Z",
+      "discoveredAt": "2026-10-22T01:16:41Z",
       "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。改版失败后，复盘常沦为甩锅大会。本文以订单售后页改版为例，拆解如何从原始假设、指标口径、实施范围和外部变化四条线定位真因，并将结论转化为可验证的下一步动作，帮你决定继续、调整还是停掉。 改版失败了，复盘时，多数人的第一反应就是在甩锅。 “需求当时就不清楚。” “研发实现的时候缩水了。” “指标没埋好，根本没法判断。” 吵来吵去，说不定最后的问题都还没解决。 实际上，复盘要回答的是这几个问题： 当初为什么认为这件事会有效？ 上线后究竟差在哪里？ 中间哪些决定改变了结果？ 接下来还要不要继续投入？ 用一个订单售后页的改版做例子说明具体情况： 一、两个可观察的结果 写效果时，不能直接说“效果不好”，至少要更具体、更细节一些： 用户在售后页能看到退款状态和更新时间，但关于到账时间的咨询没有减少。 退款处理链路中，审核、",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。把记忆原生焊进Transformer",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "改版失败后，复盘常沦为甩锅大会。本文以订单售后页改版为例，拆解如何从原始假设、指标口径、实施范围和外部变化四条线定位真因，并将结论转化为可验证的下一步动作，帮你决定继续、调整还是停掉。 改版失败了，复盘时，多数人的第一反应就是在甩锅。 “需求当时就不清楚。” “研发实现的时候缩水了。” “指标没埋好，根本没法判断。” 吵来吵去，说不定最后的问题都还没解决。 实际上，复盘要回答的是这几个问题： 当初为什么认为这件事会有效？ 上线后究竟差在哪里？ 中间哪些决定改变了结果？ 接下来还要不要继续投入？ 用一个订单售后页的改版做例子说明具体情况： 一、两个可观察的结果 写效果时，不能直接说“效果不好”，至少要更具体、更细节一些： 用户在售后页能看到退款状态和更新时间，但关于到账时间的咨询没有减少。 退款处理链路中，审核、发起退款、支付渠道确认等环节的耗时没有因为页面改版自动缩短。 这一步是重点。 很多复盘把“页面没有改变后台处理速度”写成产品失败，最后得出“这次改版没价值”。这是不对的，其实改版承担的目标可能只是让状态更清楚。目标没写清，指标就会替产品替研发背上所有责任。 我会把上线前的原样抄出来，再和结果并排对比： 假设一：用户看见明确状态和更新时间后，会少问“退款处理到哪一步”。 假设二：页面能让用户更早发现异常，客服能更快接手。 假设三：信息透明会缩短退款从申请到到账的总时间。 前两个假设需要看咨询原因、异常入口使用和人工处理记录。 第三个假设则要看后台流程和渠道耗时。它们不能共用一个“退款处理时间”指标。 二、沿着四条线查原因 1. 查原始假设 页面有状态，不代表用户就能理解状态。 “审核中”“退款处理中”“渠道确认中”对产品团队很清楚，对用户可能只是三个新的等待词。用户追问到账时间，说明他需要的是下一步和时间预期，而页面只给了过程状态。 这时要查用户原话、客服会话和页面点击路径。若用户主要问“什么时候能到账”，问题可能不是状态展示失败，而是最初把“信息透明”错当成了“时间预期明确”。假设错了，继续优化颜色和文案没有意义，需要重新定义页面要解决的问题。 2. 查指标口径 “退款处理时间”从哪里开始算？申请提交到审核完成，还是申请提交到支付渠道到账？是平均值、中位数，还是超时订单比例？不同答案会导向完全不同的结论。 产品看页面上线后的咨询量，研发看接口响应时间，业务看最终到账时间，客服看人工工单量。大家都说结果没有改善，实际比较的可能不是同一段链路。 指标口径要写成一句能交给数据同学执行的话：统计哪些订单、起止事件是什么、排除哪些异常、观察多长时间。口径写不出来，复盘结论就先放下。 3. 查实施有没有改变原方案 改版过程中经常会有范围收缩。比如预计到账时间需要稳定的支付渠道数据，接口无法提供，页面最终只展示退款状态、更新时间和人工入口。 这不一定是实施偏差，而是",
+      "sourceSnippet": "把记忆原生焊进Transformer",
       "keyIdeas": [
-        "核心信号围绕“一次产品改版失败，是需求、指标还是协作出了问题？”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“RSI三块关键拼图，MemT 1.0从模型层补上「记忆」”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "一次产品改版失败，是需求、指标还是协作出了问题？",
-        "product-insight"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "insightDensity": 4.4,
-        "argumentDepth": 4.3,
-        "evidenceQuality": 3.5,
-        "nonConsensusValue": 4.3,
-        "transferability": 4.5,
-        "personalRelevance": 3.5
-      },
-      "finalScore": 82.2,
-      "preRankingScore": 74.95,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 2,
-      "duplicateSources": []
-    },
-    {
-      "id": "8603bde2a27b91",
-      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "titleZh": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "url": "https://news.ycombinator.com/item?id=50167583",
-      "author": "Andydy25",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-20T15:09:29Z",
-      "discoveredAt": "2026-10-21T01:20:08Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "Hey HN, this is Andy from Respan ( https://www.respan.ai ). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart routing). Instead of packaging tons of providers and features into one gateway, Respan provides a small core and public interfaces that teams can use to assemble the AI infrastructure their application needs. That way, users can build their own features as additional plugins without having to change the gateway's core. Here’s a video demo: https://www.youtube.com/watch?v=pVv2ibXiTXM There are countless LLM gateways and most of them solve a common problem: calling different providers from a single endpoint. However, adding new features can become prohibitively difficult. So developers can end up building another gateway to solve a specific problem. We've been building our gateway based on LiteLLM since 2024, and now it's providing services for thousands of orgs. Each org needs different API key settings, routes, and limits. To support that, we kept wrapping LiteLLM, adding more features t",
-      "keyIdeas": [
-        "核心信号围绕“Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Launch HN: Respan (YC W24) – Open-source Rust AI",
+        "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
         "ai-news"
       ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
+      "importantTerms": [],
       "scores": {
         "eventImpact": 4.2,
-        "sourceCredibility": 4.1,
-        "novelty": 4.0,
-        "aiProductImpact": 4.1,
-        "personalRelevance": 3.9
-      },
-      "finalScore": 81.8,
-      "preRankingScore": 76.72,
-      "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 44,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=50167583"
-      },
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 22,
-      "duplicateSources": []
-    },
-    {
-      "id": "1f2765290ba241",
-      "title": "AI 开始挑战最复杂的系统：生命",
-      "titleZh": "AI 开始挑战最复杂的系统：生命",
-      "url": "https://www.qbitai.com/2026/10/504242.html",
-      "author": "量子位的朋友们",
-      "source": "量子位",
-      "publishedAt": "2026-10-19T10:04:18Z",
-      "discoveredAt": "2026-10-21T01:20:08Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。",
-      "keyIdeas": [
-        "核心信号围绕“AI 开始挑战最复杂的系统：生命”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "AI 开始挑战最复杂的系统：生命",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.1,
-        "sourceCredibility": 4.2,
-        "novelty": 4.1,
-        "aiProductImpact": 4.1,
-        "personalRelevance": 3.9
-      },
-      "finalScore": 82.0,
-      "preRankingScore": 66.39,
-      "readingTier": "signal",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 4,
-      "duplicateSources": []
-    },
-    {
-      "id": "dbaa902542534b",
-      "title": "OpenAI acquires Orchestra Bio",
-      "titleZh": "OpenAI acquires Orchestra Bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "author": "",
-      "source": "OpenAI News",
-      "publishedAt": "2026-10-20T00:00:00Z",
-      "discoveredAt": "2026-10-21T01:20:07Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "keyIdeas": [
-        "核心信号围绕“OpenAI acquires Orchestra Bio”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "OpenAI acquires Orchestra Bio",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 4.4,
-        "sourceCredibility": 3.8,
-        "novelty": 3.9,
-        "aiProductImpact": 3.9,
+        "sourceCredibility": 3.4,
+        "novelty": 4.2,
+        "aiProductImpact": 4.3,
         "personalRelevance": 4.3
       },
       "finalScore": 81.4,
-      "preRankingScore": 65.13,
+      "preRankingScore": 66.54,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
+      "estimatedReadingMinutes": 5,
       "duplicateSources": []
     },
     {
-      "id": "d82c5a70637ffc",
-      "title": "通研院孵化的团队，也盯上了RSI",
-      "titleZh": "通研院孵化的团队，也盯上了RSI",
-      "url": "https://www.qbitai.com/2026/10/504294.html",
-      "author": "思邈",
+      "id": "e4060c1420df18",
+      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+      "titleZh": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+      "url": "https://www.qbitai.com/2026/10/504517.html",
+      "author": "Jay",
       "source": "量子位",
-      "publishedAt": "2026-10-19T14:31:12Z",
-      "discoveredAt": "2026-10-21T01:20:08Z",
+      "publishedAt": "2026-10-20T13:29:54Z",
+      "discoveredAt": "2026-10-22T01:16:41Z",
       "language": "zh-CN",
       "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。当AI越来越懂你，如何让智能真正属于你？",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。兔皮底下，竟然是MiniMax！",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "当AI越来越懂你，如何让智能真正属于你？",
+      "sourceSnippet": "兔皮底下，竟然是MiniMax！",
       "keyIdeas": [
-        "核心信号围绕“通研院孵化的团队，也盯上了RSI”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "通研院孵化的团队，也盯上了RSI",
+        "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
         "ai-news"
       ],
       "importantTerms": [],
       "scores": {
-        "eventImpact": 4.2,
-        "sourceCredibility": 3.8,
-        "novelty": 3.4,
+        "eventImpact": 3.5,
+        "sourceCredibility": 4.3,
+        "novelty": 4.4,
         "aiProductImpact": 3.9,
-        "personalRelevance": 4.3
+        "personalRelevance": 4.4
       },
-      "finalScore": 78.2,
-      "preRankingScore": 66.72,
+      "finalScore": 80.2,
+      "preRankingScore": 66.58,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 7,
+      "estimatedReadingMinutes": 2,
       "duplicateSources": []
     }
   ],
