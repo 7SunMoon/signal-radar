@@ -1,220 +1,364 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-22",
-  "generatedAt": "2026-10-22T01:16:48Z",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T01:16:08Z",
   "mode": "metadata",
   "stats": {
-    "discovered": 234,
-    "afterDeduplication": 228,
+    "discovered": 225,
+    "afterDeduplication": 223,
     "deepReviewed": 40,
     "recommended": 8
   },
   "articles": [
     {
-      "id": "b9ff82b03e5afc",
-      "title": "微信上线「原创精选」，AI水文太多，官方决定让人来筛选",
-      "titleZh": "微信上线「原创精选」，AI水文太多，官方决定让人来筛选",
-      "url": "https://www.woshipm.com/share/6481904.html",
-      "author": "产品笔记",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-10-21T10:39:11Z",
-      "discoveredAt": "2026-10-22T01:16:41Z",
-      "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。公众号开始内测「原创精选」，首批用户叫伯乐：每天可举荐 3 篇，7 天内的原创才行；72 小时内超过六成同行认可，才算入选。被选中的文章拿到付费加热，举荐的人也跟着分到推流。 近日， 有人陆续收到了微信公众号官方发送的伯乐邀请。 邀请你成为「原创精选」的伯乐。 有人是在公众号后台收到的通知。 有人是在微信上，收到微信公众号平台服务号的邀请。 通过邀请可以看到。 微信公众号正在内测一个叫做「原创精选」的功能。 首批邀请使用这个功能的用户，就是伯乐。 伯乐，在这里，就是精选内容推荐官的意思。 1 接受邀请，成为伯乐 点击「查看详情」，进入邀请页，可点击确定来接受邀请。 接受邀请后，你就成为微信公众号一名优秀的伯乐（优质内容推荐官）。 从邀请函上可以看到几个关键信息： 1）作为伯乐的你，可以主动举荐内容 2）作为伯乐",
+      "id": "ba6fa07d677a82",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "titleZh": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "discoveredAt": "2026-10-23T01:15:45Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "公众号开始内测「原创精选」，首批用户叫伯乐：每天可举荐 3 篇，7 天内的原创才行；72 小时内超过六成同行认可，才算入选。被选中的文章拿到付费加热，举荐的人也跟着分到推流。 近日， 有人陆续收到了微信公众号官方发送的伯乐邀请。 邀请你成为「原创精选」的伯乐。 有人是在公众号后台收到的通知。 有人是在微信上，收到微信公众号平台服务号的邀请。 通过邀请可以看到。 微信公众号正在内测一个叫做「原创精选」的功能。 首批邀请使用这个功能的用户，就是伯乐。 伯乐，在这里，就是精选内容推荐官的意思。 1 接受邀请，成为伯乐 点击「查看详情」，进入邀请页，可点击确定来接受邀请。 接受邀请后，你就成为微信公众号一名优秀的伯乐（优质内容推荐官）。 从邀请函上可以看到几个关键信息： 1）作为伯乐的你，可以主动举荐内容 2）作为伯乐的你，可以认可别的伯乐举荐的内容 3）被多数伯乐认可的内容，成为原创精选内容 4）作为伯乐的你，和被选为原创精选的内容，都会获得公众号推流 邀请函的有效期 7 天。 2 举荐内容，进入待评选池 你在看公众号文章过程中， 在文章底部，会有「举荐」入口 ，你可主动举荐。 或者点击 右上角分享，也有举荐入口。 每位伯乐每天可举荐 3 篇原创文章。 可举荐的公众号类型为个人号、企业号。 可举荐的文章，必须是 7 天内的原创文章。 不可举荐自己的文章。 你举荐后的文章，并不是马上成为原创精选，而是进入内容评选库。 分配给其他伯乐评选。 3 评选内容，成为原创精选 作为伯乐，如何评选内容？ 目前，公众号为伯乐提供了 两个「待评选」文章的入口。 1）公众号消息页入口 在公众号消息页顶部，新增了「原创精选·待评选」模块 伯乐点击可进入「待评选」文章列表，点击，进入待评选文章列表。 2）个人中心-创作者中心入口 在公众号消息-个人中心-创作者中心，有专门的「原创精选」入口。 点击进入原创精选页，里面有你举荐/评选的记录，也有待评选的内容。 打开待评选文章列表，阅读文章后，可在文章底部，可选择认可还是不认可。 综合多个伯乐的评估结果，来确定文章是否成为精选。 具体规则为： 72 小时内，伯乐评价中，超过 60%以上伯乐认可，即成为原创精选 举荐、评选结果不可修改。 4 多方激励 好内容，通过伯乐推荐-评选的方式，人工筛选出来。 1）原创精选文章的奖励 被评为原创精选的文章，会获得官方的付费加热推荐。 也就是获得更多的推荐流量，让更多人看到。 这对公众号原创博主，是最大的激励。 2）伯乐的奖励 作为伯乐，如果你举荐的文章被评为精选。 你也有机会获得平台的曝光奖励。 可用于助推自己的公众号文章。 这对于公众号内容创作者，是最有效激励。 3）用户的奖励 当更多优质内容，被挖掘出来后。 更多的优质内容会被用户看到，用户的阅读品质会提升。 这算不上奖励，这是一个自然而然的、对公众号",
+      "translationStatus": "pending",
+      "sourceSnippet": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
       "keyIdeas": [
-        "核心信号围绕“微信上线「原创精选」，AI水文太多，官方决定让人来筛选”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Uber brings ChatGPT Work to all employees with OpenAI”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "微信上线「原创精选」，AI水文太多，官方决定让人来筛选",
+        "Uber brings ChatGPT Work to all employees with O",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.1,
+        "novelty": 4.2,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 86.0,
+      "preRankingScore": 65.02,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "59ca351d34153a",
+      "title": "实体店提升利润的 7 个环节：从获客到复购的完整链条",
+      "titleZh": "实体店提升利润的 7 个环节：从获客到复购的完整链条",
+      "url": "https://www.woshipm.com/share/6482657.html",
+      "author": "老陈的深度思考",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-22T07:59:14Z",
+      "discoveredAt": "2026-10-23T01:15:47Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。利润不是靠单一涨价涨出来的，而是一套经营系统跑出来的。从获取精准客户、优化成交流程、拉高客单价，到复购与转介绍，七个环节逐个拆开，讲的是实体店今天就能落地的那部分。 其实利润不是靠单一涨价得来的，而是一套完整经营系统跑出来的。实体想要拉高利润，核心就做好七件事，把每个环节优化，利润自然往上走。 第一，获取更多精准客户 没有客户，一切盈利都是空谈。 所以要搭建完整获客流程，设计有吸引力的获客主张、获客钩子。 利用短视频引流、老客户裂变、异业合作等渠道，源源不断吸引精准目标客户。 第二，优化成交流程和成交主张，提升转化率 有了客户不代表就能、就能收钱，而且要是成交率很低那这些精准流量就很浪费。 所以要梳理从进店到下单的完整路径，搭配对应的成交方案，打消顾客顾虑，把到店流量变成实际买单的客户。 第三，拉高客单价 搭建",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "利润不是靠单一涨价涨出来的，而是一套经营系统跑出来的。从获取精准客户、优化成交流程、拉高客单价，到复购与转介绍，七个环节逐个拆开，讲的是实体店今天就能落地的那部分。 其实利润不是靠单一涨价得来的，而是一套完整经营系统跑出来的。实体想要拉高利润，核心就做好七件事，把每个环节优化，利润自然往上走。 第一，获取更多精准客户 没有客户，一切盈利都是空谈。 所以要搭建完整获客流程，设计有吸引力的获客主张、获客钩子。 利用短视频引流、老客户裂变、异业合作等渠道，源源不断吸引精准目标客户。 第二，优化成交流程和成交主张，提升转化率 有了客户不代表就能、就能收钱，而且要是成交率很低那这些精准流量就很浪费。 所以要梳理从进店到下单的完整路径，搭配对应的成交方案，打消顾客顾虑，把到店流量变成实际买单的客户。 第三，拉高客单价 搭建完整的产品和价格体系，搭配引流款、利润款，引导客户多消费、升级消费。同样来一个顾客，消费金额越高，整体营收才会增长。 第四，提升运营效率 同样的房租、人工成本，拼的就是效率。 所以要优化服务流程、出餐流程，减少人力浪费，用同等成本承接更多客户，间接增加收益。 第五，管控运营成本 定期梳理全部开支，分清必要支出和无效开销。不该花的钱果断砍掉，不是一味压缩品质，而是杜绝浪费，守住利润底线。 第六，减少客户流失，提高复购 开发一个新客户成本远高于维护老客户。 所以要做好服务体验，做好客户维护，让来过的顾客愿意二次消费、多次消费，不要做一锤子买卖。 第七，放大客户终身价值 让客户能持续复购、持续消费、持续裂变、持续转介绍。 要围绕客户的需求、痛点、想要解决的问题，持续给他们提供他们想要的产品、价值、服务、解决方案。 总的来说，利润公式很简单：利润 = 流量 × 转化率 × 客单价成本，再叠加复购与转介绍。把这七个环节逐个打磨，不依赖运气，靠系统稳定赚钱 本文由人人都是产品经理作者【老陈的深度思考】，微信公众号：【老陈的深度思考】，原创/授权 发布于人人都是产品经理，未经许可，禁止转载 题图来自Unsplash，基于 CC0 协议",
+      "keyIdeas": [
+        "核心信号围绕“实体店提升利润的 7 个环节：从获客到复购的完整链条”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "实体店提升利润的 7 个环节：从获客到复购的完整链条",
         "product-insight"
       ],
       "importantTerms": [],
       "scores": {
-        "insightDensity": 4.2,
+        "insightDensity": 4.5,
         "argumentDepth": 4.3,
         "evidenceQuality": 4.4,
-        "nonConsensusValue": 4.5,
-        "transferability": 4.1,
-        "personalRelevance": 3.8
+        "nonConsensusValue": 4.3,
+        "transferability": 4.5,
+        "personalRelevance": 3.6
       },
-      "finalScore": 84.4,
-      "preRankingScore": 73.54,
+      "finalScore": 85.6,
+      "preRankingScore": 70.05,
       "readingTier": "worth-reading",
       "socialSignals": {},
-      "contentAvailability": "partial",
+      "contentAvailability": "full",
       "estimatedReadingMinutes": 1,
       "duplicateSources": []
     },
     {
-      "id": "1de8e62ff715d1",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "titleZh": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "author": "",
-      "source": "OpenAI News",
-      "publishedAt": "2026-10-21T04:50:00Z",
-      "discoveredAt": "2026-10-22T01:16:40Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "keyIdeas": [
-        "核心信号围绕“Using thousands of AI agents to uncover new leads in biological data”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Using thousands of AI agents to uncover new lead",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 3.8,
-        "sourceCredibility": 4.5,
-        "novelty": 4.3,
-        "aiProductImpact": 4.4,
-        "personalRelevance": 4.2
-      },
-      "finalScore": 84.0,
-      "preRankingScore": 65.44,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 8,
-      "duplicateSources": [
-        "Hacker News"
-      ]
-    },
-    {
-      "id": "90e3466f8031ff",
-      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-      "titleZh": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-      "url": "https://alterauth.com/",
-      "author": "simfinii",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-21T06:42:12Z",
-      "discoveredAt": "2026-10-22T01:16:41Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "Hi HN! We’re Srikar and Kevan, founders of Alter – https://alterauth.com/ . We’re building access control for agents that can take actions on behalf of multiple users. If you’ve built an internal agent people use through Slack, you may have experienced this scenario: everyone signs in with their own account, but the agent connects to the CRM or billing system with one shared API key, so the agent can do anything that the key can do. User-level authentication in Slack does nothing to control what the agent can do in an external system like the CRM or billing system. Here’s what Alter does: -It acts as a proxy and manages downstream credentials for every API request that an agent takes; -It takes identity into account for every action the agent does. Automatically take into account the end user identity of the person that the agent is taking actions on behalf of. -It enforces fine grained runtime policies and records compliance grade audit logs. Here’s a demo video: https://www.youtube.com/watch?v=9ZqPU14ipGE We started this because we saw first hand how hard it is to build agents in regulated industries. To unlock the true benefits of agents we need to allow agents to take actions, ",
-      "keyIdeas": [
-        "核心信号围绕“Launch HN: Alter (YC S25) – Access control for multi-user agents”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Launch HN: Alter (YC S25) – Access control for m",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 4.2,
-        "sourceCredibility": 4.2,
-        "novelty": 4.4,
-        "aiProductImpact": 4.1,
-        "personalRelevance": 3.6
-      },
-      "finalScore": 83.2,
-      "preRankingScore": 76.44,
-      "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 52,
-        "comments": 21,
-        "hnUrl": "https://news.ycombinator.com/item?id=50176908"
-      },
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 4,
-      "duplicateSources": []
-    },
-    {
-      "id": "5e6c6b52ce2b25",
-      "title": "REA的真相：能逆向任何程序的AI，唯独搞不定这个",
-      "titleZh": "REA的真相：能逆向任何程序的AI，唯独搞不定这个",
-      "url": "https://www.woshipm.com/share/6481864.html",
-      "author": "IPD产品研发管理",
+      "id": "e9348cdf92615c",
+      "title": "备战双11，我用4个AI Agent读完400条评价改详情页",
+      "titleZh": "备战双11，我用4个AI Agent读完400条评价改详情页",
+      "url": "https://www.woshipm.com/ai/6482653.html",
+      "author": "AI高手杜小虎",
       "source": "人人都是产品经理",
-      "publishedAt": "2026-10-21T06:50:52Z",
-      "discoveredAt": "2026-10-22T01:16:41Z",
+      "publishedAt": "2026-10-22T08:50:41Z",
+      "discoveredAt": "2026-10-23T01:15:47Z",
       "language": "zh-CN",
       "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。GitHub 16万star的REA让逆向工程平民化，AI编码代理能直接分析应用行为与二进制。当塔尖能力都被自动化，编码能力已不再稀缺。本文深入探讨：真正稀缺的，是判断代码的能力——架构设计、性能优化、安全审计，这些都需要人的理解力与判断力。 REA（Reverse Engineer Anything），这个项目短时间内在GitHub上拿到了16+万star。功能如其名，它能 对任何事物进行逆向工程 。 这个开源的MCP框架，能把AI编码代理接上一整套逆向工程工具，让Agent从应用行为一路分析到原生二进制。 以前，你看到一个App的功能很惊艳，回去要用大量的时间成本才能搞清它怎么实现的。而现在，只需要告诉REA：帮我搞清楚怎么实现的。它就会给出原理和局限说明，还能根据你的技术栈重写一个。 这是不是意味着， 编",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。双 11 前一周，主推款转化率一路往下掉，设计问改哪几屏，他只憋出一句「保温要加强」。后来他把自家和三家竞品近 90 天的 400 条评价丢给豆包工作，让 4 个 Agent 分头读完。 最近和做电商的朋友交流，分享一下他用豆包工作来辅助电商运营岗位的经验 在双11预售开始前一周，店里的主推款保温杯转化率一直往下走。老板拍板改详情页，设计同事来问：“改哪几屏？先讲什么？”我答不上来，憋了半天只说出一句“保温那块好像要加强”。 改哪几屏，评价区里早就写着。买家把杯子买回去、用了一个月以后写下的抱怨，就是现成的可用性反馈。详情页也是一条用户路径，买家在哪一步犹豫，用了以后又在哪里后悔，评价区写得清清楚楚。 我把自家店和3家竞品店近90天的评价各导出100条，一共400条，交给了豆包工作。 豆包工作是豆包推出的独立电",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "GitHub 16万star的REA让逆向工程平民化，AI编码代理能直接分析应用行为与二进制。当塔尖能力都被自动化，编码能力已不再稀缺。本文深入探讨：真正稀缺的，是判断代码的能力——架构设计、性能优化、安全审计，这些都需要人的理解力与判断力。 REA（Reverse Engineer Anything），这个项目短时间内在GitHub上拿到了16+万star。功能如其名，它能 对任何事物进行逆向工程 。 这个开源的MCP框架，能把AI编码代理接上一整套逆向工程工具，让Agent从应用行为一路分析到原生二进制。 以前，你看到一个App的功能很惊艳，回去要用大量的时间成本才能搞清它怎么实现的。而现在，只需要告诉REA：帮我搞清楚怎么实现的。它就会给出原理和局限说明，还能根据你的技术栈重写一个。 这是不是意味着， 编码能力不再是稀缺资源 ？ 一、逆向工程平民化意味着什么 传统逆向工程，要求我们能读懂汇编和伪代码，理解Mach-O、ELF、PE等二进制结构，在没有符号信息的海量函数中，还原调用链路与业务逻辑。 而REA就是将这种复杂的能力封装起来，让Claude Code、Cursor、Codex这类编码代理直接调用。我们 只需用自然语言下达指令 ，例如“分析这个APK的支付逻辑”，就能完成逆向分析。 逆向工程也许曾经是程序员能力金字塔的顶端。如今就连塔尖能力都开始自动化，那金字塔底层的编码能力，又会迎来怎样的变化？ 二、代码稀缺性已经是个伪命题 过去三年，我们能够看到，编码能力已经不再稀缺。 从写不出来变成写得出来 ：初级工程师花一周写的CRUD页面，Copilot、Cursor、Claude Code一小时就能交付。 从看不懂变成看得懂 ：这也是REA解决的用户痛点。过去我们拿到一个开源项目，要花几天读文档、读源码才能理解架构；现在把这件事交给REA，就能直接得到调用图、关键逻辑等等信息。 从做不到变成做得到 ：比如还原早年单机游戏这类门槛极高的工作，现在REA就可以轻松做到这一点。 有人或许会提出质疑：那些复杂系统的架构设计、高并发场景，或是关键代码的审计，不还是需要人来做吗？ 确实如此。我们仔细看这些仍然无法被AI完全取代的工作，就会 发现一个共同点：这类工作 需要的不是编写代码的能力，而是判断代码的能力 。 比如架构设计，是要看我们能不能在十几种方案里选择最合适的那个；比如性能优化，要让我们判断真正的瓶颈以及值不值得优化；再比如安全审计，要判断的是哪段代码在什么场景下会出问题。 三、什么才是真正稀缺的 既然代码能力已不再稀缺，那什么才是真正稀缺的？ 过去稀缺的 现在稀缺的 写出语法无误的代码 明确需要解决什么问题 能复现产品功能 能判断什么功能值得投入开发 精通特定框架与编程语言 跨领域的系统思维 快速落地业务需求 在多重约束下做出合理权衡 熟记API和开",
+      "sourceSnippet": "双 11 前一周，主推款转化率一路往下掉，设计问改哪几屏，他只憋出一句「保温要加强」。后来他把自家和三家竞品近 90 天的 400 条评价丢给豆包工作，让 4 个 Agent 分头读完。 最近和做电商的朋友交流，分享一下他用豆包工作来辅助电商运营岗位的经验 在双11预售开始前一周，店里的主推款保温杯转化率一直往下走。老板拍板改详情页，设计同事来问：“改哪几屏？先讲什么？”我答不上来，憋了半天只说出一句“保温那块好像要加强”。 改哪几屏，评价区里早就写着。买家把杯子买回去、用了一个月以后写下的抱怨，就是现成的可用性反馈。详情页也是一条用户路径，买家在哪一步犹豫，用了以后又在哪里后悔，评价区写得清清楚楚。 我把自家店和3家竞品店近90天的评价各导出100条，一共400条，交给了豆包工作。 豆包工作是豆包推出的独立电脑端，内置AI办公Agent能力，能像真人助理一样一句话派活，自动执行复杂办公任务。这次我一共说了三句话。第一句拆评价，第二句拿拆出来的结果去对现有详情页，最后一句按新屏序写文案、出首屏草图。 第一步：4个Agent分头读评价，用同一套口径 每张表都按后台导出的格式排，一行一条评价，星级和评价内容之外，追评和是否带图也单独成列。3家竞品各有各的路数。拾木一键弹盖保温杯的强项是开盖方便、倒放不漏，北岸大容量316保温杯保温久但是重，小禾学生保温杯靠便宜和颜色可爱走量。 400条评价要是自己读至少得一下午。读到后面人会松，前五十条还在逐字抠，最后一家店基本就是扫一眼，同一类抱怨前后归得也不一样。这次我让一家店对一个Agent，4个Agent用同一套原因口径。 打开豆包工作电脑端，新建一个任务。上传4张评价数据的表格。 等一会就会看到主Agent把4家店分给4个子Agent并行处理。 任务执行过程中直接在输入框里补一句：“带图的差评单独标一列，改版时设计要看买家实拍。”不用等它答完再插话。 把豆包工作切成小窗，接着回客服消息、对直播脚本。临时要去仓库就合上电脑走人，任务在云电脑上照常跑。豆包工作电脑端和豆包手机端互通，路上可以用手机上的豆包看进度。 回来后在对话里下载「评价原因拆解表.xlsx」。 实测截图｜合并后的评价原因拆解表与差评原因对比图 大促前一周，我一天要离开工位好几趟，仓库和直播间来回跑。有些“手机操控电脑”的方案，电脑没开着就会失败。豆包工作的任务跑在云端，我合上电脑走开也不影响。 拆解表出来以后，我会先看三处。 最先看的是我们店差评明显多于竞品的那3个原因。实测生成的拆解表里，清洗便利、保温效果、密封防漏分别有15条、11条和9条差评。对照3家竞品，清洗便利最多4条，保温效果和密封防漏最多各7条。这三项因此被排进后续改版的最高优先级。 接着看追评。好几条初评是五星或四星，夸颜值、夸轻，用了二十来天到两个月，买家又回来追评，说杯盖缝刷不干净，",
       "keyIdeas": [
-        "核心信号围绕“REA的真相：能逆向任何程序的AI，唯独搞不定这个”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“备战双11，我用4个AI Agent读完400条评价改详情页”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "REA的真相：能逆向任何程序的AI，唯独搞不定这个",
+        "备战双11，我用4个AI Agent读完400条评价改详情页",
         "product-insight"
       ],
       "importantTerms": [],
       "scores": {
-        "insightDensity": 4.3,
-        "argumentDepth": 3.8,
-        "evidenceQuality": 4.5,
-        "nonConsensusValue": 4.5,
-        "transferability": 4.2,
+        "insightDensity": 4.5,
+        "argumentDepth": 4.2,
+        "evidenceQuality": 4.1,
+        "nonConsensusValue": 4.4,
+        "transferability": 4.1,
         "personalRelevance": 3.5
       },
-      "finalScore": 82.5,
-      "preRankingScore": 73.16,
+      "finalScore": 83.1,
+      "preRankingScore": 73.36,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 1,
+      "estimatedReadingMinutes": 3,
       "duplicateSources": []
     },
     {
-      "id": "9201054eeb4c74",
-      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "titleZh": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "url": "https://openai.com/index/cloudflare-cyber",
-      "author": "",
-      "source": "OpenAI News",
-      "publishedAt": "2026-10-21T00:00:00Z",
-      "discoveredAt": "2026-10-22T01:16:40Z",
+      "id": "4dcdb955782720",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "titleZh": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "author": "niemandhier",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-22T17:44:06Z",
+      "discoveredAt": "2026-10-23T01:15:47Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
       "translationStatus": "pending",
-      "sourceSnippet": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "sourceSnippet": "",
       "keyIdeas": [
-        "核心信号围绕“Cloudflare links vulnerability discovery to defense with OpenAI”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“OpenShell – A safe, private runtime for fleets of autonomous AI agents”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Cloudflare links vulnerability discovery to defe",
+        "OpenShell – A safe, private runtime for fleets o",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.4,
+        "novelty": 3.5,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 82.8,
+      "preRankingScore": 80.25,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 291,
+        "comments": 152,
+        "hnUrl": "https://news.ycombinator.com/item?id=50198675"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "eaa0ebff7daf62",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "titleZh": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-10-22T16:11:31Z",
+      "discoveredAt": "2026-10-23T01:15:46Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“OlmoEarth v1.3: State-of-the-art embeddings for the whole planet”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "OlmoEarth v1.3: State-of-the-art embeddings for ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 3.7,
+        "novelty": 4.5,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 81.0,
+      "preRankingScore": 65.09,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 9,
+      "duplicateSources": []
+    },
+    {
+      "id": "36b89264973fd2",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "titleZh": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "author": "rakannimer",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-22T16:08:00Z",
+      "discoveredAt": "2026-10-23T01:15:47Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Every AI model has the same \"controversial\" take on humans”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Every AI model has the same \"controversial\" take",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.9,
+        "sourceCredibility": 3.6,
+        "novelty": 4.5,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 80.6,
+      "preRankingScore": 80.09,
+      "readingTier": "signal",
+      "socialSignals": {
+        "points": 228,
+        "comments": 292,
+        "hnUrl": "https://news.ycombinator.com/item?id=50197313"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 10,
+      "duplicateSources": []
+    },
+    {
+      "id": "0ef7b7288d260e",
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "titleZh": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "author": "jimauthors",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-21T04:27:51Z",
+      "discoveredAt": "2026-10-23T01:15:47Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Using LLM for confidence scoring is a bad idea”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Using LLM for confidence scoring is a bad idea",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 3.9,
+        "novelty": 4.5,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 80.6,
+      "preRankingScore": 71.92,
+      "readingTier": "signal",
+      "socialSignals": {
+        "points": 202,
+        "comments": 99,
+        "hnUrl": "https://news.ycombinator.com/item?id=50176082"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 10,
+      "duplicateSources": []
+    },
+    {
+      "id": "95eb6975ad2450",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "titleZh": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-10-22T22:24:34Z",
+      "discoveredAt": "2026-10-23T01:15:46Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Turning Database Grading into RL Rewards: Post-T",
         "ai-news"
       ],
       "importantTerms": [
@@ -225,147 +369,25 @@
       ],
       "scores": {
         "eventImpact": 4.4,
-        "sourceCredibility": 4.1,
+        "sourceCredibility": 3.5,
         "novelty": 3.6,
-        "aiProductImpact": 4.5,
-        "personalRelevance": 3.5
-      },
-      "finalScore": 82.2,
-      "preRankingScore": 65.06,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 5,
-      "duplicateSources": []
-    },
-    {
-      "id": "b3fcb2e42d3211",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "titleZh": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "author": "",
-      "source": "OpenAI News",
-      "publishedAt": "2026-10-20T10:00:00Z",
-      "discoveredAt": "2026-10-22T01:16:40Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "keyIdeas": [
-        "核心信号围绕“Franchisee reconciles cash in 94% less time with ChatGPT Work”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Franchisee reconciles cash in 94% less time with",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 4.2,
-        "sourceCredibility": 3.4,
-        "novelty": 4.2,
-        "aiProductImpact": 4.3,
-        "personalRelevance": 4.4
-      },
-      "finalScore": 81.6,
-      "preRankingScore": 63.49,
-      "readingTier": "signal",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 7,
-      "duplicateSources": []
-    },
-    {
-      "id": "8a2355503fe059",
-      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
-      "titleZh": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
-      "url": "https://www.qbitai.com/2026/10/504456.html",
-      "author": "鹭羽",
-      "source": "量子位",
-      "publishedAt": "2026-10-20T12:50:34Z",
-      "discoveredAt": "2026-10-22T01:16:41Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。把记忆原生焊进Transformer",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "把记忆原生焊进Transformer",
-      "keyIdeas": [
-        "核心信号围绕“RSI三块关键拼图，MemT 1.0从模型层补上「记忆」”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.2,
-        "sourceCredibility": 3.4,
-        "novelty": 4.2,
-        "aiProductImpact": 4.3,
-        "personalRelevance": 4.3
-      },
-      "finalScore": 81.4,
-      "preRankingScore": 66.54,
-      "readingTier": "signal",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 5,
-      "duplicateSources": []
-    },
-    {
-      "id": "e4060c1420df18",
-      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
-      "titleZh": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
-      "url": "https://www.qbitai.com/2026/10/504517.html",
-      "author": "Jay",
-      "source": "量子位",
-      "publishedAt": "2026-10-20T13:29:54Z",
-      "discoveredAt": "2026-10-22T01:16:41Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。兔皮底下，竟然是MiniMax！",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "兔皮底下，竟然是MiniMax！",
-      "keyIdeas": [
-        "核心信号围绕“国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 3.5,
-        "sourceCredibility": 4.3,
-        "novelty": 4.4,
         "aiProductImpact": 3.9,
-        "personalRelevance": 4.4
+        "personalRelevance": 4.0
       },
-      "finalScore": 80.2,
-      "preRankingScore": 66.58,
+      "finalScore": 78.4,
+      "preRankingScore": 65.71,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 2,
+      "estimatedReadingMinutes": 22,
       "duplicateSources": []
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "量子位",
+      "error": "HTTPSConnectionPool(host='www.qbitai.com', port=443): Read timed out. (read timeout=15)",
+      "timestamp": "2026-10-23T01:16:01Z"
+    }
+  ]
 }
