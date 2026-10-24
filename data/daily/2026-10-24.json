@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T01:23:50Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 235,
+    "afterDeduplication": 232,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "ba6fa07d677a82",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "titleZh": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "discoveredAt": "2026-10-24T01:23:41Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "keyIdeas": [
+        "核心信号围绕“Uber brings ChatGPT Work to all employees with OpenAI”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Uber brings ChatGPT Work to all employees with O",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.0,
+        "novelty": 4.1,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 84.0,
+      "preRankingScore": 62.61,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "19942e3e5417f0",
+      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "titleZh": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "url": "https://www.qbitai.com/2026/10/504841.html",
+      "author": "杰西卡",
+      "source": "量子位",
+      "publishedAt": "2026-10-22T07:14:48Z",
+      "discoveredAt": "2026-10-24T01:23:43Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。FSD一年增长70万付费用户",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "FSD一年增长70万付费用户",
+      "keyIdeas": [
+        "核心信号围绕“特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.0,
+        "novelty": 3.8,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 82.8,
+      "preRankingScore": 65.93,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "93297a6f85ac31",
+      "title": "中国企业出海的下一站：从品牌“敲门”，到跨境电商“搭桥”",
+      "titleZh": "中国企业出海的下一站：从品牌“敲门”，到跨境电商“搭桥”",
+      "url": "https://www.woshipm.com/it/6482998.html",
+      "author": "互联网江湖",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-23T08:01:01Z",
+      "discoveredAt": "2026-10-24T01:23:43Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。今年双十一，卖货只是表象，京东、阿里、字节纷纷借大促窗口亮出长期战略。速卖通联合天猫推出“中国品牌全球增长计划”，从试水走向全品牌出海覆盖，甚至下场孵化AI硬件品牌。本文深度拆解跨境电商分化格局下，速卖通如何与Temu、SHEIN走出差异化路线，以及中国品牌全球化从输出产能到输出品牌的必然跃迁。 今年双十一，是个有点不同寻常的双十一。 啥意思呢？ 不知道大家有没有发现，虽然今年双十一卖货还是重头戏，但是在此之外，各家又多了点新的故事。 比如，在前些天的京东双十一发布会上，除了提到优惠补贴外，京东11.11还突然宣布了京东服务全面升级。 为什么要在一个卖货节点，去宣传服务？ 而且这其中，仅送装一体等少数服务场景和双十一有强关联，其他的（比如家政保洁等）都不太强调时间节点。 我们不禁有了一个大胆猜测：现在京东发力服",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "今年双十一，卖货只是表象，京东、阿里、字节纷纷借大促窗口亮出长期战略。速卖通联合天猫推出“中国品牌全球增长计划”，从试水走向全品牌出海覆盖，甚至下场孵化AI硬件品牌。本文深度拆解跨境电商分化格局下，速卖通如何与Temu、SHEIN走出差异化路线，以及中国品牌全球化从输出产能到输出品牌的必然跃迁。 今年双十一，是个有点不同寻常的双十一。 啥意思呢？ 不知道大家有没有发现，虽然今年双十一卖货还是重头戏，但是在此之外，各家又多了点新的故事。 比如，在前些天的京东双十一发布会上，除了提到优惠补贴外，京东11.11还突然宣布了京东服务全面升级。 为什么要在一个卖货节点，去宣传服务？ 而且这其中，仅送装一体等少数服务场景和双十一有强关联，其他的（比如家政保洁等）都不太强调时间节点。 我们不禁有了一个大胆猜测：现在京东发力服务化，可能不单单是为了双11，而更像是借着双11的热度窗口，完成的一次长期战略亮相。 再比如阿里集团，今年双11开售前夕，速卖通也与天猫联合发布了“中国品牌全球增长计划”。 那么同样的问题，为什么阿里要在国内双11节点来讲跨境电商的事儿？ 这似乎也不是为了卖货，而是想借此宣传跨境电商业务的战略升级。 最后还有豆包，今年不仅承接了抖音电商双11消费券发放的部分重任，同时还专设了“双十一问豆包”导航栏…… 要知道，抖音电商的流量入口那么多，为什么现在非要让豆包来发券？ 这背后也有一种可能：此次双十一，让豆包卖货只是表象，更深层的其实是在给豆包电商化战略做铺垫…… 可见，今年双十一，卖货带货是基操——毕竟，双十一这个时间点，来都来了。 但更重要的，其实是借助大促流量节点来带集团的新战略，这才是此次双11的高级隐藏玩法。 既然这样，在上篇文章中，我们已经解读完京东服务化了。 那么这次我们就不妨把目光放到当前中国企业出海寻找增量的大背景下，看一看速卖通、Temu们到底走到哪一步了。 跨境电商分化，中国品牌出海等风来 其实对于出海，过去两年我们和很多消费、科技品牌聊，发现大家有一个共识是： 在卖货这件事上，中国企业和跨境电商们已经做的很好了，唯独在卖品牌和全球化运营方面，整体还缺一个可以带领全品类、全品牌出海的便捷“通道”。 这话前半截很好理解——据海关总署数据显示，2026年上半年我国货物贸易出口总值达14.73万亿元，同比增长13.4%，连续11个季度保持增长。 但后半截可能会有人疑问：中国企业品牌化出海确实难，可近些年Temu、SHEIN们不是已经在加码扶持了吗？ 这话不假。 一、Temu一开始的定位是帮中小卖家出海，虽然后续实现了较大拓展，但整体平台调性和主要消费人群并非一朝一夕就能改变的，所以这就决定了它很难满足国内大中小全品类品牌们的出海需求…… 二、SHEIN也是如此，它可以带领快时尚鞋服女装等核心品类商家出海，但很难实现对中国品牌出海的全覆盖。 同",
+      "keyIdeas": [
+        "核心信号围绕“中国企业出海的下一站：从品牌“敲门”，到跨境电商“搭桥””展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "中国企业出海的下一站：从品牌“敲门”，到跨境电商“搭桥”",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.2,
+        "argumentDepth": 4.2,
+        "evidenceQuality": 4.4,
+        "nonConsensusValue": 4.3,
+        "transferability": 3.9,
+        "personalRelevance": 3.6
+      },
+      "finalScore": 82.2,
+      "preRankingScore": 73.26,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "6430909168b586",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "titleZh": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "discoveredAt": "2026-10-24T01:23:41Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Does Your Model Run on AWS Trainium? Look It Up”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Does Your Model Run on AWS Trainium? Look It Up",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.0,
+        "novelty": 4.0,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 81.2,
+      "preRankingScore": 63.46,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "1fd8476b4493a5",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "titleZh": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "author": "Jowsey",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-23T16:59:08Z",
+      "discoveredAt": "2026-10-24T01:23:42Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai",
+      "keyIdeas": [
+        "核心信号围绕“Kimi K3.1 Pro and K3.1 Pro Highspeed”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 3.8,
+        "novelty": 3.9,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 80.8,
+      "preRankingScore": 81.76,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 709,
+        "comments": 451,
+        "hnUrl": "https://news.ycombinator.com/item?id=50212065"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "53ef81310569af",
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "titleZh": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "url": "https://www.qbitai.com/2026/10/504879.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-22T09:07:05Z",
+      "discoveredAt": "2026-10-24T01:23:43Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+      "keyIdeas": [
+        "核心信号围绕“又一国产决策模型发布！准确率超过微软和Jev等决策模型”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.8,
+        "novelty": 3.8,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 81.6,
+      "preRankingScore": 66.37,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "855e956ab3ec1a",
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "titleZh": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "url": "https://www.qbitai.com/2026/10/504832.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-22T07:11:14Z",
+      "discoveredAt": "2026-10-24T01:23:43Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+      "keyIdeas": [
+        "核心信号围绕“既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.1,
+        "sourceCredibility": 3.9,
+        "novelty": 4.1,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 81.4,
+      "preRankingScore": 66.36,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "298c8de07d18f4",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "titleZh": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-23T17:00:00Z",
+      "discoveredAt": "2026-10-24T01:23:41Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "keyIdeas": [
+        "核心信号围绕“Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Rapidly scaling online storage to serve over 1 b",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 3.7,
+        "novelty": 3.9,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 80.6,
+      "preRankingScore": 66.53,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T01:16:08Z",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T01:23:50Z",
   "mode": "metadata",
   "stats": {
-    "discovered": 225,
-    "afterDeduplication": 223,
+    "discovered": 235,
+    "afterDeduplication": 232,
     "deepReviewed": 40,
     "recommended": 8
   },
@@ -18,7 +18,7 @@
       "author": "",
       "source": "OpenAI News",
       "publishedAt": "2026-10-22T00:00:00Z",
-      "discoveredAt": "2026-10-23T01:15:45Z",
+      "discoveredAt": "2026-10-24T01:23:41Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -42,14 +42,14 @@
         }
       ],
       "scores": {
-        "eventImpact": 4.3,
-        "sourceCredibility": 4.1,
-        "novelty": 4.2,
-        "aiProductImpact": 4.5,
-        "personalRelevance": 4.5
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.0,
+        "novelty": 4.1,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.4
       },
-      "finalScore": 86.0,
-      "preRankingScore": 65.02,
+      "finalScore": 84.0,
+      "preRankingScore": 62.61,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -57,98 +57,97 @@
       "duplicateSources": []
     },
     {
-      "id": "59ca351d34153a",
-      "title": "实体店提升利润的 7 个环节：从获客到复购的完整链条",
-      "titleZh": "实体店提升利润的 7 个环节：从获客到复购的完整链条",
-      "url": "https://www.woshipm.com/share/6482657.html",
-      "author": "老陈的深度思考",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-10-22T07:59:14Z",
-      "discoveredAt": "2026-10-23T01:15:47Z",
+      "id": "19942e3e5417f0",
+      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "titleZh": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "url": "https://www.qbitai.com/2026/10/504841.html",
+      "author": "杰西卡",
+      "source": "量子位",
+      "publishedAt": "2026-10-22T07:14:48Z",
+      "discoveredAt": "2026-10-24T01:23:43Z",
       "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。利润不是靠单一涨价涨出来的，而是一套经营系统跑出来的。从获取精准客户、优化成交流程、拉高客单价，到复购与转介绍，七个环节逐个拆开，讲的是实体店今天就能落地的那部分。 其实利润不是靠单一涨价得来的，而是一套完整经营系统跑出来的。实体想要拉高利润，核心就做好七件事，把每个环节优化，利润自然往上走。 第一，获取更多精准客户 没有客户，一切盈利都是空谈。 所以要搭建完整获客流程，设计有吸引力的获客主张、获客钩子。 利用短视频引流、老客户裂变、异业合作等渠道，源源不断吸引精准目标客户。 第二，优化成交流程和成交主张，提升转化率 有了客户不代表就能、就能收钱，而且要是成交率很低那这些精准流量就很浪费。 所以要梳理从进店到下单的完整路径，搭配对应的成交方案，打消顾客顾虑，把到店流量变成实际买单的客户。 第三，拉高客单价 搭建",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。FSD一年增长70万付费用户",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "利润不是靠单一涨价涨出来的，而是一套经营系统跑出来的。从获取精准客户、优化成交流程、拉高客单价，到复购与转介绍，七个环节逐个拆开，讲的是实体店今天就能落地的那部分。 其实利润不是靠单一涨价得来的，而是一套完整经营系统跑出来的。实体想要拉高利润，核心就做好七件事，把每个环节优化，利润自然往上走。 第一，获取更多精准客户 没有客户，一切盈利都是空谈。 所以要搭建完整获客流程，设计有吸引力的获客主张、获客钩子。 利用短视频引流、老客户裂变、异业合作等渠道，源源不断吸引精准目标客户。 第二，优化成交流程和成交主张，提升转化率 有了客户不代表就能、就能收钱，而且要是成交率很低那这些精准流量就很浪费。 所以要梳理从进店到下单的完整路径，搭配对应的成交方案，打消顾客顾虑，把到店流量变成实际买单的客户。 第三，拉高客单价 搭建完整的产品和价格体系，搭配引流款、利润款，引导客户多消费、升级消费。同样来一个顾客，消费金额越高，整体营收才会增长。 第四，提升运营效率 同样的房租、人工成本，拼的就是效率。 所以要优化服务流程、出餐流程，减少人力浪费，用同等成本承接更多客户，间接增加收益。 第五，管控运营成本 定期梳理全部开支，分清必要支出和无效开销。不该花的钱果断砍掉，不是一味压缩品质，而是杜绝浪费，守住利润底线。 第六，减少客户流失，提高复购 开发一个新客户成本远高于维护老客户。 所以要做好服务体验，做好客户维护，让来过的顾客愿意二次消费、多次消费，不要做一锤子买卖。 第七，放大客户终身价值 让客户能持续复购、持续消费、持续裂变、持续转介绍。 要围绕客户的需求、痛点、想要解决的问题，持续给他们提供他们想要的产品、价值、服务、解决方案。 总的来说，利润公式很简单：利润 = 流量 × 转化率 × 客单价成本，再叠加复购与转介绍。把这七个环节逐个打磨，不依赖运气，靠系统稳定赚钱 本文由人人都是产品经理作者【老陈的深度思考】，微信公众号：【老陈的深度思考】，原创/授权 发布于人人都是产品经理，未经许可，禁止转载 题图来自Unsplash，基于 CC0 协议",
+      "sourceSnippet": "FSD一年增长70万付费用户",
       "keyIdeas": [
-        "核心信号围绕“实体店提升利润的 7 个环节：从获客到复购的完整链条”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "实体店提升利润的 7 个环节：从获客到复购的完整链条",
+        "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.0,
+        "novelty": 3.8,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 82.8,
+      "preRankingScore": 65.93,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "93297a6f85ac31",
+      "title": "中国企业出海的下一站：从品牌“敲门”，到跨境电商“搭桥”",
+      "titleZh": "中国企业出海的下一站：从品牌“敲门”，到跨境电商“搭桥”",
+      "url": "https://www.woshipm.com/it/6482998.html",
+      "author": "互联网江湖",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-23T08:01:01Z",
+      "discoveredAt": "2026-10-24T01:23:43Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。今年双十一，卖货只是表象，京东、阿里、字节纷纷借大促窗口亮出长期战略。速卖通联合天猫推出“中国品牌全球增长计划”，从试水走向全品牌出海覆盖，甚至下场孵化AI硬件品牌。本文深度拆解跨境电商分化格局下，速卖通如何与Temu、SHEIN走出差异化路线，以及中国品牌全球化从输出产能到输出品牌的必然跃迁。 今年双十一，是个有点不同寻常的双十一。 啥意思呢？ 不知道大家有没有发现，虽然今年双十一卖货还是重头戏，但是在此之外，各家又多了点新的故事。 比如，在前些天的京东双十一发布会上，除了提到优惠补贴外，京东11.11还突然宣布了京东服务全面升级。 为什么要在一个卖货节点，去宣传服务？ 而且这其中，仅送装一体等少数服务场景和双十一有强关联，其他的（比如家政保洁等）都不太强调时间节点。 我们不禁有了一个大胆猜测：现在京东发力服",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "今年双十一，卖货只是表象，京东、阿里、字节纷纷借大促窗口亮出长期战略。速卖通联合天猫推出“中国品牌全球增长计划”，从试水走向全品牌出海覆盖，甚至下场孵化AI硬件品牌。本文深度拆解跨境电商分化格局下，速卖通如何与Temu、SHEIN走出差异化路线，以及中国品牌全球化从输出产能到输出品牌的必然跃迁。 今年双十一，是个有点不同寻常的双十一。 啥意思呢？ 不知道大家有没有发现，虽然今年双十一卖货还是重头戏，但是在此之外，各家又多了点新的故事。 比如，在前些天的京东双十一发布会上，除了提到优惠补贴外，京东11.11还突然宣布了京东服务全面升级。 为什么要在一个卖货节点，去宣传服务？ 而且这其中，仅送装一体等少数服务场景和双十一有强关联，其他的（比如家政保洁等）都不太强调时间节点。 我们不禁有了一个大胆猜测：现在京东发力服务化，可能不单单是为了双11，而更像是借着双11的热度窗口，完成的一次长期战略亮相。 再比如阿里集团，今年双11开售前夕，速卖通也与天猫联合发布了“中国品牌全球增长计划”。 那么同样的问题，为什么阿里要在国内双11节点来讲跨境电商的事儿？ 这似乎也不是为了卖货，而是想借此宣传跨境电商业务的战略升级。 最后还有豆包，今年不仅承接了抖音电商双11消费券发放的部分重任，同时还专设了“双十一问豆包”导航栏…… 要知道，抖音电商的流量入口那么多，为什么现在非要让豆包来发券？ 这背后也有一种可能：此次双十一，让豆包卖货只是表象，更深层的其实是在给豆包电商化战略做铺垫…… 可见，今年双十一，卖货带货是基操——毕竟，双十一这个时间点，来都来了。 但更重要的，其实是借助大促流量节点来带集团的新战略，这才是此次双11的高级隐藏玩法。 既然这样，在上篇文章中，我们已经解读完京东服务化了。 那么这次我们就不妨把目光放到当前中国企业出海寻找增量的大背景下，看一看速卖通、Temu们到底走到哪一步了。 跨境电商分化，中国品牌出海等风来 其实对于出海，过去两年我们和很多消费、科技品牌聊，发现大家有一个共识是： 在卖货这件事上，中国企业和跨境电商们已经做的很好了，唯独在卖品牌和全球化运营方面，整体还缺一个可以带领全品类、全品牌出海的便捷“通道”。 这话前半截很好理解——据海关总署数据显示，2026年上半年我国货物贸易出口总值达14.73万亿元，同比增长13.4%，连续11个季度保持增长。 但后半截可能会有人疑问：中国企业品牌化出海确实难，可近些年Temu、SHEIN们不是已经在加码扶持了吗？ 这话不假。 一、Temu一开始的定位是帮中小卖家出海，虽然后续实现了较大拓展，但整体平台调性和主要消费人群并非一朝一夕就能改变的，所以这就决定了它很难满足国内大中小全品类品牌们的出海需求…… 二、SHEIN也是如此，它可以带领快时尚鞋服女装等核心品类商家出海，但很难实现对中国品牌出海的全覆盖。 同",
+      "keyIdeas": [
+        "核心信号围绕“中国企业出海的下一站：从品牌“敲门”，到跨境电商“搭桥””展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "中国企业出海的下一站：从品牌“敲门”，到跨境电商“搭桥”",
         "product-insight"
       ],
       "importantTerms": [],
       "scores": {
-        "insightDensity": 4.5,
-        "argumentDepth": 4.3,
+        "insightDensity": 4.2,
+        "argumentDepth": 4.2,
         "evidenceQuality": 4.4,
         "nonConsensusValue": 4.3,
-        "transferability": 4.5,
+        "transferability": 3.9,
         "personalRelevance": 3.6
       },
-      "finalScore": 85.6,
-      "preRankingScore": 70.05,
+      "finalScore": 82.2,
+      "preRankingScore": 73.26,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 1,
+      "estimatedReadingMinutes": 4,
       "duplicateSources": []
     },
     {
-      "id": "e9348cdf92615c",
-      "title": "备战双11，我用4个AI Agent读完400条评价改详情页",
-      "titleZh": "备战双11，我用4个AI Agent读完400条评价改详情页",
-      "url": "https://www.woshipm.com/ai/6482653.html",
-      "author": "AI高手杜小虎",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-10-22T08:50:41Z",
-      "discoveredAt": "2026-10-23T01:15:47Z",
-      "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。双 11 前一周，主推款转化率一路往下掉，设计问改哪几屏，他只憋出一句「保温要加强」。后来他把自家和三家竞品近 90 天的 400 条评价丢给豆包工作，让 4 个 Agent 分头读完。 最近和做电商的朋友交流，分享一下他用豆包工作来辅助电商运营岗位的经验 在双11预售开始前一周，店里的主推款保温杯转化率一直往下走。老板拍板改详情页，设计同事来问：“改哪几屏？先讲什么？”我答不上来，憋了半天只说出一句“保温那块好像要加强”。 改哪几屏，评价区里早就写着。买家把杯子买回去、用了一个月以后写下的抱怨，就是现成的可用性反馈。详情页也是一条用户路径，买家在哪一步犹豫，用了以后又在哪里后悔，评价区写得清清楚楚。 我把自家店和3家竞品店近90天的评价各导出100条，一共400条，交给了豆包工作。 豆包工作是豆包推出的独立电",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "双 11 前一周，主推款转化率一路往下掉，设计问改哪几屏，他只憋出一句「保温要加强」。后来他把自家和三家竞品近 90 天的 400 条评价丢给豆包工作，让 4 个 Agent 分头读完。 最近和做电商的朋友交流，分享一下他用豆包工作来辅助电商运营岗位的经验 在双11预售开始前一周，店里的主推款保温杯转化率一直往下走。老板拍板改详情页，设计同事来问：“改哪几屏？先讲什么？”我答不上来，憋了半天只说出一句“保温那块好像要加强”。 改哪几屏，评价区里早就写着。买家把杯子买回去、用了一个月以后写下的抱怨，就是现成的可用性反馈。详情页也是一条用户路径，买家在哪一步犹豫，用了以后又在哪里后悔，评价区写得清清楚楚。 我把自家店和3家竞品店近90天的评价各导出100条，一共400条，交给了豆包工作。 豆包工作是豆包推出的独立电脑端，内置AI办公Agent能力，能像真人助理一样一句话派活，自动执行复杂办公任务。这次我一共说了三句话。第一句拆评价，第二句拿拆出来的结果去对现有详情页，最后一句按新屏序写文案、出首屏草图。 第一步：4个Agent分头读评价，用同一套口径 每张表都按后台导出的格式排，一行一条评价，星级和评价内容之外，追评和是否带图也单独成列。3家竞品各有各的路数。拾木一键弹盖保温杯的强项是开盖方便、倒放不漏，北岸大容量316保温杯保温久但是重，小禾学生保温杯靠便宜和颜色可爱走量。 400条评价要是自己读至少得一下午。读到后面人会松，前五十条还在逐字抠，最后一家店基本就是扫一眼，同一类抱怨前后归得也不一样。这次我让一家店对一个Agent，4个Agent用同一套原因口径。 打开豆包工作电脑端，新建一个任务。上传4张评价数据的表格。 等一会就会看到主Agent把4家店分给4个子Agent并行处理。 任务执行过程中直接在输入框里补一句：“带图的差评单独标一列，改版时设计要看买家实拍。”不用等它答完再插话。 把豆包工作切成小窗，接着回客服消息、对直播脚本。临时要去仓库就合上电脑走人，任务在云电脑上照常跑。豆包工作电脑端和豆包手机端互通，路上可以用手机上的豆包看进度。 回来后在对话里下载「评价原因拆解表.xlsx」。 实测截图｜合并后的评价原因拆解表与差评原因对比图 大促前一周，我一天要离开工位好几趟，仓库和直播间来回跑。有些“手机操控电脑”的方案，电脑没开着就会失败。豆包工作的任务跑在云端，我合上电脑走开也不影响。 拆解表出来以后，我会先看三处。 最先看的是我们店差评明显多于竞品的那3个原因。实测生成的拆解表里，清洗便利、保温效果、密封防漏分别有15条、11条和9条差评。对照3家竞品，清洗便利最多4条，保温效果和密封防漏最多各7条。这三项因此被排进后续改版的最高优先级。 接着看追评。好几条初评是五星或四星，夸颜值、夸轻，用了二十来天到两个月，买家又回来追评，说杯盖缝刷不干净，",
-      "keyIdeas": [
-        "核心信号围绕“备战双11，我用4个AI Agent读完400条评价改详情页”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "备战双11，我用4个AI Agent读完400条评价改详情页",
-        "product-insight"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "insightDensity": 4.5,
-        "argumentDepth": 4.2,
-        "evidenceQuality": 4.1,
-        "nonConsensusValue": 4.4,
-        "transferability": 4.1,
-        "personalRelevance": 3.5
-      },
-      "finalScore": 83.1,
-      "preRankingScore": 73.36,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
-      "duplicateSources": []
-    },
-    {
-      "id": "4dcdb955782720",
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "titleZh": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "author": "niemandhier",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-22T17:44:06Z",
-      "discoveredAt": "2026-10-23T01:15:47Z",
+      "id": "6430909168b586",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "titleZh": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "discoveredAt": "2026-10-24T01:23:41Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -156,13 +155,59 @@
       "translationStatus": "pending",
       "sourceSnippet": "",
       "keyIdeas": [
-        "核心信号围绕“OpenShell – A safe, private runtime for fleets of autonomous AI agents”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Does Your Model Run on AWS Trainium? Look It Up”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "OpenShell – A safe, private runtime for fleets o",
+        "Does Your Model Run on AWS Trainium? Look It Up",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.0,
+        "novelty": 4.0,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 81.2,
+      "preRankingScore": 63.46,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "1fd8476b4493a5",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "titleZh": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "author": "Jowsey",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-23T16:59:08Z",
+      "discoveredAt": "2026-10-24T01:23:42Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai",
+      "keyIdeas": [
+        "核心信号围绕“Kimi K3.1 Pro and K3.1 Pro Highspeed”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Kimi K3.1 Pro and K3.1 Pro Highspeed",
         "ai-news"
       ],
       "importantTerms": [
@@ -173,192 +218,128 @@
       ],
       "scores": {
         "eventImpact": 4.3,
-        "sourceCredibility": 4.4,
-        "novelty": 3.5,
-        "aiProductImpact": 4.1,
-        "personalRelevance": 4.5
-      },
-      "finalScore": 82.8,
-      "preRankingScore": 80.25,
-      "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 291,
-        "comments": 152,
-        "hnUrl": "https://news.ycombinator.com/item?id=50198675"
-      },
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 5,
-      "duplicateSources": []
-    },
-    {
-      "id": "eaa0ebff7daf62",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "titleZh": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "author": "",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-10-22T16:11:31Z",
-      "discoveredAt": "2026-10-23T01:15:46Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
-      "keyIdeas": [
-        "核心信号围绕“OlmoEarth v1.3: State-of-the-art embeddings for the whole planet”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "OlmoEarth v1.3: State-of-the-art embeddings for ",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 4.0,
-        "sourceCredibility": 3.7,
-        "novelty": 4.5,
+        "sourceCredibility": 3.8,
+        "novelty": 3.9,
         "aiProductImpact": 3.8,
         "personalRelevance": 4.5
       },
-      "finalScore": 81.0,
-      "preRankingScore": 65.09,
+      "finalScore": 80.8,
+      "preRankingScore": 81.76,
       "readingTier": "worth-reading",
-      "socialSignals": {},
+      "socialSignals": {
+        "points": 709,
+        "comments": 451,
+        "hnUrl": "https://news.ycombinator.com/item?id=50212065"
+      },
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 9,
+      "estimatedReadingMinutes": 22,
       "duplicateSources": []
     },
     {
-      "id": "36b89264973fd2",
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "titleZh": "Every AI model has the same \"controversial\" take on humans",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "author": "rakannimer",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-22T16:08:00Z",
-      "discoveredAt": "2026-10-23T01:15:47Z",
-      "language": "en",
+      "id": "53ef81310569af",
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "titleZh": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "url": "https://www.qbitai.com/2026/10/504879.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-22T09:07:05Z",
+      "discoveredAt": "2026-10-24T01:23:43Z",
+      "language": "zh-CN",
       "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
       "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
       "keyIdeas": [
-        "核心信号围绕“Every AI model has the same \"controversial\" take on humans”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“又一国产决策模型发布！准确率超过微软和Jev等决策模型”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Every AI model has the same \"controversial\" take",
+        "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
         "ai-news"
       ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
+      "importantTerms": [],
       "scores": {
-        "eventImpact": 3.9,
-        "sourceCredibility": 3.6,
-        "novelty": 4.5,
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.8,
+        "novelty": 3.8,
         "aiProductImpact": 4.0,
         "personalRelevance": 4.4
       },
-      "finalScore": 80.6,
-      "preRankingScore": 80.09,
+      "finalScore": 81.6,
+      "preRankingScore": 66.37,
       "readingTier": "signal",
-      "socialSignals": {
-        "points": 228,
-        "comments": 292,
-        "hnUrl": "https://news.ycombinator.com/item?id=50197313"
-      },
+      "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 10,
+      "estimatedReadingMinutes": 3,
       "duplicateSources": []
     },
     {
-      "id": "0ef7b7288d260e",
-      "title": "Using LLM for confidence scoring is a bad idea",
-      "titleZh": "Using LLM for confidence scoring is a bad idea",
-      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "author": "jimauthors",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-21T04:27:51Z",
-      "discoveredAt": "2026-10-23T01:15:47Z",
-      "language": "en",
+      "id": "855e956ab3ec1a",
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "titleZh": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "url": "https://www.qbitai.com/2026/10/504832.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-22T07:11:14Z",
+      "discoveredAt": "2026-10-24T01:23:43Z",
+      "language": "zh-CN",
       "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
       "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
       "keyIdeas": [
-        "核心信号围绕“Using LLM for confidence scoring is a bad idea”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Using LLM for confidence scoring is a bad idea",
+        "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
         "ai-news"
       ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
+      "importantTerms": [],
       "scores": {
-        "eventImpact": 4.0,
+        "eventImpact": 4.1,
         "sourceCredibility": 3.9,
-        "novelty": 4.5,
-        "aiProductImpact": 3.9,
-        "personalRelevance": 3.7
+        "novelty": 4.1,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.4
       },
-      "finalScore": 80.6,
-      "preRankingScore": 71.92,
+      "finalScore": 81.4,
+      "preRankingScore": 66.36,
       "readingTier": "signal",
-      "socialSignals": {
-        "points": 202,
-        "comments": 99,
-        "hnUrl": "https://news.ycombinator.com/item?id=50176082"
-      },
+      "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 10,
+      "estimatedReadingMinutes": 4,
       "duplicateSources": []
     },
     {
-      "id": "95eb6975ad2450",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "titleZh": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "id": "298c8de07d18f4",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "titleZh": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "author": "",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-10-22T22:24:34Z",
-      "discoveredAt": "2026-10-23T01:15:46Z",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-23T17:00:00Z",
+      "discoveredAt": "2026-10-24T01:23:41Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
       "translationStatus": "pending",
-      "sourceSnippet": "",
+      "sourceSnippet": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
       "keyIdeas": [
-        "核心信号围绕“Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Turning Database Grading into RL Rewards: Post-T",
+        "Rapidly scaling online storage to serve over 1 b",
         "ai-news"
       ],
       "importantTerms": [
@@ -368,14 +349,14 @@
         }
       ],
       "scores": {
-        "eventImpact": 4.4,
-        "sourceCredibility": 3.5,
-        "novelty": 3.6,
+        "eventImpact": 4.3,
+        "sourceCredibility": 3.7,
+        "novelty": 3.9,
         "aiProductImpact": 3.9,
-        "personalRelevance": 4.0
+        "personalRelevance": 4.4
       },
-      "finalScore": 78.4,
-      "preRankingScore": 65.71,
+      "finalScore": 80.6,
+      "preRankingScore": 66.53,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -383,11 +364,5 @@
       "duplicateSources": []
     }
   ],
-  "errors": [
-    {
-      "source": "量子位",
-      "error": "HTTPSConnectionPool(host='www.qbitai.com', port=443): Read timed out. (read timeout=15)",
-      "timestamp": "2026-10-23T01:16:01Z"
-    }
-  ]
+  "errors": []
 }
