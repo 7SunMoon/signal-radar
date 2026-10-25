@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T00:52:42Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 235,
+    "afterDeduplication": 233,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "ba6fa07d677a82",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "titleZh": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "discoveredAt": "2026-10-25T00:52:33Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "keyIdeas": [
+        "核心信号围绕“Uber brings ChatGPT Work to all employees with OpenAI”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Uber brings ChatGPT Work to all employees with O",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.0,
+        "novelty": 4.1,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 84.0,
+      "preRankingScore": 60.26,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "c27242c921217b",
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "titleZh": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "author": "westsmith",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-20T19:22:39Z",
+      "discoveredAt": "2026-10-25T00:52:34Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“A practical guide to AI image generation, from diffusion to agents”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "A practical guide to AI image generation, from d",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.4,
+        "novelty": 3.6,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 82.0,
+      "preRankingScore": 67.7,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 243,
+        "comments": 81,
+        "hnUrl": "https://news.ycombinator.com/item?id=50171379"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "6430909168b586",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "titleZh": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "discoveredAt": "2026-10-25T00:52:33Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Does Your Model Run on AWS Trainium? Look It Up”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Does Your Model Run on AWS Trainium? Look It Up",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.0,
+        "novelty": 4.0,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 81.2,
+      "preRankingScore": 61.11,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "2ad09e493f28ed",
+      "title": "广告界教务长韦伯·扬：23条“旧元素新组合”的创意生成法则",
+      "titleZh": "广告界教务长韦伯·扬：23条“旧元素新组合”的创意生成法则",
+      "url": "https://www.woshipm.com/share/6483667.html",
+      "author": "品牌猿",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-24T03:41:09Z",
+      "discoveredAt": "2026-10-25T00:52:35Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。智威汤逊首席创作总监韦伯·扬留下两条判断：创意不过是旧元素的新组合，优秀广告人是通才而非专才。23条法则从创意五步法讲到魔岛理论，配可口可乐、美国陆军等经典案例。 詹姆斯・韦伯・扬（James Webb Young），智威汤逊（JWT）首席创作总监，广告生涯长达 60 余年，美国广告史上影响力最深远的创意大师之一。少年辍学，先后做印刷工、书店推销员，最终成为广告界 “通才杂学” 的标杆，晚年深耕广告教育，被誉为 美国广告界的教务长 。 著有《创意的生成》《广告人日记》《如何成为广告人》，其中《创意的生成》源自芝加哥大学商学院讲义，被译成 30 余种语言，是现代创意理论的奠基之作。 他留下两大传世观点：① 创意不过是旧元素的新组合； ② 优秀广告人是通才，而非专才 。 一、创意的本质：旧元素，新组合 1、创意，无",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "智威汤逊首席创作总监韦伯·扬留下两条判断：创意不过是旧元素的新组合，优秀广告人是通才而非专才。23条法则从创意五步法讲到魔岛理论，配可口可乐、美国陆军等经典案例。 詹姆斯・韦伯・扬（James Webb Young），智威汤逊（JWT）首席创作总监，广告生涯长达 60 余年，美国广告史上影响力最深远的创意大师之一。少年辍学，先后做印刷工、书店推销员，最终成为广告界 “通才杂学” 的标杆，晚年深耕广告教育，被誉为 美国广告界的教务长 。 著有《创意的生成》《广告人日记》《如何成为广告人》，其中《创意的生成》源自芝加哥大学商学院讲义，被译成 30 余种语言，是现代创意理论的奠基之作。 他留下两大传世观点：① 创意不过是旧元素的新组合； ② 优秀广告人是通才，而非专才 。 一、创意的本质：旧元素，新组合 1、创意，无非就是旧元素的新组合。 创意两大底层原则 第一原则：一条创意其实就是以前要素的一个新组合。 第二原则：把旧元素重新组合的能力，很大程度取决于看见事物关联的能力。 广告创意 = 产品、用户的特定事实 + 人生、世界的通识，重新组合。 2、养成在事实之间寻找关联的思维习惯，是创意产出最重要的事。 3、广告里的创意， 是把产品与人的专属认知，和关于生活世事的通识重新组合。 4、创意的魔岛理论（Magic Island） 我认为，一个创意具有某种神秘的质量，它就像在南海上漫游的水手突然发现童话般的岛屿一样……它们只是突然间浮出脑海。 5、创意像万花筒 广告的构建，就是在这个万花筒般的世界中构建一种新的图案。 二、创意的产生：积累、消化、等待 1、创意生成五步法 ① 收集素材：专属素材（产品、用户调研）+ 泛素材（生活、人文、各行各业见闻） ② 咀嚼消化：在脑中反复把玩、比对素材 ③ 酝酿放一放：脱离问题，交给潜意识加工（魔岛阶段） ④ 灵光闪现：创意自己跳出来（“啊哈时刻”） ⑤ 落地验证：放到现实里检验、修正，接受他人评判 2 、不断扩展你的经验这一原则……在任何产生想法的工作中，都至关重要。 3、好的创意人像一头牛：不浏览，就没有奶 我认识的每一位真正优秀的广告创意人都有两个显著特征：第一，天下没有什么主题是他不能轻易产生兴趣的……第二，他是一个广泛的浏览者。 广告人就像奶牛：不去四处采食，就产不出奶。 4、只有有意识的功课做足，潜意识才能好好工作。 灵感看似偶然降临，前提是漫长的准备。 5、好创意自带生长力，会启发看见它的人继续延伸、丰富它。 三、广告的意义：正义力量的仆人 1、 广告可以让人暂时从生活的战争中解脱。 生活像是被命运推着走的一场无言战争，如果有任何广告可以让他们暂时解脱，有任何产品可以为他们的生活增加一点趣味，那就是意义深远的事。 2、广告应当成为“正义力量的仆人”（ 这番讲话直接促成了美国广告理事会的成立 ）。 3、广告的工作， 是让产",
+      "keyIdeas": [
+        "核心信号围绕“广告界教务长韦伯·扬：23条“旧元素新组合”的创意生成法则”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "广告界教务长韦伯·扬：23条“旧元素新组合”的创意生成法则",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.1,
+        "argumentDepth": 4.1,
+        "evidenceQuality": 4.0,
+        "nonConsensusValue": 4.3,
+        "transferability": 3.4,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 81.1,
+      "preRankingScore": 72.88,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "c5028f461d1c30",
+      "title": "双11预售开始了，定金、尾款和退款怎么管？",
+      "titleZh": "双11预售开始了，定金、尾款和退款怎么管？",
+      "url": "https://www.woshipm.com/pd/6483649.html",
+      "author": "敏尔说",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-24T02:42:05Z",
+      "discoveredAt": "2026-10-25T00:52:35Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。双11预售里，一笔订单客户付900元、退200元，商家银行账户最终只收到680元。把每笔钱放回对应的订单和交易阶段，才能判断定金、尾款、退款各走到哪一步，差额该不该追。 双11进入预售期，商家的订单里开始同时出现几种情况： 有人刚付定金，有人在等付尾款，有人已经买了现货，还有人付完钱又申请退款。 运营看订单，客服看售后，财务看到账，各自手里的数字都可能没错，放在一起却对不上。 比如，一笔订单，客户付了900元，成功退款200元，剩余700元，商家银行账户最终只收到680元。 这20元差额，是平台扣了费用，还是还有钱没结？ 电商收款管理，得把一笔钱放回对应的订单和交易阶段里，才能判断它有没有收齐、该不该退、最终结清没有。 一、定金收到了，这笔订单走到了哪一步？ 假设一家商家参加双11预售。一笔订单商品金额1000",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "双11预售里，一笔订单客户付900元、退200元，商家银行账户最终只收到680元。把每笔钱放回对应的订单和交易阶段，才能判断定金、尾款、退款各走到哪一步，差额该不该追。 双11进入预售期，商家的订单里开始同时出现几种情况： 有人刚付定金，有人在等付尾款，有人已经买了现货，还有人付完钱又申请退款。 运营看订单，客服看售后，财务看到账，各自手里的数字都可能没错，放在一起却对不上。 比如，一笔订单，客户付了900元，成功退款200元，剩余700元，商家银行账户最终只收到680元。 这20元差额，是平台扣了费用，还是还有钱没结？ 电商收款管理，得把一笔钱放回对应的订单和交易阶段里，才能判断它有没有收齐、该不该退、最终结清没有。 一、定金收到了，这笔订单走到了哪一步？ 假设一家商家参加双11预售。一笔订单商品金额1000元，商家优惠100元，客户最终需付900元： 先付定金100元，再付尾款800元。 这里的金额和后续结算条件均为演示假设，不代表某平台具体商品或活动规则。 客户付完100元，平台显示定金支付成功。 这时可以确认，订单已经完成了定金阶段的付款，客户还需支付800元尾款。 如果财务系统只给订单留一个“已付款”字段，问题就来了：仓库可能把它理解为全额付清，财务也可能把后面的800元当成逾期欠款。 实际上，尾款支付窗口尚未到来时，这800元只是后续计划应付金额。等窗口开放、客户完成支付，再把订单更新为全额付款。 取消订单还会增加一层判断。 客户只付了定金就取消，或者尾款到期未付，交易可能关闭，但已经支付的100元仍要根据适用规则和实际处理结果，记录为待退、已退或其他明确处理结果。 交易关闭以后，资金处理仍可能继续。 客户付清后申请退款，也要区分申请中、处理中、成功和关闭。 申请退200元，只能说明有一笔退款待处理；资金成功退回后，才能计入累计成功退款。平台退款接口也区分退款流程状态和退款成功结果。 流程示例如下： 所以，一笔订单至少要能同时表达：交易进行到哪一步、付了多少钱、退款办到哪里、平台结算到了哪里。这几个状态可以并存。 二、客户付了900元，商家为什么到账680元？ 接着看这笔订单。 假设客户付清后，成功退了200元；剩余交易满足结算条件，平台另扣20元费用，费用明细已确认。为方便推演，本例不涉及平台补贴、保证金和提前放款。 这笔订单的700元剩余款项，其中20元用于平台扣费，680元结算给商家。开头的20元差额，就对清楚了。 但表里的三个动作，还得分开看： 客户付款 ，回答客户有没有履行付款安排。定金100元、尾款800元，分别对应两次付款事实。 平台清分与结算 ，回答这笔交易中各方应分多少钱、哪些金额已经具备结算条件、本次实际结算多少。平台出具结算明细以后，还要核对资金是否实际入商家账户。 商家银行到账 ，回答资金有没有从平台资金账户划入银行。有些",
+      "keyIdeas": [
+        "核心信号围绕“双11预售开始了，定金、尾款和退款怎么管？”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "双11预售开始了，定金、尾款和退款怎么管？",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.5,
+        "argumentDepth": 4.5,
+        "evidenceQuality": 3.8,
+        "nonConsensusValue": 3.5,
+        "transferability": 4.2,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 81.0,
+      "preRankingScore": 72.78,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "19942e3e5417f0",
+      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "titleZh": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "url": "https://www.qbitai.com/2026/10/504841.html",
+      "author": "杰西卡",
+      "source": "量子位",
+      "publishedAt": "2026-10-22T07:14:48Z",
+      "discoveredAt": "2026-10-25T00:52:34Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。FSD一年增长70万付费用户",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "FSD一年增长70万付费用户",
+      "keyIdeas": [
+        "核心信号围绕“特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.9,
+        "novelty": 3.7,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 3.6
+      },
+      "finalScore": 80.8,
+      "preRankingScore": 63.58,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "1fd8476b4493a5",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "titleZh": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "author": "Jowsey",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-23T16:59:08Z",
+      "discoveredAt": "2026-10-25T00:52:34Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai",
+      "keyIdeas": [
+        "核心信号围绕“Kimi K3.1 Pro and K3.1 Pro Highspeed”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 3.8,
+        "novelty": 3.9,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 80.8,
+      "preRankingScore": 79.41,
+      "readingTier": "signal",
+      "socialSignals": {
+        "points": 1057,
+        "comments": 650,
+        "hnUrl": "https://news.ycombinator.com/item?id=50212065"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "53ef81310569af",
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "titleZh": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "url": "https://www.qbitai.com/2026/10/504879.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-22T09:07:05Z",
+      "discoveredAt": "2026-10-25T00:52:34Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+      "keyIdeas": [
+        "核心信号围绕“又一国产决策模型发布！准确率超过微软和Jev等决策模型”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 3.7,
+        "novelty": 3.7,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 79.6,
+      "preRankingScore": 64.02,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
