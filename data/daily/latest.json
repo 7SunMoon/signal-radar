@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T00:52:42Z",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T01:00:28Z",
   "mode": "metadata",
   "stats": {
     "discovered": 235,
@@ -18,7 +18,7 @@
       "author": "",
       "source": "OpenAI News",
       "publishedAt": "2026-10-22T00:00:00Z",
-      "discoveredAt": "2026-10-25T00:52:33Z",
+      "discoveredAt": "2026-10-26T01:00:07Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -49,7 +49,7 @@
         "personalRelevance": 4.4
       },
       "finalScore": 84.0,
-      "preRankingScore": 60.26,
+      "preRankingScore": 57.85,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -57,53 +57,87 @@
       "duplicateSources": []
     },
     {
-      "id": "c27242c921217b",
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "titleZh": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "author": "westsmith",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-20T19:22:39Z",
-      "discoveredAt": "2026-10-25T00:52:34Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "id": "68b74ae18ca40e",
+      "title": "50条血的教训：培养错了人，比招错人更可怕",
+      "titleZh": "50条血的教训：培养错了人，比招错人更可怕",
+      "url": "https://www.woshipm.com/zhichang/6479439.html",
+      "author": "外贸小巨熊",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-25T01:12:40Z",
+      "discoveredAt": "2026-10-26T01:00:13Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。为什么我花了大价钱培养的员工，转头就去了竞争对手那里？为什么招的人看起来履历光鲜，实际干活却一塌糊涂？小公司每一分钱、每一分钟都要花在刀刃上，培养错了人比招错人更可怕。 “为什么我花了大价钱培养的员工，转头就去了竞争对手那里？” “为什么我招的人，看起来履历光鲜，实际干活却一塌糊涂？” “为什么我的团队总是内耗不断，老板天天当救火队长？” 如果你是小公司老板，这些问题一定像针一样扎在心上。小公司不像大厂，有充足的预算和时间去试错，我们的每一分钱、每一分钟，都要花在刀刃上。 很多老板陷入一个误区：“招人难，不如自己培养”。但现实是，培养错了人，比招错人更可怕——你不仅浪费了工资，还错过了市场机会，甚至拖垮了整个团队。 50条血的教训，帮你搞清楚： 小公司到底该筛选人，还是培养人？ 一、筛选与培养的底层认知：先算清",
       "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "为什么我花了大价钱培养的员工，转头就去了竞争对手那里？为什么招的人看起来履历光鲜，实际干活却一塌糊涂？小公司每一分钱、每一分钟都要花在刀刃上，培养错了人比招错人更可怕。 “为什么我花了大价钱培养的员工，转头就去了竞争对手那里？” “为什么我招的人，看起来履历光鲜，实际干活却一塌糊涂？” “为什么我的团队总是内耗不断，老板天天当救火队长？” 如果你是小公司老板，这些问题一定像针一样扎在心上。小公司不像大厂，有充足的预算和时间去试错，我们的每一分钱、每一分钟，都要花在刀刃上。 很多老板陷入一个误区：“招人难，不如自己培养”。但现实是，培养错了人，比招错人更可怕——你不仅浪费了工资，还错过了市场机会，甚至拖垮了整个团队。 50条血的教训，帮你搞清楚： 小公司到底该筛选人，还是培养人？ 一、筛选与培养的底层认知：先算清“试错成本”，再谈“人才投资” 很多老板一上来就谈“培养人才”，但在谈培养之前，先问自己一个问题： 你有多少时间和钱可以浪费？ 小公司的现金流往往只有6-12个月，招错一个人，可能直接导致公司倒闭。我见过一个做电商的朋友，招了一个运营总监，月薪3万，干了一年，不仅没做出任何业绩，还把核心团队的关系搞僵了。最后他不得不花双倍的钱请人走人。 这就是筛选和培养的底层逻辑： 筛选是在降低试错成本，培养是在提高边际收益。前者省命，后者赚钱，先省命再赚钱。 1. 招错人的代价，远不止一份工资 很多老板算错了账：招错一个人，成本不是他的工资，而是 几个月的团队内耗 + 丢掉的市场机会 。 一个不合适的员工，会像病毒一样侵蚀团队： 他会抱怨、甩锅、传播负能量，让其他员工的效率下降30% 他会搞砸项目，让你错过关键的市场窗口 他甚至会带走核心客户，让你多年的积累付诸东流 2. 好的筛选，是30分钟看透未来三年的“累赘” 面试不是聊家常，而是在30分钟里，判断这个人未来三年会不会成为你的累赘。 怎么判断？看四点： 动机、能力、人品 、价值观 。 动机 ：他为什么来你的公司？是为了钱，还是为了梦想？如果他只谈梦想不谈钱，大概率不靠谱；如果他只谈钱不谈成长，大概率是短视。 能力 ：他过去做成过什么？而不是他会什么。一个人说自己擅长运营，不如说“我负责过XX项目，带来了100万的营收”。 人品 ：他怎么对待过去的同事和公司？如果他一上来就抱怨上家公司，说老板傻逼、同事难搞，这种人到了你的公司，也会一样抱怨你。 价值观： 成年人的价值观早已定型 ， 你永远叫不醒装睡的人，更改变不了一个跟你三观不合的人，人心难移，不如早点止损。 3. 培养不是慈善，是投资，算不清回报率就别投 很多老板把培养当成情怀，觉得“我对员工好，员工就会对公司好”。但现实是， 培养是投资，投资就要算回报率 。 培养一个员工的成本包括：工资、培训时间、试错成本、机会成本。如果这个员工能在未来1-2年内，为公司带",
       "keyIdeas": [
-        "核心信号围绕“A practical guide to AI image generation, from diffusion to agents”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“50条血的教训：培养错了人，比招错人更可怕”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "A practical guide to AI image generation, from d",
-        "ai-news"
+        "50条血的教训：培养错了人，比招错人更可怕",
+        "product-insight"
       ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
+      "importantTerms": [],
       "scores": {
-        "eventImpact": 4.2,
-        "sourceCredibility": 4.4,
-        "novelty": 3.6,
-        "aiProductImpact": 4.2,
-        "personalRelevance": 4.0
+        "insightDensity": 3.9,
+        "argumentDepth": 4.5,
+        "evidenceQuality": 4.1,
+        "nonConsensusValue": 4.2,
+        "transferability": 4.3,
+        "personalRelevance": 4.1
       },
-      "finalScore": 82.0,
-      "preRankingScore": 67.7,
+      "finalScore": 83.7,
+      "preRankingScore": 72.62,
       "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 243,
-        "comments": 81,
-        "hnUrl": "https://news.ycombinator.com/item?id=50171379"
-      },
+      "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 22,
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "56234a99b1d487",
+      "title": "拼多多推广技巧和方法：新手也能落地，低成本撬动流量、稳定出单",
+      "titleZh": "拼多多推广技巧和方法：新手也能落地，低成本撬动流量、稳定出单",
+      "url": "https://www.woshipm.com/operate/6483718.html",
+      "author": "卖家情报局",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-25T08:36:42Z",
+      "discoveredAt": "2026-10-26T01:00:13Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。拼多多推广并非单纯砸钱，而是内功、免费流量与付费工具的协同作战。本文从标题、主图、定价等基础优化讲起，系统拆解搜索、场景、全站等付费工具的使用时机，并给出新店冷启动到爆款稳定的分阶段实操方案，助你避开盲目烧钱的坑。 很多新手商家入驻拼多多之后，最大的困惑就是：产品上架了，价格也有优势，但是没访客、不出单，不知道该怎么推广。 不少人一上来就盲目开付费广告，钱烧出去了，订单寥寥无几；也有人只靠等自然流量，店铺几个月没有起色。拼多多的推广，核心逻辑不是单纯砸钱，而是 先做好商品内功，再用免费流量打底，付费流量精准放大，配合活动、短视频、多多进宝多渠道联动 。今天这篇文章，就把拼多多整套推广思路、实操方法、避坑要点一次性讲清楚，适合新店起量、老店优化。 提示：本文仅为运营经验分享，不保证一定爆单，推广请结合自身产品利润",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "拼多多推广并非单纯砸钱，而是内功、免费流量与付费工具的协同作战。本文从标题、主图、定价等基础优化讲起，系统拆解搜索、场景、全站等付费工具的使用时机，并给出新店冷启动到爆款稳定的分阶段实操方案，助你避开盲目烧钱的坑。 很多新手商家入驻拼多多之后，最大的困惑就是：产品上架了，价格也有优势，但是没访客、不出单，不知道该怎么推广。 不少人一上来就盲目开付费广告，钱烧出去了，订单寥寥无几；也有人只靠等自然流量，店铺几个月没有起色。拼多多的推广，核心逻辑不是单纯砸钱，而是 先做好商品内功，再用免费流量打底，付费流量精准放大，配合活动、短视频、多多进宝多渠道联动 。今天这篇文章，就把拼多多整套推广思路、实操方法、避坑要点一次性讲清楚，适合新店起量、老店优化。 提示：本文仅为运营经验分享，不保证一定爆单，推广请结合自身产品利润、供应链情况理性投放。 一、推广之前，先做好商品内功（所有流量的基础） 拼多多平台比价属性很强，点击率、转化率、评价、销量直接决定能不能接住流量。内功没做好，再贵的推广都是浪费。 标题优化，抓住搜索流量 标题不要堆砌无关词，核心公式：核心词+属性词+场景词+长尾词。优先参考类目热搜词、竞品高转化标题，把用户常搜的词放进标题，方便多多搜索匹配流量。后期开搜索推广的关键词，尽量和标题呼应，提升关键词质量分。 主图+详情，提升点击率和转化 首图是流量入口，要突出卖点、价格优势、痛点，多做几张创意图测图，对比点击率；主图不要照搬同行。详情页重点解决用户顾虑：材质、规格、售后、发货时效，搭配实拍图、买家秀。 定价策略，预留推广和活动空间 不要把利润压到极致再上架。拼多多经常要报活动、设置优惠券、新客立减、限时限量，定价时提前预留优惠空间。新品可以先用优惠工具做基础销量，不要频繁大幅度改价，容易降低商品权重。 基础评价和销量，是转化门槛 新店新品冷启动阶段，很难直接靠广告转化。优先积累10-20个基础销量、5条以上带图/视频好评，商品有基础信任之后，付费推广、平台活动才更容易拿到好效果。 二、免费推广渠道：零成本，长期稳定的自然流量 拼多多大部分订单来自自然流量，免费流量是店铺的基本盘，一定要优先运营。 1. 平台活动报名（性价比最高的免费流量） 平台官方活动是流量红利来源，不同阶段选择合适活动： 限时秒杀：适合性价比款、低价引流款，爆发强，适合新品破零； 9块9特卖、品牌清仓、百亿补贴外围：根据客单价报名； 各类主题活动、大促活动：618、双11、平台品类日，提前布局备货和报名。 ⚠️注意：活动有价格、库存、发货时效要求，报名前核算好利润，避免亏损冲量。 2. 多多视频、直播内容流量 多多视频是近几年增长很快的免费流量渠道，门槛低。商家可以自己拍摄产品实拍视频、使用教程、开箱视频，发布多多视频挂载商品；也可以联系平台达人合作带货。短视频做得好，会持续推荐免费推荐",
+      "keyIdeas": [
+        "核心信号围绕“拼多多推广技巧和方法：新手也能落地，低成本撬动流量、稳定出单”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "拼多多推广技巧和方法：新手也能落地，低成本撬动流量、稳定出单",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.3,
+        "argumentDepth": 4.5,
+        "evidenceQuality": 3.8,
+        "nonConsensusValue": 3.7,
+        "transferability": 4.4,
+        "personalRelevance": 4.1
+      },
+      "finalScore": 83.2,
+      "preRankingScore": 73.36,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
       "duplicateSources": []
     },
     {
@@ -114,7 +148,7 @@
       "author": "",
       "source": "Hugging Face Blog",
       "publishedAt": "2026-10-23T00:00:00Z",
-      "discoveredAt": "2026-10-25T00:52:33Z",
+      "discoveredAt": "2026-10-26T01:00:07Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -145,7 +179,7 @@
         "personalRelevance": 4.4
       },
       "finalScore": 81.2,
-      "preRankingScore": 61.11,
+      "preRankingScore": 58.7,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -153,153 +187,28 @@
       "duplicateSources": []
     },
     {
-      "id": "2ad09e493f28ed",
-      "title": "广告界教务长韦伯·扬：23条“旧元素新组合”的创意生成法则",
-      "titleZh": "广告界教务长韦伯·扬：23条“旧元素新组合”的创意生成法则",
-      "url": "https://www.woshipm.com/share/6483667.html",
-      "author": "品牌猿",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-10-24T03:41:09Z",
-      "discoveredAt": "2026-10-25T00:52:35Z",
-      "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。智威汤逊首席创作总监韦伯·扬留下两条判断：创意不过是旧元素的新组合，优秀广告人是通才而非专才。23条法则从创意五步法讲到魔岛理论，配可口可乐、美国陆军等经典案例。 詹姆斯・韦伯・扬（James Webb Young），智威汤逊（JWT）首席创作总监，广告生涯长达 60 余年，美国广告史上影响力最深远的创意大师之一。少年辍学，先后做印刷工、书店推销员，最终成为广告界 “通才杂学” 的标杆，晚年深耕广告教育，被誉为 美国广告界的教务长 。 著有《创意的生成》《广告人日记》《如何成为广告人》，其中《创意的生成》源自芝加哥大学商学院讲义，被译成 30 余种语言，是现代创意理论的奠基之作。 他留下两大传世观点：① 创意不过是旧元素的新组合； ② 优秀广告人是通才，而非专才 。 一、创意的本质：旧元素，新组合 1、创意，无",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "智威汤逊首席创作总监韦伯·扬留下两条判断：创意不过是旧元素的新组合，优秀广告人是通才而非专才。23条法则从创意五步法讲到魔岛理论，配可口可乐、美国陆军等经典案例。 詹姆斯・韦伯・扬（James Webb Young），智威汤逊（JWT）首席创作总监，广告生涯长达 60 余年，美国广告史上影响力最深远的创意大师之一。少年辍学，先后做印刷工、书店推销员，最终成为广告界 “通才杂学” 的标杆，晚年深耕广告教育，被誉为 美国广告界的教务长 。 著有《创意的生成》《广告人日记》《如何成为广告人》，其中《创意的生成》源自芝加哥大学商学院讲义，被译成 30 余种语言，是现代创意理论的奠基之作。 他留下两大传世观点：① 创意不过是旧元素的新组合； ② 优秀广告人是通才，而非专才 。 一、创意的本质：旧元素，新组合 1、创意，无非就是旧元素的新组合。 创意两大底层原则 第一原则：一条创意其实就是以前要素的一个新组合。 第二原则：把旧元素重新组合的能力，很大程度取决于看见事物关联的能力。 广告创意 = 产品、用户的特定事实 + 人生、世界的通识，重新组合。 2、养成在事实之间寻找关联的思维习惯，是创意产出最重要的事。 3、广告里的创意， 是把产品与人的专属认知，和关于生活世事的通识重新组合。 4、创意的魔岛理论（Magic Island） 我认为，一个创意具有某种神秘的质量，它就像在南海上漫游的水手突然发现童话般的岛屿一样……它们只是突然间浮出脑海。 5、创意像万花筒 广告的构建，就是在这个万花筒般的世界中构建一种新的图案。 二、创意的产生：积累、消化、等待 1、创意生成五步法 ① 收集素材：专属素材（产品、用户调研）+ 泛素材（生活、人文、各行各业见闻） ② 咀嚼消化：在脑中反复把玩、比对素材 ③ 酝酿放一放：脱离问题，交给潜意识加工（魔岛阶段） ④ 灵光闪现：创意自己跳出来（“啊哈时刻”） ⑤ 落地验证：放到现实里检验、修正，接受他人评判 2 、不断扩展你的经验这一原则……在任何产生想法的工作中，都至关重要。 3、好的创意人像一头牛：不浏览，就没有奶 我认识的每一位真正优秀的广告创意人都有两个显著特征：第一，天下没有什么主题是他不能轻易产生兴趣的……第二，他是一个广泛的浏览者。 广告人就像奶牛：不去四处采食，就产不出奶。 4、只有有意识的功课做足，潜意识才能好好工作。 灵感看似偶然降临，前提是漫长的准备。 5、好创意自带生长力，会启发看见它的人继续延伸、丰富它。 三、广告的意义：正义力量的仆人 1、 广告可以让人暂时从生活的战争中解脱。 生活像是被命运推着走的一场无言战争，如果有任何广告可以让他们暂时解脱，有任何产品可以为他们的生活增加一点趣味，那就是意义深远的事。 2、广告应当成为“正义力量的仆人”（ 这番讲话直接促成了美国广告理事会的成立 ）。 3、广告的工作， 是让产",
-      "keyIdeas": [
-        "核心信号围绕“广告界教务长韦伯·扬：23条“旧元素新组合”的创意生成法则”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "广告界教务长韦伯·扬：23条“旧元素新组合”的创意生成法则",
-        "product-insight"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "insightDensity": 4.1,
-        "argumentDepth": 4.1,
-        "evidenceQuality": 4.0,
-        "nonConsensusValue": 4.3,
-        "transferability": 3.4,
-        "personalRelevance": 4.4
-      },
-      "finalScore": 81.1,
-      "preRankingScore": 72.88,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 1,
-      "duplicateSources": []
-    },
-    {
-      "id": "c5028f461d1c30",
-      "title": "双11预售开始了，定金、尾款和退款怎么管？",
-      "titleZh": "双11预售开始了，定金、尾款和退款怎么管？",
-      "url": "https://www.woshipm.com/pd/6483649.html",
-      "author": "敏尔说",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-10-24T02:42:05Z",
-      "discoveredAt": "2026-10-25T00:52:35Z",
-      "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。双11预售里，一笔订单客户付900元、退200元，商家银行账户最终只收到680元。把每笔钱放回对应的订单和交易阶段，才能判断定金、尾款、退款各走到哪一步，差额该不该追。 双11进入预售期，商家的订单里开始同时出现几种情况： 有人刚付定金，有人在等付尾款，有人已经买了现货，还有人付完钱又申请退款。 运营看订单，客服看售后，财务看到账，各自手里的数字都可能没错，放在一起却对不上。 比如，一笔订单，客户付了900元，成功退款200元，剩余700元，商家银行账户最终只收到680元。 这20元差额，是平台扣了费用，还是还有钱没结？ 电商收款管理，得把一笔钱放回对应的订单和交易阶段里，才能判断它有没有收齐、该不该退、最终结清没有。 一、定金收到了，这笔订单走到了哪一步？ 假设一家商家参加双11预售。一笔订单商品金额1000",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "双11预售里，一笔订单客户付900元、退200元，商家银行账户最终只收到680元。把每笔钱放回对应的订单和交易阶段，才能判断定金、尾款、退款各走到哪一步，差额该不该追。 双11进入预售期，商家的订单里开始同时出现几种情况： 有人刚付定金，有人在等付尾款，有人已经买了现货，还有人付完钱又申请退款。 运营看订单，客服看售后，财务看到账，各自手里的数字都可能没错，放在一起却对不上。 比如，一笔订单，客户付了900元，成功退款200元，剩余700元，商家银行账户最终只收到680元。 这20元差额，是平台扣了费用，还是还有钱没结？ 电商收款管理，得把一笔钱放回对应的订单和交易阶段里，才能判断它有没有收齐、该不该退、最终结清没有。 一、定金收到了，这笔订单走到了哪一步？ 假设一家商家参加双11预售。一笔订单商品金额1000元，商家优惠100元，客户最终需付900元： 先付定金100元，再付尾款800元。 这里的金额和后续结算条件均为演示假设，不代表某平台具体商品或活动规则。 客户付完100元，平台显示定金支付成功。 这时可以确认，订单已经完成了定金阶段的付款，客户还需支付800元尾款。 如果财务系统只给订单留一个“已付款”字段，问题就来了：仓库可能把它理解为全额付清，财务也可能把后面的800元当成逾期欠款。 实际上，尾款支付窗口尚未到来时，这800元只是后续计划应付金额。等窗口开放、客户完成支付，再把订单更新为全额付款。 取消订单还会增加一层判断。 客户只付了定金就取消，或者尾款到期未付，交易可能关闭，但已经支付的100元仍要根据适用规则和实际处理结果，记录为待退、已退或其他明确处理结果。 交易关闭以后，资金处理仍可能继续。 客户付清后申请退款，也要区分申请中、处理中、成功和关闭。 申请退200元，只能说明有一笔退款待处理；资金成功退回后，才能计入累计成功退款。平台退款接口也区分退款流程状态和退款成功结果。 流程示例如下： 所以，一笔订单至少要能同时表达：交易进行到哪一步、付了多少钱、退款办到哪里、平台结算到了哪里。这几个状态可以并存。 二、客户付了900元，商家为什么到账680元？ 接着看这笔订单。 假设客户付清后，成功退了200元；剩余交易满足结算条件，平台另扣20元费用，费用明细已确认。为方便推演，本例不涉及平台补贴、保证金和提前放款。 这笔订单的700元剩余款项，其中20元用于平台扣费，680元结算给商家。开头的20元差额，就对清楚了。 但表里的三个动作，还得分开看： 客户付款 ，回答客户有没有履行付款安排。定金100元、尾款800元，分别对应两次付款事实。 平台清分与结算 ，回答这笔交易中各方应分多少钱、哪些金额已经具备结算条件、本次实际结算多少。平台出具结算明细以后，还要核对资金是否实际入商家账户。 商家银行到账 ，回答资金有没有从平台资金账户划入银行。有些",
-      "keyIdeas": [
-        "核心信号围绕“双11预售开始了，定金、尾款和退款怎么管？”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "双11预售开始了，定金、尾款和退款怎么管？",
-        "product-insight"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "insightDensity": 4.5,
-        "argumentDepth": 4.5,
-        "evidenceQuality": 3.8,
-        "nonConsensusValue": 3.5,
-        "transferability": 4.2,
-        "personalRelevance": 3.5
-      },
-      "finalScore": 81.0,
-      "preRankingScore": 72.78,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 2,
-      "duplicateSources": []
-    },
-    {
-      "id": "19942e3e5417f0",
-      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-      "titleZh": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-      "url": "https://www.qbitai.com/2026/10/504841.html",
-      "author": "杰西卡",
-      "source": "量子位",
-      "publishedAt": "2026-10-22T07:14:48Z",
-      "discoveredAt": "2026-10-25T00:52:34Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。FSD一年增长70万付费用户",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "FSD一年增长70万付费用户",
-      "keyIdeas": [
-        "核心信号围绕“特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.4,
-        "sourceCredibility": 3.9,
-        "novelty": 3.7,
-        "aiProductImpact": 4.2,
-        "personalRelevance": 3.6
-      },
-      "finalScore": 80.8,
-      "preRankingScore": 63.58,
-      "readingTier": "signal",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 5,
-      "duplicateSources": []
-    },
-    {
-      "id": "1fd8476b4493a5",
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "titleZh": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "author": "Jowsey",
+      "id": "a9e08b18c9f802",
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "titleZh": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "url": "https://huggingface.co/destined/hurston-1",
+      "author": "Gcarter08",
       "source": "Hacker News",
-      "publishedAt": "2026-10-23T16:59:08Z",
-      "discoveredAt": "2026-10-25T00:52:34Z",
+      "publishedAt": "2026-10-25T01:30:13Z",
+      "discoveredAt": "2026-10-26T01:00:09Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
       "translationStatus": "pending",
-      "sourceSnippet": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai",
+      "sourceSnippet": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. Destined AI is based in Atlanta, and I built this because I’m amazed by what AI can do, and I wanted to help introduce and welcome more people to feel comfortable using and interacting with AI. Since 2021, I’ve been collecting fully consented voice data from over 20,000 people, 1M audio recordings, and over 1,800 hrs of audio captured to date. For this model, I used a small part of the data, 136 hrs, to finetune Maya1 and expand it’s capabilities. Hurston-1 is a narrowband TTS model that focuses the output on telephone use because that is still where most of these voices will be heard. I’ve used it to support customers such as Amazon and Salesforce and generated over half-mill revenue with it. Now I’m open sourcing it to help unlock opportunities for others as well. Limitations: this model doesn’t maintain the exact same voice across prompts and doesn’t support voice cloning. For many use cases, this is fine but maybe not so - if you’re creating podcasts. This is the first release - I’m ",
       "keyIdeas": [
-        "核心信号围绕“Kimi K3.1 Pro and K3.1 Pro Highspeed”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "Show HN: Hurston-1 open source TTS that speak So",
         "ai-news"
       ],
       "importantTerms": [
@@ -309,22 +218,22 @@
         }
       ],
       "scores": {
-        "eventImpact": 4.3,
-        "sourceCredibility": 3.8,
-        "novelty": 3.9,
+        "eventImpact": 3.8,
+        "sourceCredibility": 3.5,
+        "novelty": 4.6,
         "aiProductImpact": 3.8,
-        "personalRelevance": 4.5
+        "personalRelevance": 4.4
       },
-      "finalScore": 80.8,
-      "preRankingScore": 79.41,
-      "readingTier": "signal",
+      "finalScore": 79.2,
+      "preRankingScore": 75.58,
+      "readingTier": "worth-reading",
       "socialSignals": {
-        "points": 1057,
-        "comments": 650,
-        "hnUrl": "https://news.ycombinator.com/item?id=50212065"
+        "points": 44,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=50227330"
       },
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 22,
+      "estimatedReadingMinutes": 11,
       "duplicateSources": []
     },
     {
@@ -335,7 +244,7 @@
       "author": "量子位的朋友们",
       "source": "量子位",
       "publishedAt": "2026-10-22T09:07:05Z",
-      "discoveredAt": "2026-10-25T00:52:34Z",
+      "discoveredAt": "2026-10-26T01:00:08Z",
       "language": "zh-CN",
       "category": "ai-news",
       "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
@@ -361,11 +270,102 @@
         "personalRelevance": 4.3
       },
       "finalScore": 79.6,
-      "preRankingScore": 64.02,
+      "preRankingScore": 61.61,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
       "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "855e956ab3ec1a",
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "titleZh": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "url": "https://www.qbitai.com/2026/10/504832.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-22T07:11:14Z",
+      "discoveredAt": "2026-10-26T01:00:08Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+      "keyIdeas": [
+        "核心信号围绕“既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 3.8,
+        "novelty": 4.0,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 79.4,
+      "preRankingScore": 61.6,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "c45c68dc9fe273",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "titleZh": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "author": "minimaxir",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-25T21:11:31Z",
+      "discoveredAt": "2026-10-26T01:00:09Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "OpenAI and Anthropic cut their LLM prices by up ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 3.8,
+        "novelty": 3.5,
+        "aiProductImpact": 3.4,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 78.8,
+      "preRankingScore": 73.22,
+      "readingTier": "signal",
+      "socialSignals": {
+        "points": 120,
+        "comments": 138,
+        "hnUrl": "https://news.ycombinator.com/item?id=50236102"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 16,
       "duplicateSources": []
     }
   ],

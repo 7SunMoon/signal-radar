@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T01:00:28Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 235,
+    "afterDeduplication": 233,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "ba6fa07d677a82",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "titleZh": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "discoveredAt": "2026-10-26T01:00:07Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "keyIdeas": [
+        "核心信号围绕“Uber brings ChatGPT Work to all employees with OpenAI”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Uber brings ChatGPT Work to all employees with O",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.0,
+        "novelty": 4.1,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 84.0,
+      "preRankingScore": 57.85,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "68b74ae18ca40e",
+      "title": "50条血的教训：培养错了人，比招错人更可怕",
+      "titleZh": "50条血的教训：培养错了人，比招错人更可怕",
+      "url": "https://www.woshipm.com/zhichang/6479439.html",
+      "author": "外贸小巨熊",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-25T01:12:40Z",
+      "discoveredAt": "2026-10-26T01:00:13Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。为什么我花了大价钱培养的员工，转头就去了竞争对手那里？为什么招的人看起来履历光鲜，实际干活却一塌糊涂？小公司每一分钱、每一分钟都要花在刀刃上，培养错了人比招错人更可怕。 “为什么我花了大价钱培养的员工，转头就去了竞争对手那里？” “为什么我招的人，看起来履历光鲜，实际干活却一塌糊涂？” “为什么我的团队总是内耗不断，老板天天当救火队长？” 如果你是小公司老板，这些问题一定像针一样扎在心上。小公司不像大厂，有充足的预算和时间去试错，我们的每一分钱、每一分钟，都要花在刀刃上。 很多老板陷入一个误区：“招人难，不如自己培养”。但现实是，培养错了人，比招错人更可怕——你不仅浪费了工资，还错过了市场机会，甚至拖垮了整个团队。 50条血的教训，帮你搞清楚： 小公司到底该筛选人，还是培养人？ 一、筛选与培养的底层认知：先算清",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "为什么我花了大价钱培养的员工，转头就去了竞争对手那里？为什么招的人看起来履历光鲜，实际干活却一塌糊涂？小公司每一分钱、每一分钟都要花在刀刃上，培养错了人比招错人更可怕。 “为什么我花了大价钱培养的员工，转头就去了竞争对手那里？” “为什么我招的人，看起来履历光鲜，实际干活却一塌糊涂？” “为什么我的团队总是内耗不断，老板天天当救火队长？” 如果你是小公司老板，这些问题一定像针一样扎在心上。小公司不像大厂，有充足的预算和时间去试错，我们的每一分钱、每一分钟，都要花在刀刃上。 很多老板陷入一个误区：“招人难，不如自己培养”。但现实是，培养错了人，比招错人更可怕——你不仅浪费了工资，还错过了市场机会，甚至拖垮了整个团队。 50条血的教训，帮你搞清楚： 小公司到底该筛选人，还是培养人？ 一、筛选与培养的底层认知：先算清“试错成本”，再谈“人才投资” 很多老板一上来就谈“培养人才”，但在谈培养之前，先问自己一个问题： 你有多少时间和钱可以浪费？ 小公司的现金流往往只有6-12个月，招错一个人，可能直接导致公司倒闭。我见过一个做电商的朋友，招了一个运营总监，月薪3万，干了一年，不仅没做出任何业绩，还把核心团队的关系搞僵了。最后他不得不花双倍的钱请人走人。 这就是筛选和培养的底层逻辑： 筛选是在降低试错成本，培养是在提高边际收益。前者省命，后者赚钱，先省命再赚钱。 1. 招错人的代价，远不止一份工资 很多老板算错了账：招错一个人，成本不是他的工资，而是 几个月的团队内耗 + 丢掉的市场机会 。 一个不合适的员工，会像病毒一样侵蚀团队： 他会抱怨、甩锅、传播负能量，让其他员工的效率下降30% 他会搞砸项目，让你错过关键的市场窗口 他甚至会带走核心客户，让你多年的积累付诸东流 2. 好的筛选，是30分钟看透未来三年的“累赘” 面试不是聊家常，而是在30分钟里，判断这个人未来三年会不会成为你的累赘。 怎么判断？看四点： 动机、能力、人品 、价值观 。 动机 ：他为什么来你的公司？是为了钱，还是为了梦想？如果他只谈梦想不谈钱，大概率不靠谱；如果他只谈钱不谈成长，大概率是短视。 能力 ：他过去做成过什么？而不是他会什么。一个人说自己擅长运营，不如说“我负责过XX项目，带来了100万的营收”。 人品 ：他怎么对待过去的同事和公司？如果他一上来就抱怨上家公司，说老板傻逼、同事难搞，这种人到了你的公司，也会一样抱怨你。 价值观： 成年人的价值观早已定型 ， 你永远叫不醒装睡的人，更改变不了一个跟你三观不合的人，人心难移，不如早点止损。 3. 培养不是慈善，是投资，算不清回报率就别投 很多老板把培养当成情怀，觉得“我对员工好，员工就会对公司好”。但现实是， 培养是投资，投资就要算回报率 。 培养一个员工的成本包括：工资、培训时间、试错成本、机会成本。如果这个员工能在未来1-2年内，为公司带",
+      "keyIdeas": [
+        "核心信号围绕“50条血的教训：培养错了人，比招错人更可怕”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "50条血的教训：培养错了人，比招错人更可怕",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 3.9,
+        "argumentDepth": 4.5,
+        "evidenceQuality": 4.1,
+        "nonConsensusValue": 4.2,
+        "transferability": 4.3,
+        "personalRelevance": 4.1
+      },
+      "finalScore": 83.7,
+      "preRankingScore": 72.62,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "56234a99b1d487",
+      "title": "拼多多推广技巧和方法：新手也能落地，低成本撬动流量、稳定出单",
+      "titleZh": "拼多多推广技巧和方法：新手也能落地，低成本撬动流量、稳定出单",
+      "url": "https://www.woshipm.com/operate/6483718.html",
+      "author": "卖家情报局",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-25T08:36:42Z",
+      "discoveredAt": "2026-10-26T01:00:13Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。拼多多推广并非单纯砸钱，而是内功、免费流量与付费工具的协同作战。本文从标题、主图、定价等基础优化讲起，系统拆解搜索、场景、全站等付费工具的使用时机，并给出新店冷启动到爆款稳定的分阶段实操方案，助你避开盲目烧钱的坑。 很多新手商家入驻拼多多之后，最大的困惑就是：产品上架了，价格也有优势，但是没访客、不出单，不知道该怎么推广。 不少人一上来就盲目开付费广告，钱烧出去了，订单寥寥无几；也有人只靠等自然流量，店铺几个月没有起色。拼多多的推广，核心逻辑不是单纯砸钱，而是 先做好商品内功，再用免费流量打底，付费流量精准放大，配合活动、短视频、多多进宝多渠道联动 。今天这篇文章，就把拼多多整套推广思路、实操方法、避坑要点一次性讲清楚，适合新店起量、老店优化。 提示：本文仅为运营经验分享，不保证一定爆单，推广请结合自身产品利润",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "拼多多推广并非单纯砸钱，而是内功、免费流量与付费工具的协同作战。本文从标题、主图、定价等基础优化讲起，系统拆解搜索、场景、全站等付费工具的使用时机，并给出新店冷启动到爆款稳定的分阶段实操方案，助你避开盲目烧钱的坑。 很多新手商家入驻拼多多之后，最大的困惑就是：产品上架了，价格也有优势，但是没访客、不出单，不知道该怎么推广。 不少人一上来就盲目开付费广告，钱烧出去了，订单寥寥无几；也有人只靠等自然流量，店铺几个月没有起色。拼多多的推广，核心逻辑不是单纯砸钱，而是 先做好商品内功，再用免费流量打底，付费流量精准放大，配合活动、短视频、多多进宝多渠道联动 。今天这篇文章，就把拼多多整套推广思路、实操方法、避坑要点一次性讲清楚，适合新店起量、老店优化。 提示：本文仅为运营经验分享，不保证一定爆单，推广请结合自身产品利润、供应链情况理性投放。 一、推广之前，先做好商品内功（所有流量的基础） 拼多多平台比价属性很强，点击率、转化率、评价、销量直接决定能不能接住流量。内功没做好，再贵的推广都是浪费。 标题优化，抓住搜索流量 标题不要堆砌无关词，核心公式：核心词+属性词+场景词+长尾词。优先参考类目热搜词、竞品高转化标题，把用户常搜的词放进标题，方便多多搜索匹配流量。后期开搜索推广的关键词，尽量和标题呼应，提升关键词质量分。 主图+详情，提升点击率和转化 首图是流量入口，要突出卖点、价格优势、痛点，多做几张创意图测图，对比点击率；主图不要照搬同行。详情页重点解决用户顾虑：材质、规格、售后、发货时效，搭配实拍图、买家秀。 定价策略，预留推广和活动空间 不要把利润压到极致再上架。拼多多经常要报活动、设置优惠券、新客立减、限时限量，定价时提前预留优惠空间。新品可以先用优惠工具做基础销量，不要频繁大幅度改价，容易降低商品权重。 基础评价和销量，是转化门槛 新店新品冷启动阶段，很难直接靠广告转化。优先积累10-20个基础销量、5条以上带图/视频好评，商品有基础信任之后，付费推广、平台活动才更容易拿到好效果。 二、免费推广渠道：零成本，长期稳定的自然流量 拼多多大部分订单来自自然流量，免费流量是店铺的基本盘，一定要优先运营。 1. 平台活动报名（性价比最高的免费流量） 平台官方活动是流量红利来源，不同阶段选择合适活动： 限时秒杀：适合性价比款、低价引流款，爆发强，适合新品破零； 9块9特卖、品牌清仓、百亿补贴外围：根据客单价报名； 各类主题活动、大促活动：618、双11、平台品类日，提前布局备货和报名。 ⚠️注意：活动有价格、库存、发货时效要求，报名前核算好利润，避免亏损冲量。 2. 多多视频、直播内容流量 多多视频是近几年增长很快的免费流量渠道，门槛低。商家可以自己拍摄产品实拍视频、使用教程、开箱视频，发布多多视频挂载商品；也可以联系平台达人合作带货。短视频做得好，会持续推荐免费推荐",
+      "keyIdeas": [
+        "核心信号围绕“拼多多推广技巧和方法：新手也能落地，低成本撬动流量、稳定出单”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "拼多多推广技巧和方法：新手也能落地，低成本撬动流量、稳定出单",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.3,
+        "argumentDepth": 4.5,
+        "evidenceQuality": 3.8,
+        "nonConsensusValue": 3.7,
+        "transferability": 4.4,
+        "personalRelevance": 4.1
+      },
+      "finalScore": 83.2,
+      "preRankingScore": 73.36,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "6430909168b586",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "titleZh": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "discoveredAt": "2026-10-26T01:00:07Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Does Your Model Run on AWS Trainium? Look It Up”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Does Your Model Run on AWS Trainium? Look It Up",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.0,
+        "novelty": 4.0,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 81.2,
+      "preRankingScore": 58.7,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "a9e08b18c9f802",
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "titleZh": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "url": "https://huggingface.co/destined/hurston-1",
+      "author": "Gcarter08",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-25T01:30:13Z",
+      "discoveredAt": "2026-10-26T01:00:09Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. Destined AI is based in Atlanta, and I built this because I’m amazed by what AI can do, and I wanted to help introduce and welcome more people to feel comfortable using and interacting with AI. Since 2021, I’ve been collecting fully consented voice data from over 20,000 people, 1M audio recordings, and over 1,800 hrs of audio captured to date. For this model, I used a small part of the data, 136 hrs, to finetune Maya1 and expand it’s capabilities. Hurston-1 is a narrowband TTS model that focuses the output on telephone use because that is still where most of these voices will be heard. I’ve used it to support customers such as Amazon and Salesforce and generated over half-mill revenue with it. Now I’m open sourcing it to help unlock opportunities for others as well. Limitations: this model doesn’t maintain the exact same voice across prompts and doesn’t support voice cloning. For many use cases, this is fine but maybe not so - if you’re creating podcasts. This is the first release - I’m ",
+      "keyIdeas": [
+        "核心信号围绕“Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Show HN: Hurston-1 open source TTS that speak So",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 3.5,
+        "novelty": 4.6,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 79.2,
+      "preRankingScore": 75.58,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 44,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=50227330"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 11,
+      "duplicateSources": []
+    },
+    {
+      "id": "53ef81310569af",
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "titleZh": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "url": "https://www.qbitai.com/2026/10/504879.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-22T09:07:05Z",
+      "discoveredAt": "2026-10-26T01:00:08Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+      "keyIdeas": [
+        "核心信号围绕“又一国产决策模型发布！准确率超过微软和Jev等决策模型”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 3.7,
+        "novelty": 3.7,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 79.6,
+      "preRankingScore": 61.61,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "855e956ab3ec1a",
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "titleZh": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "url": "https://www.qbitai.com/2026/10/504832.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-22T07:11:14Z",
+      "discoveredAt": "2026-10-26T01:00:08Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+      "keyIdeas": [
+        "核心信号围绕“既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 3.8,
+        "novelty": 4.0,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 79.4,
+      "preRankingScore": 61.6,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "c45c68dc9fe273",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "titleZh": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "author": "minimaxir",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-25T21:11:31Z",
+      "discoveredAt": "2026-10-26T01:00:09Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "OpenAI and Anthropic cut their LLM prices by up ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 3.8,
+        "novelty": 3.5,
+        "aiProductImpact": 3.4,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 78.8,
+      "preRankingScore": 73.22,
+      "readingTier": "signal",
+      "socialSignals": {
+        "points": 120,
+        "comments": 138,
+        "hnUrl": "https://news.ycombinator.com/item?id=50236102"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 16,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
