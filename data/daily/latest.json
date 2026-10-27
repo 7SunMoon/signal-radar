@@ -1,38 +1,38 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-26",
-  "generatedAt": "2026-10-26T01:00:28Z",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T01:50:55Z",
   "mode": "metadata",
   "stats": {
     "discovered": 235,
-    "afterDeduplication": 233,
+    "afterDeduplication": 231,
     "deepReviewed": 40,
     "recommended": 8
   },
   "articles": [
     {
-      "id": "ba6fa07d677a82",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "titleZh": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "author": "",
-      "source": "OpenAI News",
-      "publishedAt": "2026-10-22T00:00:00Z",
-      "discoveredAt": "2026-10-26T01:00:07Z",
+      "id": "bcce0e72773f6e",
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "titleZh": "Fixing Tool-Call Accuracy in vLLM",
+      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+      "author": "coffeemug",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-26T12:59:48Z",
+      "discoveredAt": "2026-10-27T01:50:45Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
       "translationStatus": "pending",
-      "sourceSnippet": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "sourceSnippet": "",
       "keyIdeas": [
-        "核心信号围绕“Uber brings ChatGPT Work to all employees with OpenAI”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Fixing Tool-Call Accuracy in vLLM”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Uber brings ChatGPT Work to all employees with O",
+        "Fixing Tool-Call Accuracy in vLLM",
         "ai-news"
       ],
       "importantTerms": [
@@ -42,56 +42,196 @@
         }
       ],
       "scores": {
-        "eventImpact": 4.2,
-        "sourceCredibility": 4.0,
+        "eventImpact": 4.1,
+        "sourceCredibility": 4.5,
         "novelty": 4.1,
-        "aiProductImpact": 4.4,
-        "personalRelevance": 4.4
+        "aiProductImpact": 4.3,
+        "personalRelevance": 4.5
       },
-      "finalScore": 84.0,
-      "preRankingScore": 57.85,
+      "finalScore": 85.2,
+      "preRankingScore": 71.1,
       "readingTier": "worth-reading",
-      "socialSignals": {},
+      "socialSignals": {
+        "points": 145,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=50242870"
+      },
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 2,
+      "estimatedReadingMinutes": 11,
       "duplicateSources": []
     },
     {
-      "id": "68b74ae18ca40e",
-      "title": "50条血的教训：培养错了人，比招错人更可怕",
-      "titleZh": "50条血的教训：培养错了人，比招错人更可怕",
-      "url": "https://www.woshipm.com/zhichang/6479439.html",
-      "author": "外贸小巨熊",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-10-25T01:12:40Z",
-      "discoveredAt": "2026-10-26T01:00:13Z",
-      "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。为什么我花了大价钱培养的员工，转头就去了竞争对手那里？为什么招的人看起来履历光鲜，实际干活却一塌糊涂？小公司每一分钱、每一分钟都要花在刀刃上，培养错了人比招错人更可怕。 “为什么我花了大价钱培养的员工，转头就去了竞争对手那里？” “为什么我招的人，看起来履历光鲜，实际干活却一塌糊涂？” “为什么我的团队总是内耗不断，老板天天当救火队长？” 如果你是小公司老板，这些问题一定像针一样扎在心上。小公司不像大厂，有充足的预算和时间去试错，我们的每一分钱、每一分钟，都要花在刀刃上。 很多老板陷入一个误区：“招人难，不如自己培养”。但现实是，培养错了人，比招错人更可怕——你不仅浪费了工资，还错过了市场机会，甚至拖垮了整个团队。 50条血的教训，帮你搞清楚： 小公司到底该筛选人，还是培养人？ 一、筛选与培养的底层认知：先算清",
+      "id": "250e5d8f302445",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "titleZh": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-26T22:00:00Z",
+      "discoveredAt": "2026-10-27T01:50:43Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "为什么我花了大价钱培养的员工，转头就去了竞争对手那里？为什么招的人看起来履历光鲜，实际干活却一塌糊涂？小公司每一分钱、每一分钟都要花在刀刃上，培养错了人比招错人更可怕。 “为什么我花了大价钱培养的员工，转头就去了竞争对手那里？” “为什么我招的人，看起来履历光鲜，实际干活却一塌糊涂？” “为什么我的团队总是内耗不断，老板天天当救火队长？” 如果你是小公司老板，这些问题一定像针一样扎在心上。小公司不像大厂，有充足的预算和时间去试错，我们的每一分钱、每一分钟，都要花在刀刃上。 很多老板陷入一个误区：“招人难，不如自己培养”。但现实是，培养错了人，比招错人更可怕——你不仅浪费了工资，还错过了市场机会，甚至拖垮了整个团队。 50条血的教训，帮你搞清楚： 小公司到底该筛选人，还是培养人？ 一、筛选与培养的底层认知：先算清“试错成本”，再谈“人才投资” 很多老板一上来就谈“培养人才”，但在谈培养之前，先问自己一个问题： 你有多少时间和钱可以浪费？ 小公司的现金流往往只有6-12个月，招错一个人，可能直接导致公司倒闭。我见过一个做电商的朋友，招了一个运营总监，月薪3万，干了一年，不仅没做出任何业绩，还把核心团队的关系搞僵了。最后他不得不花双倍的钱请人走人。 这就是筛选和培养的底层逻辑： 筛选是在降低试错成本，培养是在提高边际收益。前者省命，后者赚钱，先省命再赚钱。 1. 招错人的代价，远不止一份工资 很多老板算错了账：招错一个人，成本不是他的工资，而是 几个月的团队内耗 + 丢掉的市场机会 。 一个不合适的员工，会像病毒一样侵蚀团队： 他会抱怨、甩锅、传播负能量，让其他员工的效率下降30% 他会搞砸项目，让你错过关键的市场窗口 他甚至会带走核心客户，让你多年的积累付诸东流 2. 好的筛选，是30分钟看透未来三年的“累赘” 面试不是聊家常，而是在30分钟里，判断这个人未来三年会不会成为你的累赘。 怎么判断？看四点： 动机、能力、人品 、价值观 。 动机 ：他为什么来你的公司？是为了钱，还是为了梦想？如果他只谈梦想不谈钱，大概率不靠谱；如果他只谈钱不谈成长，大概率是短视。 能力 ：他过去做成过什么？而不是他会什么。一个人说自己擅长运营，不如说“我负责过XX项目，带来了100万的营收”。 人品 ：他怎么对待过去的同事和公司？如果他一上来就抱怨上家公司，说老板傻逼、同事难搞，这种人到了你的公司，也会一样抱怨你。 价值观： 成年人的价值观早已定型 ， 你永远叫不醒装睡的人，更改变不了一个跟你三观不合的人，人心难移，不如早点止损。 3. 培养不是慈善，是投资，算不清回报率就别投 很多老板把培养当成情怀，觉得“我对员工好，员工就会对公司好”。但现实是， 培养是投资，投资就要算回报率 。 培养一个员工的成本包括：工资、培训时间、试错成本、机会成本。如果这个员工能在未来1-2年内，为公司带",
+      "translationStatus": "pending",
+      "sourceSnippet": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
       "keyIdeas": [
-        "核心信号围绕“50条血的教训：培养错了人，比招错人更可怕”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Greptile takes bug detection beyond code review with GPT-6 Astra”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "50条血的教训：培养错了人，比招错人更可怕",
+        "Greptile takes bug detection beyond code review ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 4.3,
+        "novelty": 4.1,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 84.4,
+      "preRankingScore": 66.76,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "f16aefe89a6e3f",
+      "title": "Working with academic communities to build scientific understanding",
+      "titleZh": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-26T14:30:00Z",
+      "discoveredAt": "2026-10-27T01:50:43Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "keyIdeas": [
+        "核心信号围绕“Working with academic communities to build scientific understanding”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Working with academic communities to build scien",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.0,
+        "novelty": 4.0,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 4.1
+      },
+      "finalScore": 84.0,
+      "preRankingScore": 66.46,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 17,
+      "duplicateSources": [
+        "Hacker News"
+      ]
+    },
+    {
+      "id": "3d3b1402f23772",
+      "title": "这个破业非创不可吗？",
+      "titleZh": "这个破业非创不可吗？",
+      "url": "https://www.woshipm.com/share/6484241.html",
+      "author": "42章经",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-26T09:40:25Z",
+      "discoveredAt": "2026-10-27T01:50:45Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。Articuler AI 创始人 Jason 在账上没钱、投不起广告的时候，每天去硅谷大学门口发传单，最后在线下活动这个场景里找到新的 PMF。这场对谈讲的是绝境里怎么把事重新做对。 Jason 是 Articuler AI 创始人，此前做过 5 年投资。他并不符合投资人最喜欢的那类创始人画像，也经历过融资困难、资金链濒临断裂的低谷。但去年，他埋头去了美国，在绝境中找到了新的 PMF，产品也慢慢走上了正轨。 本期播客原文约 19000 字，编辑整理后约 3000 字。 曲凯： 去年我们聊的时候，市面上有不少做「AI 找人」的工具，你们也是其中之一，但现在你们走了一条不太一样的路。能不能先讲讲，你是怎么转到线下会议这个场景的？ Jason： 坦诚来讲，没什么灵机一动，就是去年账上真没钱了，投不起广告。 那怎么办？",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "Articuler AI 创始人 Jason 在账上没钱、投不起广告的时候，每天去硅谷大学门口发传单，最后在线下活动这个场景里找到新的 PMF。这场对谈讲的是绝境里怎么把事重新做对。 Jason 是 Articuler AI 创始人，此前做过 5 年投资。他并不符合投资人最喜欢的那类创始人画像，也经历过融资困难、资金链濒临断裂的低谷。但去年，他埋头去了美国，在绝境中找到了新的 PMF，产品也慢慢走上了正轨。 本期播客原文约 19000 字，编辑整理后约 3000 字。 曲凯： 去年我们聊的时候，市面上有不少做「AI 找人」的工具，你们也是其中之一，但现在你们走了一条不太一样的路。能不能先讲讲，你是怎么转到线下会议这个场景的？ Jason： 坦诚来讲，没什么灵机一动，就是去年账上真没钱了，投不起广告。 那怎么办？ 我当时就每天去硅谷的大学门口和活动现场发传单。一来二去，发现线下活动是一个很有趣的场景： 大家都是带着交流或者找人的明确目的去参加活动的，但到了现场，哪怕你想认识的人就在旁边坐着，你可能都不知道 Ta 是谁。如果我们能了解一个人的背景、意图之类的，就能做更高效的分发。 曲凯： 我到今天也有你说的这个诉求，就是一直想知道身边的人都在干嘛，尤其是在那些投资人和创业者多的地方，比如湾区的 Blue Bottle（笑）。 所以你们大概是怎么做的？ Jason： 我们现在是跟一些活动主办方合作，帮他们解决最痛苦的一个问题：找观众。 主办方只需要告诉我活动的话题和想找的观众画像，我们就可以从全球范围内，直接帮他们筛选出参与意愿最高的观众，然后定向邀约。我们现在邀约邮件的打开率大概是 80%，转化率能达到 15% 到 20%。 活动开始前一天，我们还会通过邮件，告诉要来的观众，这场活动里有哪些值得一见的人。这边的转化率更高一些。 曲凯： 就是说活动主办方会授权给你，允许你用这些信息去做匹配、把人拉到你的平台上？ 但你毕竟是一个初到湾区的中国人，而那边已经有很多本地产品了。为什么大家会愿意跟你合作，还愿意和你分享这些非常宝贵的个人信息？ Jason： 这是个特别好的问题，我从三个角度回答。 第一，我们提供了别人没有的价值。 现有产品提供的主要是票务服务，但不能帮主办方解决获客问题。而我们不仅能帮主办方获客，还能提高活动的出席率。在美国，一个免费活动的出席率能有 20%、30%，就已经相当不错了，但我们能把出席率往上拔很多。合作过一次之后，这些主办方就很愿意继续和我们合作。我们现在也算是打入了顶尖的活动生态，最近和 AGI Summit、OpenAI、YC、SF Tech Week 都有合作。 第二，美国也是有江湖的，你就是要跟他们做朋友、打进这个圈子。 我做投资的时候，有一半时间都在美国出差，和圈子里的一些关键节点都有信任关系。其实早期创业就是得先把身边的人服务好，",
+      "keyIdeas": [
+        "核心信号围绕“这个破业非创不可吗？”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "这个破业非创不可吗？",
         "product-insight"
       ],
       "importantTerms": [],
       "scores": {
-        "insightDensity": 3.9,
+        "insightDensity": 4.5,
+        "argumentDepth": 4.1,
+        "evidenceQuality": 4.4,
+        "nonConsensusValue": 3.5,
+        "transferability": 4.4,
+        "personalRelevance": 3.8
+      },
+      "finalScore": 82.7,
+      "preRankingScore": 73.38,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "f6a2c13d46c3da",
+      "title": "用AI做3D交互教学，沉浸式学习有了新的打开方式",
+      "titleZh": "用AI做3D交互教学，沉浸式学习有了新的打开方式",
+      "url": "https://www.woshipm.com/ai/6484441.html",
+      "author": "虾蛄AI",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-27T01:11:17Z",
+      "discoveredAt": "2026-10-27T01:50:45Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。一本摊开的物理课本里冒出一座 3D 实验室，十节能量课都能上手操作。作者顺着海外案例，用 WorkBuddy 复刻了太阳系交互实验，把搭建过程写成可复制步骤，连提示词都整理好了。 从课堂演示到科普创作。 想象一下，一本摊开的物理课本里，竟然出现了一座小小的3D实验室。 原本写在纸张里的能量知识，被做成了能够观察和操作的立体模型。 最近，一位海外创作者就用AI制作了这样一本3D互动教材，把能量相关的知识设计成了十节可以动手探索的课程。 类似的玩法已经开始出现在国内。 腾讯正在内测一款名叫懂了鸭的AI互动学习产品，其中就有不少可以动手操作的实验模型。借助AI，制作这样的互动作品也变得方便了许多。 比如正在给孩子解释杠杆原理，直接打开这样的页面，可能比对着课本画几遍示意图更容易引起兴趣。 它选的知识点并不神秘，日常生",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "一本摊开的物理课本里冒出一座 3D 实验室，十节能量课都能上手操作。作者顺着海外案例，用 WorkBuddy 复刻了太阳系交互实验，把搭建过程写成可复制步骤，连提示词都整理好了。 从课堂演示到科普创作。 想象一下，一本摊开的物理课本里，竟然出现了一座小小的3D实验室。 原本写在纸张里的能量知识，被做成了能够观察和操作的立体模型。 最近，一位海外创作者就用AI制作了这样一本3D互动教材，把能量相关的知识设计成了十节可以动手探索的课程。 类似的玩法已经开始出现在国内。 腾讯正在内测一款名叫懂了鸭的AI互动学习产品，其中就有不少可以动手操作的实验模型。借助AI，制作这样的互动作品也变得方便了许多。 比如正在给孩子解释杠杆原理，直接打开这样的页面，可能比对着课本画几遍示意图更容易引起兴趣。 它选的知识点并不神秘，日常生活里随时都能碰到。 精彩之处在于作者愿意给一个小问题设计完整的操作过程，让用户有机会亲自寻找答案。 就像前面那一份看起来像立体书的教材，也因此变得更像一个可以慢慢探索的小世界。 看到这里，可能已经有人跃跃欲试了。 就用WorkBuddy来说，一边搭建一边看效果，很适合用来搭建一份可以反复调试、打开体验的互动实验。 先说搭建一个太阳系。 打开页面，眼前是一片深色星空，太阳留在中央，行星沿着各自的轨道运行，鼠标拖动画面可以转换角度。 选中地球后，镜头会慢慢靠近，旁边随即显示这颗行星的资料，再点土星，视线又移向那圈很有辨识度的星环。 单看成品，可能会以为制作时要先学会三维建模，还得自己安排每颗行星的运动。实际操作时，可以先给WorkBuddy讲清楚想要一座怎样的天文台，让它去完成页面搭建。 小编也把这次制作里最核心的要求整理成一份可复制的版本。 它保留了原案例的主要功能和检查要求，完成的复杂度和功能的适配可能会更多取决于模型的选择，小编这次用的是Kimi 3.1 Pro，虽然昨晚的限流用的有点糟心。 使用 React、TypeScript、Vite、Three.js、React Three Fiber 和 Drei 等技术，构建一个高度精确的交互式 3D 太阳系模拟器，作为单页网页应用。在尽可能保持物理模拟准确性的同时，确保应用能够在浏览器中高效运行。 模拟太阳、八大行星、主要矮行星（包括谷神星、冥王星、阋神星、妊神星和鸟神星）、地球的月球，以及巨行星的主要大型卫星。使用真实的天文数据设定天体的轨道参数、半径、质量、自转轴倾角、自转周期、公转周期、轨道偏心率、轨道倾角以及平均日心距离。采用基于开普勒定律的轨道力学模型，而不是简单的圆形轨道模型，准确模拟椭圆轨道、轨道倾角、天体自转以及随时间变化的相对运动。 提供两种显示模式：一种是真实比例模式，尽可能保持天体相对大小和距离的准确性；另一种是教育展示模式，在保留可识别比例关系的同时适当压缩距离。 打造视觉效果出",
+      "keyIdeas": [
+        "核心信号围绕“用AI做3D交互教学，沉浸式学习有了新的打开方式”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "用AI做3D交互教学，沉浸式学习有了新的打开方式",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.1,
         "argumentDepth": 4.5,
-        "evidenceQuality": 4.1,
-        "nonConsensusValue": 4.2,
-        "transferability": 4.3,
+        "evidenceQuality": 3.8,
+        "nonConsensusValue": 3.8,
+        "transferability": 3.8,
         "personalRelevance": 4.1
       },
-      "finalScore": 83.7,
-      "preRankingScore": 72.62,
+      "finalScore": 80.9,
+      "preRankingScore": 74.93,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -99,70 +239,28 @@
       "duplicateSources": []
     },
     {
-      "id": "56234a99b1d487",
-      "title": "拼多多推广技巧和方法：新手也能落地，低成本撬动流量、稳定出单",
-      "titleZh": "拼多多推广技巧和方法：新手也能落地，低成本撬动流量、稳定出单",
-      "url": "https://www.woshipm.com/operate/6483718.html",
-      "author": "卖家情报局",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-10-25T08:36:42Z",
-      "discoveredAt": "2026-10-26T01:00:13Z",
-      "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。拼多多推广并非单纯砸钱，而是内功、免费流量与付费工具的协同作战。本文从标题、主图、定价等基础优化讲起，系统拆解搜索、场景、全站等付费工具的使用时机，并给出新店冷启动到爆款稳定的分阶段实操方案，助你避开盲目烧钱的坑。 很多新手商家入驻拼多多之后，最大的困惑就是：产品上架了，价格也有优势，但是没访客、不出单，不知道该怎么推广。 不少人一上来就盲目开付费广告，钱烧出去了，订单寥寥无几；也有人只靠等自然流量，店铺几个月没有起色。拼多多的推广，核心逻辑不是单纯砸钱，而是 先做好商品内功，再用免费流量打底，付费流量精准放大，配合活动、短视频、多多进宝多渠道联动 。今天这篇文章，就把拼多多整套推广思路、实操方法、避坑要点一次性讲清楚，适合新店起量、老店优化。 提示：本文仅为运营经验分享，不保证一定爆单，推广请结合自身产品利润",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "拼多多推广并非单纯砸钱，而是内功、免费流量与付费工具的协同作战。本文从标题、主图、定价等基础优化讲起，系统拆解搜索、场景、全站等付费工具的使用时机，并给出新店冷启动到爆款稳定的分阶段实操方案，助你避开盲目烧钱的坑。 很多新手商家入驻拼多多之后，最大的困惑就是：产品上架了，价格也有优势，但是没访客、不出单，不知道该怎么推广。 不少人一上来就盲目开付费广告，钱烧出去了，订单寥寥无几；也有人只靠等自然流量，店铺几个月没有起色。拼多多的推广，核心逻辑不是单纯砸钱，而是 先做好商品内功，再用免费流量打底，付费流量精准放大，配合活动、短视频、多多进宝多渠道联动 。今天这篇文章，就把拼多多整套推广思路、实操方法、避坑要点一次性讲清楚，适合新店起量、老店优化。 提示：本文仅为运营经验分享，不保证一定爆单，推广请结合自身产品利润、供应链情况理性投放。 一、推广之前，先做好商品内功（所有流量的基础） 拼多多平台比价属性很强，点击率、转化率、评价、销量直接决定能不能接住流量。内功没做好，再贵的推广都是浪费。 标题优化，抓住搜索流量 标题不要堆砌无关词，核心公式：核心词+属性词+场景词+长尾词。优先参考类目热搜词、竞品高转化标题，把用户常搜的词放进标题，方便多多搜索匹配流量。后期开搜索推广的关键词，尽量和标题呼应，提升关键词质量分。 主图+详情，提升点击率和转化 首图是流量入口，要突出卖点、价格优势、痛点，多做几张创意图测图，对比点击率；主图不要照搬同行。详情页重点解决用户顾虑：材质、规格、售后、发货时效，搭配实拍图、买家秀。 定价策略，预留推广和活动空间 不要把利润压到极致再上架。拼多多经常要报活动、设置优惠券、新客立减、限时限量，定价时提前预留优惠空间。新品可以先用优惠工具做基础销量，不要频繁大幅度改价，容易降低商品权重。 基础评价和销量，是转化门槛 新店新品冷启动阶段，很难直接靠广告转化。优先积累10-20个基础销量、5条以上带图/视频好评，商品有基础信任之后，付费推广、平台活动才更容易拿到好效果。 二、免费推广渠道：零成本，长期稳定的自然流量 拼多多大部分订单来自自然流量，免费流量是店铺的基本盘，一定要优先运营。 1. 平台活动报名（性价比最高的免费流量） 平台官方活动是流量红利来源，不同阶段选择合适活动： 限时秒杀：适合性价比款、低价引流款，爆发强，适合新品破零； 9块9特卖、品牌清仓、百亿补贴外围：根据客单价报名； 各类主题活动、大促活动：618、双11、平台品类日，提前布局备货和报名。 ⚠️注意：活动有价格、库存、发货时效要求，报名前核算好利润，避免亏损冲量。 2. 多多视频、直播内容流量 多多视频是近几年增长很快的免费流量渠道，门槛低。商家可以自己拍摄产品实拍视频、使用教程、开箱视频，发布多多视频挂载商品；也可以联系平台达人合作带货。短视频做得好，会持续推荐免费推荐",
-      "keyIdeas": [
-        "核心信号围绕“拼多多推广技巧和方法：新手也能落地，低成本撬动流量、稳定出单”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "拼多多推广技巧和方法：新手也能落地，低成本撬动流量、稳定出单",
-        "product-insight"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "insightDensity": 4.3,
-        "argumentDepth": 4.5,
-        "evidenceQuality": 3.8,
-        "nonConsensusValue": 3.7,
-        "transferability": 4.4,
-        "personalRelevance": 4.1
-      },
-      "finalScore": 83.2,
-      "preRankingScore": 73.36,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
-      "duplicateSources": []
-    },
-    {
-      "id": "6430909168b586",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "titleZh": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "id": "1a1d4bf2fc111e",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "titleZh": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
       "author": "",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "discoveredAt": "2026-10-26T01:00:07Z",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-26T13:45:00Z",
+      "discoveredAt": "2026-10-27T01:50:43Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
       "translationStatus": "pending",
-      "sourceSnippet": "",
+      "sourceSnippet": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
       "keyIdeas": [
-        "核心信号围绕“Does Your Model Run on AWS Trainium? Look It Up”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Does Your Model Run on AWS Trainium? Look It Up",
+        "GPT-6.1 Sol helps CodeRabbit strengthen security",
         "ai-news"
       ],
       "importantTerms": [
@@ -172,161 +270,29 @@
         }
       ],
       "scores": {
-        "eventImpact": 3.8,
-        "sourceCredibility": 4.0,
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.5,
         "novelty": 4.0,
         "aiProductImpact": 4.4,
         "personalRelevance": 4.4
       },
-      "finalScore": 81.2,
-      "preRankingScore": 58.7,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 4,
-      "duplicateSources": []
-    },
-    {
-      "id": "a9e08b18c9f802",
-      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-      "titleZh": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-      "url": "https://huggingface.co/destined/hurston-1",
-      "author": "Gcarter08",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-25T01:30:13Z",
-      "discoveredAt": "2026-10-26T01:00:09Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. Destined AI is based in Atlanta, and I built this because I’m amazed by what AI can do, and I wanted to help introduce and welcome more people to feel comfortable using and interacting with AI. Since 2021, I’ve been collecting fully consented voice data from over 20,000 people, 1M audio recordings, and over 1,800 hrs of audio captured to date. For this model, I used a small part of the data, 136 hrs, to finetune Maya1 and expand it’s capabilities. Hurston-1 is a narrowband TTS model that focuses the output on telephone use because that is still where most of these voices will be heard. I’ve used it to support customers such as Amazon and Salesforce and generated over half-mill revenue with it. Now I’m open sourcing it to help unlock opportunities for others as well. Limitations: this model doesn’t maintain the exact same voice across prompts and doesn’t support voice cloning. For many use cases, this is fine but maybe not so - if you’re creating podcasts. This is the first release - I’m ",
-      "keyIdeas": [
-        "核心信号围绕“Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Show HN: Hurston-1 open source TTS that speak So",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 3.8,
-        "sourceCredibility": 3.5,
-        "novelty": 4.6,
-        "aiProductImpact": 3.8,
-        "personalRelevance": 4.4
-      },
-      "finalScore": 79.2,
-      "preRankingScore": 75.58,
-      "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 44,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=50227330"
-      },
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 11,
-      "duplicateSources": []
-    },
-    {
-      "id": "53ef81310569af",
-      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-      "titleZh": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-      "url": "https://www.qbitai.com/2026/10/504879.html",
-      "author": "量子位的朋友们",
-      "source": "量子位",
-      "publishedAt": "2026-10-22T09:07:05Z",
-      "discoveredAt": "2026-10-26T01:00:08Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
-      "keyIdeas": [
-        "核心信号围绕“又一国产决策模型发布！准确率超过微软和Jev等决策模型”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.3,
-        "sourceCredibility": 3.7,
-        "novelty": 3.7,
-        "aiProductImpact": 3.9,
-        "personalRelevance": 4.3
-      },
-      "finalScore": 79.6,
-      "preRankingScore": 61.61,
+      "finalScore": 82.8,
+      "preRankingScore": 66.34,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
+      "estimatedReadingMinutes": 2,
       "duplicateSources": []
     },
     {
-      "id": "855e956ab3ec1a",
-      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-      "titleZh": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-      "url": "https://www.qbitai.com/2026/10/504832.html",
-      "author": "量子位的朋友们",
-      "source": "量子位",
-      "publishedAt": "2026-10-22T07:11:14Z",
-      "discoveredAt": "2026-10-26T01:00:08Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
-      "keyIdeas": [
-        "核心信号围绕“既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.0,
-        "sourceCredibility": 3.8,
-        "novelty": 4.0,
-        "aiProductImpact": 3.9,
-        "personalRelevance": 4.3
-      },
-      "finalScore": 79.4,
-      "preRankingScore": 61.6,
-      "readingTier": "signal",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 4,
-      "duplicateSources": []
-    },
-    {
-      "id": "c45c68dc9fe273",
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "titleZh": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/",
-      "author": "minimaxir",
+      "id": "ce5ce5fc43fb09",
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "titleZh": "Concerning behavior from a popular open-weight AI model",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "author": "matthieu_bl",
       "source": "Hacker News",
-      "publishedAt": "2026-10-25T21:11:31Z",
-      "discoveredAt": "2026-10-26T01:00:09Z",
+      "publishedAt": "2026-10-26T16:35:44Z",
+      "discoveredAt": "2026-10-27T01:50:45Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -334,13 +300,13 @@
       "translationStatus": "pending",
       "sourceSnippet": "",
       "keyIdeas": [
-        "核心信号围绕“OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Concerning behavior from a popular open-weight AI model”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "OpenAI and Anthropic cut their LLM prices by up ",
+        "Concerning behavior from a popular open-weight A",
         "ai-news"
       ],
       "importantTerms": [
@@ -351,21 +317,62 @@
       ],
       "scores": {
         "eventImpact": 4.5,
-        "sourceCredibility": 3.8,
-        "novelty": 3.5,
-        "aiProductImpact": 3.4,
-        "personalRelevance": 4.5
+        "sourceCredibility": 4.3,
+        "novelty": 4.0,
+        "aiProductImpact": 3.5,
+        "personalRelevance": 3.5
       },
-      "finalScore": 78.8,
-      "preRankingScore": 73.22,
+      "finalScore": 81.2,
+      "preRankingScore": 78.62,
       "readingTier": "signal",
       "socialSignals": {
-        "points": 120,
-        "comments": 138,
-        "hnUrl": "https://news.ycombinator.com/item?id=50236102"
+        "points": 257,
+        "comments": 111,
+        "hnUrl": "https://news.ycombinator.com/item?id=50246658"
       },
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 16,
+      "estimatedReadingMinutes": 18,
+      "duplicateSources": []
+    },
+    {
+      "id": "0a636c3d051e1f",
+      "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+      "titleZh": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+      "url": "https://www.qbitai.com/2026/10/505083.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-23T09:21:41Z",
+      "discoveredAt": "2026-10-27T01:50:45Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
+      "keyIdeas": [
+        "核心信号围绕“科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 3.3,
+        "novelty": 3.4,
+        "aiProductImpact": 3.5,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 73.2,
+      "preRankingScore": 61.51,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
       "duplicateSources": []
     }
   ],
