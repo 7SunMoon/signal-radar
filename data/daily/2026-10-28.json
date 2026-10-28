@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T02:02:03Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 235,
+    "afterDeduplication": 231,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "d42fb1eb336241",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "titleZh": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-27T15:00:00Z",
+      "discoveredAt": "2026-10-28T02:01:53Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "keyIdeas": [
+        "核心信号围绕“Retell uses OpenAI models to help power 100M monthly calls”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Retell uses OpenAI models to help power 100M mon",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.4,
+        "novelty": 4.4,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 88.4,
+      "preRankingScore": 66.11,
+      "readingTier": "must-read",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 8,
+      "duplicateSources": []
+    },
+    {
+      "id": "db98bf59a6c7e4",
+      "title": "Build specialized multimodal models with LFM3",
+      "titleZh": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-10-27T17:16:52Z",
+      "discoveredAt": "2026-10-28T02:01:53Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Build specialized multimodal models with LFM3”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Build specialized multimodal models with LFM3",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.5,
+        "novelty": 4.5,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 3.4
+      },
+      "finalScore": 85.0,
+      "preRankingScore": 65.12,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 12,
+      "duplicateSources": []
+    },
+    {
+      "id": "b8556768936db0",
+      "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+      "titleZh": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+      "url": "https://www.qbitai.com/2026/10/505443.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-26T08:38:49Z",
+      "discoveredAt": "2026-10-28T02:01:54Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+      "keyIdeas": [
+        "核心信号围绕“从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行””展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 4.4,
+        "novelty": 4.1,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 84.6,
+      "preRankingScore": 66.12,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "cb2364223fa0a7",
+      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+      "titleZh": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+      "url": "https://www.qbitai.com/2026/10/505539.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-26T09:46:13Z",
+      "discoveredAt": "2026-10-28T02:01:54Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+      "keyIdeas": [
+        "核心信号围绕“AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.9,
+        "sourceCredibility": 4.4,
+        "novelty": 4.2,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 83.6,
+      "preRankingScore": 66.51,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "8af34d90d669e0",
+      "title": "Here be monsters: What do you still need to know when agents do the work?",
+      "titleZh": "Here be monsters: What do you still need to know when agents do the work?",
+      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+      "author": "adrq",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-27T13:23:22Z",
+      "discoveredAt": "2026-10-28T02:01:54Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Here be monsters: What do you still need to know when agents do the work?”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Here be monsters: What do you still need to know",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 3.9,
+        "novelty": 3.5,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 83.2,
+      "preRankingScore": 72.45,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 157,
+        "comments": 86,
+        "hnUrl": "https://news.ycombinator.com/item?id=50258868"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 18,
+      "duplicateSources": []
+    },
+    {
+      "id": "250e5d8f302445",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "titleZh": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-26T22:00:00Z",
+      "discoveredAt": "2026-10-28T02:01:53Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "keyIdeas": [
+        "核心信号围绕“Greptile takes bug detection beyond code review with GPT-6 Astra”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Greptile takes bug detection beyond code review ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.2,
+        "novelty": 4.0,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 82.4,
+      "preRankingScore": 64.34,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "444eadf940b28b",
+      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+      "titleZh": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+      "url": "https://www.qbitai.com/2026/10/505551.html",
+      "author": "梦晨",
+      "source": "量子位",
+      "publishedAt": "2026-10-26T16:06:31Z",
+      "discoveredAt": "2026-10-28T02:01:54Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
+      "keyIdeas": [
+        "核心信号围绕“刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.1,
+        "sourceCredibility": 3.8,
+        "novelty": 3.9,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 3.6
+      },
+      "finalScore": 80.2,
+      "preRankingScore": 66.89,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "a581be76a56cd4",
+      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+      "titleZh": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+      "url": "https://www.qbitai.com/2026/10/505580.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-27T03:23:55Z",
+      "discoveredAt": "2026-10-28T02:01:54Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+      "keyIdeas": [
+        "核心信号围绕“钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.9,
+        "sourceCredibility": 4.0,
+        "novelty": 3.7,
+        "aiProductImpact": 3.6,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 77.6,
+      "preRankingScore": 68.33,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
