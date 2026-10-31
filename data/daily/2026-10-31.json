@@ -1,0 +1,372 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T02:03:51Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 234,
+    "afterDeduplication": 232,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "d42fb1eb336241",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "titleZh": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-27T15:00:00Z",
+      "discoveredAt": "2026-10-31T02:03:40Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "keyIdeas": [
+        "核心信号围绕“Retell uses OpenAI models to help power 100M monthly calls”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Retell uses OpenAI models to help power 100M mon",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 4.3,
+        "novelty": 4.3,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 86.4,
+      "preRankingScore": 58.9,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 8,
+      "duplicateSources": []
+    },
+    {
+      "id": "d8eb5a4b641ea9",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "titleZh": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "author": "sandslash",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-29T21:40:28Z",
+      "discoveredAt": "2026-10-31T02:03:41Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“We ran AI agent swarms in Minecraft and Mindustry”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "We ran AI agent swarms in Minecraft and Mindustr",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.6,
+        "sourceCredibility": 3.5,
+        "novelty": 4.6,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 86.0,
+      "preRankingScore": 78.16,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 397,
+        "comments": 163,
+        "hnUrl": "https://news.ycombinator.com/item?id=50296486"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "f3538b6fb36f4f",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "titleZh": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-10-29T13:37:07Z",
+      "discoveredAt": "2026-10-31T02:03:40Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Granite Switch 4.1.1 — Update models like you update software”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Granite Switch 4.1.1 — Update models like you up",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.4,
+        "novelty": 4.3,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 3.8
+      },
+      "finalScore": 84.4,
+      "preRankingScore": 62.36,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "6e7ff814d8d3b1",
+      "title": "Claude新模型曝光：新Fable，新Opus…",
+      "titleZh": "Claude新模型曝光：新Fable，新Opus…",
+      "url": "https://www.qbitai.com/2026/10/506674.html",
+      "author": "Jay",
+      "source": "量子位",
+      "publishedAt": "2026-10-30T05:50:44Z",
+      "discoveredAt": "2026-10-31T02:03:41Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。目前，这些新模型已经悄悄进入了早期测试阶段，一些网友放出的实测效果图，也是相当离谱。 一开始是有人发现，在Azure的模型目录里，短暂出现了一个叫claude-fable-5-5的条目，虽然很快就被删了，但截图已经满天飞了。 虽然之前模型的效果已经非常不错了，但看到Fable 5.5的输出，还是会忍不住瘫软一下、 这画面质感，这光影细节，你不说，我还以为是Image 2.5生成的啊。 不过对比下还是看得出来，Fable 5.5确实比Opus 5.5多了很多细节，这也是水桶模型的强势之处吧。 有开发者在基准测试平台发现了一个代号为 Obsidian 3 的模型，跑分略高于现在的Opus 5.5。 前脚Google两周就发一个新模型，好不容易老头重回王座，后脚Anthropic就又准备露头就秒了。 就在前几天，An",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Claude新模型曝光：新Fable，新Opus…”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Claude新模型曝光：新Fable，新Opus…",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.1,
+        "novelty": 4.5,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 82.6,
+      "preRankingScore": 67.98,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "c61546c5ea46e7",
+      "title": "对话 Google AI 基建负责人：从芯片配比到全球部署，Agent 正在重写数据中心的建设逻辑",
+      "titleZh": "对话 Google AI 基建负责人：从芯片配比到全球部署，Agent 正在重写数据中心的建设逻辑",
+      "url": "https://www.woshipm.com/it/6486812.html",
+      "author": "Z Finance",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-30T08:14:55Z",
+      "discoveredAt": "2026-10-31T02:03:42Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。算力的账不能只看 FLOPS。Google AI 基建负责人 Amin Vahdat 谈 TPU 配比、十万卡集群的故障恢复，以及长时程 Agent 如何改写数据中心的供电与冷却，回报要算到任务真完成。 当一家公司的 AI 服务能力需要每六个月翻一倍，买更多芯片只是问题的开始。十万颗加速器组成的集群里，故障随时发生；模型几个月就会迭代，硬件却要使用多年；工程师还在优化上一代系统，下一代数据中心的供电和冷却方案就必须提前确定。 这正是 Google AI 基础设施负责人 Amin Vahdat 面对的日常。在与红杉资本 Sonya Huang 的这场对话中，他从 TPU 的设计取舍讲到长时程 Agent 如何改变数据中心，也解释了 Google 如何衡量这场建设的实际回报：芯片账面上有多少算力，最终必须落实为真实",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "算力的账不能只看 FLOPS。Google AI 基建负责人 Amin Vahdat 谈 TPU 配比、十万卡集群的故障恢复，以及长时程 Agent 如何改写数据中心的供电与冷却，回报要算到任务真完成。 当一家公司的 AI 服务能力需要每六个月翻一倍，买更多芯片只是问题的开始。十万颗加速器组成的集群里，故障随时发生；模型几个月就会迭代，硬件却要使用多年；工程师还在优化上一代系统，下一代数据中心的供电和冷却方案就必须提前确定。 这正是 Google AI 基础设施负责人 Amin Vahdat 面对的日常。在与红杉资本 Sonya Huang 的这场对话中，他从 TPU 的设计取舍讲到长时程 Agent 如何改变数据中心，也解释了 Google 如何衡量这场建设的实际回报：芯片账面上有多少算力，最终必须落实为真实任务完成了多少、消耗了多少电力，以及故障后损失了多少进度。 贯穿访谈的是一个难题： 如何用建设周期长达数年的基础设施，承接仍在快速变化的 AI 需求？ 以下是他的主要观点： 算力的账，要算到任务完成的那一刻。 FLOPS 衡量的是理论计算能力，Google 更关注有效吞吐：扣除故障、等待和重复计算之后，系统究竟完成了多少有效工作。集群越大，快速发现故障并恢复运行，就越决定实际产出。 Token 生成能力每六个月翻倍，至少一半的提升要靠软件。 Vahdat 强调，这一目标指向软硬件共同交付的服务能力。模型、编译器和运行时的持续优化，能够让已经部署的硬件释放更多产能。 专用芯片的成败，取决于能否提前判断需求会持续多久。 专业化能换来更高速度和能效，也会牺牲灵活性。设计者必须判断，一类工作负载几年后是否仍有足够规模，以及优化收益是否值得承担额外成本。 Agent 正在改变数据中心的资源配比。 人阅读和思考的间隔，曾自然限制模型请求的频率。长时程 Agent 可以连续调用模型、执行工具、读取上下文，由此同时推高加速器、CPU、网络和存储的需求，迫使数据中心重新考虑这些资源如何部署。 推理需求已经大到必须单独建设基础设施。 训练集群退役后转做推理，无法满足全部需求。推理服务还需要靠近全球用户，并协调计算、存储和网络，因此有自己独立的选址与设计逻辑。 七八年前的 TPU 仍然满负荷运转。 按照 Vahdat 的说法，Google 部分老一代 TPU 的利用率仍达到 100%。新芯片的效率进步，并不意味着旧硬件立即失去用途；替换决策还要综合折旧、能效和整个系统的改造成本。 电力供应要求提前多年规划，接入电网仍是 Google 的首选。 自建发电设施需要承担昂贵的冗余成本，与公用事业公司协同建设、在必要时补充本地发电，更有利于共享容量、提高可靠性。 垂直整合的性能收益，需要与开放接口并存。 Google 希望通过芯片、网络和软件协同设计提升效率，同时让客户保留框架与硬",
+      "keyIdeas": [
+        "核心信号围绕“对话 Google AI 基建负责人：从芯片配比到全球部署，Agent 正在重写数据中心的建设逻辑”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "对话 Google AI 基建负责人：从芯片配比到全球部署，Agent 正在重写数据中心的建设逻",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.0,
+        "argumentDepth": 4.3,
+        "evidenceQuality": 3.5,
+        "nonConsensusValue": 4.3,
+        "transferability": 4.4,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 82.4,
+      "preRankingScore": 73.22,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 21,
+      "duplicateSources": []
+    },
+    {
+      "id": "e9848ef7032039",
+      "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+      "titleZh": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+      "url": "https://sketch.wakeshift.ai/games/q5ucru",
+      "author": "ericlevine",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-30T15:23:11Z",
+      "discoveredAt": "2026-10-31T02:03:41Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https://sketch.wakeshift.ai/games/q5ucru Hi folks! I initially built this as a proof-of-concept for sending push notifications to AI agents. Watching the agents play Pictionary together has been compelling, so I thought I'd ship it as a standalone demonstration. In Sketch Stadium, your agent subscribes to game events. Agents take turns either drawing or guessing. Easy clues are 1 point, medium are 2, and hard are 3. It's entertaining to watch and some of the drawings are impressive (and others are mind-bogglingly bad). This is the real opportunity for the model labs who have been pelican-maxxing to shine. The first version gave agents the ability to draw lines 10 at a time so that it would be a little bit more like real Pictionary. However, it turns out agents are _really_ bad at drawing that way. So instead I let them use a subset of SVG to draw and that's worked much better, even for the lower-cost models. You don't need to create an account to connect your agent, just add the MCP and authorize. But if you don't want to do that, just watch the game linked above. As a bit more",
+      "keyIdeas": [
+        "核心信号围绕“Show HN: Sketch Stadium – watch your agent play Pictionary”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Show HN: Sketch Stadium – watch your agent play ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 3.9,
+        "novelty": 4.0,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 81.6,
+      "preRankingScore": 75.4,
+      "readingTier": "signal",
+      "socialSignals": {
+        "points": 24,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=50305218"
+      },
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "616adec2521260",
+      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+      "titleZh": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+      "url": "https://www.qbitai.com/2026/10/506662.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-30T03:48:04Z",
+      "discoveredAt": "2026-10-31T02:03:41Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。让机器人成为彼此的“老师”",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "让机器人成为彼此的“老师”",
+      "keyIdeas": [
+        "核心信号围绕“从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.5,
+        "sourceCredibility": 4.1,
+        "novelty": 4.5,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 80.4,
+      "preRankingScore": 67.9,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "b10f4376d75642",
+      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+      "titleZh": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+      "url": "https://www.qbitai.com/2026/10/506743.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-10-30T07:31:11Z",
+      "discoveredAt": "2026-10-31T02:03:41Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+      "keyIdeas": [
+        "核心信号围绕“英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 3.4,
+        "novelty": 3.9,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 78.8,
+      "preRankingScore": 68.8,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
