@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-01",
-  "generatedAt": "2026-11-01T01:54:28Z",
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T02:08:38Z",
   "mode": "metadata",
   "stats": {
     "discovered": 235,
@@ -11,56 +11,6 @@
   },
   "articles": [
     {
-      "id": "5b0ac3b976a1c0",
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "titleZh": "Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "author": "khalidkhair",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-31T14:29:03Z",
-      "discoveredAt": "2026-11-01T01:54:20Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
-      "keyIdeas": [
-        "核心信号围绕“Malware uses LLMs to rank victims by how much they're worth”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Malware uses LLMs to rank victims by how much th",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 4.6,
-        "sourceCredibility": 4.5,
-        "novelty": 4.5,
-        "aiProductImpact": 4.1,
-        "personalRelevance": 4.3
-      },
-      "finalScore": 88.6,
-      "preRankingScore": 77.71,
-      "readingTier": "must-read",
-      "socialSignals": {
-        "points": 233,
-        "comments": 126,
-        "hnUrl": "https://news.ycombinator.com/item?id=50316531"
-      },
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 10,
-      "duplicateSources": []
-    },
-    {
       "id": "f3538b6fb36f4f",
       "title": "Granite Switch 4.1.1 — Update models like you update software",
       "titleZh": "Granite Switch 4.1.1 — Update models like you update software",
@@ -68,7 +18,7 @@
       "author": "",
       "source": "Hugging Face Blog",
       "publishedAt": "2026-10-29T13:37:07Z",
-      "discoveredAt": "2026-11-01T01:54:18Z",
+      "discoveredAt": "2026-11-02T02:08:28Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -99,7 +49,7 @@
         "personalRelevance": 3.8
       },
       "finalScore": 84.4,
-      "preRankingScore": 59.97,
+      "preRankingScore": 57.55,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -107,136 +57,87 @@
       "duplicateSources": []
     },
     {
-      "id": "4e7cc0657971d3",
-      "title": "腾讯又出新Buddy，WorkBuddy多了个兄弟",
-      "titleZh": "腾讯又出新Buddy，WorkBuddy多了个兄弟",
-      "url": "https://www.woshipm.com/ai/6487352.html",
-      "author": "老曹",
+      "id": "04179af5bfdbc2",
+      "title": "DeepSeek、Kimi K3.1、Opus 5.5、GPT-6 同台竞技，Token 消耗差了 13 倍",
+      "titleZh": "DeepSeek、Kimi K3.1、Opus 5.5、GPT-6 同台竞技，Token 消耗差了 13 倍",
+      "url": "https://www.woshipm.com/ai/6487543.html",
+      "author": "Ai学习的老章",
       "source": "人人都是产品经理",
-      "publishedAt": "2026-10-31T08:44:50Z",
-      "discoveredAt": "2026-11-01T01:54:20Z",
+      "publishedAt": "2026-11-02T01:04:26Z",
+      "discoveredAt": "2026-11-02T02:08:29Z",
       "language": "zh-CN",
       "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。腾讯的AI产品，多的有点像在批量招员工。 打工人有WorkBuddy，程序员有CodeBuddy，搞数据的有DataBuddy，学生有LearnBuddy。 现在，连搞音乐的都安排上了。 腾讯音乐又推出了一款AI音乐创作产品，名字叫MusicBuddy，官网已经上线，目前处于内测阶段。曹哥第一时间拿到了内测权限体验，就迫不及待的为2026AI产品大会创作了一首主题曲，没想到居然挺不错。 腾讯的Buddy家族越来越热闹了。以后一个人创业，可能都不需要招几个人，直接给自己配上一支Buddy团队：WorkBuddy负责日常办公，CodeBuddy帮忙写代码，DataBuddy处理数据，再让MusicBuddy给公司写首主题曲。 如果以后再来个SalesBuddy负责销售，FinanceBuddy负责算账，老板估计做梦",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。同一道题丢给五个组合同台竞技：DSH 配 DeepSeek V4.1 Flash、Kimi Code 配 K3.1 Pro、Codex 配 GPT-6 Astra 等。比的是耗时、完成度和成片质量，最快的 8 分钟，最慢的 46 分钟，还有选手把中文题做成了英文片。 DeepSeek 说：DSH与自家模型是绝配 DeepSeek V4.1 Flash 1017 最佳 Harness 易主，尽快拥抱 DeepSeek Harness！ 实不相瞒，我一直想拥抱DSH，但还是没能习惯它 周末闲着没事，找了一道题目，让几个 Harness 和大模型同台竞技，看看他们表现如何，也确认一下哪些任务可以给哪些模型 我都想每周组织一场这个擂台了，大家有题目可以提哈，我抽空来测 本期出场选手包括： DSH 标准模式 + Deep",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "腾讯的AI产品，多的有点像在批量招员工。 打工人有WorkBuddy，程序员有CodeBuddy，搞数据的有DataBuddy，学生有LearnBuddy。 现在，连搞音乐的都安排上了。 腾讯音乐又推出了一款AI音乐创作产品，名字叫MusicBuddy，官网已经上线，目前处于内测阶段。曹哥第一时间拿到了内测权限体验，就迫不及待的为2026AI产品大会创作了一首主题曲，没想到居然挺不错。 腾讯的Buddy家族越来越热闹了。以后一个人创业，可能都不需要招几个人，直接给自己配上一支Buddy团队：WorkBuddy负责日常办公，CodeBuddy帮忙写代码，DataBuddy处理数据，再让MusicBuddy给公司写首主题曲。 如果以后再来个SalesBuddy负责销售，FinanceBuddy负责算账，老板估计做梦都能笑醒。 玩笑归玩笑，MusicBuddy这次还真有些看点。 我还专门找到了MusicBuddy的相关负责人聊了聊，他们提到一个挺有意思的产品愿景： 希望MusicBuddy成为音乐人专属的音乐搭子，帮助音乐人实现“一人厂牌”（OPC），也希望人人都能成为音乐人。 现在国内OPC（一人公司）概念这么火，腾讯这是准备让音乐人也加入一人创业大军了？ 不过，音乐人搞OPC，真的会比做自媒体、接AI外包更容易赚钱吗？ 01 、腾讯开始批量生产Buddy了 最近关注腾讯AI产品的朋友，应该对WorkBuddy不陌生。 这个产品可以直接帮你操作电脑、整理文件、分析数据、生成PPT、写文章，甚至完成一些复杂的自动化任务。 WorkBuddy的热度，也让腾讯的Buddy系列产品越来越受到关注。 在软件开发领域，腾讯有CodeBuddy，支持代码编写、项目开发、代码审查等工作。 数据领域有DataBuddy，能够帮助企业完成数据开发、治理和分析。 教育领域有LearnBuddy，主打AI专家分身、个性化课程和辅助学习。 如今，音乐领域又出现了MusicBuddy。 办公、编程、数据、教育、音乐，腾讯这阵容已经可以组个小型创业公司了。 当然，这些产品并非全部由同一个团队开发。WorkBuddy、CodeBuddy、DataBuddy主要来自腾讯云相关业务，而MusicBuddy背后则是腾讯音乐。 但从产品命名和布局来看，腾讯确实很喜欢Buddy这个名字。 之前我还写过，腾讯正在把部分Buddy产品组织成一个系列品牌，甚至推出了Buddy One会员体系。 这一套玩法，老QQ用户看着应该挺熟悉。 当年腾讯把QQ会员、超级会员、各种钻玩得明明白白。到了AI时代，会员体系换了一身衣服，又开始登场。 不过，产品起名字容易，做出真正有竞争力的产品可没那么简单。 WorkBuddy的办公能力、CodeBuddy的编程能力，和MusicBuddy的音乐创作能力，背后涉及完全不同的专业",
+      "sourceSnippet": "同一道题丢给五个组合同台竞技：DSH 配 DeepSeek V4.1 Flash、Kimi Code 配 K3.1 Pro、Codex 配 GPT-6 Astra 等。比的是耗时、完成度和成片质量，最快的 8 分钟，最慢的 46 分钟，还有选手把中文题做成了英文片。 DeepSeek 说：DSH与自家模型是绝配 DeepSeek V4.1 Flash 1017 最佳 Harness 易主，尽快拥抱 DeepSeek Harness！ 实不相瞒，我一直想拥抱DSH，但还是没能习惯它 周末闲着没事，找了一道题目，让几个 Harness 和大模型同台竞技，看看他们表现如何，也确认一下哪些任务可以给哪些模型 我都想每周组织一场这个擂台了，大家有题目可以提哈，我抽空来测 本期出场选手包括： DSH 标准模式 + DeepSeek V4.1 Flash Kimi Code + Kimi K3.1 Pro Codex + GPT-6 Astra 极高 Claude Code + Opus 5.5 Medium Gemini + Gemini 3.8 Flash 题目很简单，纯代码生成视频，提示词： /treardown 做一个抓娃娃机为何总是抓不到东西的拆解视频，录制一段20秒视频 提示词中的 treardown 是一个 Skills ，可以把任何机器变成一个可以拆解的 3D 模拟器，感兴趣的兄弟可以试试 npx skills add elvarofficial/teardown 所有选手都只有一次机会 最终他们都完成了任务，视频效果比较主观 但是它们实际耗时和Token消耗却是板上钉钉的数字： 选手 耗时 token 总处理量（缓存占比） 输出 token Codex 8 分钟 350 万（97%） 2.8 万 Claude Code 17 分钟 1215 万（96%） 13.0 万 Gemini 21 分钟 1394 万（96%） 8.1 万 Kimi Code 36 分钟 950 万（98%） 5.9 万 DSH 46 分钟 4644 万（99%） 28.1 万 图片会更明显一些，最高效的是 Codex，最墨迹的是 DSH 还是看下具体效果吧 1、DSH + DeepSeek V4.1 Flash 我选择 DSH 标准模式，整整 46 分钟才完成 符合我的刻板印象，之前测试过多次，同样题目，它总是“想太多”，它还有极简模式，我印象中也是“特能想” 结果如下，暇疵不少，唯一一个中文提问，最终给了英文视频的 2、Kimi Code + Kimi K3.1 Pro Kimi K3.1 Pro 我前几天测试过，除了价格和速度，很难吐槽了 国产最强开源大模型，Kimi K3.1 Pro 实测 2 天，有惊喜，有吐槽 它的总耗时倒数第二，任务完成的还不错 我感觉可以排在 Opu",
       "keyIdeas": [
-        "核心信号围绕“腾讯又出新Buddy，WorkBuddy多了个兄弟”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“DeepSeek、Kimi K3.1、Opus 5.5、GPT-6 同台竞技，Token 消耗差了 13 倍”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "腾讯又出新Buddy，WorkBuddy多了个兄弟",
+        "DeepSeek、Kimi K3.1、Opus 5.5、GPT-6 同台竞技，Token 消耗差",
         "product-insight"
       ],
       "importantTerms": [],
       "scores": {
         "insightDensity": 4.4,
-        "argumentDepth": 3.5,
-        "evidenceQuality": 4.2,
-        "nonConsensusValue": 4.3,
-        "transferability": 4.3,
-        "personalRelevance": 4.4
+        "argumentDepth": 3.9,
+        "evidenceQuality": 4.3,
+        "nonConsensusValue": 4.1,
+        "transferability": 3.6,
+        "personalRelevance": 4.5
       },
-      "finalScore": 83.2,
-      "preRankingScore": 73.28,
+      "finalScore": 82.7,
+      "preRankingScore": 74.89,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 5,
+      "estimatedReadingMinutes": 1,
       "duplicateSources": []
     },
     {
-      "id": "14074b4203bb23",
-      "title": "Show HN: A language model that lives in a boot sector",
-      "titleZh": "Show HN: A language model that lives in a boot sector",
-      "url": "https://github.com/kerlenton/bootgpt",
-      "author": "kerlenton",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-31T12:58:29Z",
-      "discoveredAt": "2026-11-01T01:54:20Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "All the ideas came from the boot sector demo scene where people had been writing chess and BASIC games in 512 bytes, even a C compiler. I wondered what one can do using a neural network instead of a program and generating boot logs for non-existent hardware was something fun to try. Entire inference engine is 510 bytes of MBR, weights, vocab, and strings reside in the sectors following MBR. Small char-level neural network was trained on dmesg generated by machine, so machine produces Linux boot messages infinitely. train.py performs precisely the same integer arithmetic operations as the asm code does and thus produces an output identical character-by-character to the one produced by QEMU. The difference analysis revealed my favorite bug. The characters at the beginning matched those generated by the simulator, but then the output diverged. I retrieved the hidden layer via QEMU’s debug port and compared the neurons' values with those of the simulator, one neuron at a time. Only the value of the first neuron was correct. The activation involves idiv, and idiv stores its remainder in edx. The pointer to the biases table was stored in edx, which resulted in the first neuron being bias",
-      "keyIdeas": [
-        "核心信号围绕“Show HN: A language model that lives in a boot sector”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Show HN: A language model that lives in a boot s",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 4.5,
-        "sourceCredibility": 3.6,
-        "novelty": 4.6,
-        "aiProductImpact": 3.8,
-        "personalRelevance": 3.9
-      },
-      "finalScore": 82.8,
-      "preRankingScore": 76.69,
-      "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 59,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=50315782"
-      },
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
-      "duplicateSources": []
-    },
-    {
-      "id": "99a71e93bee6c6",
-      "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
-      "titleZh": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
-      "url": "https://www.qbitai.com/2026/10/506819.html",
-      "author": "衡宇",
-      "source": "量子位",
-      "publishedAt": "2026-10-30T12:58:31Z",
-      "discoveredAt": "2026-11-01T01:54:20Z",
+      "id": "bcb70f59017325",
+      "title": "即梦短剧工作室保姆级教程分享，双十一每秒低至0.16元值得入手！",
+      "titleZh": "即梦短剧工作室保姆级教程分享，双十一每秒低至0.16元值得入手！",
+      "url": "https://www.woshipm.com/ai/6487529.html",
+      "author": "阿真Irene",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-02T00:56:38Z",
+      "discoveredAt": "2026-11-02T02:08:29Z",
       "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。xs，还要给机器人打绩效",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。从剧本、角色资产到分镜、生成、后期，即梦把短剧这条链路收进了一个工作台。本文按四大创作助手逐个走一遍：剧本医生怎么改主线，3D 导演台怎么摆位，多轨剪辑如何处理配音与字幕，末尾附了双十一各档位的单秒价差。 AI视频这一路的发展咱们也可以说是有目共睹了，从吃个面都吃不明白，再到稳定片段，现在电影感也上来了。 视频模型越来越稳，单条片段生成得挺好看，但想要真正通过AI影响去讲好一个完整的故事，去做一个连续剧，还是有很多问题需要解决的。 而最近，即梦正式上线了“短剧工作室”，把剧本创作、角色场景资产、分镜、视频生成和后期调整等等卡点全都安排得清清楚楚了。 我也第一时间去尝试了一番，现在来和朋友们梳理梳理值得关注的亮点。 之前有听说即梦和小云雀合并了，实际情况是即梦整合了小云雀的短剧 Agent 能力，两个产品都是剪映",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "xs，还要给机器人打绩效",
+      "sourceSnippet": "从剧本、角色资产到分镜、生成、后期，即梦把短剧这条链路收进了一个工作台。本文按四大创作助手逐个走一遍：剧本医生怎么改主线，3D 导演台怎么摆位，多轨剪辑如何处理配音与字幕，末尾附了双十一各档位的单秒价差。 AI视频这一路的发展咱们也可以说是有目共睹了，从吃个面都吃不明白，再到稳定片段，现在电影感也上来了。 视频模型越来越稳，单条片段生成得挺好看，但想要真正通过AI影响去讲好一个完整的故事，去做一个连续剧，还是有很多问题需要解决的。 而最近，即梦正式上线了“短剧工作室”，把剧本创作、角色场景资产、分镜、视频生成和后期调整等等卡点全都安排得清清楚楚了。 我也第一时间去尝试了一番，现在来和朋友们梳理梳理值得关注的亮点。 之前有听说即梦和小云雀合并了，实际情况是即梦整合了小云雀的短剧 Agent 能力，两个产品都是剪映旗下的 AI 内容创作平台，这次也是让即梦在短剧场景里多了一套工具能力，在即梦一个平台就能完成自己的项目。 最近双十一，即梦有双十一的限定优惠，个人和企业团队都有优惠，后面我一起整理分享。 四大创作助手 首先简单给大家介绍即梦短剧工作室，它们现在自带四大创作助手。 剧本助手（DreamScript） 写剧本，基于爆剧数据从生成到诊断优化剧本； 分镜助手（DreamShot） 辅助分镜制作，批量修改、出海翻译，还有大量运镜库直接调用参考； 选角导演 ，有自研的AnyCook，有7000+演员库辅助，还可以个性化捏脸捏表情； 还有 后期导演 ，从故事板即拍即改，到片段重拍、智能切分镜、配音处理、音频分离等都一应俱全了。 而这些，都直接展现在一个画布中，全局的资产都可以互通，方便大家按照自己的习惯完成项目。 1.故事开发 从灵感到剧本 创作链路从剧本创作开始，剧本创作调用的即梦自研的 DreamScript 模型，体验下来还是很专业的。 剧本创作三条路可选，简单来说就是，你有的是灵感、IP、小说、还是有剧本定稿？ 如果手头已有拍好的短剧成片想换画风或做出海版本，可以用【重制转绘】。它可以会复刻原片机位与运镜，支持 18 个目标地区的本土化适配，最长 5 分钟，单项目总时长最高 250 分钟。 我走的剧本创作，我的灵感是【老头说我命里有三次大劫会影响我发财】，和女频修仙言情。 剧本助手用的 DreamScript 模型，把一句话灵感直接转化为了人物立得住、冲突推得动、集尾有钩子的优质分集剧本。 风格库也是发狠了忘情了，100多种常用风格都能直接调用，我们可以在一开始就定好风格。我这次的案例全程都用的【精品古装偶像剧】风格，感觉一下子质感都提升了。 用剧本医生检查主线与台词 比如让它检查前 3 集的主角身份、核心冲突、台词是不是符合角色设定等等。它会先出诊断和修改建议，确认采纳后再改回正文，支持历史版本回退，改定后的剧本直接进入下一步资产解析。 2.资产管理 从",
       "keyIdeas": [
-        "核心信号围绕“榜一，拿来吧你！智元这波双模型杀穿多榜榜单”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“即梦短剧工作室保姆级教程分享，双十一每秒低至0.16元值得入手！”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
-        "ai-news"
+        "即梦短剧工作室保姆级教程分享，双十一每秒低至0.16元值得入手！",
+        "product-insight"
       ],
       "importantTerms": [],
       "scores": {
-        "eventImpact": 4.1,
-        "sourceCredibility": 3.9,
-        "novelty": 4.5,
-        "aiProductImpact": 4.3,
-        "personalRelevance": 3.6
+        "insightDensity": 3.9,
+        "argumentDepth": 4.4,
+        "evidenceQuality": 4.2,
+        "nonConsensusValue": 4.0,
+        "transferability": 4.4,
+        "personalRelevance": 3.7
       },
-      "finalScore": 82.6,
-      "preRankingScore": 66.43,
+      "finalScore": 82.1,
+      "preRankingScore": 74.88,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 4,
+      "estimatedReadingMinutes": 3,
       "duplicateSources": []
     },
     {
@@ -247,7 +148,7 @@
       "author": "guregodevo",
       "source": "Hacker News",
       "publishedAt": "2026-10-31T22:46:12Z",
-      "discoveredAt": "2026-11-01T01:54:20Z",
+      "discoveredAt": "2026-11-02T02:08:29Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -271,104 +172,196 @@
         }
       ],
       "scores": {
-        "eventImpact": 3.6,
-        "sourceCredibility": 4.3,
-        "novelty": 4.2,
-        "aiProductImpact": 3.9,
-        "personalRelevance": 4.2
+        "eventImpact": 3.7,
+        "sourceCredibility": 4.4,
+        "novelty": 4.3,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.3
       },
-      "finalScore": 79.6,
-      "preRankingScore": 67.95,
+      "finalScore": 81.6,
+      "preRankingScore": 78.26,
       "readingTier": "worth-reading",
       "socialSignals": {
-        "points": 80,
-        "comments": 38,
+        "points": 426,
+        "comments": 208,
         "hnUrl": "https://news.ycombinator.com/item?id=50320995"
       },
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 7,
+      "estimatedReadingMinutes": 3,
       "duplicateSources": []
     },
     {
-      "id": "b2a08cbfc96da1",
-      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-      "titleZh": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-      "url": "https://www.qbitai.com/2026/10/506866.html",
-      "author": "梦瑶",
-      "source": "量子位",
-      "publishedAt": "2026-10-31T05:11:19Z",
-      "discoveredAt": "2026-11-01T01:54:20Z",
-      "language": "zh-CN",
+      "id": "34b0bf3f94c385",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "titleZh": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "author": "",
+      "source": "Google DeepMind Blog",
+      "publishedAt": "2026-10-28T17:00:58Z",
+      "discoveredAt": "2026-11-02T02:08:28Z",
+      "language": "en",
       "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。AI算力利用“九九成”",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "AI算力利用“九九成”",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
       "keyIdeas": [
-        "核心信号围绕“世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Gemini 4 Carbon: Our next frontier model”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+        "Gemini 4 Carbon: Our next frontier model",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.1,
+        "sourceCredibility": 3.5,
+        "novelty": 4.0,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 80.2,
+      "preRankingScore": 55.49,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 8,
+      "duplicateSources": []
+    },
+    {
+      "id": "77cf6f6f7d482a",
+      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "titleZh": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "url": "https://www.qbitai.com/2026/11/507076.html",
+      "author": "henry",
+      "source": "量子位",
+      "publishedAt": "2026-11-01T13:28:10Z",
+      "discoveredAt": "2026-11-02T02:08:29Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。西湖世界模型研究中心成立",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "西湖世界模型研究中心成立",
+      "keyIdeas": [
+        "核心信号围绕“三年前布局，今年爆火丨西湖大学成立新中心”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "三年前布局，今年爆火丨西湖大学成立新中心",
         "ai-news"
       ],
       "importantTerms": [],
       "scores": {
-        "eventImpact": 3.7,
-        "sourceCredibility": 4.5,
-        "novelty": 4.4,
-        "aiProductImpact": 4.0,
-        "personalRelevance": 4.1
+        "eventImpact": 4.3,
+        "sourceCredibility": 3.4,
+        "novelty": 4.5,
+        "aiProductImpact": 3.7,
+        "personalRelevance": 4.3
       },
-      "finalScore": 82.0,
-      "preRankingScore": 68.04,
+      "finalScore": 80.8,
+      "preRankingScore": 68.85,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "d2282bcce1625c",
+      "title": "Fair use benefits everyone",
+      "titleZh": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "discoveredAt": "2026-11-02T02:08:28Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "keyIdeas": [
+        "核心信号围绕“Fair use benefits everyone”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Fair use benefits everyone",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.9,
+        "sourceCredibility": 3.7,
+        "novelty": 4.4,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 79.4,
+      "preRankingScore": 60.34,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 17,
+      "duplicateSources": []
+    },
+    {
+      "id": "96603222f1ad2f",
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "titleZh": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "url": "https://www.qbitai.com/2026/11/507031.html",
+      "author": "Jay",
+      "source": "量子位",
+      "publishedAt": "2026-11-01T08:02:37Z",
+      "discoveredAt": "2026-11-02T02:08:29Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。让AI像牛顿一样思考",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "让AI像牛顿一样思考",
+      "keyIdeas": [
+        "核心信号围绕“清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.4,
+        "sourceCredibility": 3.8,
+        "novelty": 4.5,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 78.6,
+      "preRankingScore": 68.29,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
       "estimatedReadingMinutes": 5,
-      "duplicateSources": []
-    },
-    {
-      "id": "b10f4376d75642",
-      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-      "titleZh": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-      "url": "https://www.qbitai.com/2026/10/506743.html",
-      "author": "量子位的朋友们",
-      "source": "量子位",
-      "publishedAt": "2026-10-30T07:31:11Z",
-      "discoveredAt": "2026-11-01T01:54:20Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
-      "keyIdeas": [
-        "核心信号围绕“英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.2,
-        "sourceCredibility": 3.4,
-        "novelty": 3.9,
-        "aiProductImpact": 3.9,
-        "personalRelevance": 4.4
-      },
-      "finalScore": 78.8,
-      "preRankingScore": 66.41,
-      "readingTier": "signal",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 2,
       "duplicateSources": []
     }
   ],
