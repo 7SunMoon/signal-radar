@@ -1,38 +1,80 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T02:08:38Z",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T03:51:09Z",
   "mode": "metadata",
   "stats": {
-    "discovered": 235,
-    "afterDeduplication": 233,
+    "discovered": 234,
+    "afterDeduplication": 231,
     "deepReviewed": 40,
     "recommended": 8
   },
   "articles": [
     {
-      "id": "f3538b6fb36f4f",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "titleZh": "Granite Switch 4.1.1 — Update models like you update software",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "author": "",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-10-29T13:37:07Z",
-      "discoveredAt": "2026-11-02T02:08:28Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "id": "2b12b7a108cc3c",
+      "title": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "titleZh": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "url": "https://www.woshipm.com/ai/6487557.html",
+      "author": "小普",
+      "source": "人人都是产品经理 · 面试",
+      "publishedAt": "2026-11-02T09:06:26Z",
+      "discoveredAt": "2026-11-03T03:51:00Z",
+      "language": "zh-CN",
+      "category": "career",
+      "summaryZh": "内容包含可用于求职表达、项目复盘或能力建设的具体线索。面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在",
       "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在只是走到了招聘这一步。 这一年多，公司是怎么一步步逼人用 AI 的 最早是表态。 去年春天，Shopify 的 CEO 把一份内部信直接发到了网上，大意是，下意识地用 AI 现在是对每个人的基本要求。AI 用得怎么样写进了绩效，团队想加人，得先证明这活 AI 干不了。 紧接着微软、Duolingo 这些公司也跟上了，说法都差不多，用 AI 不再是可选项。 最狠的是 Coinbase。CEO 要求所有工程师一周之内开通 AI 编程工具，到了周六开会，几个没开通、也说不出理由的人，直接被开了。他自己事后也承认，这做法是有点粗暴。 然后是排行榜。 今年上半年，几家大厂开始在内部数 Token。亚马逊给开发者定了每周用 AI 的目标，还在内部排行榜上统计每个人的 Token 消耗。Meta 有人搞了个 Token 排行榜，挂出前 250 名，还发“Token 传奇”这种徽章。 榜上第一名，一个人 30 天用了 2810 亿 Token。 卧槽，看到这个数我是真愣了一下。我自己每天用 Claude Code 写书、写文章，已经算用得很多的了，跟这个比完全不是一个量级。 国内也差不多是这个节奏。 我之前在昆仑万维。今年 1 月，公司就要求内部按 AI 来考核：设计师必须会用最顶尖的模型，开发团队写代码必须用 Cursor 这类 AI IDE，产品必须会用 AI 画原型。 后来和在大厂的朋友聊，他们公司内部也有 AI 考核，还有硬性的 Token 用量要求，每个人得用够多少。上个月老东家又发了一份内部通知，讲业务调整，里面把 AI 业务写成了公司的重中之重。 小公司就更夸张了。海外有一家只有 10 个人的游戏公司，每个月花在 Token 上的钱，是全员工资的 30 倍。公司里每一块业务，从游戏引擎到财务，都交给一个常驻的 AI agent 管。 从表态、进绩效，到排行榜，再到面试前就要截图，前后也就一年多。公司愿意拿一个数字来筛人，说明这股浪已经很大了，很多公司是真",
       "keyIdeas": [
-        "核心信号围绕“Granite Switch 4.1.1 — Update models like you update software”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“转 AI 的门槛变了：面试前，公司先看你的 Token 截图”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Granite Switch 4.1.1 — Update models like you up",
+        "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+        "career"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "authenticity": 4.5,
+        "specificity": 4.4,
+        "transferability": 4.3,
+        "personalRelevance": 4.2,
+        "insightDensity": 4.2,
+        "novelty": 4.4
+      },
+      "finalScore": 86.8,
+      "preRankingScore": 80.13,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "262cfa35f4308c",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "titleZh": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-02T18:00:00Z",
+      "discoveredAt": "2026-11-03T03:50:59Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "keyIdeas": [
+        "核心信号围绕“Preparing our next security sprint to harden OpenAI”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Preparing our next security sprint to harden Ope",
         "ai-news"
       ],
       "importantTerms": [
@@ -43,97 +85,104 @@
       ],
       "scores": {
         "eventImpact": 4.2,
-        "sourceCredibility": 4.4,
+        "sourceCredibility": 4.2,
         "novelty": 4.3,
         "aiProductImpact": 4.2,
-        "personalRelevance": 3.8
+        "personalRelevance": 4.4
       },
-      "finalScore": 84.4,
-      "preRankingScore": 57.55,
+      "finalScore": 84.8,
+      "preRankingScore": 66.23,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
+      "estimatedReadingMinutes": 2,
       "duplicateSources": []
     },
     {
-      "id": "04179af5bfdbc2",
-      "title": "DeepSeek、Kimi K3.1、Opus 5.5、GPT-6 同台竞技，Token 消耗差了 13 倍",
-      "titleZh": "DeepSeek、Kimi K3.1、Opus 5.5、GPT-6 同台竞技，Token 消耗差了 13 倍",
-      "url": "https://www.woshipm.com/ai/6487543.html",
-      "author": "Ai学习的老章",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-11-02T01:04:26Z",
-      "discoveredAt": "2026-11-02T02:08:29Z",
-      "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。同一道题丢给五个组合同台竞技：DSH 配 DeepSeek V4.1 Flash、Kimi Code 配 K3.1 Pro、Codex 配 GPT-6 Astra 等。比的是耗时、完成度和成片质量，最快的 8 分钟，最慢的 46 分钟，还有选手把中文题做成了英文片。 DeepSeek 说：DSH与自家模型是绝配 DeepSeek V4.1 Flash 1017 最佳 Harness 易主，尽快拥抱 DeepSeek Harness！ 实不相瞒，我一直想拥抱DSH，但还是没能习惯它 周末闲着没事，找了一道题目，让几个 Harness 和大模型同台竞技，看看他们表现如何，也确认一下哪些任务可以给哪些模型 我都想每周组织一场这个擂台了，大家有题目可以提哈，我抽空来测 本期出场选手包括： DSH 标准模式 + Deep",
+      "id": "92e88048ec8610",
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "titleZh": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "author": "wuweiweiwu",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-02T17:05:25Z",
+      "discoveredAt": "2026-11-03T03:51:00Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "同一道题丢给五个组合同台竞技：DSH 配 DeepSeek V4.1 Flash、Kimi Code 配 K3.1 Pro、Codex 配 GPT-6 Astra 等。比的是耗时、完成度和成片质量，最快的 8 分钟，最慢的 46 分钟，还有选手把中文题做成了英文片。 DeepSeek 说：DSH与自家模型是绝配 DeepSeek V4.1 Flash 1017 最佳 Harness 易主，尽快拥抱 DeepSeek Harness！ 实不相瞒，我一直想拥抱DSH，但还是没能习惯它 周末闲着没事，找了一道题目，让几个 Harness 和大模型同台竞技，看看他们表现如何，也确认一下哪些任务可以给哪些模型 我都想每周组织一场这个擂台了，大家有题目可以提哈，我抽空来测 本期出场选手包括： DSH 标准模式 + DeepSeek V4.1 Flash Kimi Code + Kimi K3.1 Pro Codex + GPT-6 Astra 极高 Claude Code + Opus 5.5 Medium Gemini + Gemini 3.8 Flash 题目很简单，纯代码生成视频，提示词： /treardown 做一个抓娃娃机为何总是抓不到东西的拆解视频，录制一段20秒视频 提示词中的 treardown 是一个 Skills ，可以把任何机器变成一个可以拆解的 3D 模拟器，感兴趣的兄弟可以试试 npx skills add elvarofficial/teardown 所有选手都只有一次机会 最终他们都完成了任务，视频效果比较主观 但是它们实际耗时和Token消耗却是板上钉钉的数字： 选手 耗时 token 总处理量（缓存占比） 输出 token Codex 8 分钟 350 万（97%） 2.8 万 Claude Code 17 分钟 1215 万（96%） 13.0 万 Gemini 21 分钟 1394 万（96%） 8.1 万 Kimi Code 36 分钟 950 万（98%） 5.9 万 DSH 46 分钟 4644 万（99%） 28.1 万 图片会更明显一些，最高效的是 Codex，最墨迹的是 DSH 还是看下具体效果吧 1、DSH + DeepSeek V4.1 Flash 我选择 DSH 标准模式，整整 46 分钟才完成 符合我的刻板印象，之前测试过多次，同样题目，它总是“想太多”，它还有极简模式，我印象中也是“特能想” 结果如下，暇疵不少，唯一一个中文提问，最终给了英文视频的 2、Kimi Code + Kimi K3.1 Pro Kimi K3.1 Pro 我前几天测试过，除了价格和速度，很难吐槽了 国产最强开源大模型，Kimi K3.1 Pro 实测 2 天，有惊喜，有吐槽 它的总耗时倒数第二，任务完成的还不错 我感觉可以排在 Opu",
+      "translationStatus": "pending",
+      "sourceSnippet": "Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs. Here’s a demo: https://youtu.be/BFsM-Se1Fh8 We’re both software engineers that spent our careers on dev tooling and infra across companies like Robinhood, Retool, WeWork, and Qualtrics. Testing was always a pain in the ass (esp Playwright and Selenium), so we built agents to do it for us. Modern day software has a ton of bugs and the change failure rate is only growing faster as coding agent adoption scales. LLMs are really good at generating code, but reinforce their own assumptions, write a ton of useless tests, and are bad at visual understanding. On DeepSWE v1.1, Sonnet 5.5 hit 66.2% pass rate when banned from writing tests, versus 65.3% when allowed. OSS end-to-end testing frameworks like Playwright, Selenium, or Maestro force you to hardcode implementation details like XPath, text, or aria-* attributes in your tests. Even with agents, these take a nontrivial amount of time and tokens to build and maintain. In 2023, we saw Nat Friedman drive a browser with GPT-3 via natbot. We ",
       "keyIdeas": [
-        "核心信号围绕“DeepSeek、Kimi K3.1、Opus 5.5、GPT-6 同台竞技，Token 消耗差了 13 倍”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "DeepSeek、Kimi K3.1、Opus 5.5、GPT-6 同台竞技，Token 消耗差",
-        "product-insight"
+        "Launch HN: Momentic (YC W24) – Agents that catch",
+        "ai-news"
       ],
-      "importantTerms": [],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
       "scores": {
-        "insightDensity": 4.4,
-        "argumentDepth": 3.9,
-        "evidenceQuality": 4.3,
-        "nonConsensusValue": 4.1,
-        "transferability": 3.6,
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.3,
+        "novelty": 4.1,
+        "aiProductImpact": 3.8,
         "personalRelevance": 4.5
       },
-      "finalScore": 82.7,
-      "preRankingScore": 74.89,
+      "finalScore": 83.6,
+      "preRankingScore": 83.41,
       "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
+      "socialSignals": {
+        "points": 131,
+        "comments": 88,
+        "hnUrl": "https://news.ycombinator.com/item?id=50339913"
+      },
+      "contentAvailability": "partial",
       "estimatedReadingMinutes": 1,
       "duplicateSources": []
     },
     {
-      "id": "bcb70f59017325",
-      "title": "即梦短剧工作室保姆级教程分享，双十一每秒低至0.16元值得入手！",
-      "titleZh": "即梦短剧工作室保姆级教程分享，双十一每秒低至0.16元值得入手！",
-      "url": "https://www.woshipm.com/ai/6487529.html",
-      "author": "阿真Irene",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-11-02T00:56:38Z",
-      "discoveredAt": "2026-11-02T02:08:29Z",
+      "id": "94f573084fa2f6",
+      "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
+      "titleZh": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
+      "url": "https://www.qbitai.com/2026/11/507313.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-03T01:46:55Z",
+      "discoveredAt": "2026-11-03T03:51:00Z",
       "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。从剧本、角色资产到分镜、生成、后期，即梦把短剧这条链路收进了一个工作台。本文按四大创作助手逐个走一遍：剧本医生怎么改主线，3D 导演台怎么摆位，多轨剪辑如何处理配音与字幕，末尾附了双十一各档位的单秒价差。 AI视频这一路的发展咱们也可以说是有目共睹了，从吃个面都吃不明白，再到稳定片段，现在电影感也上来了。 视频模型越来越稳，单条片段生成得挺好看，但想要真正通过AI影响去讲好一个完整的故事，去做一个连续剧，还是有很多问题需要解决的。 而最近，即梦正式上线了“短剧工作室”，把剧本创作、角色场景资产、分镜、视频生成和后期调整等等卡点全都安排得清清楚楚了。 我也第一时间去尝试了一番，现在来和朋友们梳理梳理值得关注的亮点。 之前有听说即梦和小云雀合并了，实际情况是即梦整合了小云雀的短剧 Agent 能力，两个产品都是剪映",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "从剧本、角色资产到分镜、生成、后期，即梦把短剧这条链路收进了一个工作台。本文按四大创作助手逐个走一遍：剧本医生怎么改主线，3D 导演台怎么摆位，多轨剪辑如何处理配音与字幕，末尾附了双十一各档位的单秒价差。 AI视频这一路的发展咱们也可以说是有目共睹了，从吃个面都吃不明白，再到稳定片段，现在电影感也上来了。 视频模型越来越稳，单条片段生成得挺好看，但想要真正通过AI影响去讲好一个完整的故事，去做一个连续剧，还是有很多问题需要解决的。 而最近，即梦正式上线了“短剧工作室”，把剧本创作、角色场景资产、分镜、视频生成和后期调整等等卡点全都安排得清清楚楚了。 我也第一时间去尝试了一番，现在来和朋友们梳理梳理值得关注的亮点。 之前有听说即梦和小云雀合并了，实际情况是即梦整合了小云雀的短剧 Agent 能力，两个产品都是剪映旗下的 AI 内容创作平台，这次也是让即梦在短剧场景里多了一套工具能力，在即梦一个平台就能完成自己的项目。 最近双十一，即梦有双十一的限定优惠，个人和企业团队都有优惠，后面我一起整理分享。 四大创作助手 首先简单给大家介绍即梦短剧工作室，它们现在自带四大创作助手。 剧本助手（DreamScript） 写剧本，基于爆剧数据从生成到诊断优化剧本； 分镜助手（DreamShot） 辅助分镜制作，批量修改、出海翻译，还有大量运镜库直接调用参考； 选角导演 ，有自研的AnyCook，有7000+演员库辅助，还可以个性化捏脸捏表情； 还有 后期导演 ，从故事板即拍即改，到片段重拍、智能切分镜、配音处理、音频分离等都一应俱全了。 而这些，都直接展现在一个画布中，全局的资产都可以互通，方便大家按照自己的习惯完成项目。 1.故事开发 从灵感到剧本 创作链路从剧本创作开始，剧本创作调用的即梦自研的 DreamScript 模型，体验下来还是很专业的。 剧本创作三条路可选，简单来说就是，你有的是灵感、IP、小说、还是有剧本定稿？ 如果手头已有拍好的短剧成片想换画风或做出海版本，可以用【重制转绘】。它可以会复刻原片机位与运镜，支持 18 个目标地区的本土化适配，最长 5 分钟，单项目总时长最高 250 分钟。 我走的剧本创作，我的灵感是【老头说我命里有三次大劫会影响我发财】，和女频修仙言情。 剧本助手用的 DreamScript 模型，把一句话灵感直接转化为了人物立得住、冲突推得动、集尾有钩子的优质分集剧本。 风格库也是发狠了忘情了，100多种常用风格都能直接调用，我们可以在一开始就定好风格。我这次的案例全程都用的【精品古装偶像剧】风格，感觉一下子质感都提升了。 用剧本医生检查主线与台词 比如让它检查前 3 集的主角身份、核心冲突、台词是不是符合角色设定等等。它会先出诊断和修改建议，确认采纳后再改回正文，支持历史版本回退，改定后的剧本直接进入下一步资产解析。 2.资产管理 从",
+      "sourceSnippet": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作",
       "keyIdeas": [
-        "核心信号围绕“即梦短剧工作室保姆级教程分享，双十一每秒低至0.16元值得入手！”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "即梦短剧工作室保姆级教程分享，双十一每秒低至0.16元值得入手！",
-        "product-insight"
+        "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创",
+        "ai-news"
       ],
       "importantTerms": [],
       "scores": {
-        "insightDensity": 3.9,
-        "argumentDepth": 4.4,
-        "evidenceQuality": 4.2,
-        "nonConsensusValue": 4.0,
-        "transferability": 4.4,
-        "personalRelevance": 3.7
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.2,
+        "novelty": 4.2,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.4
       },
-      "finalScore": 82.1,
-      "preRankingScore": 74.88,
+      "finalScore": 83.4,
+      "preRankingScore": 70.31,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -141,14 +190,14 @@
       "duplicateSources": []
     },
     {
-      "id": "f9b8a9efbf26f9",
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "titleZh": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "author": "guregodevo",
+      "id": "b9a70981a2e542",
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "titleZh": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "author": "cdrnsf",
       "source": "Hacker News",
-      "publishedAt": "2026-10-31T22:46:12Z",
-      "discoveredAt": "2026-11-02T02:08:29Z",
+      "publishedAt": "2026-11-02T22:30:47Z",
+      "discoveredAt": "2026-11-03T03:51:00Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -156,13 +205,13 @@
       "translationStatus": "pending",
       "sourceSnippet": "",
       "keyIdeas": [
-        "核心信号围绕“Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“The SEC Should Block Anthropic's IPO to Protect the Public”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Memdoor: A team of 5 Qwen3.8-27B models beats Fa",
+        "The SEC Should Block Anthropic's IPO to Protect ",
         "ai-news"
       ],
       "importantTerms": [
@@ -174,132 +223,45 @@
       "scores": {
         "eventImpact": 3.7,
         "sourceCredibility": 4.4,
-        "novelty": 4.3,
-        "aiProductImpact": 4.0,
-        "personalRelevance": 4.3
+        "novelty": 4.5,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 4.2
       },
-      "finalScore": 81.6,
-      "preRankingScore": 78.26,
+      "finalScore": 83.4,
+      "preRankingScore": 80.4,
       "readingTier": "worth-reading",
       "socialSignals": {
-        "points": 426,
-        "comments": 208,
-        "hnUrl": "https://news.ycombinator.com/item?id=50320995"
+        "points": 242,
+        "comments": 175,
+        "hnUrl": "https://news.ycombinator.com/item?id=50344919"
       },
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
+      "estimatedReadingMinutes": 11,
       "duplicateSources": []
     },
     {
-      "id": "34b0bf3f94c385",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "titleZh": "Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "author": "",
-      "source": "Google DeepMind Blog",
-      "publishedAt": "2026-10-28T17:00:58Z",
-      "discoveredAt": "2026-11-02T02:08:28Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
-      "keyIdeas": [
-        "核心信号围绕“Gemini 4 Carbon: Our next frontier model”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Gemini 4 Carbon: Our next frontier model",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 4.1,
-        "sourceCredibility": 3.5,
-        "novelty": 4.0,
-        "aiProductImpact": 4.3,
-        "personalRelevance": 4.2
-      },
-      "finalScore": 80.2,
-      "preRankingScore": 55.49,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 8,
-      "duplicateSources": []
-    },
-    {
-      "id": "77cf6f6f7d482a",
-      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
-      "titleZh": "三年前布局，今年爆火丨西湖大学成立新中心",
-      "url": "https://www.qbitai.com/2026/11/507076.html",
-      "author": "henry",
-      "source": "量子位",
-      "publishedAt": "2026-11-01T13:28:10Z",
-      "discoveredAt": "2026-11-02T02:08:29Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。西湖世界模型研究中心成立",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "西湖世界模型研究中心成立",
-      "keyIdeas": [
-        "核心信号围绕“三年前布局，今年爆火丨西湖大学成立新中心”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "三年前布局，今年爆火丨西湖大学成立新中心",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.3,
-        "sourceCredibility": 3.4,
-        "novelty": 4.5,
-        "aiProductImpact": 3.7,
-        "personalRelevance": 4.3
-      },
-      "finalScore": 80.8,
-      "preRankingScore": 68.85,
-      "readingTier": "signal",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 4,
-      "duplicateSources": []
-    },
-    {
-      "id": "d2282bcce1625c",
-      "title": "Fair use benefits everyone",
-      "titleZh": "Fair use benefits everyone",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "id": "19244c7aa2063f",
+      "title": "Introducing the Grid Protectors Program",
+      "titleZh": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
       "author": "",
       "source": "OpenAI News",
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "discoveredAt": "2026-11-02T02:08:28Z",
+      "publishedAt": "2026-11-02T15:00:00Z",
+      "discoveredAt": "2026-11-03T03:50:59Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
       "translationStatus": "pending",
-      "sourceSnippet": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "sourceSnippet": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
       "keyIdeas": [
-        "核心信号围绕“Fair use benefits everyone”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Introducing the Grid Protectors Program”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Fair use benefits everyone",
+        "Introducing the Grid Protectors Program",
         "ai-news"
       ],
       "importantTerms": [
@@ -309,59 +271,100 @@
         }
       ],
       "scores": {
-        "eventImpact": 3.9,
-        "sourceCredibility": 3.7,
+        "eventImpact": 4.5,
+        "sourceCredibility": 3.4,
         "novelty": 4.4,
-        "aiProductImpact": 3.8,
-        "personalRelevance": 4.2
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.5
       },
-      "finalScore": 79.4,
-      "preRankingScore": 60.34,
+      "finalScore": 83.2,
+      "preRankingScore": 66.25,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 17,
+      "estimatedReadingMinutes": 6,
       "duplicateSources": []
     },
     {
-      "id": "96603222f1ad2f",
-      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
-      "titleZh": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
-      "url": "https://www.qbitai.com/2026/11/507031.html",
-      "author": "Jay",
+      "id": "7e1fe124c816e9",
+      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "titleZh": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "url": "https://www.qbitai.com/2026/11/507322.html",
+      "author": "鹭羽",
       "source": "量子位",
-      "publishedAt": "2026-11-01T08:02:37Z",
-      "discoveredAt": "2026-11-02T02:08:29Z",
+      "publishedAt": "2026-11-03T01:57:30Z",
+      "discoveredAt": "2026-11-03T03:51:00Z",
       "language": "zh-CN",
       "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。让AI像牛顿一样思考",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。指令执行能力也同步提升",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "让AI像牛顿一样思考",
+      "sourceSnippet": "指令执行能力也同步提升",
       "keyIdeas": [
-        "核心信号围绕“清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+        "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
         "ai-news"
       ],
       "importantTerms": [],
       "scores": {
-        "eventImpact": 3.4,
-        "sourceCredibility": 3.8,
-        "novelty": 4.5,
-        "aiProductImpact": 4.3,
-        "personalRelevance": 3.9
+        "eventImpact": 3.7,
+        "sourceCredibility": 4.0,
+        "novelty": 4.2,
+        "aiProductImpact": 3.6,
+        "personalRelevance": 3.7
       },
-      "finalScore": 78.6,
-      "preRankingScore": 68.29,
+      "finalScore": 76.8,
+      "preRankingScore": 69.92,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 5,
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "e392cb5ea0867d",
+      "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
+      "titleZh": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
+      "url": "https://www.qbitai.com/2026/11/507339.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-03T02:02:05Z",
+      "discoveredAt": "2026-11-03T03:51:00Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。",
+      "keyIdeas": [
+        "核心信号围绕“B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 3.9,
+        "novelty": 3.5,
+        "aiProductImpact": 3.4,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 75.0,
+      "preRankingScore": 70.28,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
       "duplicateSources": []
     }
   ],

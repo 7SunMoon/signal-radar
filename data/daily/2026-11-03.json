@@ -1,0 +1,372 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T03:51:09Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 234,
+    "afterDeduplication": 231,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "2b12b7a108cc3c",
+      "title": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "titleZh": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "url": "https://www.woshipm.com/ai/6487557.html",
+      "author": "小普",
+      "source": "人人都是产品经理 · 面试",
+      "publishedAt": "2026-11-02T09:06:26Z",
+      "discoveredAt": "2026-11-03T03:51:00Z",
+      "language": "zh-CN",
+      "category": "career",
+      "summaryZh": "内容包含可用于求职表达、项目复盘或能力建设的具体线索。面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在只是走到了招聘这一步。 这一年多，公司是怎么一步步逼人用 AI 的 最早是表态。 去年春天，Shopify 的 CEO 把一份内部信直接发到了网上，大意是，下意识地用 AI 现在是对每个人的基本要求。AI 用得怎么样写进了绩效，团队想加人，得先证明这活 AI 干不了。 紧接着微软、Duolingo 这些公司也跟上了，说法都差不多，用 AI 不再是可选项。 最狠的是 Coinbase。CEO 要求所有工程师一周之内开通 AI 编程工具，到了周六开会，几个没开通、也说不出理由的人，直接被开了。他自己事后也承认，这做法是有点粗暴。 然后是排行榜。 今年上半年，几家大厂开始在内部数 Token。亚马逊给开发者定了每周用 AI 的目标，还在内部排行榜上统计每个人的 Token 消耗。Meta 有人搞了个 Token 排行榜，挂出前 250 名，还发“Token 传奇”这种徽章。 榜上第一名，一个人 30 天用了 2810 亿 Token。 卧槽，看到这个数我是真愣了一下。我自己每天用 Claude Code 写书、写文章，已经算用得很多的了，跟这个比完全不是一个量级。 国内也差不多是这个节奏。 我之前在昆仑万维。今年 1 月，公司就要求内部按 AI 来考核：设计师必须会用最顶尖的模型，开发团队写代码必须用 Cursor 这类 AI IDE，产品必须会用 AI 画原型。 后来和在大厂的朋友聊，他们公司内部也有 AI 考核，还有硬性的 Token 用量要求，每个人得用够多少。上个月老东家又发了一份内部通知，讲业务调整，里面把 AI 业务写成了公司的重中之重。 小公司就更夸张了。海外有一家只有 10 个人的游戏公司，每个月花在 Token 上的钱，是全员工资的 30 倍。公司里每一块业务，从游戏引擎到财务，都交给一个常驻的 AI agent 管。 从表态、进绩效，到排行榜，再到面试前就要截图，前后也就一年多。公司愿意拿一个数字来筛人，说明这股浪已经很大了，很多公司是真",
+      "keyIdeas": [
+        "核心信号围绕“转 AI 的门槛变了：面试前，公司先看你的 Token 截图”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+        "career"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "authenticity": 4.5,
+        "specificity": 4.4,
+        "transferability": 4.3,
+        "personalRelevance": 4.2,
+        "insightDensity": 4.2,
+        "novelty": 4.4
+      },
+      "finalScore": 86.8,
+      "preRankingScore": 80.13,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "262cfa35f4308c",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "titleZh": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-02T18:00:00Z",
+      "discoveredAt": "2026-11-03T03:50:59Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "keyIdeas": [
+        "核心信号围绕“Preparing our next security sprint to harden OpenAI”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Preparing our next security sprint to harden Ope",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.2,
+        "novelty": 4.3,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 84.8,
+      "preRankingScore": 66.23,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "92e88048ec8610",
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "titleZh": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "author": "wuweiweiwu",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-02T17:05:25Z",
+      "discoveredAt": "2026-11-03T03:51:00Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs. Here’s a demo: https://youtu.be/BFsM-Se1Fh8 We’re both software engineers that spent our careers on dev tooling and infra across companies like Robinhood, Retool, WeWork, and Qualtrics. Testing was always a pain in the ass (esp Playwright and Selenium), so we built agents to do it for us. Modern day software has a ton of bugs and the change failure rate is only growing faster as coding agent adoption scales. LLMs are really good at generating code, but reinforce their own assumptions, write a ton of useless tests, and are bad at visual understanding. On DeepSWE v1.1, Sonnet 5.5 hit 66.2% pass rate when banned from writing tests, versus 65.3% when allowed. OSS end-to-end testing frameworks like Playwright, Selenium, or Maestro force you to hardcode implementation details like XPath, text, or aria-* attributes in your tests. Even with agents, these take a nontrivial amount of time and tokens to build and maintain. In 2023, we saw Nat Friedman drive a browser with GPT-3 via natbot. We ",
+      "keyIdeas": [
+        "核心信号围绕“Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Launch HN: Momentic (YC W24) – Agents that catch",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.3,
+        "novelty": 4.1,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 83.6,
+      "preRankingScore": 83.41,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 131,
+        "comments": 88,
+        "hnUrl": "https://news.ycombinator.com/item?id=50339913"
+      },
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "94f573084fa2f6",
+      "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
+      "titleZh": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
+      "url": "https://www.qbitai.com/2026/11/507313.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-03T01:46:55Z",
+      "discoveredAt": "2026-11-03T03:51:00Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作",
+      "keyIdeas": [
+        "核心信号围绕“爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.2,
+        "novelty": 4.2,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.4
+      },
+      "finalScore": 83.4,
+      "preRankingScore": 70.31,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "b9a70981a2e542",
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "titleZh": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "author": "cdrnsf",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-02T22:30:47Z",
+      "discoveredAt": "2026-11-03T03:51:00Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“The SEC Should Block Anthropic's IPO to Protect the Public”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "The SEC Should Block Anthropic's IPO to Protect ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.7,
+        "sourceCredibility": 4.4,
+        "novelty": 4.5,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 83.4,
+      "preRankingScore": 80.4,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 242,
+        "comments": 175,
+        "hnUrl": "https://news.ycombinator.com/item?id=50344919"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 11,
+      "duplicateSources": []
+    },
+    {
+      "id": "19244c7aa2063f",
+      "title": "Introducing the Grid Protectors Program",
+      "titleZh": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-02T15:00:00Z",
+      "discoveredAt": "2026-11-03T03:50:59Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "keyIdeas": [
+        "核心信号围绕“Introducing the Grid Protectors Program”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Introducing the Grid Protectors Program",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 3.4,
+        "novelty": 4.4,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 83.2,
+      "preRankingScore": 66.25,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 6,
+      "duplicateSources": []
+    },
+    {
+      "id": "7e1fe124c816e9",
+      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "titleZh": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "url": "https://www.qbitai.com/2026/11/507322.html",
+      "author": "鹭羽",
+      "source": "量子位",
+      "publishedAt": "2026-11-03T01:57:30Z",
+      "discoveredAt": "2026-11-03T03:51:00Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。指令执行能力也同步提升",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "指令执行能力也同步提升",
+      "keyIdeas": [
+        "核心信号围绕“MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.7,
+        "sourceCredibility": 4.0,
+        "novelty": 4.2,
+        "aiProductImpact": 3.6,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 76.8,
+      "preRankingScore": 69.92,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "e392cb5ea0867d",
+      "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
+      "titleZh": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
+      "url": "https://www.qbitai.com/2026/11/507339.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-03T02:02:05Z",
+      "discoveredAt": "2026-11-03T03:51:00Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。",
+      "keyIdeas": [
+        "核心信号围绕“B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 3.9,
+        "novelty": 3.5,
+        "aiProductImpact": 3.4,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 75.0,
+      "preRankingScore": 70.28,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
