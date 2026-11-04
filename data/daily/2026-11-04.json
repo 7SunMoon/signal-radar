@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T02:55:58Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 234,
+    "afterDeduplication": 232,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "605a80a50559aa",
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "titleZh": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "author": "user052919",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-03T14:53:41Z",
+      "discoveredAt": "2026-11-04T02:55:49Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we've all been diligent about disabling data sharing in Codex/Claude Code/etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. None of us knowingly opted back in. You can check your settings here: https://chatgpt.com/settings/data-controls. Look for \"Improve the model for everyone\". Curious if this is an isolated issue or something more widespread. EDIT: looks like this has been noted before https://news.ycombinator.com/item?id=49643556 EDIT: apparently you can also turn off data sharing here: https://privacy.openai.com/policies?modal=take-control",
+      "keyIdeas": [
+        "核心信号围绕“OpenAI seems to be silently re-enabling model training on Codex chats”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "OpenAI seems to be silently re-enabling model tr",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.7,
+        "sourceCredibility": 4.3,
+        "novelty": 3.8,
+        "aiProductImpact": 4.6,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 87.4,
+      "preRankingScore": 86.69,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 438,
+        "comments": 138,
+        "hnUrl": "https://news.ycombinator.com/item?id=50352757"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 21,
+      "duplicateSources": []
+    },
+    {
+      "id": "2b12b7a108cc3c",
+      "title": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "titleZh": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "url": "https://www.woshipm.com/ai/6487557.html",
+      "author": "小普",
+      "source": "人人都是产品经理 · 面试",
+      "publishedAt": "2026-11-02T09:06:26Z",
+      "discoveredAt": "2026-11-04T02:55:49Z",
+      "language": "zh-CN",
+      "category": "career",
+      "summaryZh": "内容包含可用于求职表达、项目复盘或能力建设的具体线索。面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在只是走到了招聘这一步。 这一年多，公司是怎么一步步逼人用 AI 的 最早是表态。 去年春天，Shopify 的 CEO 把一份内部信直接发到了网上，大意是，下意识地用 AI 现在是对每个人的基本要求。AI 用得怎么样写进了绩效，团队想加人，得先证明这活 AI 干不了。 紧接着微软、Duolingo 这些公司也跟上了，说法都差不多，用 AI 不再是可选项。 最狠的是 Coinbase。CEO 要求所有工程师一周之内开通 AI 编程工具，到了周六开会，几个没开通、也说不出理由的人，直接被开了。他自己事后也承认，这做法是有点粗暴。 然后是排行榜。 今年上半年，几家大厂开始在内部数 Token。亚马逊给开发者定了每周用 AI 的目标，还在内部排行榜上统计每个人的 Token 消耗。Meta 有人搞了个 Token 排行榜，挂出前 250 名，还发“Token 传奇”这种徽章。 榜上第一名，一个人 30 天用了 2810 亿 Token。 卧槽，看到这个数我是真愣了一下。我自己每天用 Claude Code 写书、写文章，已经算用得很多的了，跟这个比完全不是一个量级。 国内也差不多是这个节奏。 我之前在昆仑万维。今年 1 月，公司就要求内部按 AI 来考核：设计师必须会用最顶尖的模型，开发团队写代码必须用 Cursor 这类 AI IDE，产品必须会用 AI 画原型。 后来和在大厂的朋友聊，他们公司内部也有 AI 考核，还有硬性的 Token 用量要求，每个人得用够多少。上个月老东家又发了一份内部通知，讲业务调整，里面把 AI 业务写成了公司的重中之重。 小公司就更夸张了。海外有一家只有 10 个人的游戏公司，每个月花在 Token 上的钱，是全员工资的 30 倍。公司里每一块业务，从游戏引擎到财务，都交给一个常驻的 AI agent 管。 从表态、进绩效，到排行榜，再到面试前就要截图，前后也就一年多。公司愿意拿一个数字来筛人，说明这股浪已经很大了，很多公司是真",
+      "keyIdeas": [
+        "核心信号围绕“转 AI 的门槛变了：面试前，公司先看你的 Token 截图”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+        "career"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "authenticity": 4.5,
+        "specificity": 4.4,
+        "transferability": 4.3,
+        "personalRelevance": 4.2,
+        "insightDensity": 4.2,
+        "novelty": 4.4
+      },
+      "finalScore": 86.8,
+      "preRankingScore": 77.82,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "26c6032e1d2677",
+      "title": "Accelerating engineering for the physical world",
+      "titleZh": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-03T12:00:00Z",
+      "discoveredAt": "2026-11-04T02:55:48Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "keyIdeas": [
+        "核心信号围绕“Accelerating engineering for the physical world”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Accelerating engineering for the physical world",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 3.5,
+        "novelty": 4.4,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 83.4,
+      "preRankingScore": 65.9,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 8,
+      "duplicateSources": []
+    },
+    {
+      "id": "a55665cf48953a",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "titleZh": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-11-03T17:15:21Z",
+      "discoveredAt": "2026-11-04T02:55:48Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“StateBench: Testing how language models track state changes over long documents”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "StateBench: Testing how language models track st",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.2,
+        "novelty": 3.7,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 3.6
+      },
+      "finalScore": 83.4,
+      "preRankingScore": 65.03,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 11,
+      "duplicateSources": []
+    },
+    {
+      "id": "07d87c81114a5f",
+      "title": "HarmonyOS7更新亮点实录5：AR Engine 深度实践，3D高斯模型与外部传感器空间解算",
+      "titleZh": "HarmonyOS7更新亮点实录5：AR Engine 深度实践，3D高斯模型与外部传感器空间解算",
+      "url": "https://www.woshipm.com/share/6487999.html",
+      "author": "轻口味",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-03T15:08:36Z",
+      "discoveredAt": "2026-11-04T02:55:49Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。1、引言 在做基于真实物理空间的增强现实（AR）应用开发时，我们常常会遇到几个难以跨越的业务痛点。想象一个工业设备巡检的场景：巡检员戴着 AR 眼镜或者举着平板进入厂房。厂房内部往往光线复杂，甚至有些角落完全黑暗，此时基于视觉的 SLAM（同步定位与建图）会瞬间丢失跟踪状态。另一方面，对于一些需要极高渲染精度的展品展示或设备结构拆解，传统的 Mesh 贴图模型在表现半透明材质、复杂光影反射时显得极其生硬，无法达到“以假乱真”的沉浸感。如果业务场景更特殊，比如需要将 AR 解算能力部署在无人机或外置全景相机上，手机自带的传感器数据就完全派不上用场了。 在 HarmonyOS 7.0 的更新中，AR Engine 针对这些深度企业级场景和进阶玩法，抛出了一套极具诚意的能力增强方案。这次更新不仅打通了底层的 C AP",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "1、引言 在做基于真实物理空间的增强现实（AR）应用开发时，我们常常会遇到几个难以跨越的业务痛点。想象一个工业设备巡检的场景：巡检员戴着 AR 眼镜或者举着平板进入厂房。厂房内部往往光线复杂，甚至有些角落完全黑暗，此时基于视觉的 SLAM（同步定位与建图）会瞬间丢失跟踪状态。另一方面，对于一些需要极高渲染精度的展品展示或设备结构拆解，传统的 Mesh 贴图模型在表现半透明材质、复杂光影反射时显得极其生硬，无法达到“以假乱真”的沉浸感。如果业务场景更特殊，比如需要将 AR 解算能力部署在无人机或外置全景相机上，手机自带的传感器数据就完全派不上用场了。 在 HarmonyOS 7.0 的更新中，AR Engine 针对这些深度企业级场景和进阶玩法，抛出了一套极具诚意的能力增强方案。这次更新不仅打通了底层的 C API 来直接干预相机闪光灯（解决暗光 SLAM 丢失），开放了预览流原始图像数据的直接获取，还引入了当下学术界和工业界极其火热的 3D 高斯模型（3D Gaussian Splatting）的原生加载支持，更开放了外部传感器数据注入进行空间解算的口子。 这篇实战手记，我们就基于一个“暗光环境下的高精度数字孪生巡检”场景，将这四个新增的重量级特性串联起来，深入看看它们在底层是如何流转的，NPU 是如何参与解算的，以及在真实工程中怎么把它们用好。 2、效果展示与项目结构 在正式进入源码和架构拆解前，我们先看下最终跑在测试设备上的效果。 （此处为 GIF 占位：演示在全黑环境中，设备自动开启闪光灯维持 SLAM 跟踪，并在物理桌面上渲染出一个拥有真实光影反射和极高细节保真度的 3D 高斯引擎模型。同时界面角落显示着实时抽取的预览流 YUV 数据帧率，以及外接 IMU 数据接入状态。） 我们的实战工程结构相对清晰，按功能模块进行了职责划分。核心的 AR Session 管理、高斯模型渲染以及外部数据注入都封装在不同的服务类中： entry/src/main/ets ├── entryability │ └── EntryAbility .ets ├── pages │ └── ARInspectionPage .ets // AR 巡检主页面，承载 XComponent 和核心交互 ├── ar │ ├── AREngineManager .ets // AR 会话与状态机的全局管理 │ ├── GsModelRenderer .ets // 3D 高斯模型加载与渲染封装 │ └── ExternalSensorDriver .ets // 外部相机与 IMU 数据流的读取与时间戳对齐 ├── utils │ ├── YuvDataProcessor .ets // 预览流 YUV 原始数据抽取与转换工具 │ └── NpuCalcMonitor .ets //",
+      "keyIdeas": [
+        "核心信号围绕“HarmonyOS7更新亮点实录5：AR Engine 深度实践，3D高斯模型与外部传感器空间解算”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "HarmonyOS7更新亮点实录5：AR Engine 深度实践，3D高斯模型与外部传感器空间解",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.5,
+        "argumentDepth": 3.5,
+        "evidenceQuality": 4.5,
+        "nonConsensusValue": 4.3,
+        "transferability": 4.2,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 82.7,
+      "preRankingScore": 73.82,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "ee9a9643897059",
+      "title": "Gitbook Breached",
+      "titleZh": "Gitbook Breached",
+      "url": "https://news.ycombinator.com/item?id=50354336",
+      "author": "punchmesan",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-03T16:45:49Z",
+      "discoveredAt": "2026-11-04T02:55:49Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, did the best I could as it's a mobile paste. Update: GitBook security incident update Hey , The GitBook app, the GitBook API, and published docs are available again. A few services may still be degraded as we finish restoring everything to full performance. *What happened* GitBook has been the target of a sophisticated, highly targeted attack using AI agents. At 19:00 CET, November 2, the attacker gained unauthorized access to some of our infrastructure credentials. We detected the attack immediately and acted swiftly to block further impact. To make sure our infrastructure was fully secure, we then took the GitBook app and authenticated docs sites offline. We kept publicly published content live for as long as possible, using cached data. *What we did immediately* * Blocked the attacker and closed the vulnerabilities involved * Replaced every credential and secret across our infrastructure * Brought services back only once we were confident they were secure * Invalidated every customer’",
+      "keyIdeas": [
+        "核心信号围绕“Gitbook Breached”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Gitbook Breached",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 3.6,
+        "novelty": 4.6,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 4.1
+      },
+      "finalScore": 83.2,
+      "preRankingScore": 82.45,
+      "readingTier": "signal",
+      "socialSignals": {
+        "points": 146,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=50354336"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 17,
+      "duplicateSources": []
+    },
+    {
+      "id": "80faffdc5202e1",
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "titleZh": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "url": "https://www.qbitai.com/2026/11/507507.html",
+      "author": "梦瑶",
+      "source": "量子位",
+      "publishedAt": "2026-11-03T13:57:11Z",
+      "discoveredAt": "2026-11-04T02:55:49Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。AI接管调度运营，仓库越干越聪明",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "AI接管调度运营，仓库越干越聪明",
+      "keyIdeas": [
+        "核心信号围绕“机器人干活，AI当厂长！这家巨头要造下一代自主智能仓”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.4,
+        "novelty": 4.0,
+        "aiProductImpact": 3.6,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 81.8,
+      "preRankingScore": 68.86,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "9b0308d1b53a27",
+      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+      "titleZh": "模型谁都买得到，拉开差距的是AI生产力系统",
+      "url": "https://www.qbitai.com/2026/11/507448.html",
+      "author": "十三",
+      "source": "量子位",
+      "publishedAt": "2026-11-03T11:13:49Z",
+      "discoveredAt": "2026-11-04T02:55:49Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。AI的下一程是生产力系统之争",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "AI的下一程是生产力系统之争",
+      "keyIdeas": [
+        "核心信号围绕“模型谁都买得到，拉开差距的是AI生产力系统”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "模型谁都买得到，拉开差距的是AI生产力系统",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.7,
+        "sourceCredibility": 3.8,
+        "novelty": 4.4,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 80.8,
+      "preRankingScore": 68.57,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 10,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
