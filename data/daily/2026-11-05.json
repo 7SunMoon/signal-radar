@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T03:14:51Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 235,
+    "afterDeduplication": 230,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "2b12b7a108cc3c",
+      "title": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "titleZh": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "url": "https://www.woshipm.com/ai/6487557.html",
+      "author": "小普",
+      "source": "人人都是产品经理 · 面试",
+      "publishedAt": "2026-11-02T09:06:26Z",
+      "discoveredAt": "2026-11-05T03:14:30Z",
+      "language": "zh-CN",
+      "category": "career",
+      "summaryZh": "内容包含可用于求职表达、项目复盘或能力建设的具体线索。面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在只是走到了招聘这一步。 这一年多，公司是怎么一步步逼人用 AI 的 最早是表态。 去年春天，Shopify 的 CEO 把一份内部信直接发到了网上，大意是，下意识地用 AI 现在是对每个人的基本要求。AI 用得怎么样写进了绩效，团队想加人，得先证明这活 AI 干不了。 紧接着微软、Duolingo 这些公司也跟上了，说法都差不多，用 AI 不再是可选项。 最狠的是 Coinbase。CEO 要求所有工程师一周之内开通 AI 编程工具，到了周六开会，几个没开通、也说不出理由的人，直接被开了。他自己事后也承认，这做法是有点粗暴。 然后是排行榜。 今年上半年，几家大厂开始在内部数 Token。亚马逊给开发者定了每周用 AI 的目标，还在内部排行榜上统计每个人的 Token 消耗。Meta 有人搞了个 Token 排行榜，挂出前 250 名，还发“Token 传奇”这种徽章。 榜上第一名，一个人 30 天用了 2810 亿 Token。 卧槽，看到这个数我是真愣了一下。我自己每天用 Claude Code 写书、写文章，已经算用得很多的了，跟这个比完全不是一个量级。 国内也差不多是这个节奏。 我之前在昆仑万维。今年 1 月，公司就要求内部按 AI 来考核：设计师必须会用最顶尖的模型，开发团队写代码必须用 Cursor 这类 AI IDE，产品必须会用 AI 画原型。 后来和在大厂的朋友聊，他们公司内部也有 AI 考核，还有硬性的 Token 用量要求，每个人得用够多少。上个月老东家又发了一份内部通知，讲业务调整，里面把 AI 业务写成了公司的重中之重。 小公司就更夸张了。海外有一家只有 10 个人的游戏公司，每个月花在 Token 上的钱，是全员工资的 30 倍。公司里每一块业务，从游戏引擎到财务，都交给一个常驻的 AI agent 管。 从表态、进绩效，到排行榜，再到面试前就要截图，前后也就一年多。公司愿意拿一个数字来筛人，说明这股浪已经很大了，很多公司是真",
+      "keyIdeas": [
+        "核心信号围绕“转 AI 的门槛变了：面试前，公司先看你的 Token 截图”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+        "career"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "authenticity": 4.5,
+        "specificity": 4.4,
+        "transferability": 4.3,
+        "personalRelevance": 4.2,
+        "insightDensity": 4.2,
+        "novelty": 4.4
+      },
+      "finalScore": 86.8,
+      "preRankingScore": 75.39,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "d94c9f77ddafc8",
+      "title": "Progress on provable inference for large language models",
+      "titleZh": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "author": "ltononro",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-04T17:17:46Z",
+      "discoveredAt": "2026-11-05T03:14:30Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Progress on provable inference for large language models”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Progress on provable inference for large languag",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.0,
+        "novelty": 4.5,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 86.4,
+      "preRankingScore": 73.96,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 181,
+        "comments": 87,
+        "hnUrl": "https://news.ycombinator.com/item?id=50368626"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "150a39b9eb9ad0",
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "titleZh": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "author": "jameslk",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-04T10:10:27Z",
+      "discoveredAt": "2026-11-05T03:14:30Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn not to enter confidential information . https://support.google.com/gemini/answer/16836988 “[Gemini app activity] is used to improve Google services for everyone, including by training generative AI models, if your Keep Activity setting is on.“ https://support.google.com/gemini/answer/13594961?hl=en#human_review “A subset of chats are reviewed by human reviewers” https://support.google.com/gemini/answer/13594961?hl=en#pn_retain_data “Chats reviewed by human reviewers [...] are not deleted when you delete your activity. Instead, they are retained for up to three years.” https://support.google.com/gemini/answer/13594961?hl=en#pn_data_usage “Please don’t enter confidential information that you wouldn’t want a reviewer to see or Google to use to improve our services, including machine-learning technologies.” To disable their ",
+      "keyIdeas": [
+        "核心信号围绕“Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Tell HN: Gemini trains on chat history, even for",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.9,
+        "sourceCredibility": 4.6,
+        "novelty": 4.6,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 3.6
+      },
+      "finalScore": 85.0,
+      "preRankingScore": 91.29,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 631,
+        "comments": 164,
+        "hnUrl": "https://news.ycombinator.com/item?id=50363461"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "1fcbf935566844",
+      "title": "烧光10亿的字节AI产品下线了",
+      "titleZh": "烧光10亿的字节AI产品下线了",
+      "url": "https://www.woshipm.com/ai/6489399.html",
+      "author": "岳涌大江流",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-05T02:36:31Z",
+      "discoveredAt": "2026-11-05T03:14:30Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。扣子企业版进入下线倒计时，最晚2027年底全面退出。一个曾被AI产品经理当作必修课的平台，退场的原因不是被AI淘汰，而是被「模型自己会规划」淘汰。把过渡期当成终局，是这轮洗牌最常见的错。 10月29日，字节跳动旗下的AI产品扣子（Coze）发布公告：企业版进入下线倒计时。11月30日起停止新客户购买，旧版套餐年底下线，新版企业套餐最晚2027年底全面退出。 看到这条消息，我感触挺深。 两年前，扣子几乎是国内AI产品经理和创业者的必修课。搭智能体、拖拽工作流、接插件，很多人第一次真正理解AI应用，就是从它开始的。我自己也用过。 网传扣子前后投入近10亿元，这个数字没有得到官方证实。但一个曾经这么火的AI产品，为什么没能成为长期的平台？ 我做了这么多年互联网产品，越来越觉得： 互联网产品经理最容易犯的错误，就是用过",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "扣子企业版进入下线倒计时，最晚2027年底全面退出。一个曾被AI产品经理当作必修课的平台，退场的原因不是被AI淘汰，而是被「模型自己会规划」淘汰。把过渡期当成终局，是这轮洗牌最常见的错。 10月29日，字节跳动旗下的AI产品扣子（Coze）发布公告：企业版进入下线倒计时。11月30日起停止新客户购买，旧版套餐年底下线，新版企业套餐最晚2027年底全面退出。 看到这条消息，我感触挺深。 两年前，扣子几乎是国内AI产品经理和创业者的必修课。搭智能体、拖拽工作流、接插件，很多人第一次真正理解AI应用，就是从它开始的。我自己也用过。 网传扣子前后投入近10亿元，这个数字没有得到官方证实。但一个曾经这么火的AI产品，为什么没能成为长期的平台？ 我做了这么多年互联网产品，越来越觉得： 互联网产品经理最容易犯的错误，就是用过去成功的方法，去解决一个全新的问题。 扣子的退场，或许正好给我们上了一课。 一、扣子的问题，是把过渡期当成了终局 扣子为什么火？ 因为早期的大模型不够聪明。让它独立完成一项复杂任务，经常出现逻辑混乱、遗漏步骤、结果不稳定。 于是产品经理祭出了最熟悉的办法：拆节点、连流程。 哪一步调用模型，哪一步执行代码，哪一步读取数据，全部提前设计好。模型搞不定的部分，用人工流程和代码兜底。 这套方法在当时非常聪明，我不否认。 但问题在于： 工作流究竟是AI的终极形态，还是模型能力不足时的一种工程补偿？ 当模型开始具备理解目标、自主拆解任务、选择工具、检查结果的能力，原来需要人手工搭建的流程，就可能被模型自己完成。 以前我们教AI怎么走，现在AI开始自己决定怎么走。 当然，工作流不会消失。金融、医疗、制造等对审计、可控性和稳定性要求很高的场景，确定性流程依然有价值。 但如果一个产品的核心壁垒，只是弥补模型的短板，那么模型每进步一步，它的价值就可能少一分。 把过渡方案当成商业终局，是当下AI行业很容易犯的错误。 二、从3D虚拟大屏到AI视频工作流，我们为什么总在重复同一种错误？ 这让我想起过去互联网视频平台做过的一件事。 当年不少视频平台热衷于建设3D虚拟演播厅、虚拟场景和炫酷的数据大屏。投入不少，发布会科技感十足，效果看起来非常先进。 但后来呢？ 用户真正关心的是内容好不好看，信息有没有价值，体验是否方便。那些投入巨大成本建设的虚拟场景，真正能够形成用户价值的并不多。 技术展示和产品价值，从来不是一回事。 今天的AI视频赛道，又出现了类似的现象。 不少团队把视频生成拆成剧本、分镜、人物、场景、镜头、转场、配音等几十个节点，再通过工作流连接起来。界面越来越复杂，功能越来越多，号称专业、可控、高效。 但我一直想问一句：普通用户真的需要操作几十个节点吗？ 如果未来模型能够理解一段文字、一组参考图片，甚至一段视频的整体创作意图，自主完成分镜、人物一致性、镜头调度和视频生成，那",
+      "keyIdeas": [
+        "核心信号围绕“烧光10亿的字节AI产品下线了”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "烧光10亿的字节AI产品下线了",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.4,
+        "argumentDepth": 4.5,
+        "evidenceQuality": 4.1,
+        "nonConsensusValue": 3.6,
+        "transferability": 3.6,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 82.4,
+      "preRankingScore": 74.94,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "26c6032e1d2677",
+      "title": "Accelerating engineering for the physical world",
+      "titleZh": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-03T12:00:00Z",
+      "discoveredAt": "2026-11-05T03:14:29Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "keyIdeas": [
+        "核心信号围绕“Accelerating engineering for the physical world”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Accelerating engineering for the physical world",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 3.4,
+        "novelty": 4.3,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 81.4,
+      "preRankingScore": 63.47,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 8,
+      "duplicateSources": []
+    },
+    {
+      "id": "2b5f926b26c14a",
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "titleZh": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "author": "lukeigel",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-04T17:31:53Z",
+      "discoveredAt": "2026-11-05T03:14:30Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Hi HN! I'm Luke from Kino ( https://kino.ai ). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with review notes and footage all in one place. See a basic overview at https://kino.ai/walkthrough-video and our launch video (made entirely with Kino!) at https://kino.ai/launch-video Opus 5.5 can edit videos and make great motion graphics now. But with a raw agent harness, you need to describe tiny edits either in words or in quick one-off UIs, you can’t refer to footage shared across your devices, and feedback from teammates comes as screenshots on Slack. Kino is code-first. All editing, all motion graphics, all dragging of timeline items around, all teammate comments, and all 3D scenes are expressed as code, built on Remotion. This was hard to get right, as we found ourselves building a what-you-see-is-what-you-get editor for React, which we then turned into a video editor. For our launch video I told Claude-with-Kino to find a macOS Leopard install disk and reskin our whole video to mat",
+      "keyIdeas": [
+        "核心信号围绕“Launch HN: Kino AI (YC S23) – AI media manager and video editor”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Launch HN: Kino AI (YC S23) – AI media manager a",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.6,
+        "sourceCredibility": 4.2,
+        "novelty": 3.8,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 85.0,
+      "preRankingScore": 78.61,
+      "readingTier": "signal",
+      "socialSignals": {
+        "points": 73,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=50368804"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "f6fcbc7ee6901c",
+      "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+      "titleZh": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+      "url": "https://www.qbitai.com/2026/11/507688.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-05T01:42:43Z",
+      "discoveredAt": "2026-11-05T03:14:30Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
+      "keyIdeas": [
+        "核心信号围绕“太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.0,
+        "novelty": 3.9,
+        "aiProductImpact": 3.4,
+        "personalRelevance": 4.1
+      },
+      "finalScore": 80.4,
+      "preRankingScore": 70.26,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "5279acc13e0993",
+      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "titleZh": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "url": "https://www.qbitai.com/2026/11/507707.html",
+      "author": "衡宇",
+      "source": "量子位",
+      "publishedAt": "2026-11-05T01:59:37Z",
+      "discoveredAt": "2026-11-05T03:14:30Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。最快6秒出图",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "最快6秒出图",
+      "keyIdeas": [
+        "核心信号围绕“GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.8,
+        "novelty": 3.9,
+        "aiProductImpact": 3.7,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 79.4,
+      "preRankingScore": 69.94,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
