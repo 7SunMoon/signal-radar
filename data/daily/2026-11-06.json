@@ -1,0 +1,376 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T03:14:32Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 233,
+    "afterDeduplication": 232,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "2b12b7a108cc3c",
+      "title": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "titleZh": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "url": "https://www.woshipm.com/ai/6487557.html",
+      "author": "小普",
+      "source": "人人都是产品经理 · 面试",
+      "publishedAt": "2026-11-02T09:06:26Z",
+      "discoveredAt": "2026-11-06T03:14:23Z",
+      "language": "zh-CN",
+      "category": "career",
+      "summaryZh": "内容包含可用于求职表达、项目复盘或能力建设的具体线索。面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在只是走到了招聘这一步。 这一年多，公司是怎么一步步逼人用 AI 的 最早是表态。 去年春天，Shopify 的 CEO 把一份内部信直接发到了网上，大意是，下意识地用 AI 现在是对每个人的基本要求。AI 用得怎么样写进了绩效，团队想加人，得先证明这活 AI 干不了。 紧接着微软、Duolingo 这些公司也跟上了，说法都差不多，用 AI 不再是可选项。 最狠的是 Coinbase。CEO 要求所有工程师一周之内开通 AI 编程工具，到了周六开会，几个没开通、也说不出理由的人，直接被开了。他自己事后也承认，这做法是有点粗暴。 然后是排行榜。 今年上半年，几家大厂开始在内部数 Token。亚马逊给开发者定了每周用 AI 的目标，还在内部排行榜上统计每个人的 Token 消耗。Meta 有人搞了个 Token 排行榜，挂出前 250 名，还发“Token 传奇”这种徽章。 榜上第一名，一个人 30 天用了 2810 亿 Token。 卧槽，看到这个数我是真愣了一下。我自己每天用 Claude Code 写书、写文章，已经算用得很多的了，跟这个比完全不是一个量级。 国内也差不多是这个节奏。 我之前在昆仑万维。今年 1 月，公司就要求内部按 AI 来考核：设计师必须会用最顶尖的模型，开发团队写代码必须用 Cursor 这类 AI IDE，产品必须会用 AI 画原型。 后来和在大厂的朋友聊，他们公司内部也有 AI 考核，还有硬性的 Token 用量要求，每个人得用够多少。上个月老东家又发了一份内部通知，讲业务调整，里面把 AI 业务写成了公司的重中之重。 小公司就更夸张了。海外有一家只有 10 个人的游戏公司，每个月花在 Token 上的钱，是全员工资的 30 倍。公司里每一块业务，从游戏引擎到财务，都交给一个常驻的 AI agent 管。 从表态、进绩效，到排行榜，再到面试前就要截图，前后也就一年多。公司愿意拿一个数字来筛人，说明这股浪已经很大了，很多公司是真",
+      "keyIdeas": [
+        "核心信号围绕“转 AI 的门槛变了：面试前，公司先看你的 Token 截图”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+        "career"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "authenticity": 4.4,
+        "specificity": 4.3,
+        "transferability": 4.2,
+        "personalRelevance": 4.1,
+        "insightDensity": 4.1,
+        "novelty": 4.3
+      },
+      "finalScore": 84.8,
+      "preRankingScore": 72.99,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "2c80f4f2730d5a",
+      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+      "titleZh": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+      "url": "https://www.qbitai.com/2026/11/507767.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-05T05:25:37Z",
+      "discoveredAt": "2026-11-06T03:14:23Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。像雇人一样雇机器人",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "像雇人一样雇机器人",
+      "keyIdeas": [
+        "核心信号围绕“以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.1,
+        "sourceCredibility": 4.4,
+        "novelty": 4.0,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 4.1
+      },
+      "finalScore": 84.4,
+      "preRankingScore": 67.91,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "0dad0a50448b3b",
+      "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+      "titleZh": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+      "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+      "author": "kadharmfn",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-05T15:51:57Z",
+      "discoveredAt": "2026-11-06T03:14:23Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Building a Multi-Agent System from Scratch: Architecture Patterns”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Building a Multi-Agent System from Scratch: Arch",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.1,
+        "sourceCredibility": 4.4,
+        "novelty": 4.3,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 82.6,
+      "preRankingScore": 66.91,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 79,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=50380658"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 10,
+      "duplicateSources": []
+    },
+    {
+      "id": "764fc197d7ebec",
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "titleZh": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "author": "schopra909",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-04T16:45:11Z",
+      "discoveredAt": "2026-11-06T03:14:23Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "My brother and I run a 2-person lab that trains our own generative video models from scratch. The ultimate goal is a set of creative tools that make it easier for anyone to make animation. Video models today are too slow/expensive and lack sufficient controls. Creativity is an iterative process. You make, you tweak, you get better. In our opinion, they're not usable yet for storytelling. When we set out to build Linum v3 (our next video model) earlier this year, the primary goal was to bring the cost envelope of inference down significantly. If our model is fast and cheap, it's the first step (of many) towards useful creative tools. Typically, you see \"latent diffusion models\". A VAE (Variational Autoencoder) compresses the input data into a smaller \"latent space\" and the diffusion model learns how to generate within this subspace. Over the past few months, we've been publishing our work on efficient pixel-space diffusion models. These throw away the VAE, having the diffusion model learn a latent-space optimized for its exact task. This serves 3 purposes: 1) Simplify Architecture (no 2-stage model training) 2) Faster Convergence (11x faster convergence vs. our latent diffusion coun",
+      "keyIdeas": [
+        "核心信号围绕“Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Show HN: A decent text-to-image model trained fo",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 3.6,
+        "novelty": 3.9,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.6
+      },
+      "finalScore": 81.8,
+      "preRankingScore": 80.18,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 162,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=50368208"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 11,
+      "duplicateSources": []
+    },
+    {
+      "id": "b58fee4edbbb5f",
+      "title": "Australian universities are creating AI-native graduates",
+      "titleZh": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-05T17:00:00Z",
+      "discoveredAt": "2026-11-06T03:14:22Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "keyIdeas": [
+        "核心信号围绕“Australian universities are creating AI-native graduates”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Australian universities are creating AI-native g",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 3.7,
+        "novelty": 3.8,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 3.8
+      },
+      "finalScore": 80.8,
+      "preRankingScore": 66.45,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 12,
+      "duplicateSources": []
+    },
+    {
+      "id": "a29b2895a2f38e",
+      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+      "titleZh": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+      "url": "https://www.qbitai.com/2026/11/507787.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-05T07:15:13Z",
+      "discoveredAt": "2026-11-06T03:14:23Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+      "keyIdeas": [
+        "核心信号围绕“百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.5,
+        "novelty": 4.1,
+        "aiProductImpact": 3.7,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 82.2,
+      "preRankingScore": 68.34,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "01c9a31508ada7",
+      "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
+      "titleZh": "Show HN: Stroq – a local audit of what your coding agent did and why",
+      "url": "https://github.com/AGGIB/Stroq",
+      "author": "agybay_07",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-05T15:54:41Z",
+      "discoveredAt": "2026-11-06T03:14:23Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Show HN: Stroq – a local audit of what your coding agent did and why”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Show HN: Stroq – a local audit of what your codi",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.9,
+        "sourceCredibility": 3.9,
+        "novelty": 4.3,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 81.4,
+      "preRankingScore": 66.18,
+      "readingTier": "signal",
+      "socialSignals": {
+        "points": 73,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=50380704"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "f6fcbc7ee6901c",
+      "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+      "titleZh": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+      "url": "https://www.qbitai.com/2026/11/507688.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-05T01:42:43Z",
+      "discoveredAt": "2026-11-06T03:14:23Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
+      "keyIdeas": [
+        "核心信号围绕“太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.0,
+        "novelty": 3.9,
+        "aiProductImpact": 3.4,
+        "personalRelevance": 4.1
+      },
+      "finalScore": 80.4,
+      "preRankingScore": 67.86,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
