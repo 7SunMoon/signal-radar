@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T02:33:54Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 234,
+    "afterDeduplication": 233,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "2b12b7a108cc3c",
+      "title": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "titleZh": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "url": "https://www.woshipm.com/ai/6487557.html",
+      "author": "小普",
+      "source": "人人都是产品经理 · 面试",
+      "publishedAt": "2026-11-02T09:06:26Z",
+      "discoveredAt": "2026-11-07T02:33:38Z",
+      "language": "zh-CN",
+      "category": "career",
+      "summaryZh": "内容包含可用于求职表达、项目复盘或能力建设的具体线索。面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在只是走到了招聘这一步。 这一年多，公司是怎么一步步逼人用 AI 的 最早是表态。 去年春天，Shopify 的 CEO 把一份内部信直接发到了网上，大意是，下意识地用 AI 现在是对每个人的基本要求。AI 用得怎么样写进了绩效，团队想加人，得先证明这活 AI 干不了。 紧接着微软、Duolingo 这些公司也跟上了，说法都差不多，用 AI 不再是可选项。 最狠的是 Coinbase。CEO 要求所有工程师一周之内开通 AI 编程工具，到了周六开会，几个没开通、也说不出理由的人，直接被开了。他自己事后也承认，这做法是有点粗暴。 然后是排行榜。 今年上半年，几家大厂开始在内部数 Token。亚马逊给开发者定了每周用 AI 的目标，还在内部排行榜上统计每个人的 Token 消耗。Meta 有人搞了个 Token 排行榜，挂出前 250 名，还发“Token 传奇”这种徽章。 榜上第一名，一个人 30 天用了 2810 亿 Token。 卧槽，看到这个数我是真愣了一下。我自己每天用 Claude Code 写书、写文章，已经算用得很多的了，跟这个比完全不是一个量级。 国内也差不多是这个节奏。 我之前在昆仑万维。今年 1 月，公司就要求内部按 AI 来考核：设计师必须会用最顶尖的模型，开发团队写代码必须用 Cursor 这类 AI IDE，产品必须会用 AI 画原型。 后来和在大厂的朋友聊，他们公司内部也有 AI 考核，还有硬性的 Token 用量要求，每个人得用够多少。上个月老东家又发了一份内部通知，讲业务调整，里面把 AI 业务写成了公司的重中之重。 小公司就更夸张了。海外有一家只有 10 个人的游戏公司，每个月花在 Token 上的钱，是全员工资的 30 倍。公司里每一块业务，从游戏引擎到财务，都交给一个常驻的 AI agent 管。 从表态、进绩效，到排行榜，再到面试前就要截图，前后也就一年多。公司愿意拿一个数字来筛人，说明这股浪已经很大了，很多公司是真",
+      "keyIdeas": [
+        "核心信号围绕“转 AI 的门槛变了：面试前，公司先看你的 Token 截图”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+        "career"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "authenticity": 4.4,
+        "specificity": 4.3,
+        "transferability": 4.2,
+        "personalRelevance": 4.1,
+        "insightDensity": 4.1,
+        "novelty": 4.3
+      },
+      "finalScore": 84.8,
+      "preRankingScore": 70.65,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "f026db5c521284",
+      "title": "Claude Duet主动运行后，企业Agent要把四个边界写进Runtime",
+      "titleZh": "Claude Duet主动运行后，企业Agent要把四个边界写进Runtime",
+      "url": "https://www.woshipm.com/ai/6490040.html",
+      "author": "易安说AI",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-06T07:04:18Z",
+      "discoveredAt": "2026-11-07T02:33:38Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。Agent 从等你敲门变成主动巡逻：查应用、按间隔检查账户、发现事项就提醒，关掉应用也能在云端继续跑。难点因此从能不能调用工具，变成什么时候启动、凭什么授权、信息流向哪、中断后能不能安全继续。 过去的 Agent 很像一个“等你敲门的工具”：用户发出指令，它调用工具，任务结束后返回结果。Claude Duet 把模式往前推了一步，它会查看用户连接的应用，按设定间隔检查账户，生成晨间简报，发现需要处理的事项时再提醒用户；复杂任务即使用户关闭应用，也能在云端继续运行。 Anthropic 在 2026 年 10 月 21 日开放了 Claude Duet 研究预览，同时明确提醒，当前版本仍可能误读邮件线程或误判事项紧急程度。主动式 Agent 的难点因此不再只是“能不能调用工具”，而是“什么时候应该启动、启动前凭什",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "Agent 从等你敲门变成主动巡逻：查应用、按间隔检查账户、发现事项就提醒，关掉应用也能在云端继续跑。难点因此从能不能调用工具，变成什么时候启动、凭什么授权、信息流向哪、中断后能不能安全继续。 过去的 Agent 很像一个“等你敲门的工具”：用户发出指令，它调用工具，任务结束后返回结果。Claude Duet 把模式往前推了一步，它会查看用户连接的应用，按设定间隔检查账户，生成晨间简报，发现需要处理的事项时再提醒用户；复杂任务即使用户关闭应用，也能在云端继续运行。 Anthropic 在 2026 年 10 月 21 日开放了 Claude Duet 研究预览，同时明确提醒，当前版本仍可能误读邮件线程或误判事项紧急程度。主动式 Agent 的难点因此不再只是“能不能调用工具”，而是“什么时候应该启动、启动前凭什么授权、信息能流向哪里、任务中断后能否安全继续”。 这四个问题，决定了企业是否真的能把主动式 Agent 放进日常流程。 第一条边界：主动触发必须单独治理 工具权限和触发策略不是一回事。前者回答“Agent 能不能读邮件、日历或账户”，后者回答“某次变化是否值得创建任务并提醒用户”。如果把两者混在一起，Agent 可能拥有读取权限，却在低价值事件上不断启动任务，消耗额度并制造噪音。 Duet 的公开运行方式是每隔数小时检查一次连接账户，而不是持续监控。检查越频繁，发现延迟可能越低，但套餐消耗也会更快；两次检查之间出现的紧急事项，则可能要等到下一轮才被发现。这不是产品缺陷清单，而是主动运行必然要面对的资源和时效权衡。 企业落地时，可以先为一类高价值事件定义清晰阈值，例如临近会议的时间冲突、即将到期的合同或异常账单，再观察四项指标： 指标 要回答的问题 发现延迟 事件发生后多久被 Agent 识别 漏报率 重要事件是否被跳过 无效提醒率 有多少提醒并不值得用户处理 单项消耗 一次检查和后续处理用了多少资源 同一事项连续更新时还要去重，否则一封邮件的多次修改可能触发多条提醒。主动性真正的第一步不是尽可能多地启动任务，而是让每次启动都有可解释的理由。 第二条边界：批准必须绑定执行时的上下文 Duet 的公开说明是：发送消息、付款、签署文件或删除内容前，会展示准备执行的动作并等待用户批准；证券交易、账户间转账、访问他人账户等操作，即使用户批准也属于禁止范围。 这说明系统至少区分了“需要确认”和“永远禁止”两类动作。但“执行前询问”本身并不能解决长任务授权的时效问题。批准只有在执行对象、内容和范围仍与批准时一致，才有资格继续执行。 举个典型例子：用户批准发送合同 V1，任务排队期间协作者把附件换成 V2。如果系统沿用旧批准，Agent 就可能发送未经确认的内容。这是 TOCTOU，也就是检查时和实际使用时之间状态发生变化的问题。 企业的审批记录至少应绑定： 操作对",
+      "keyIdeas": [
+        "核心信号围绕“Claude Duet主动运行后，企业Agent要把四个边界写进Runtime”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Claude Duet主动运行后，企业Agent要把四个边界写进Runtime",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.5,
+        "argumentDepth": 4.3,
+        "evidenceQuality": 3.6,
+        "nonConsensusValue": 4.5,
+        "transferability": 3.7,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 84.1,
+      "preRankingScore": 73.05,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "e086e2a5c60556",
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "titleZh": "Memorilla: Latent Semantic Memory for LLMs",
+      "url": "https://arxiv.org/abs/2610.21375",
+      "author": "handfuloflight",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-06T18:03:33Z",
+      "discoveredAt": "2026-11-07T02:33:45Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Memorilla: Latent Semantic Memory for LLMs”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Memorilla: Latent Semantic Memory for LLMs",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.5,
+        "novelty": 3.6,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 80.6,
+      "preRankingScore": 66.78,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 88,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=50395919"
+      },
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "e1e6ba62bc2e88",
+      "title": "AI and the Future of the Product Role",
+      "titleZh": "AI and the Future of the Product Role",
+      "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
+      "author": "Marty Cagan",
+      "source": "Silicon Valley Product Group",
+      "publishedAt": "2026-11-06T01:02:22Z",
+      "discoveredAt": "2026-11-07T02:33:37Z",
+      "language": "en",
+      "category": "product-insight",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies. This has always been true, in no small part due to inheriting the job title... The post AI and the Future of the Product Role appeared first on Silicon Valley Product Group .",
+      "keyIdeas": [
+        "核心信号围绕“AI and the Future of the Product Role”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "AI and the Future of the Product Role",
+        "product-insight"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "insightDensity": 4.4,
+        "argumentDepth": 4.3,
+        "evidenceQuality": 4.4,
+        "nonConsensusValue": 3.7,
+        "transferability": 3.6,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 80.4,
+      "preRankingScore": 71.57,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 12,
+      "duplicateSources": []
+    },
+    {
+      "id": "cfd4354afa1400",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "titleZh": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "discoveredAt": "2026-11-07T02:33:37Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "keyIdeas": [
+        "核心信号围绕“Measuring how AI agents handle everyday wet-lab science”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Measuring how AI agents handle everyday wet-lab ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.3,
+        "novelty": 3.6,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 80.4,
+      "preRankingScore": 64.86,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 15,
+      "duplicateSources": []
+    },
+    {
+      "id": "be1ba71e55b7f1",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "titleZh": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-11-06T14:00:48Z",
+      "discoveredAt": "2026-11-07T02:33:37Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“ToyBlocks: A controlled world for robot learning and evaluation”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "ToyBlocks: A controlled world for robot learning",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.1,
+        "novelty": 4.2,
+        "aiProductImpact": 3.3,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 79.2,
+      "preRankingScore": 64.74,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "d99d79c2842870",
+      "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+      "titleZh": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+      "url": "https://www.qbitai.com/2026/11/508174.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-06T09:25:59Z",
+      "discoveredAt": "2026-11-07T02:33:38Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+      "keyIdeas": [
+        "核心信号围绕“为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.0,
+        "novelty": 4.5,
+        "aiProductImpact": 3.4,
+        "personalRelevance": 3.4
+      },
+      "finalScore": 78.4,
+      "preRankingScore": 68.54,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "e7f4cbc712b253",
+      "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+      "titleZh": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+      "url": "https://www.qbitai.com/2026/11/508170.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-06T09:21:51Z",
+      "discoveredAt": "2026-11-07T02:33:38Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
+      "keyIdeas": [
+        "核心信号围绕“阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.1,
+        "sourceCredibility": 3.7,
+        "novelty": 3.7,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 77.8,
+      "preRankingScore": 68.54,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
