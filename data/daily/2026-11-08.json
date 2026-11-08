@@ -1,0 +1,366 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T02:04:40Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 235,
+    "afterDeduplication": 234,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "2b12b7a108cc3c",
+      "title": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "titleZh": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "url": "https://www.woshipm.com/ai/6487557.html",
+      "author": "小普",
+      "source": "人人都是产品经理 · 面试",
+      "publishedAt": "2026-11-02T09:06:26Z",
+      "discoveredAt": "2026-11-08T02:04:31Z",
+      "language": "zh-CN",
+      "category": "career",
+      "summaryZh": "内容包含可用于求职表达、项目复盘或能力建设的具体线索。面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在只是走到了招聘这一步。 这一年多，公司是怎么一步步逼人用 AI 的 最早是表态。 去年春天，Shopify 的 CEO 把一份内部信直接发到了网上，大意是，下意识地用 AI 现在是对每个人的基本要求。AI 用得怎么样写进了绩效，团队想加人，得先证明这活 AI 干不了。 紧接着微软、Duolingo 这些公司也跟上了，说法都差不多，用 AI 不再是可选项。 最狠的是 Coinbase。CEO 要求所有工程师一周之内开通 AI 编程工具，到了周六开会，几个没开通、也说不出理由的人，直接被开了。他自己事后也承认，这做法是有点粗暴。 然后是排行榜。 今年上半年，几家大厂开始在内部数 Token。亚马逊给开发者定了每周用 AI 的目标，还在内部排行榜上统计每个人的 Token 消耗。Meta 有人搞了个 Token 排行榜，挂出前 250 名，还发“Token 传奇”这种徽章。 榜上第一名，一个人 30 天用了 2810 亿 Token。 卧槽，看到这个数我是真愣了一下。我自己每天用 Claude Code 写书、写文章，已经算用得很多的了，跟这个比完全不是一个量级。 国内也差不多是这个节奏。 我之前在昆仑万维。今年 1 月，公司就要求内部按 AI 来考核：设计师必须会用最顶尖的模型，开发团队写代码必须用 Cursor 这类 AI IDE，产品必须会用 AI 画原型。 后来和在大厂的朋友聊，他们公司内部也有 AI 考核，还有硬性的 Token 用量要求，每个人得用够多少。上个月老东家又发了一份内部通知，讲业务调整，里面把 AI 业务写成了公司的重中之重。 小公司就更夸张了。海外有一家只有 10 个人的游戏公司，每个月花在 Token 上的钱，是全员工资的 30 倍。公司里每一块业务，从游戏引擎到财务，都交给一个常驻的 AI agent 管。 从表态、进绩效，到排行榜，再到面试前就要截图，前后也就一年多。公司愿意拿一个数字来筛人，说明这股浪已经很大了，很多公司是真",
+      "keyIdeas": [
+        "核心信号围绕“转 AI 的门槛变了：面试前，公司先看你的 Token 截图”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+        "career"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "authenticity": 4.4,
+        "specificity": 4.3,
+        "transferability": 4.2,
+        "personalRelevance": 4.1,
+        "insightDensity": 4.1,
+        "novelty": 4.3
+      },
+      "finalScore": 84.8,
+      "preRankingScore": 68.3,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "ddab7998c3bccc",
+      "title": "欧洲广告之王塞盖拉：27条“广告不应告知，而要神话化”传播学",
+      "titleZh": "欧洲广告之王塞盖拉：27条“广告不应告知，而要神话化”传播学",
+      "url": "https://www.woshipm.com/marketing/6490349.html",
+      "author": "品牌猿",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-07T02:31:38Z",
+      "discoveredAt": "2026-11-08T02:04:31Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。法国广告人塞盖拉的二十七条传播学心得，核心只有一句：广告不应告知，而应神话化。他把产品当明星来塑造，用明星策略替密特朗操盘竞选，也留下了依云旱冰宝宝那样的作品。文中附了逐条原话与三个案例。 雅克·塞盖拉（1934，巴黎），法国广告传奇，灵智广告联合创始人，哈瓦斯全行副总裁及首席创意长。人称法国广告界的 “坏孩子”、欧洲政治传播教父，2024年获戛纳国际创意节圣马可终身成就奖。 他横跨商业广告与政治竞选传播，服务超过1000个品牌战役，服务标致、依云、法国航空、路易威登等，并为密特朗、希拉克等政治人物操盘竞选。他提出的 “明星策略”（Star Strategy） 将品牌塑造推向“神话化”的层面，把广告从单纯叫卖升级为情绪与信念的塑造。自传《别告诉我妈妈我做广告，她以为我在妓院当钢琴师》，又名《欧洲广告之王》。 一",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "法国广告人塞盖拉的二十七条传播学心得，核心只有一句：广告不应告知，而应神话化。他把产品当明星来塑造，用明星策略替密特朗操盘竞选，也留下了依云旱冰宝宝那样的作品。文中附了逐条原话与三个案例。 雅克·塞盖拉（1934，巴黎），法国广告传奇，灵智广告联合创始人，哈瓦斯全行副总裁及首席创意长。人称法国广告界的 “坏孩子”、欧洲政治传播教父，2024年获戛纳国际创意节圣马可终身成就奖。 他横跨商业广告与政治竞选传播，服务超过1000个品牌战役，服务标致、依云、法国航空、路易威登等，并为密特朗、希拉克等政治人物操盘竞选。他提出的 “明星策略”（Star Strategy） 将品牌塑造推向“神话化”的层面，把广告从单纯叫卖升级为情绪与信念的塑造。自传《别告诉我妈妈我做广告，她以为我在妓院当钢琴师》，又名《欧洲广告之王》。 一、广告的本质：神话，而非告知 1 广告不应告知，而应“神话化” 我明白，广告不应告知，而应神话化。广告的工作是 创造一个值得被相信的神话，让品牌从一件“有用的物品”升维为一个“有灵魂的角色”。 品牌是永恒的，有的可以存活百年。而那些消失的品牌， 往往是因为失去了神话的能力。 是的。我意识到广告就像好莱坞一样运作。 明星有可辨认的体格、个性、故事、承诺……为什么一个品牌不能采用相同的结构呢？十年来，我每年都去好莱坞“充电”，观察玛丽莲（梦露）是如何被塑造出来的，神话是如何构建的。 我明白广告不应该是信息化，而是要神话化。 2 明星策略（Star Strategy） 把明星、品牌与时代情绪绑定，用“名人效应”制造品牌神话 。他更看重明星形象与品牌调性的深度契合，而非名气大小 传统“Copy Strategy”只卖产品的功能承诺，塞盖拉的“Star Strategy”则分两步走： 第一步，把产品变成一个人赋予它“体格”“风格”与“性格”）； 第二步，把这个人变成明星，让它拥有电影明星般的吸引力、持久力与梦想感。 案例解读： 雪铁龙 ：他动用航空母舰和核潜艇拍摄广告，还用毕加索的名字为车型命名，把品牌塑造成“有法国文化底蕴”的传奇形象。 密特朗竞选 ：他策划的“宁静的力量”（Le Force Tranquille）和“密特朗一代”（Génération Mitterrand）口号，将政治人物“明星化”，用广告手法赢得选民情感认同。 娇兰“轮回”香水 ：他让广告承载文化意象，用佛教红金色调和高棉舞者造型，赋予产品神秘与神圣感，而非单纯展示香水 二、创意与思想：水与春天 1、创意是把 “水” 变成 “春天” 归根结底，问题很简单。问客户，雪融化后会变成什么，他们会说水。但对我来说不是——对一个有创造力的人来说不是。当积雪融化时，就变成了春天。我们的任务是让水变成春天。这是创意人士几个世纪以来的工作，从未消失。 2、创意就是唤起每个人心中的童年角落 。所以为了唤醒别",
+      "keyIdeas": [
+        "核心信号围绕“欧洲广告之王塞盖拉：27条“广告不应告知，而要神话化”传播学”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "欧洲广告之王塞盖拉：27条“广告不应告知，而要神话化”传播学",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.2,
+        "argumentDepth": 4.3,
+        "evidenceQuality": 3.9,
+        "nonConsensusValue": 4.5,
+        "transferability": 3.8,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 84.1,
+      "preRankingScore": 72.65,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "e1e6ba62bc2e88",
+      "title": "AI and the Future of the Product Role",
+      "titleZh": "AI and the Future of the Product Role",
+      "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
+      "author": "Marty Cagan",
+      "source": "Silicon Valley Product Group",
+      "publishedAt": "2026-11-06T01:02:22Z",
+      "discoveredAt": "2026-11-08T02:04:30Z",
+      "language": "en",
+      "category": "product-insight",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies. This has always been true, in no small part due to inheriting the job title... The post AI and the Future of the Product Role appeared first on Silicon Valley Product Group .",
+      "keyIdeas": [
+        "核心信号围绕“AI and the Future of the Product Role”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "AI and the Future of the Product Role",
+        "product-insight"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "insightDensity": 4.4,
+        "argumentDepth": 4.3,
+        "evidenceQuality": 4.4,
+        "nonConsensusValue": 3.7,
+        "transferability": 3.6,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 80.4,
+      "preRankingScore": 69.22,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 12,
+      "duplicateSources": []
+    },
+    {
+      "id": "cfd4354afa1400",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "titleZh": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "discoveredAt": "2026-11-08T02:04:30Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "keyIdeas": [
+        "核心信号围绕“Measuring how AI agents handle everyday wet-lab science”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Measuring how AI agents handle everyday wet-lab ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.3,
+        "novelty": 3.6,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 80.4,
+      "preRankingScore": 62.51,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 15,
+      "duplicateSources": []
+    },
+    {
+      "id": "be1ba71e55b7f1",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "titleZh": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-11-06T14:00:48Z",
+      "discoveredAt": "2026-11-08T02:04:29Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“ToyBlocks: A controlled world for robot learning and evaluation”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "ToyBlocks: A controlled world for robot learning",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.1,
+        "novelty": 4.2,
+        "aiProductImpact": 3.3,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 79.2,
+      "preRankingScore": 62.39,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "75679f5aa60bfc",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "titleZh": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-04T07:00:00Z",
+      "discoveredAt": "2026-11-08T02:04:30Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "keyIdeas": [
+        "核心信号围绕“Daybreak Red is now available in AWS GovCloud (US-East)”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Daybreak Red is now available in AWS GovCloud (U",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.0,
+        "novelty": 4.4,
+        "aiProductImpact": 3.4,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 79.0,
+      "preRankingScore": 58.28,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "a55ea9960a4782",
+      "title": "为了去AI味，人类开始主动写烂文章了……",
+      "titleZh": "为了去AI味，人类开始主动写烂文章了……",
+      "url": "https://www.qbitai.com/2026/11/508330.html",
+      "author": "田, 晏林",
+      "source": "量子位",
+      "publishedAt": "2026-11-07T07:59:28Z",
+      "discoveredAt": "2026-11-08T02:04:31Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+      "keyIdeas": [
+        "核心信号围绕“为了去AI味，人类开始主动写烂文章了……”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "为了去AI味，人类开始主动写烂文章了……",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.4,
+        "sourceCredibility": 4.1,
+        "novelty": 4.0,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 78.6,
+      "preRankingScore": 68.66,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "8d9ec9ed033203",
+      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+      "titleZh": "OpenAI新融资到账110亿美元，不及原计划一半",
+      "url": "https://www.qbitai.com/2026/11/508344.html",
+      "author": "田, 晏林",
+      "source": "量子位",
+      "publishedAt": "2026-11-07T08:11:25Z",
+      "discoveredAt": "2026-11-08T02:04:31Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。融资缩水，硅谷投资人也谨慎了",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "融资缩水，硅谷投资人也谨慎了",
+      "keyIdeas": [
+        "核心信号围绕“OpenAI新融资到账110亿美元，不及原计划一半”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "OpenAI新融资到账110亿美元，不及原计划一半",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.0,
+        "novelty": 3.9,
+        "aiProductImpact": 3.5,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 78.2,
+      "preRankingScore": 68.35,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
