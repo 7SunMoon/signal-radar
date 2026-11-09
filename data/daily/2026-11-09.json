@@ -1,0 +1,366 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T02:25:03Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 235,
+    "afterDeduplication": 234,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "11ff6b3f18b6bb",
+      "title": "腾讯云ADP产品分析：企业级 Service Agent 平台—从「搭 Agent」到「管 Agent」",
+      "titleZh": "腾讯云ADP产品分析：企业级 Service Agent 平台—从「搭 Agent」到「管 Agent」",
+      "url": "https://www.woshipm.com/evaluating/6490871.html",
+      "author": "拆个产品",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-09T01:46:11Z",
+      "discoveredAt": "2026-11-09T02:24:56Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。企业级智能体平台竞争已从「搭 Agent」转向「管 Agent」。腾讯云 ADP 以 AgentOps 串联构建、评测、治理与优化，在私有化市场位居第二，传媒与医疗子市场居首。本文深度拆解其产品定位、竞争格局与商业化挑战，揭示企业级 Agent 平台「工程+交付」的真正壁垒。 企业级 Service Agent 平台：从「搭 Agent」到「管 Agent」 分析对象： 腾讯云智能体开发平台（Tencent Cloud ADP） 对比竞品： 火山引擎 HiAgent、阿里云百炼 核心结论： ADP 的战略重心已从「帮企业搭一个 Agent」转向「帮企业把 Agent 管起来」：0 版以 AgentOps 串起构建、评测、集成、分发、治理、观测、优化，Claw 模式与云端 Agent Harness 是这一定位的",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "企业级智能体平台竞争已从「搭 Agent」转向「管 Agent」。腾讯云 ADP 以 AgentOps 串联构建、评测、治理与优化，在私有化市场位居第二，传媒与医疗子市场居首。本文深度拆解其产品定位、竞争格局与商业化挑战，揭示企业级 Agent 平台「工程+交付」的真正壁垒。 企业级 Service Agent 平台：从「搭 Agent」到「管 Agent」 分析对象： 腾讯云智能体开发平台（Tencent Cloud ADP） 对比竞品： 火山引擎 HiAgent、阿里云百炼 核心结论： ADP 的战略重心已从「帮企业搭一个 Agent」转向「帮企业把 Agent 管起来」：0 版以 AgentOps 串起构建、评测、集成、分发、治理、观测、优化，Claw 模式与云端 Agent Harness 是这一定位的技术支点。[1][2] 按 IDC 口径，2025 年中国智能体开发平台市场约 20 亿元，ADP 私有化市场第二、公有云市场第三；在传媒（1%）与医疗及生命科学（9.4%）两个子市场均居首。领先是结构性的，不是压倒性的。[3][4][5] 真正难复制的是「工程 + 交付」的组合：企业级 RAG、复合意图解析、Agent 与 Workflow 双向互调、三级权限与审计，叠加 FDE 五阶段与 25 个场景包。模型只是入场券。[1][6][7] 客户价值已被量化，但集中在数字基建成熟的头部企业：华住 73% 高频需求自动处理、伊利销售订单提升 26%、华润信托拆单准确率 98%。样板成立，复制边界也在这里。[8][9] 最大风险不在竞争，而在商业模式：FDE 仍是人力密集型交付，可观测性与权限配置是体验短板，PU 套餐的价格透明度不足会抬高中小客户的决策成本。[7][10][11] 一、行业分析 1.1 产品价值：企业买的不是 Agent，是「可控的生产力」 智能体开发平台处在模型能力与企业业务系统之间。它的价值不取决于模型多强，而取决于能否把「理解需求—检索知识—调用系统—执行流程—评估效果」这条链路稳定地跑在生产环境里。这决定了它的买家不是个人开发者，而是同时背负效率指标与合规责任的中大型组织。[3][6] 客户群体 ：金融、零售、制造、传媒、医疗、酒店、政务等中大型企业。采购方通常有两条线：IT/AI 平台团队负责选型、集成与治理，业务部门负责定义场景与验收结果。[6][7] 核心痛点 ：不是「搭不出 Demo」，而是 Demo 进不了生产。跨系统接入、身份与数据权限、效果评测、成本核算、运行审计、断线续跑，任何一项缺失都会让项目停在试点。[1][9] 解决方案 ：以低代码或自然语言构建 Agent，配合知识库、连接器、Skills、MCP 接入企业资产，再用评测、灰度、观测与权限体系把 Agent 纳入现有 IT 治理。[1][6] 付费意愿 ：",
+      "keyIdeas": [
+        "核心信号围绕“腾讯云ADP产品分析：企业级 Service Agent 平台—从「搭 Agent」到「管 Agent」”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "腾讯云ADP产品分析：企业级 Service Agent 平台—从「搭 Agent」到「管 Ag",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.4,
+        "argumentDepth": 4.5,
+        "evidenceQuality": 4.5,
+        "nonConsensusValue": 3.8,
+        "transferability": 4.5,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 85.7,
+      "preRankingScore": 74.94,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 18,
+      "duplicateSources": []
+    },
+    {
+      "id": "2b12b7a108cc3c",
+      "title": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "titleZh": "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+      "url": "https://www.woshipm.com/ai/6487557.html",
+      "author": "小普",
+      "source": "人人都是产品经理 · 面试",
+      "publishedAt": "2026-11-02T09:06:26Z",
+      "discoveredAt": "2026-11-09T02:24:56Z",
+      "language": "zh-CN",
+      "category": "career",
+      "summaryZh": "内容包含可用于求职表达、项目复盘或能力建设的具体线索。面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "面试还没开始，公司先要你的 Token 消耗截图和 GitHub 链接。从内部考核到招聘筛选，Token 用量正成为衡量 AI 能力的硬指标。但刷量、造假、效率倒挂等问题也随之暴露。本文拆解这一现象背后的逻辑，并探讨当面试从看截图变成当场用 AI 做任务时，真正的能力标准是什么。 现在找工作，面试还没开始，公司就先找你要两样东西：一张 Token 消耗截图，一个 GitHub 主页链接。 我带的学员里，好几个都碰到了。要截图的公司什么类型都有，有的要周消耗，有的要月消耗，看你是轻度用户还是中度用户。标准每家都不一样，但结果是一样的，有学员就因为 Token 量不达标，或者干脆太少，在面试前就被卡掉了。 人还没见到，先看你用了多少 AI。 第一次听学员说的时候，我其实没太意外。这件事在公司内部已经走了一年多，现在只是走到了招聘这一步。 这一年多，公司是怎么一步步逼人用 AI 的 最早是表态。 去年春天，Shopify 的 CEO 把一份内部信直接发到了网上，大意是，下意识地用 AI 现在是对每个人的基本要求。AI 用得怎么样写进了绩效，团队想加人，得先证明这活 AI 干不了。 紧接着微软、Duolingo 这些公司也跟上了，说法都差不多，用 AI 不再是可选项。 最狠的是 Coinbase。CEO 要求所有工程师一周之内开通 AI 编程工具，到了周六开会，几个没开通、也说不出理由的人，直接被开了。他自己事后也承认，这做法是有点粗暴。 然后是排行榜。 今年上半年，几家大厂开始在内部数 Token。亚马逊给开发者定了每周用 AI 的目标，还在内部排行榜上统计每个人的 Token 消耗。Meta 有人搞了个 Token 排行榜，挂出前 250 名，还发“Token 传奇”这种徽章。 榜上第一名，一个人 30 天用了 2810 亿 Token。 卧槽，看到这个数我是真愣了一下。我自己每天用 Claude Code 写书、写文章，已经算用得很多的了，跟这个比完全不是一个量级。 国内也差不多是这个节奏。 我之前在昆仑万维。今年 1 月，公司就要求内部按 AI 来考核：设计师必须会用最顶尖的模型，开发团队写代码必须用 Cursor 这类 AI IDE，产品必须会用 AI 画原型。 后来和在大厂的朋友聊，他们公司内部也有 AI 考核，还有硬性的 Token 用量要求，每个人得用够多少。上个月老东家又发了一份内部通知，讲业务调整，里面把 AI 业务写成了公司的重中之重。 小公司就更夸张了。海外有一家只有 10 个人的游戏公司，每个月花在 Token 上的钱，是全员工资的 30 倍。公司里每一块业务，从游戏引擎到财务，都交给一个常驻的 AI agent 管。 从表态、进绩效，到排行榜，再到面试前就要截图，前后也就一年多。公司愿意拿一个数字来筛人，说明这股浪已经很大了，很多公司是真",
+      "keyIdeas": [
+        "核心信号围绕“转 AI 的门槛变了：面试前，公司先看你的 Token 截图”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "转 AI 的门槛变了：面试前，公司先看你的 Token 截图",
+        "career"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "authenticity": 4.4,
+        "specificity": 4.3,
+        "transferability": 4.2,
+        "personalRelevance": 4.1,
+        "insightDensity": 4.1,
+        "novelty": 4.3
+      },
+      "finalScore": 84.8,
+      "preRankingScore": 65.87,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "e1e6ba62bc2e88",
+      "title": "AI and the Future of the Product Role",
+      "titleZh": "AI and the Future of the Product Role",
+      "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
+      "author": "Marty Cagan",
+      "source": "Silicon Valley Product Group",
+      "publishedAt": "2026-11-06T01:02:22Z",
+      "discoveredAt": "2026-11-09T02:24:55Z",
+      "language": "en",
+      "category": "product-insight",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies. This has always been true, in no small part due to inheriting the job title... The post AI and the Future of the Product Role appeared first on Silicon Valley Product Group .",
+      "keyIdeas": [
+        "核心信号围绕“AI and the Future of the Product Role”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "AI and the Future of the Product Role",
+        "product-insight"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "insightDensity": 4.4,
+        "argumentDepth": 4.3,
+        "evidenceQuality": 4.4,
+        "nonConsensusValue": 3.7,
+        "transferability": 3.6,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 80.4,
+      "preRankingScore": 66.78,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 12,
+      "duplicateSources": []
+    },
+    {
+      "id": "cfd4354afa1400",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "titleZh": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "discoveredAt": "2026-11-09T02:24:54Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "keyIdeas": [
+        "核心信号围绕“Measuring how AI agents handle everyday wet-lab science”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Measuring how AI agents handle everyday wet-lab ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.3,
+        "novelty": 3.6,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 80.4,
+      "preRankingScore": 60.08,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 15,
+      "duplicateSources": []
+    },
+    {
+      "id": "be1ba71e55b7f1",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "titleZh": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-11-06T14:00:48Z",
+      "discoveredAt": "2026-11-09T02:24:54Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“ToyBlocks: A controlled world for robot learning and evaluation”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "ToyBlocks: A controlled world for robot learning",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.1,
+        "novelty": 4.2,
+        "aiProductImpact": 3.3,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 79.2,
+      "preRankingScore": 59.96,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "e4a9449a7dd75f",
+      "title": "资本正在撤离“世界模型”",
+      "titleZh": "资本正在撤离“世界模型”",
+      "url": "https://www.qbitai.com/2026/11/508466.html",
+      "author": "衡宇",
+      "source": "量子位",
+      "publishedAt": "2026-11-08T04:09:55Z",
+      "discoveredAt": "2026-11-09T02:24:56Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。没有永远的夏天",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "没有永远的夏天",
+      "keyIdeas": [
+        "核心信号围绕“资本正在撤离“世界模型””展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "资本正在撤离“世界模型”",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.6,
+        "sourceCredibility": 3.8,
+        "novelty": 4.5,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 79.0,
+      "preRankingScore": 67.84,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "b58fee4edbbb5f",
+      "title": "Australian universities are creating AI-native graduates",
+      "titleZh": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-05T17:00:00Z",
+      "discoveredAt": "2026-11-09T02:24:54Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "keyIdeas": [
+        "核心信号围绕“Australian universities are creating AI-native graduates”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Australian universities are creating AI-native g",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.1,
+        "sourceCredibility": 3.6,
+        "novelty": 3.7,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 78.8,
+      "preRankingScore": 59.33,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 12,
+      "duplicateSources": []
+    },
+    {
+      "id": "a55ea9960a4782",
+      "title": "为了去AI味，人类开始主动写烂文章了……",
+      "titleZh": "为了去AI味，人类开始主动写烂文章了……",
+      "url": "https://www.qbitai.com/2026/11/508330.html",
+      "author": "田, 晏林",
+      "source": "量子位",
+      "publishedAt": "2026-11-07T07:59:28Z",
+      "discoveredAt": "2026-11-09T02:24:56Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+      "keyIdeas": [
+        "核心信号围绕“为了去AI味，人类开始主动写烂文章了……”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "为了去AI味，人类开始主动写烂文章了……",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.4,
+        "sourceCredibility": 4.1,
+        "novelty": 4.0,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 78.6,
+      "preRankingScore": 66.23,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
