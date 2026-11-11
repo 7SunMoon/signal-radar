@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T04:30:03Z",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T02:33:48Z",
   "mode": "metadata",
   "stats": {
-    "discovered": 234,
+    "discovered": 235,
     "afterDeduplication": 233,
     "deepReviewed": 40,
     "recommended": 8
@@ -18,7 +18,7 @@
       "author": "",
       "source": "OpenAI News",
       "publishedAt": "2026-11-09T19:00:00Z",
-      "discoveredAt": "2026-11-10T04:29:54Z",
+      "discoveredAt": "2026-11-11T02:33:39Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -42,14 +42,14 @@
         }
       ],
       "scores": {
-        "eventImpact": 4.5,
-        "sourceCredibility": 4.5,
-        "novelty": 3.6,
-        "aiProductImpact": 4.5,
-        "personalRelevance": 4.5
+        "eventImpact": 4.4,
+        "sourceCredibility": 4.4,
+        "novelty": 3.5,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.4
       },
-      "finalScore": 86.4,
-      "preRankingScore": 66.67,
+      "finalScore": 84.4,
+      "preRankingScore": 64.46,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -57,83 +57,41 @@
       "duplicateSources": []
     },
     {
-      "id": "c285729bd1a31e",
-      "title": "端到端加密，也挡不住AI？Personal Agent时代的隐私难题",
-      "titleZh": "端到端加密，也挡不住AI？Personal Agent时代的隐私难题",
-      "url": "https://www.woshipm.com/ai/6491329.html",
-      "author": "数智奔流",
+      "id": "84ae62bda80c45",
+      "title": "双十一还没开始，一些店铺先退场了",
+      "titleZh": "双十一还没开始，一些店铺先退场了",
+      "url": "https://www.woshipm.com/it/6491911.html",
+      "author": "熊出墨请注意",
       "source": "人人都是产品经理",
-      "publishedAt": "2026-11-10T03:12:45Z",
-      "discoveredAt": "2026-11-10T04:29:56Z",
+      "publishedAt": "2026-11-11T01:47:00Z",
+      "discoveredAt": "2026-11-11T02:33:41Z",
       "language": "zh-CN",
       "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。当AI助手获得系统级权限，你的加密聊天可能已被截屏分析。Signal总裁Meredith Whittaker警告，独立应用保护隐私的能力正在被彻底消除。从Meta Muse擅自读取短信到Siri持续监听日常对话，AI的“贴心”背后是隐私的悄然流失。本文深入探讨AI时代隐私保护的新难题，揭示个人选择之外的系统性风险。 你正在社交软件和朋友聊天，讨论一些不希望第三个人知道的事情。 但如果电脑上还运行着一个能获取屏幕访问权限的AI助手，它可能已经截取了聊天窗口，识别出对话内容，将它发给远程服务器分析。你没有把聊天记录交给AI，甚至不知道它看过这些消息。 保护私人信息的责任已经超出通信应用本身。应用开发者能否决定自己的数据向AI开放，成为了新的隐私保护难题。 在《Machine Gods》10月28日一期节目中，主持人",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。11 月的第一个上午，双十一已经卖了半个多月，圆圆的淘宝直播间照旧开播——但这是最后一场。规则叠得越来越复杂，流量成本压到链条上最没议价能力的那一环；八年、三个国家、三个店铺，杨哥只留了一个直播间。 11月的第一个上午，双十一已经卖了半个多月。圆圆的淘宝直播间开播了。 镜头里没有挂链接。只有两个人，老板杨哥在说话，主播圆圆在旁边抹眼泪。 杨哥对着屏幕说，今天这场不卖货，就是想和姐妹们聊聊天。头一回这么播。 圆圆一直没抬头。杨哥说，本来打算自己一个人讲完，“但是我看圆圆已经泣不成声了”。 他念了一句公屏上的话：一个衣柜里都是我们家的衣服。 圆圆接过来：衣柜放不下，又买了一个衣柜。这都有的。 还有人打了四个字，讲不出再见。圆圆念完，问了一句，是不是有首粤语歌就叫这个名字。 这家店开了八年，卖香云纱和新中式，客单价8",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "当AI助手获得系统级权限，你的加密聊天可能已被截屏分析。Signal总裁Meredith Whittaker警告，独立应用保护隐私的能力正在被彻底消除。从Meta Muse擅自读取短信到Siri持续监听日常对话，AI的“贴心”背后是隐私的悄然流失。本文深入探讨AI时代隐私保护的新难题，揭示个人选择之外的系统性风险。 你正在社交软件和朋友聊天，讨论一些不希望第三个人知道的事情。 但如果电脑上还运行着一个能获取屏幕访问权限的AI助手，它可能已经截取了聊天窗口，识别出对话内容，将它发给远程服务器分析。你没有把聊天记录交给AI，甚至不知道它看过这些消息。 保护私人信息的责任已经超出通信应用本身。应用开发者能否决定自己的数据向AI开放，成为了新的隐私保护难题。 在《Machine Gods》10月28日一期节目中，主持人围绕这一话题展开讨论。 访谈嘉宾Meredith Whittaker提到， “独立应用开发者提供隐私保护的可能性在被彻底消除。” 在她看来AI获得了操作系统层面的访问权限，能截屏、读数据，甚至提取原本受到加密保护的私人通信内容。 对于类似Signal这样的加密通信应用来说，这意味着它逐渐失去了保护用户隐私的能力。 01 不用Muse的潜在受害者 主持人Casey Newton的朋友曾收到一名AI实验室工作人员的警告：“如果你的电脑上安装了AI，就不要在电脑上打开Signal和我聊天。” Signal应用采用端到端加密，消息只有双方才能读取。但如果你在Signal上和某个人聊天，而对方正在使用AI，那么这个AI可能知道一些过去因为Signal加密保护而无人能知晓的对话内容。另一位主持人Kevin Roose解释道。 现在越来越多的AI能操作手机和电脑，还能获得广泛的数据访问权限。对Signal来说，即便消息完成加密传输，应用也无法阻止AI读取内容和数据，甚至从应用数据库中提取信息，生成AI摘要。 在普通用户眼里，这只是一次再寻常不过的交互，他们很难意识到屏幕截图、文字提取和数据传输已经在后台发生。 Meredith说，旧金山到处都有Meta Muse的广告，广告商把它宣传成一个贴心的个人助手，但“它没说Muse能访问你所有的联系人、能查看你所有的信息，它还显然在为你的联系人建立档案，记录你如何、何时与他们通信，无论是通过邮件、短信，还是Signal。” 据《The Verge》调查报道，有用户发现，Muse读取了他们认为自己并未授权访问的大量私人短信。但Muse提出异议，称读取Mac上的Messages信息需要用户授予完全磁盘访问权限，并启用相应的消息连接器。 一位科技测评者曾经让Muse帮自己在二手平台上出售一把旧键盘，他此前向Muse提供了收货地址，选择“始终允许”AI代为回复买家。没想到，Muse擅自接受了买家的最低报价，还把他的家庭住址告诉了对方",
+      "sourceSnippet": "11 月的第一个上午，双十一已经卖了半个多月，圆圆的淘宝直播间照旧开播——但这是最后一场。规则叠得越来越复杂，流量成本压到链条上最没议价能力的那一环；八年、三个国家、三个店铺，杨哥只留了一个直播间。 11月的第一个上午，双十一已经卖了半个多月。圆圆的淘宝直播间开播了。 镜头里没有挂链接。只有两个人，老板杨哥在说话，主播圆圆在旁边抹眼泪。 杨哥对着屏幕说，今天这场不卖货，就是想和姐妹们聊聊天。头一回这么播。 圆圆一直没抬头。杨哥说，本来打算自己一个人讲完，“但是我看圆圆已经泣不成声了”。 他念了一句公屏上的话：一个衣柜里都是我们家的衣服。 圆圆接过来：衣柜放不下，又买了一个衣柜。这都有的。 还有人打了四个字，讲不出再见。圆圆念完，问了一句，是不是有首粤语歌就叫这个名字。 这家店开了八年，卖香云纱和新中式，客单价800元以上。两个平台，三个直播间。这场直播之前，他们决定关掉两个。 留下的那个，一个主播加一个中控，卖库存，上新降到最低，体量做小。关掉的两个，员工全部离开镜头，转去河南南阳的线下门店。 杨哥是老板，也是拍板的人。他说这个决定挣扎了很久。他是个要强的人，关掉在他这里等于失败。 不投流的时候，实时在线常年30人上下。一场播4个小时，累计观看200出头。 这场不卖货的直播，一分钱没投。开播26分钟，杨哥说，累计观看已经远远高过日常一整场。公屏一直在滚，他一条也没回。 “我真的回不过来。” 一 倍率，服装行业的行话，零售价除以拿货成本。 同行大概1.6，这是厂家告诉他的。他们自己1.3到1.4，个别款还不到1.2。 500元的货，同行卖800，他们卖650到700。 “我们原来300拿的货，卖350、398。现在300拿的，你让我卖400、450、498，我做不到。” 有厂家跟他说过一句话：你们这个拿货价，放到深圳，任何一个主播早都做起来了。 还有一位合作伙伴说得更直接，说他把自己的路堵死了。 杨哥没有改。确切地说，是他也不敢改。 平台现在的规则是，顾客在直播间下单之后，系统会自动推荐同款。你卖得贵，单子刚下完，平台就把同样的款推过去，可能还更便宜。订单一转眼就退了。 “所以大家只能把价格往下压。” 投流是从前年开始的。在那之前不用投，一场直播在线一二百人。 杨哥做香云纱，比投流要早好几年，那是直播电商刚起势的时候。他记得很清楚，整个淘宝做香云纱直播的商家不超过50家。那时候进来的人，就是奔着香云纱来的，平台不抽成，也不用买流量。 后来商家越来越多，进来的人不再只奔着你一家。流量成了要抢的东西。抢，就得花钱。 今天这场，恰好反过来。一分钱没投，人最多。 二 有人在公屏上问过他，你们做直播，房租又不贵，人工又不贵，最大的成本在哪。 他说，投流，还有税。 深圳做服装电商的滕掌柜算了这样一笔账：一件成本100元的女装到了电商平台得卖到300元左右商家才有利润，为什",
       "keyIdeas": [
-        "核心信号围绕“端到端加密，也挡不住AI？Personal Agent时代的隐私难题”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“双十一还没开始，一些店铺先退场了”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "端到端加密，也挡不住AI？Personal Agent时代的隐私难题",
+        "双十一还没开始，一些店铺先退场了",
         "product-insight"
       ],
       "importantTerms": [],
       "scores": {
-        "insightDensity": 4.4,
-        "argumentDepth": 4.3,
-        "evidenceQuality": 4.1,
-        "nonConsensusValue": 4.5,
+        "insightDensity": 3.5,
+        "argumentDepth": 4.5,
+        "evidenceQuality": 4.4,
+        "nonConsensusValue": 4.0,
         "transferability": 4.2,
-        "personalRelevance": 4.2
+        "personalRelevance": 4.1
       },
-      "finalScore": 85.8,
-      "preRankingScore": 74.87,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
-      "duplicateSources": []
-    },
-    {
-      "id": "0a290d1e2c5ba5",
-      "title": "实测Claude Fable 5.2 – 审美与细节的绝对统治。",
-      "titleZh": "实测Claude Fable 5.2 – 审美与细节的绝对统治。",
-      "url": "https://www.woshipm.com/ai/6491521.html",
-      "author": "数字生命卡兹克",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-11-10T02:55:57Z",
-      "discoveredAt": "2026-11-10T04:29:56Z",
-      "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。凌晨三点 Claude Fable 5.2 正式发布，20 美元的 Pro 会员这一周也能用上。作者用十个任务烧掉近四分之一额度：仿 Apple 静安店的 3D 网页、一小时生成的视觉短片，把静态帧一帧帧看下来，审美与细节仍是最硬的地方。 大半夜的，没等来GPT-6.2 Sol，刚准备睡。 然后，AIHOT小助手在飞书群里啪的一下给我弹了个消息。 好的，这下不用睡了。 凌晨3点，Claude终于正式发布了Claude Fable 5.2。 与此同时，OpenAI今晚正在卖200刀的掌机。 叫你上周不发GPT-6.2 Sol，明明口碑那么好，这下不尴尬了吗。。。 目前Claude Fable 5.2已经在全渠道正式上线，我的Claude桌面端里，已经能看到了。 同时，这一次Anthropic也给20刀的Pro会员",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "凌晨三点 Claude Fable 5.2 正式发布，20 美元的 Pro 会员这一周也能用上。作者用十个任务烧掉近四分之一额度：仿 Apple 静安店的 3D 网页、一小时生成的视觉短片，把静态帧一帧帧看下来，审美与细节仍是最硬的地方。 大半夜的，没等来GPT-6.2 Sol，刚准备睡。 然后，AIHOT小助手在飞书群里啪的一下给我弹了个消息。 好的，这下不用睡了。 凌晨3点，Claude终于正式发布了Claude Fable 5.2。 与此同时，OpenAI今晚正在卖200刀的掌机。 叫你上周不发GPT-6.2 Sol，明明口碑那么好，这下不尴尬了吗。。。 目前Claude Fable 5.2已经在全渠道正式上线，我的Claude桌面端里，已经能看到了。 同时，这一次Anthropic也给20刀的Pro会员开放了Fable 5.2的临时使用权限，不过只限这一周。 同时也为Claude的200刀的Ultra订阅用户，送上了一次Fable的额度重置机会，根据订阅时间来，并且有效期一直到明年的3月8号，讲道理，A\\在有些时候，还是怪良心的。。。 我也收到了。 这里大家可以记一下我的额度剩余，我是200刀的Ultra会员，在使用Claude Fable 5.2测试之前，我的额度还剩30%。 还是非常开心，在爽用了近一个半月的Claude Opus 5.5之后，终于等来了新的Fable模型，只不过不是传言中的Claude Fable 5.5，Anthropic给它命名成了Claude Fable 5.2。 这个其实也正常，最早是9月9号，就有人爆料说Anthropic在跑一个新模型，当时给出的临时代号，还真就叫Fable 5.2，但后来Opus 5.5、Sonnet 5.5一个个都出来了，大家很自然就顺着往下推，下一个Fable，那肯定也得叫5.5吧，结果最后是5.2，所以大概率Anthropic还藏着一手更强的Fable 5.5。 先看一下Fable 5.2的基本情况。 Claude Fable 5.2依然拥有1M，也就是100万Token上下文，最大输出128K Token，知识截止时间到了2026年6月。 价格这次反而走了降价风，现在大家也都知道，Token太贵了，已经超出全人类的接受范围了，所以涨价潮过去，现在也都开始在不断降价了。 Fable 5.1原来是每百万Token输入10美元、输出50美元。 Fable 5.2变成，输入8美元，输出40美元，缓存也差不多，整体降价了20%。 几个Anthropic家的主力模型价格对比，大概是这样的。 然后在速度上也快了一些，官方说是比Fable 5.1最多快了30%，没有特别多，只能说聊胜于无吧。 然后就是被误伤的次数少了，Fable那套安全护栏一直被人诟病，6月刚出的时候很多人就在骂，说它把生物作业都当成安全威",
-      "keyIdeas": [
-        "核心信号围绕“实测Claude Fable 5.2 – 审美与细节的绝对统治。”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "实测Claude Fable 5.2 – 审美与细节的绝对统治。",
-        "product-insight"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "insightDensity": 4.5,
-        "argumentDepth": 4.3,
-        "evidenceQuality": 4.1,
-        "nonConsensusValue": 3.7,
-        "transferability": 4.5,
-        "personalRelevance": 4.3
-      },
-      "finalScore": 85.0,
-      "preRankingScore": 74.84,
+      "finalScore": 82.1,
+      "preRankingScore": 74.92,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -141,64 +99,56 @@
       "duplicateSources": []
     },
     {
-      "id": "feb2ba2115590a",
-      "title": "Muse Ember: Our smallest, most efficient model",
-      "titleZh": "Muse Ember: Our smallest, most efficient model",
-      "url": "https://research.meta.ai/blog/muse-ember",
-      "author": "dvaplima",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-09T17:58:46Z",
-      "discoveredAt": "2026-11-10T04:29:55Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "id": "9dad48090f8b40",
+      "title": "用WorkBuddy从零复刻一条完整爆款视频",
+      "titleZh": "用WorkBuddy从零复刻一条完整爆款视频",
+      "url": "https://www.woshipm.com/ai/6491798.html",
+      "author": "虾蛄AI",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-10T10:55:55Z",
+      "discoveredAt": "2026-11-11T02:33:41Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。刷到一条带货视频想照着拍，真人出镜、镜头设计、日更节奏样样费时间。于是把两条原片交给 AI，让它自己拆结构、找素材、调配生成模型，折腾几轮真做出了成片。这篇记录了从找参考到出片的完整流程，以及中途踩过的坑。 刷到一条不错的带货视频，最容易想到的就是照着这个拍法，换件商品再做一条。 搞笑短视频、每天更新的趣味栏目也差不多，只要找到一种受欢迎的视频形式，后面就能继续换素材、换台词，做出更多同类型的视频。 不过，照着拍一条视频并没有那么轻松。真人出镜需要安排，镜头和动作也要提前设计，如果打算日更多条，每条视频都重新制作，确实挺费时间的。 于是小编干脆想偷个懒，找了两条视频交给AI，试试看它能照着原片复刻到什么程度。 原视频 先试了一条美妆口播视频，女生一边化妆，一边对着镜头介绍粉底液。没想到折腾几轮之后，还真做出了一",
       "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "刷到一条带货视频想照着拍，真人出镜、镜头设计、日更节奏样样费时间。于是把两条原片交给 AI，让它自己拆结构、找素材、调配生成模型，折腾几轮真做出了成片。这篇记录了从找参考到出片的完整流程，以及中途踩过的坑。 刷到一条不错的带货视频，最容易想到的就是照着这个拍法，换件商品再做一条。 搞笑短视频、每天更新的趣味栏目也差不多，只要找到一种受欢迎的视频形式，后面就能继续换素材、换台词，做出更多同类型的视频。 不过，照着拍一条视频并没有那么轻松。真人出镜需要安排，镜头和动作也要提前设计，如果打算日更多条，每条视频都重新制作，确实挺费时间的。 于是小编干脆想偷个懒，找了两条视频交给AI，试试看它能照着原片复刻到什么程度。 原视频 先试了一条美妆口播视频，女生一边化妆，一边对着镜头介绍粉底液。没想到折腾几轮之后，还真做出了一条40秒左右的成片。 接着又试了个更难的街头采访视频。 原视频 夜晚的街道上，男生拿着麦克风采访女生，两个人一问一答，连字幕里的部分单词也会跟着变色。 而做出这样效果的组合正是WorkBuddy + Hypit。 其中WorkBuddy负责听懂要求，分析参考视频并执行任务，Hypit则是一个Github上开源的视频制作项目，可以把镜头、声音、字幕等内容写进可编辑的工作流，最后编译成完整视频。 图片和视频片段则由配置好的生成模型提供。 初稿做完之后还能慢慢调整，要是少了镜头，或是字幕对不上，不用全部重新生成碰运气，让WorkBuddy找到出问题的片段单独处理就行。 想自己试的话，准备工作也没有想象中的复杂：打开WorkBuddy，新建一个任务文件夹，将要参考的视频存进去。 然后把Hypit项目地址发给WorkBuddy，请它帮忙安装视频制作技能，同时检查Node.js、FFmpeg等配置是否可用，当然没有的话也会自动帮你下载安装。 或者也可以直接将这条安装命令交给它执行：npx skills add hypit-ai/hypit -g 安装后先别急着生成，最好让WorkBuddy检查环境和技能是否可用，再确认图片、视频模型已经配置好。 Hypit负责组织和编译视频，生成新素材仍然需要调用模型服务，具体费用取决于所选模型。 这里可以先做几秒测试片段，效果满意再做完整视频，省得反复重来。 接下来就可以试试第一条美妆视频了，原片大约38秒，竖屏拍摄，女生坐在室内对着镜头说话。 她先用粉色发夹固定头发，随后举起粉底液，拿刷子化妆，期间还穿插了皮肤特写，最后又展示了一个古铜粉盘，整体很像随手拍出来的日常分享。 为了尽量还原视频效果，先让WorkBuddy分析整条视频，整理人物外貌、服装、道具、镜头顺序、每段时长以及字幕。 这里有个小经验，先让它交分镜表，再让它动手生成。这样可以提前检查镜头有没有遗漏，避免后面花了视频生成额度，还得重新制作。 给 WorkBuddy",
       "keyIdeas": [
-        "核心信号围绕“Muse Ember: Our smallest, most efficient model”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“用WorkBuddy从零复刻一条完整爆款视频”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Muse Ember: Our smallest, most efficient model",
-        "ai-news"
+        "用WorkBuddy从零复刻一条完整爆款视频",
+        "product-insight"
       ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
+      "importantTerms": [],
       "scores": {
-        "eventImpact": 4.5,
-        "sourceCredibility": 3.9,
-        "novelty": 4.2,
-        "aiProductImpact": 4.5,
-        "personalRelevance": 3.5
+        "insightDensity": 3.9,
+        "argumentDepth": 4.1,
+        "evidenceQuality": 3.7,
+        "nonConsensusValue": 3.9,
+        "transferability": 4.5,
+        "personalRelevance": 4.4
       },
-      "finalScore": 84.4,
-      "preRankingScore": 78.95,
+      "finalScore": 81.5,
+      "preRankingScore": 73.44,
       "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 266,
-        "comments": 111,
-        "hnUrl": "https://news.ycombinator.com/item?id=50429024"
-      },
+      "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 8,
+      "estimatedReadingMinutes": 2,
       "duplicateSources": []
     },
     {
-      "id": "7b1451fc786c34",
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "titleZh": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "author": "",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-11-09T12:34:29Z",
-      "discoveredAt": "2026-11-10T04:29:54Z",
+      "id": "c0a7d49575128b",
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "titleZh": "LLMs Play Zachtronics' TIS-100",
+      "url": "https://tis-100.wincon.dev/",
+      "author": "fairestvalue",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T00:37:05Z",
+      "discoveredAt": "2026-11-11T02:33:40Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -206,13 +156,13 @@
       "translationStatus": "pending",
       "sourceSnippet": "",
       "keyIdeas": [
-        "核心信号围绕“Your Experts Have Partners. There's HOPE for Keeping Them Together”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“LLMs Play Zachtronics' TIS-100”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Your Experts Have Partners. There's HOPE for Kee",
+        "LLMs Play Zachtronics' TIS-100",
         "ai-news"
       ],
       "importantTerms": [
@@ -222,43 +172,47 @@
         }
       ],
       "scores": {
-        "eventImpact": 4.1,
-        "sourceCredibility": 4.3,
-        "novelty": 4.1,
-        "aiProductImpact": 4.4,
-        "personalRelevance": 3.3
+        "eventImpact": 3.7,
+        "sourceCredibility": 3.9,
+        "novelty": 4.4,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 4.4
       },
-      "finalScore": 82.4,
-      "preRankingScore": 64.41,
+      "finalScore": 81.0,
+      "preRankingScore": 63.36,
       "readingTier": "worth-reading",
-      "socialSignals": {},
+      "socialSignals": {
+        "points": 11,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50448340"
+      },
       "contentAvailability": "full",
       "estimatedReadingMinutes": 16,
       "duplicateSources": []
     },
     {
-      "id": "cfd4354afa1400",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "titleZh": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "author": "",
-      "source": "OpenAI News",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "discoveredAt": "2026-11-10T04:29:54Z",
+      "id": "7da1b2b4758f61",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "titleZh": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "author": "Carolina Parada",
+      "source": "Google DeepMind Blog",
+      "publishedAt": "2026-11-09T19:51:47Z",
+      "discoveredAt": "2026-11-11T02:33:39Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
       "translationStatus": "pending",
-      "sourceSnippet": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "sourceSnippet": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
       "keyIdeas": [
-        "核心信号围绕“Measuring how AI agents handle everyday wet-lab science”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Gemini Robotics 2.5 accelerates real-world general dexterity”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Measuring how AI agents handle everyday wet-lab ",
+        "Gemini Robotics 2.5 accelerates real-world gener",
         "ai-news"
       ],
       "importantTerms": [
@@ -268,55 +222,96 @@
         }
       ],
       "scores": {
-        "eventImpact": 3.8,
-        "sourceCredibility": 4.3,
-        "novelty": 3.6,
-        "aiProductImpact": 4.3,
-        "personalRelevance": 4.4
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.2,
+        "novelty": 3.3,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 4.1
       },
       "finalScore": 80.4,
-      "preRankingScore": 57.47,
-      "readingTier": "signal",
+      "preRankingScore": 63.88,
+      "readingTier": "worth-reading",
       "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 15,
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
       "duplicateSources": []
     },
     {
-      "id": "9f03cf341cd964",
-      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
-      "titleZh": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
-      "url": "https://www.qbitai.com/2026/11/508694.html",
+      "id": "ecb9cbad4ada75",
+      "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+      "titleZh": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+      "url": "https://www.qbitai.com/2026/11/508991.html",
       "author": "量子位的朋友们",
       "source": "量子位",
-      "publishedAt": "2026-11-09T08:34:03Z",
-      "discoveredAt": "2026-11-10T04:29:55Z",
+      "publishedAt": "2026-11-10T07:50:26Z",
+      "discoveredAt": "2026-11-11T02:33:40Z",
       "language": "zh-CN",
       "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。11月9日，千问办公发布2.0版本",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。TensorWorld物原科技在一个月内已拿到过亿美元融资",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "11月9日，千问办公发布2.0版本",
+      "sourceSnippet": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
       "keyIdeas": [
-        "核心信号围绕“千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+        "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
         "ai-news"
       ],
       "importantTerms": [],
       "scores": {
-        "eventImpact": 4.0,
-        "sourceCredibility": 4.0,
-        "novelty": 3.7,
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.7,
+        "novelty": 4.2,
         "aiProductImpact": 3.6,
-        "personalRelevance": 4.3
+        "personalRelevance": 4.4
       },
-      "finalScore": 77.8,
-      "preRankingScore": 68.18,
+      "finalScore": 81.2,
+      "preRankingScore": 68.42,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "518bcaaf998983",
+      "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+      "titleZh": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+      "url": "https://www.qbitai.com/2026/11/508985.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-10T07:33:19Z",
+      "discoveredAt": "2026-11-11T02:33:40Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。加速东部城市型智算中心向E-AIDC演进",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "加速东部城市型智算中心向E-AIDC演进",
+      "keyIdeas": [
+        "核心信号围绕“达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.9,
+        "sourceCredibility": 3.7,
+        "novelty": 4.1,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 80.0,
+      "preRankingScore": 68.3,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -324,44 +319,53 @@
       "duplicateSources": []
     },
     {
-      "id": "d51ea73e96c244",
-      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-      "titleZh": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-      "url": "https://www.qbitai.com/2026/11/507843.html",
-      "author": "闻乐",
-      "source": "量子位",
-      "publishedAt": "2026-11-09T08:44:00Z",
-      "discoveredAt": "2026-11-10T04:29:55Z",
-      "language": "zh-CN",
+      "id": "5175b6a2b76575",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "titleZh": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "author": "paulirish",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-10T18:01:15Z",
+      "discoveredAt": "2026-11-11T02:33:40Z",
+      "language": "en",
       "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。腾讯这次上来根本不跟你客气，态度就明晃晃写在脸上： 跻身最强开源模型之列 。 770B总参数、49B激活参数， 首次引入原生视觉能力、首次支持电脑操作 。 指令遵循、长文理解和长程Agent能力也一起升级 ，电脑操作、长程Agent任务都挤进了开源阵营前排。 从preview到正式版，Hy4显著扩展了预训练和后训练的数据与训练规模，甚至还直接跑去跟一线业务搞起了“Co-Design”联合打磨。 我就先在WorkBuddy里给它出了个难题：给我搓一把完全可交互的3D机械键盘出来。 75%配列、84键，键帽、轴体、定位板、PCB、电池和外壳，六层结构都安排上了。 鼠标拽着能原地炸开看内部做工，装回去还能直接上手敲，连按键下压、弹簧受力回弹的物理动效都给你算进去了。 Hy4已经在腾讯云TokenHub、WorkBud",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0]) Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent +JS based pattern. We started an effort in Chrome to supplement coding agents with this key domain knowledge and we're shipping our 1.0 today, in collaboration with Firefox, MDN, and Edge. 200+ guides (~1.7MB) of curated, hand-crafted implementation best-practices from web experts, updated as the web evolves. (Open source, obv, so.. we'll welcome your bikeshedding ;) Readable versions here: [1] I've spent the last 9 months obsessing over how to ship this as an agent skill + (Agentic RAG) CLI without blowing up your context window. (Or cedeing activation mechanics to MCP dynamic tool search). The skill description is minmaxed for activating on relevant frontend tasks. The RAG work I'm pretty proud of… originally a 500mb",
       "keyIdeas": [
-        "核心信号围绕“腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+        "Show HN: Get your coding agent off ~2019 JavaScr",
         "ai-news"
       ],
-      "importantTerms": [],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
       "scores": {
-        "eventImpact": 3.9,
-        "sourceCredibility": 3.5,
-        "novelty": 3.4,
-        "aiProductImpact": 4.5,
-        "personalRelevance": 3.7
+        "eventImpact": 3.6,
+        "sourceCredibility": 4.0,
+        "novelty": 4.4,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 3.9
       },
-      "finalScore": 76.4,
-      "preRankingScore": 68.02,
+      "finalScore": 79.8,
+      "preRankingScore": 90.43,
       "readingTier": "signal",
-      "socialSignals": {},
+      "socialSignals": {
+        "points": 273,
+        "comments": 79,
+        "hnUrl": "https://news.ycombinator.com/item?id=50443812"
+      },
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 4,
+      "estimatedReadingMinutes": 22,
       "duplicateSources": []
     }
   ],
