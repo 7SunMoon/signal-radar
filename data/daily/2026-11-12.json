@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T03:38:51Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 234,
+    "afterDeduplication": 233,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "1deffd8f09a3df",
+      "title": "上海造、香港连，中国AI加速走向全球",
+      "titleZh": "上海造、香港连，中国AI加速走向全球",
+      "url": "https://www.qbitai.com/2026/11/509214.html",
+      "author": "思邈",
+      "source": "量子位",
+      "publishedAt": "2026-11-11T12:22:34Z",
+      "discoveredAt": "2026-11-12T03:38:42Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。WAIC把中国AI的年度日历排满了",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "WAIC把中国AI的年度日历排满了",
+      "keyIdeas": [
+        "核心信号围绕“上海造、香港连，中国AI加速走向全球”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "上海造、香港连，中国AI加速走向全球",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.3,
+        "novelty": 4.2,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 84.8,
+      "preRankingScore": 68.64,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "77d255b4e9ac58",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "titleZh": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "author": "linolevan",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-10T21:25:03Z",
+      "discoveredAt": "2026-11-12T03:38:42Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Apple has new Mac app coming to make running local AI models easy”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Apple has new Mac app coming to make running loc",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 3.8,
+        "novelty": 4.5,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 84.6,
+      "preRankingScore": 77.98,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 520,
+        "comments": 528,
+        "hnUrl": "https://news.ycombinator.com/item?id=50446520"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "3f67f7d15115ea",
+      "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+      "titleZh": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+      "url": "https://www.qbitai.com/2026/11/509281.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-12T01:45:04Z",
+      "discoveredAt": "2026-11-12T03:38:42Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
+      "keyIdeas": [
+        "核心信号围绕““双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.4,
+        "novelty": 3.7,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 84.2,
+      "preRankingScore": 70.21,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "71cb7085c61894",
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "titleZh": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "url": "https://news.ycombinator.com/item?id=50455811",
+      "author": "alanjm23",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T17:11:56Z",
+      "discoveredAt": "2026-11-12T03:38:42Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Hi HN, we’re Alan and Akshay from Pomerado ( https://pomerado.ai/ ). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve. Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airlines, banks, e-commerce, insurance portals, government sites, and legacy portals all lack APIs or MCPs and are common parts of personal assistant or business workflows. Agents instead rely on browser automation or computer use, which can be slow, expensive, and unreliable. And even if computer use were perfect, most companies have banned it out of security and compliance concerns. We discovered this problem while tinkering with our own personal assistants. When OpenClaw came out, we wanted to “live our lives through our agents” and have them do everything for us. We soon found their usefulness was restricted by what tools they could connect to. For example, when trying to book flights, they fell back on computer use, which failed to checkout. These issues got magnified on repeated workflows, like searching many airlines at once. Pomerado started off as a project to improve these person",
+      "keyIdeas": [
+        "核心信号围绕“Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Launch HN: Pomerado (YC F26) – Turn any website ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.9,
+        "sourceCredibility": 4.2,
+        "novelty": 4.3,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 83.4,
+      "preRankingScore": 77.84,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 51,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=50455811"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "8c999d6885d247",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "titleZh": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "discoveredAt": "2026-11-12T03:38:41Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "keyIdeas": [
+        "核心信号围绕“JioStar’s chief architect on AI discovery at 500M-user scale”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "JioStar’s chief architect on AI discovery at 500",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.2,
+        "novelty": 4.3,
+        "aiProductImpact": 3.7,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 81.6,
+      "preRankingScore": 64.6,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "8d8bc38f54a7d3",
+      "title": "My AI agents found an unmapped Maya site?",
+      "titleZh": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "author": "eyvindn",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T12:05:22Z",
+      "discoveredAt": "2026-11-12T03:38:42Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“My AI agents found an unmapped Maya site?”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "My AI agents found an unmapped Maya site?",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.3,
+        "novelty": 3.8,
+        "aiProductImpact": 4.6,
+        "personalRelevance": 3.6
+      },
+      "finalScore": 83.2,
+      "preRankingScore": 79.44,
+      "readingTier": "signal",
+      "socialSignals": {
+        "points": 941,
+        "comments": 340,
+        "hnUrl": "https://news.ycombinator.com/item?id=50452455"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "e782a3450920d3",
+      "title": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了",
+      "titleZh": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了",
+      "url": "https://www.qbitai.com/2026/11/509203.html",
+      "author": "Jay",
+      "source": "量子位",
+      "publishedAt": "2026-11-11T09:58:49Z",
+      "discoveredAt": "2026-11-12T03:38:42Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。复刻一个物理世界",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "复刻一个物理世界",
+      "keyIdeas": [
+        "核心信号围绕“机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 3.8,
+        "novelty": 4.1,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.4
+      },
+      "finalScore": 81.4,
+      "preRankingScore": 68.31,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 17,
+      "duplicateSources": []
+    },
+    {
+      "id": "bc334f28ad5c1e",
+      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "titleZh": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "url": "https://www.qbitai.com/2026/11/509085.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-11T06:18:09Z",
+      "discoveredAt": "2026-11-12T03:38:42Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+      "keyIdeas": [
+        "核心信号围绕“卷起来了！11月11日，大模型厂商在天猫打5折”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "卷起来了！11月11日，大模型厂商在天猫打5折",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.1,
+        "novelty": 4.1,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 3.8
+      },
+      "finalScore": 79.6,
+      "preRankingScore": 68.25,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
