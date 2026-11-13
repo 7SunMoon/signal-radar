@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T03:10:56Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 235,
+    "afterDeduplication": 234,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "6d0867bf13789c",
+      "title": "本地生活：搜索产生竞争，竞争带来付费",
+      "titleZh": "本地生活：搜索产生竞争，竞争带来付费",
+      "url": "https://www.woshipm.com/it/6493242.html",
+      "author": "陈罡Pro",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-13T03:02:52Z",
+      "discoveredAt": "2026-11-13T03:10:47Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。用户主动搜索，流量就天然属于商家吗？陈导用洗车这个例子拆开一对多与一对一两种搜索场景：曝光靠付费争取，成交靠门店基建承接，平台真正卖的不是流量，而是需求分配入口里的竞争机会。 既然说抖音开始为自然流标价，那用户主动搜索产生的流量怎么算？用户本来就有消费需求，自己打开抖音搜索，对于商家来说，这部分流量难道不应该是免费的吗？ 这种理解逻辑是不对的。 用户主动产生搜索需求，并不代表某个商家就天然拥有了这部分流量。 今天继续聊抖音的流量商业化，从搜索背后的竞争关系，看看平台是如何将用户需求转化为商业价值的。 1/ 用户主动搜索，不代表搜索流量就属于你。 我们先理解两种搜索场景，一种是一对多，另一种是一对一，最大的区别在于用户有没有明确的品牌选择。 先说一对多。 用户有确定性的消费需求，但周围存在多个能够提供相同服务的商",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "用户主动搜索，流量就天然属于商家吗？陈导用洗车这个例子拆开一对多与一对一两种搜索场景：曝光靠付费争取，成交靠门店基建承接，平台真正卖的不是流量，而是需求分配入口里的竞争机会。 既然说抖音开始为自然流标价，那用户主动搜索产生的流量怎么算？用户本来就有消费需求，自己打开抖音搜索，对于商家来说，这部分流量难道不应该是免费的吗？ 这种理解逻辑是不对的。 用户主动产生搜索需求，并不代表某个商家就天然拥有了这部分流量。 今天继续聊抖音的流量商业化，从搜索背后的竞争关系，看看平台是如何将用户需求转化为商业价值的。 1/ 用户主动搜索，不代表搜索流量就属于你。 我们先理解两种搜索场景，一种是一对多，另一种是一对一，最大的区别在于用户有没有明确的品牌选择。 先说一对多。 用户有确定性的消费需求，但周围存在多个能够提供相同服务的商家，例如搜索洗车、美甲、按摩，或者某个具体问题的解决方法，这类搜索通常属于有品类、无品牌的场景。 假设用户搜索洗车，周围有10家门店能够提供服务，一个用户对应10家潜在商家，大家都希望拿到这个订单，但问题在于，用户为什么要选择你？ 对商家来说，用户有需求不代表订单就属于自己，因为在用户没有明确选择某个品牌或门店之前，所有符合条件的商家都存在竞争机会。 2/ 搜索排名的背后，是商家之间的竞争 当抖音拿到用户的搜索需求，需要从大量商家和商品中筛选符合条件的结果，再通过搜索页面展示给用户，而搜索结果的呈现位置，就成为商家争夺用户的重要环节。 有没有付费推广、是不是好店、团单销量怎么样、距离用户有多远，以及商品与搜索需求的匹配程度等，都是商家需要关注的因素。 但付费不代表一定排在最前面，排在前面也不代表一定能成交。 因为用户最终选择哪家门店，除了曝光位置，还会受到门店评分、差评情况、套餐销量、价格以及线上展示的门店环境等因素影响。 例如两家门店提供同样的洗车服务，一家评分5.0，评价数量多，套餐合理，环境展示完整；另一家评分只有4.2，差评不少，线上信息也不完善，即便后者通过付费获得了曝光，用户也未必愿意购买。 这也是为什么我一直强调，本地生活的门店基建非常重要。 付费解决的是曝光机会，门店经营能力决定的是成交效率。 搜索并不只是流量分配，而是从争取曝光到完成成交的一整套竞争过程，商家需要同时具备获得流量和承接流量的能力。 3/ 对抖音来说，用户最终选择哪家商家，并不是最重要的。 我们还是看洗车这个案例，一个用户搜索洗车，周围有10家门店能够提供服务，对用户来说，只需要找到一家价格合理、服务可靠、距离合适的门店；对商家来说，大家都希望争取这个订单，因为用户最终可能只会选择其中一家。 但站在抖音的角度，只要用户能够找到满意的服务，并在平台内完成交易，具体由哪家门店成交，并不是最重要的事情。 这就形成了商业化空间。 商家希望获得更多曝光，就有动力购买广告；用户完成",
+      "keyIdeas": [
+        "核心信号围绕“本地生活：搜索产生竞争，竞争带来付费”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "本地生活：搜索产生竞争，竞争带来付费",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.3,
+        "argumentDepth": 4.3,
+        "evidenceQuality": 4.5,
+        "nonConsensusValue": 3.9,
+        "transferability": 4.5,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 86.6,
+      "preRankingScore": 74.99,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "eca33183c1c0fe",
+      "title": "Our software engineering interviews are changing a little",
+      "titleZh": "Our software engineering interviews are changing a little",
+      "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "author": "maitland",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-12T14:05:28Z",
+      "discoveredAt": "2026-11-13T03:10:46Z",
+      "language": "en",
+      "category": "career",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Our software engineering interviews are changing a little”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Our software engineering interviews are changing",
+        "career"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "authenticity": 4.5,
+        "specificity": 4.1,
+        "transferability": 3.9,
+        "personalRelevance": 4.5,
+        "insightDensity": 3.6,
+        "novelty": 4.6
+      },
+      "finalScore": 84.4,
+      "preRankingScore": 76.61,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 177,
+        "comments": 182,
+        "hnUrl": "https://news.ycombinator.com/item?id=50467297"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "d096a8a420fb43",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "titleZh": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "author": "firloop",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-12T21:56:11Z",
+      "discoveredAt": "2026-11-13T03:10:46Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Chinese frontier AI models carry the fingerprint of export-controlled GPUs”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Chinese frontier AI models carry the fingerprint",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.1,
+        "sourceCredibility": 4.4,
+        "novelty": 4.2,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 3.6
+      },
+      "finalScore": 84.2,
+      "preRankingScore": 73.79,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 191,
+        "comments": 53,
+        "hnUrl": "https://news.ycombinator.com/item?id=50474883"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "5b0f73df89a6e3",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "titleZh": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-12T20:00:00Z",
+      "discoveredAt": "2026-11-13T03:10:45Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "keyIdeas": [
+        "核心信号围绕“How Amplitude ships product improvements in 1–2 days with OpenAI”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "How Amplitude ships product improvements in 1–2 ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.9,
+        "sourceCredibility": 4.5,
+        "novelty": 4.3,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 82.8,
+      "preRankingScore": 67.0,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "e1c841be3d37aa",
+      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+      "titleZh": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+      "url": "https://www.qbitai.com/2026/11/509349.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-12T09:34:06Z",
+      "discoveredAt": "2026-11-13T03:10:47Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。企业 AI 的难题，不只是模型够不够强",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "企业 AI 的难题，不只是模型够不够强",
+      "keyIdeas": [
+        "核心信号围绕“让AI真正懂业务：璇玑如何成为企业AI的语义基础设施”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 3.9,
+        "novelty": 4.3,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 82.4,
+      "preRankingScore": 68.43,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "217499e0c25837",
+      "title": "Show HN: Kapso – Iterative learning from enterprise data",
+      "titleZh": "Show HN: Kapso – Iterative learning from enterprise data",
+      "url": "https://news.ycombinator.com/item?id=50471281",
+      "author": "alirezamshi",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-12T17:51:23Z",
+      "discoveredAt": "2026-11-13T03:10:46Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Hey HN! We're Alireza and Majid building Leeroo ( https://leeroo.com/ ). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re now focusing on building AI systems for enterprise data. Today, we're open-sourcing Kapso ( https://github.com/Leeroo-AI/kapso ), an engine that runs experiments, deploys the best solution, and learns from every run. The nature of data work is iterative: investigate, form hypotheses, experiment, and improve based on what you learn. This bottom-up process is the only way to deliver meaningful outcomes quickly in large, messy enterprise data environments. Consultants gathering context in meetings or teams defining a business ontology upfront to fit into the data has no chance of execution, in quarters and sometimes years. An AI-native system should automate this process, compounding learning to each new investigation and implementation. For instance, one of our enterprise projects was moving a company off its old data estate onto a lakehouse with more than 30 source-system families, thousands of tables and transformations, and hundreds of BI reports. No individual or AI agent knew how that data estate was",
+      "keyIdeas": [
+        "核心信号围绕“Show HN: Kapso – Iterative learning from enterprise data”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Show HN: Kapso – Iterative learning from enterpr",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 4.3,
+        "novelty": 3.9,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 83.0,
+      "preRankingScore": 76.35,
+      "readingTier": "signal",
+      "socialSignals": {
+        "points": 39,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=50471281"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "51f5443e5e7145",
+      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+      "titleZh": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+      "url": "https://www.qbitai.com/2026/11/509404.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-12T10:45:33Z",
+      "discoveredAt": "2026-11-13T03:10:47Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。银河智学首席科学家邓澍军博士发表主题演讲",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "银河智学首席科学家邓澍军博士发表主题演讲",
+      "keyIdeas": [
+        "核心信号围绕“从通用大模型到学习过程智能，AI如何真正进入课堂？”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 3.8,
+        "novelty": 3.8,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 3.8
+      },
+      "finalScore": 79.8,
+      "preRankingScore": 68.56,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "e189580829f8fa",
+      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+      "titleZh": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+      "url": "https://www.qbitai.com/2026/11/509381.html",
+      "author": "henry",
+      "source": "量子位",
+      "publishedAt": "2026-11-12T10:11:29Z",
+      "discoveredAt": "2026-11-13T03:10:47Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。全世界都在踩刹车，达里奥一个人踩油门",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "全世界都在踩刹车，达里奥一个人踩油门",
+      "keyIdeas": [
+        "核心信号围绕“Anthropic启动IPO路演，估值已缩水6000亿美元”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Anthropic启动IPO路演，估值已缩水6000亿美元",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.5,
+        "novelty": 3.4,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 79.0,
+      "preRankingScore": 68.48,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
