@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T02:55:37Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 219,
+    "afterDeduplication": 219,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "2427bacb74a96b",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "titleZh": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-11-13T18:00:39Z",
+      "discoveredAt": "2026-11-14T02:55:15Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Build a Robot Pick-and-Place Simulation with SimReady Assets”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Build a Robot Pick-and-Place Simulation with Sim",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.3,
+        "novelty": 3.9,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 84.6,
+      "preRankingScore": 65.11,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 11,
+      "duplicateSources": []
+    },
+    {
+      "id": "68b7ef73d7a1d3",
+      "title": "到底是 SaaS+AI，还是 AI+SaaS？",
+      "titleZh": "到底是 SaaS+AI，还是 AI+SaaS？",
+      "url": "https://www.woshipm.com/pd/6493149.html",
+      "author": "产品方法论集散地",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-14T01:13:57Z",
+      "discoveredAt": "2026-11-14T02:55:16Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。AI 时代，HR SaaS 的产品形态究竟是什么？作者复盘三年转型历程，从 SaaS+AI 到 AI+SaaS，犀利指出两条路径的本质差异：前者是给旧流程装 AI，后者是让 AI 成为常驻员工。结合 DeepSeek Harness 等新物种的启示，本文给出一个颠覆性答案——AI+软件，并拆解企业级平台如何让客户自建 AI 工作方式。 半年前，我在复盘我们两年 AI 转型的那篇文章里，留了两个没敢回答的问题。第一个是： AI 时代，HR SaaS 的产品形态，到底是什么？ 这篇文章，试着回答它。 先交代背景。我们从 2023 年开始 AI 转型，从内嵌的 AI 助手，到内部效率工具、自建 Agent、多智能体群，再到统一入口的 MeAI、云端的 MeClaw，至少走了六个阶段。动作不少，但当时复盘里有一句自我批",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "AI 时代，HR SaaS 的产品形态究竟是什么？作者复盘三年转型历程，从 SaaS+AI 到 AI+SaaS，犀利指出两条路径的本质差异：前者是给旧流程装 AI，后者是让 AI 成为常驻员工。结合 DeepSeek Harness 等新物种的启示，本文给出一个颠覆性答案——AI+软件，并拆解企业级平台如何让客户自建 AI 工作方式。 半年前，我在复盘我们两年 AI 转型的那篇文章里，留了两个没敢回答的问题。第一个是： AI 时代，HR SaaS 的产品形态，到底是什么？ 这篇文章，试着回答它。 先交代背景。我们从 2023 年开始 AI 转型，从内嵌的 AI 助手，到内部效率工具、自建 Agent、多智能体群，再到统一入口的 MeAI、云端的 MeClaw，至少走了六个阶段。动作不少，但当时复盘里有一句自我批评，我到现在都记得： 我们像一只被意外装进 AI 瓶子里的苍蝇，拼命挥动翅膀，到处乱撞，却忘了自己是一只”苍蝇”。 撞了三年，最近终于撞出了一个答案的轮廓。细节可以跳着看，加粗的那几句才是我想说的。 两条路，摆在一起看 第一种， 把 AI 装进现有产品 。 跨境电商 SaaS 的代表 Shopify 是典型：在现有产品上用 AI 重塑了整个用户流——从基于界面点选的所有操作，到商品、店铺、营销活动的创建，全部改成对话式，配图、文案全自动生成。用户还是那个用户，系统还是那套系统，只是”动手”变成了”动口”。 我们自己也在这么干。招聘场景里，AI 帮 HR 搜简历、写 JD、一键发布职位、做 AI 面试，全集成在现有系统里。绩效场景同理。 这就是 SaaS+AI ：SaaS 是身体，AI 是新装的器官。 第二种， 把产品装进 AI 。 WorkBuddy 的 Buddy 应用是这个路数：以 AI Agent 产品为底座，把原有 SaaS 的核心数据、流程、场景拆开，按 AI 的方式重新拼一遍。我们自己的实践里也有影子——把 HR 的活拆成”管考勤的””管薪酬的”几个数字员工，每个员工背后是一组技能。眼下很多企业自建的 Agent 平台、虚拟员工，本质上都属于这一类——不是改造旧系统，是重新开辟战场。 这是 AI+SaaS ：AI 是身体，SaaS 是被消化吸收的养料。 两条路我都看得见。但说实话，前三年我一直站在第一种这边。理由很朴素：客户在现有系统里，数据在现有系统里，收入也在现有系统里，在上面加 AI，最稳。 直到最近，有两个东西撞了我一下。 第一个撞我的，是我自己写的文章 写 《你有多久没打开 Axure 了》 那篇的时候，我心里是发虚的。 文章里讲，Axure 没有做错任何一件事，它只是发现自己赖以存在的那个任务，被整个搬走了。我把克里斯坦森、把”毁灭你，与你有何相干”写得头头是道——写完才意识到： 我一边写着”新物种会搬走旧任务”，一边干着 Sa",
+      "keyIdeas": [
+        "核心信号围绕“到底是 SaaS+AI，还是 AI+SaaS？”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "到底是 SaaS+AI，还是 AI+SaaS？",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.5,
+        "argumentDepth": 4.4,
+        "evidenceQuality": 4.2,
+        "nonConsensusValue": 3.7,
+        "transferability": 4.1,
+        "personalRelevance": 3.8
+      },
+      "finalScore": 83.0,
+      "preRankingScore": 74.83,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "87c11ac884eb74",
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "titleZh": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "url": "https://www.qbitai.com/2026/11/509796.html",
+      "author": "鹭羽",
+      "source": "量子位",
+      "publishedAt": "2026-11-13T07:43:03Z",
+      "discoveredAt": "2026-11-14T02:55:16Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。250名国内顶尖三甲医院医生联合评测",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "250名国内顶尖三甲医院医生联合评测",
+      "keyIdeas": [
+        "核心信号围绕“中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.9,
+        "sourceCredibility": 4.3,
+        "novelty": 3.9,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 83.0,
+      "preRankingScore": 68.26,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "8c999d6885d247",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "titleZh": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "discoveredAt": "2026-11-14T02:55:15Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "keyIdeas": [
+        "核心信号围绕“JioStar’s chief architect on AI discovery at 500M-user scale”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "JioStar’s chief architect on AI discovery at 500",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.2,
+        "novelty": 4.3,
+        "aiProductImpact": 3.7,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 81.6,
+      "preRankingScore": 59.87,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "ea0776201252f8",
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "titleZh": "After 600 experiments, here's what I discovered about JEPA world models",
+      "url": "https://haddyalchaer.com/jepa",
+      "author": "halcdev",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-13T17:55:28Z",
+      "discoveredAt": "2026-11-14T02:55:16Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“After 600 experiments, here's what I discovered about JEPA world models”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "After 600 experiments, here's what I discovered ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.3,
+        "novelty": 3.6,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 4.1
+      },
+      "finalScore": 81.0,
+      "preRankingScore": 74.2,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 218,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=50487185"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 14,
+      "duplicateSources": []
+    },
+    {
+      "id": "b50eaa8ed2dcd7",
+      "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
+      "titleZh": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
+      "url": "https://www.qbitai.com/2026/11/509710.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-13T07:09:05Z",
+      "discoveredAt": "2026-11-14T02:55:16Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
+      "keyIdeas": [
+        "核心信号围绕“比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.7,
+        "novelty": 3.9,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 81.8,
+      "preRankingScore": 68.44,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "a11b7e7f40ac5b",
+      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+      "titleZh": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+      "url": "https://www.qbitai.com/2026/11/509827.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-13T07:51:08Z",
+      "discoveredAt": "2026-11-14T02:55:16Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。12.9 北京，来MEET2027现场",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "12.9 北京，来MEET2027现场",
+      "keyIdeas": [
+        "核心信号围绕“MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.5,
+        "sourceCredibility": 4.3,
+        "novelty": 4.4,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 3.8
+      },
+      "finalScore": 81.4,
+      "preRankingScore": 68.28,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "5b0f73df89a6e3",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "titleZh": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-12T20:00:00Z",
+      "discoveredAt": "2026-11-14T02:55:15Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "keyIdeas": [
+        "核心信号围绕“How Amplitude ships product improvements in 1–2 days with OpenAI”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "How Amplitude ships product improvements in 1–2 ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.4,
+        "novelty": 4.2,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 3.6
+      },
+      "finalScore": 80.8,
+      "preRankingScore": 64.63,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    }
+  ],
+  "errors": [
+    {
+      "source": "人人都是产品经理 · 面试",
+      "error": "HTTPSConnectionPool(host='www.woshipm.com', port=443): Read timed out. (read timeout=15)",
+      "timestamp": "2026-11-14T02:55:30Z"
+    }
+  ]
+}
