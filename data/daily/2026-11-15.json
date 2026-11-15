@@ -1,0 +1,372 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T02:25:39Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 235,
+    "afterDeduplication": 234,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "d096a8a420fb43",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "titleZh": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "author": "firloop",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-12T21:56:11Z",
+      "discoveredAt": "2026-11-15T02:25:29Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "https://twitter.com/willdepue/status/2120992457630326841",
+      "keyIdeas": [
+        "核心信号围绕“Chinese frontier AI models carry the fingerprint of export-controlled GPUs”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Chinese frontier AI models carry the fingerprint",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.5,
+        "novelty": 4.3,
+        "aiProductImpact": 4.6,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 86.2,
+      "preRankingScore": 76.31,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 380,
+        "comments": 162,
+        "hnUrl": "https://news.ycombinator.com/item?id=50474883"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "5bfa2e37b7da27",
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "titleZh": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "author": "snipedbywifi",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-14T14:05:54Z",
+      "discoveredAt": "2026-11-15T02:25:29Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish! The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native factory game. Me and the modern 5.5 claude models made a base for the game that I liked, and then i went ham adding features / fixing some minor flaws (like adding claude code hooks so you recieve \"telegrams\" [the agent's responses], so you can review progress directly in-game). (yes, I had heavy AI assistance, disclaimer!!!) Right now, the game has basic factory features you'd expect from a game like this (build stuff, delete stuff, measure how much you're earning, basic selection tools), along with a few more.. \"unexpected\" features. This includes a fake in-game browser that has a wiki, fake forums, some fun bits of lore, some more lore, a LOT more lore, and a research graph that shows how many items or how much RP (research points) you'd need to unlock something, and some more QOL features.",
+      "keyIdeas": [
+        "核心信号围绕“Show HN: A terminal-native idle factory game, written in Rust with ratatui”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Show HN: A terminal-native idle factory game, wr",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.6,
+        "novelty": 4.0,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 85.6,
+      "preRankingScore": 81.65,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 139,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=50497132"
+      },
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "de8729406051d4",
+      "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+      "titleZh": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+      "url": "https://www.qbitai.com/2026/11/510150.html",
+      "author": "程浅",
+      "source": "量子位",
+      "publishedAt": "2026-11-14T09:48:34Z",
+      "discoveredAt": "2026-11-15T02:25:30Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。童年的纸飞机，现在终于飞回我手里～",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "童年的纸飞机，现在终于飞回我手里～",
+      "keyIdeas": [
+        "核心信号围绕“程序员集体沉迷折纸飞机！最长滞空31.2秒”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.2,
+        "novelty": 4.2,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 83.8,
+      "preRankingScore": 68.51,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "2427bacb74a96b",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "titleZh": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-11-13T18:00:39Z",
+      "discoveredAt": "2026-11-15T02:25:28Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Build a Robot Pick-and-Place Simulation with SimReady Assets”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Build a Robot Pick-and-Place Simulation with Sim",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.2,
+        "novelty": 3.8,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 82.6,
+      "preRankingScore": 62.76,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 11,
+      "duplicateSources": []
+    },
+    {
+      "id": "dd9ba3519813ca",
+      "title": "充了 1300 测即梦短剧工作室，结果。。。",
+      "titleZh": "充了 1300 测即梦短剧工作室，结果。。。",
+      "url": "https://www.woshipm.com/ai/6493844.html",
+      "author": "饼干哥哥",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-14T03:42:36Z",
+      "discoveredAt": "2026-11-15T02:25:29Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。自9月下旬盯上TikTok短剧的流量窗口，作者靠一条AI工作流跑出10万+播放、单条带货1.3万美金。这次他充了1300元测即梦短剧工作室，用一款磷虾油从头趟一遍剧本到成片，答案放在文末。 自 9 月下旬发现 TikTok 短剧的流量窗口后，我就在内部搭了一套 AI 工作流快速成片，连出几条 10 万+ 播放的 3D 皮克斯带货短剧，最高单条带货 1.3 万美金。 最近甚至干到快了100w 但跑到现在，我们其实都是在抄，所以我一直很头疼怎么才能让AI给出满意的剧本。 恰好昨天刷到好朋友洛小山分享即梦短剧工作室的文章，看到字节不仅整合了小云雀 Agent，还掏出全网首个专业剧本模型 DreamScript、角色模型 AnyCook 和分镜模型 DreamShot。 我第一反应就是：这套工作台，到底能不能帮我们解决",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "自9月下旬盯上TikTok短剧的流量窗口，作者靠一条AI工作流跑出10万+播放、单条带货1.3万美金。这次他充了1300元测即梦短剧工作室，用一款磷虾油从头趟一遍剧本到成片，答案放在文末。 自 9 月下旬发现 TikTok 短剧的流量窗口后，我就在内部搭了一套 AI 工作流快速成片，连出几条 10 万+ 播放的 3D 皮克斯带货短剧，最高单条带货 1.3 万美金。 最近甚至干到快了100w 但跑到现在，我们其实都是在抄，所以我一直很头疼怎么才能让AI给出满意的剧本。 恰好昨天刷到好朋友洛小山分享即梦短剧工作室的文章，看到字节不仅整合了小云雀 Agent，还掏出全网首个专业剧本模型 DreamScript、角色模型 AnyCook 和分镜模型 DreamShot。 我第一反应就是：这套工作台，到底能不能帮我们解决「剧本设计」的难题，顺便把整套短剧制作流程一站式跑通？ 废话少说，我反手就是一个充钱 然后随便找了一个产品（ NYO3 南极磷虾油）来测，把它的剧本设计和整套成片流程从头到尾趟了一遍。 结论和最佳实践放最后了，等不及的可以直接滑到文末看。 01 即梦短剧工作室还真的很全 平时做AI 短片，最折磨人的是在对话窗、生图工具、视频页和剪辑软件之间来回传参考图。即梦短剧工作室最大的改变，是把从写剧本到合成成片的五步流程，全收进了同一个受控画布。 短剧制作五步流程 顶部有「上传剧本」「剧本创作」「转绘」三个入口。 我选零基础起步的「剧本创作」，调用自研 DreamScript 模型。 DreamScript 模型 在正式写剧本前，它有两个前置设定直接决定了后面的剧本走向和出片质量： 一是写剧本前先锁画风。 左下角内置 100+ 预设风格，覆盖真人短剧、2D 漫剧和 3D 动画。先锁画风的好处是，后面生成剧本分镜时描写会直接适配 3D 动画特征。 我传了 NYO3 磷虾油白底图，选「3D 皮克斯风格」，只输一句话：「帮我创作一个一分钟的带货剧本，产品是我上传的图片」。 选定创作风格 二是把创作意图拆成 6 维「选题标签」。 面对空白框不知道怎么交代爽点和人物关系时，点开「选题」面板，热门梗、背景、人设、核心关系、观感、受众全做成了可勾标签，还能切「出海剧本」，边勾标签边补齐剧本约束。 6 维选题标签 我勾选「泛人群 + 反转 + 竞争对手」提交后，Agent 没有直接吐台词，而是按工业化编剧的五步往下推： 1 单选故事方向 ：系统先给出柜台打脸、直播对线、家人真香、大妈反转四套方案做单选确认，我选了排第一的「柜台打脸」，避免方向偏了白写几千字。 2 生成三层剧本结构 ：确认方向后，左侧自动生成「故事设定」（目标受众、一句话故事、人物小传）、「分集大纲」和「剧本正文」三层文档，正文里的台词可以直接划词手改，也能在右侧对话让助手局部改写。 3 AnyCook 拆解视觉",
+      "keyIdeas": [
+        "核心信号围绕“充了 1300 测即梦短剧工作室，结果。。。”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "充了 1300 测即梦短剧工作室，结果。。。",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.5,
+        "argumentDepth": 3.9,
+        "evidenceQuality": 4.2,
+        "nonConsensusValue": 4.1,
+        "transferability": 4.1,
+        "personalRelevance": 3.8
+      },
+      "finalScore": 82.2,
+      "preRankingScore": 72.73,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "071bc9829f3578",
+      "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+      "titleZh": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+      "url": "https://www.qbitai.com/2026/11/510297.html",
+      "author": "鹭羽",
+      "source": "量子位",
+      "publishedAt": "2026-11-14T10:08:08Z",
+      "discoveredAt": "2026-11-15T02:25:30Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。马斯克也签名了",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "马斯克也签名了",
+      "keyIdeas": [
+        "核心信号围绕“英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.5,
+        "novelty": 3.9,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 3.4
+      },
+      "finalScore": 80.8,
+      "preRankingScore": 68.44,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "5b0f73df89a6e3",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "titleZh": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-12T20:00:00Z",
+      "discoveredAt": "2026-11-15T02:25:28Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "keyIdeas": [
+        "核心信号围绕“How Amplitude ships product improvements in 1–2 days with OpenAI”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "How Amplitude ships product improvements in 1–2 ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.4,
+        "novelty": 4.2,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 3.6
+      },
+      "finalScore": 80.8,
+      "preRankingScore": 62.28,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "7f58f945a6e141",
+      "title": "绿电进Token出！联想重新定义词元工厂",
+      "titleZh": "绿电进Token出！联想重新定义词元工厂",
+      "url": "https://www.qbitai.com/2026/11/510094.html",
+      "author": "杰西卡",
+      "source": "量子位",
+      "publishedAt": "2026-11-14T09:41:02Z",
+      "discoveredAt": "2026-11-15T02:25:30Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。年产2000万亿Token，成本狂降70%",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "年产2000万亿Token，成本狂降70%",
+      "keyIdeas": [
+        "核心信号围绕“绿电进Token出！联想重新定义词元工厂”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "绿电进Token出！联想重新定义词元工厂",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.1,
+        "novelty": 4.0,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 79.0,
+      "preRankingScore": 68.54,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
