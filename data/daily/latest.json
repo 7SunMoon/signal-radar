@@ -1,15 +1,245 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T02:35:16Z",
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T04:58:12Z",
   "mode": "metadata",
   "stats": {
     "discovered": 235,
-    "afterDeduplication": 234,
+    "afterDeduplication": 232,
     "deepReviewed": 40,
     "recommended": 8
   },
   "articles": [
+    {
+      "id": "81bd7f76e2a9d5",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "titleZh": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "author": "cwaffles",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-16T22:58:20Z",
+      "discoveredAt": "2026-11-17T04:58:00Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Windows 11 Is Collecting Data on Which Coding Ag",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.3,
+        "novelty": 4.0,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 4.6
+      },
+      "finalScore": 87.4,
+      "preRankingScore": 80.4,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 383,
+        "comments": 236,
+        "hnUrl": "https://news.ycombinator.com/item?id=50524736"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 10,
+      "duplicateSources": []
+    },
+    {
+      "id": "f26f2a4dfd6b9b",
+      "title": "Broadening access to AI for scientists",
+      "titleZh": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-16T17:00:00Z",
+      "discoveredAt": "2026-11-17T04:57:58Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "keyIdeas": [
+        "核心信号围绕“Broadening access to AI for scientists”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Broadening access to AI for scientists",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 4.5,
+        "novelty": 3.8,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 3.8
+      },
+      "finalScore": 84.8,
+      "preRankingScore": 66.15,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "3ad115755ec36d",
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "titleZh": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "author": "arshpatankar",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-16T20:29:48Z",
+      "discoveredAt": "2026-11-17T04:58:00Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Hi HN! We’re Arsh and Max, founders of Axonnic ( https://axonnic.com ). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots. Here’s a demo video: https://youtube.com/shorts/xBrocTc9cfA We’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not muscle activity or the effort behind the movement. A useful signal can be present even when the hand barely moves; just maintaining a grip involves muscle activation. The subtle muscle movements that can barely be picked up in video are the most important details for activities like sewing and delicate assembly. The sleeve has 64 channels of surface electromyography, or EMG. Electrodes on the skin detect electrical activity from muscles in the forearm. We distribute sensors across the forearm so as to not overfit to one muscle group. We synchronize EMG with hand tracking to train a model that predicts finger joint angles, then we run the decoder solely from EMG, adding in fingertip force es",
+      "keyIdeas": [
+        "核心信号围绕“Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Launch HN: Axonnic (YC F26) – Sleeves that track",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.9,
+        "sourceCredibility": 4.4,
+        "novelty": 4.4,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 83.2,
+      "preRankingScore": 76.34,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 35,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=50522776"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 21,
+      "duplicateSources": []
+    },
+    {
+      "id": "07639dc02b6339",
+      "title": "实测 Hy4 flash：WorkBuddy 限免，比旗舰便宜 20 倍的办公利器",
+      "titleZh": "实测 Hy4 flash：WorkBuddy 限免，比旗舰便宜 20 倍的办公利器",
+      "url": "https://www.woshipm.com/ai/6494845.html",
+      "author": "Z Finance",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-17T03:33:43Z",
+      "discoveredAt": "2026-11-17T04:58:04Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。Hy4 flash 上线当天，WorkBuddy 国内版与国际版同步接入，11 月 30 日前限免。作者用它跑完读财报、读招股书、洗数据、修代码等 7 项任务，并拉来旗舰 Hy4 与 DeepSeek-V4.1-flash 同题横评。 11 月 16 日，腾讯混元正式发布 Hy4 flash，并在腾讯办公智能体 WorkBuddy 国内版和国际版同步首发， 11 月 30 日 23:59 前限时免费。官方称它是“迄今为止最高性价比的 Hy 模型”。 把价格压到这个程度，背后是整个行业的风向。11 月第一周，OpenRouter 全球模型调用量榜单的前三名都是 flash 模型。腾讯混元 11 月 4 日发布 Hy4 正式版时也预告了 Hy4 flash，定位是在继承 Hy4 能力的基础上大幅降低任务成本。十二天",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "Hy4 flash 上线当天，WorkBuddy 国内版与国际版同步接入，11 月 30 日前限免。作者用它跑完读财报、读招股书、洗数据、修代码等 7 项任务，并拉来旗舰 Hy4 与 DeepSeek-V4.1-flash 同题横评。 11 月 16 日，腾讯混元正式发布 Hy4 flash，并在腾讯办公智能体 WorkBuddy 国内版和国际版同步首发， 11 月 30 日 23:59 前限时免费。官方称它是“迄今为止最高性价比的 Hy 模型”。 把价格压到这个程度，背后是整个行业的风向。11 月第一周，OpenRouter 全球模型调用量榜单的前三名都是 flash 模型。腾讯混元 11 月 4 日发布 Hy4 正式版时也预告了 Hy4 flash，定位是在继承 Hy4 能力的基础上大幅降低任务成本。十二天后，它来了。 趁着限免，我们在 WorkBuddy 里用 Hy4 flash 跑完了 7 项高频办公与开发任务：读财报、读招股书、批量整理公司资料、做网页工具、洗数据、修代码和做设计规划，并拉来旗舰版 Hy4 与同级别的 DeepSeek-V4.1-flash 做同题横评。它给我们最直观的感受就是快，多数任务都能在 10 分钟以内交付。 7 项任务实测 从最常见的读材料任务开始。我们把微软、Alphabet、亚马逊截至 2026 年 9 月 30 日那一季的季报原表截了 7 张图，直接交给 Hy4 和 Hy4 flash，让它们分别写一份三大云厂商的季度对比。 材料里有几处容易出错。三家表里年份列的左右顺序不一样，Alphabet 和亚马逊是去年在左、今年在右，微软反过来；微软也没有单独披露 Azure 的营业利润，只给了收入 Hy4 flash 2 分 33 秒交稿，结论都对：AWS 规模最大，Google Cloud 增长最快，同比翻了一倍多；Alphabet 和亚马逊都是营业利润在涨、净利润在跌，原因在营业外收支由正转负，而不是主业变差了。同样的指令，Hy4 用了 4 分 44 秒。两份稿子结论接近，也都通过了我们的检查。有意思的是，两个模型最后的追问也一致：AWS 和 Google Cloud 都披露了云业务的利润，微软为什么只给 Azure 的收入，不给它的成本和利润？这是一个合格分析师会注意到的问题，flash 和旗舰在这一点上的判断是一致的，而 flash 只用了旗舰一半左右的时间。 分析招股书是更难的任务。我们把 Anthropic 上个月向美国证监会提交的招股书交给两个模型，只取其中摘要部分的英文原文，要求写一份内部研究备忘录。 这份材料最容易读偏的地方是一组反差：2026 年上半年，Anthropic 营收 162.9 亿美元，营业亏损只有 6.9 亿，净亏损却是 807 亿。中间差出来的八百亿，绝大部分是可转换票据等工具的公允价值",
+      "keyIdeas": [
+        "核心信号围绕“实测 Hy4 flash：WorkBuddy 限免，比旗舰便宜 20 倍的办公利器”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "实测 Hy4 flash：WorkBuddy 限免，比旗舰便宜 20 倍的办公利器",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.4,
+        "argumentDepth": 4.0,
+        "evidenceQuality": 4.1,
+        "nonConsensusValue": 4.1,
+        "transferability": 4.2,
+        "personalRelevance": 4.1
+      },
+      "finalScore": 83.1,
+      "preRankingScore": 74.86,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 7,
+      "duplicateSources": []
+    },
+    {
+      "id": "5e1781569c15ef",
+      "title": "怎么去掉 AI 视频「AI 味」的 10 个技巧",
+      "titleZh": "怎么去掉 AI 视频「AI 味」的 10 个技巧",
+      "url": "https://www.woshipm.com/ai/6495130.html",
+      "author": "饼干哥哥",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-17T03:09:12Z",
+      "discoveredAt": "2026-11-17T04:58:04Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。换上最新视频模型，直出的画面仍有一股挥之不去的味道：物体瞬间启停、运镜自己漂移、皮肤泛着假锐度。靠升级模型解决不了，真正拉回质感的是提示词与流程细节——写具体瑕疵代替笼统感觉词、给运镜标速度和时间戳、一镜只做一件事、用真实音频控卡点。 最近一直在跑包括Seedance 2.5在内的各种模型，但发现哪怕用上最新模型，直出的视频还是有一股明显的「AI 味」。 例如： 1. 画面漂浮（Floaty）：物体瞬间启停，头发和布料缺少真实物理效果 2. 运镜失控：不写要求，镜头就自己缓慢推进（电影感漂移）；写多了，画又会变形 3. 塑料油腻感：字节在 Seedance 2.5 官方博客里专门提过这个词——训练数据多是精修图，加上帧间去噪抹掉了天然噪点，导致皮肤没有毛孔、泛着假锐度 4. 切镜与声音脱节：就是切镜很突兀、人声",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "换上最新视频模型，直出的画面仍有一股挥之不去的味道：物体瞬间启停、运镜自己漂移、皮肤泛着假锐度。靠升级模型解决不了，真正拉回质感的是提示词与流程细节——写具体瑕疵代替笼统感觉词、给运镜标速度和时间戳、一镜只做一件事、用真实音频控卡点。 最近一直在跑包括Seedance 2.5在内的各种模型，但发现哪怕用上最新模型，直出的视频还是有一股明显的「AI 味」。 例如： 1. 画面漂浮（Floaty）：物体瞬间启停，头发和布料缺少真实物理效果 2. 运镜失控：不写要求，镜头就自己缓慢推进（电影感漂移）；写多了，画又会变形 3. 塑料油腻感：字节在 Seedance 2.5 官方博客里专门提过这个词——训练数据多是精修图，加上帧间去噪抹掉了天然噪点，导致皮肤没有毛孔、泛着假锐度 4. 切镜与声音脱节：就是切镜很突兀、人声语速平均得没有起伏 单靠换模型解决不了这些问题。 实测下来，真正能把视频质感拉回来的，是下面这 10 个去「AI 味」技巧： 1. 删掉感觉词，要瑕疵：去掉“电影感、情绪感”等笼统词，直接写毛孔、细纹、胡茬、未修图皮肤、实景光源，加上 “35 毫米胶片、手持摄影” 2. 运镜写具体速度与时间戳：用「0.5 米/秒推进」代替模糊指令。长镜头按 0–5 秒起步，人物表演和对话节奏则放手交给模型 3. 一镜只做一件事：单镜头只留一个主运镜和一个主导动作，需要变轨就拆成两条生成，避免多个快速运动信号叠加造成画面涂抹 4. 按模型控提示词长度：Seedance 2.5 指令遵循度随位置衰减快，压在 60–100 词；Veo 3.1 适合 80–120 词并以视觉动词开头 5. 用英文补丁句单点修毛病：每轮只修一个问题。镜头乱推就加 Locked-off tripod shot; no zoom；画面太死板就加 Subtle handheld realism: tiny natural micro-movements 6. 运动与美学拆开控制：参考视频只管运镜和动作节奏，文字提示词管光影色调。引用时写明用途，参考权重设在 70%–80%，避免拉满导致角色僵硬 7. 生图模型垫底锁肤质：先用擅长皮肤真实感的图像模型生成人像做角色参考；多镜头项目先生成一条锁定色板的锚点视频，再喂给后续镜头防漂移 8. 用真实音频控卡点与环境音：按节奏切镜时直接喂参考音频波形；在 Seedance 或 Omni 1.2 里显式写清环境音要求，防止模型乱加配乐 9. 高废片率粗剪 + 动作顺接：15 秒的生成片段平均只截取最稳的 5 秒进时间线，切点卡在动作发生瞬间（Match on Action，动作顺接），剪掉首尾静止帧 10. 后期加脏与手机审片：成片叠一层轻颗粒并柔化过锐边缘，文字一律后期加；超过 1.5 倍速先分离原生音轨并开光流补帧；最后用手机开满亮度审片，把关肤质和漂浮感。",
+      "keyIdeas": [
+        "核心信号围绕“怎么去掉 AI 视频「AI 味」的 10 个技巧”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "怎么去掉 AI 视频「AI 味」的 10 个技巧",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.2,
+        "argumentDepth": 4.1,
+        "evidenceQuality": 4.5,
+        "nonConsensusValue": 3.9,
+        "transferability": 4.5,
+        "personalRelevance": 3.4
+      },
+      "finalScore": 82.1,
+      "preRankingScore": 74.82,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
     {
       "id": "87d7014c15ee68",
       "title": "A step toward defining the Standard Model on a lattice",
@@ -18,7 +248,7 @@
       "author": "",
       "source": "OpenAI News",
       "publishedAt": "2026-11-15T22:00:01Z",
-      "discoveredAt": "2026-11-16T02:35:06Z",
+      "discoveredAt": "2026-11-17T04:57:58Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -42,280 +272,14 @@
         }
       ],
       "scores": {
-        "eventImpact": 4.3,
-        "sourceCredibility": 4.3,
-        "novelty": 4.1,
-        "aiProductImpact": 4.5,
-        "personalRelevance": 3.9
-      },
-      "finalScore": 85.2,
-      "preRankingScore": 66.94,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "partial",
-      "estimatedReadingMinutes": 1,
-      "duplicateSources": []
-    },
-    {
-      "id": "de8729406051d4",
-      "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
-      "titleZh": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
-      "url": "https://www.qbitai.com/2026/11/510150.html",
-      "author": "程浅",
-      "source": "量子位",
-      "publishedAt": "2026-11-14T09:48:34Z",
-      "discoveredAt": "2026-11-16T02:35:08Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。童年的纸飞机，现在终于飞回我手里～",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "童年的纸飞机，现在终于飞回我手里～",
-      "keyIdeas": [
-        "核心信号围绕“程序员集体沉迷折纸飞机！最长滞空31.2秒”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "程序员集体沉迷折纸飞机！最长滞空31.2秒",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.3,
-        "sourceCredibility": 4.2,
-        "novelty": 4.2,
-        "aiProductImpact": 3.9,
-        "personalRelevance": 4.4
-      },
-      "finalScore": 83.8,
-      "preRankingScore": 66.09,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 1,
-      "duplicateSources": []
-    },
-    {
-      "id": "950ac38f23f2d5",
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "titleZh": "Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "author": "vismit2000",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-15T12:14:06Z",
-      "discoveredAt": "2026-11-16T02:35:08Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
-      "keyIdeas": [
-        "核心信号围绕“Understanding Positional Embeddings in Modern LLMs”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Understanding Positional Embeddings in Modern LL",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 4.4,
-        "sourceCredibility": 4.0,
-        "novelty": 4.5,
-        "aiProductImpact": 4.0,
-        "personalRelevance": 3.4
-      },
-      "finalScore": 83.2,
-      "preRankingScore": 72.96,
-      "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 210,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=50506376"
-      },
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 22,
-      "duplicateSources": []
-    },
-    {
-      "id": "de58d2310b66e9",
-      "title": "本质、洞察与需求：从看见水井，到创造水源",
-      "titleZh": "本质、洞察与需求：从看见水井，到创造水源",
-      "url": "https://www.woshipm.com/share/6494073.html",
-      "author": "品牌猿",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-11-15T10:16:09Z",
-      "discoveredAt": "2026-11-16T02:35:08Z",
-      "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。行业的本质不等于行业的标准答案。蓝瓶子卖潮流，Manner 卖环保，独立小店卖的是一小众圈层——本质藏在用户的感受里，不在品类里。看清这一层，才谈得上洞察动机、设计需求。 “本质的东西眼睛是看不见的。沙漠之所以美丽，是因为它在某个地方隐藏着一口水井。 ” ——《小王子》 我们常说，要洞察行业「本质」。可什么是本质？它就像行业里隐藏的那口水井，是沙漠中的生命之源，也是你我生生不息的力量之泉。 一、重新理解：何为行业“本质” 谈论行业“本质”，有三层容易被忽略的认知。 认知1：行业的本质，不等于你的本质 不必强行追逐行业公认的标准答案， 找到你能够理解、并且有能力落地利用的那一个，才属于你的“水井”。 咖啡行业的本质究竟是什么？是农产品，是成瘾饮品，是消费体验，或是一种生活方式？没有唯一解。星巴克锚定文化与第三空间",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "行业的本质不等于行业的标准答案。蓝瓶子卖潮流，Manner 卖环保，独立小店卖的是一小众圈层——本质藏在用户的感受里，不在品类里。看清这一层，才谈得上洞察动机、设计需求。 “本质的东西眼睛是看不见的。沙漠之所以美丽，是因为它在某个地方隐藏着一口水井。 ” ——《小王子》 我们常说，要洞察行业「本质」。可什么是本质？它就像行业里隐藏的那口水井，是沙漠中的生命之源，也是你我生生不息的力量之泉。 一、重新理解：何为行业“本质” 谈论行业“本质”，有三层容易被忽略的认知。 认知1：行业的本质，不等于你的本质 不必强行追逐行业公认的标准答案， 找到你能够理解、并且有能力落地利用的那一个，才属于你的“水井”。 咖啡行业的本质究竟是什么？是农产品，是成瘾饮品，是消费体验，或是一种生活方式？没有唯一解。星巴克锚定文化与第三空间，瑞幸押注新零售路径。二者选择的本质截然不同，却各自跑出了成功的路径。 认知2、本质不在品类里，而在用户的感受里 也就是说，行业的本质和产品和行业无关， 和你能触碰的「用户」和他们的感觉相关！ 可以问自己一句话：我们的产品与服务，能帮用户成为什么样的人？注意，这里不是解决了什么问题，完成了什么任务，而是感觉上得到了什么。 选择蓝瓶子，是靠近潮流；偏爱 Manner，是认同简约环保；流连独立小店，是融入一个小众文化圈层。这，才是洞察本质真正的价值。 认知 3：人人可见的共识，很难成为制胜的本质 如果你看到的某个行业「本质」是众所周知的、显而易见的，那它大概率不是本质，也很难给你带来价值。 当然，超级预算玩家除外。比如 360 的“安全”、酱油的“鲜”、汉庭的“干净”。但对多数品牌而言，共识不是答案，真正的本质往往藏在未被言明处。 既然行业的「本质」和产品、行业无关，而和你能触碰的「用户」及其感觉相关，那么新的问题就来了： 如何洞察用户？ 二、下沉到人：如何“用户洞察”？ 用户洞察，是透过外在消费行为，捕捉背后的情绪，挖掘行为底层的动机，最终触达人性深处真实的需求。 1 洞察的三个层面：心理、感性和剖析 洞察是心理活动，而非行为表现。 洞察是感性共鸣，而非理性判断。 洞察是一种剖析，而非一项描述。 提醒一下，市场调研负责描述现象； 而用户洞察，要穿透现象，找到根源，为创意与策略提供方向。 2 洞察谁：不要只盯着高复购老客 很多品牌做用户访谈，第一选择就是高频购买的忠诚用户，这其实是一个常见误区。想要拿到高质量洞察， 先要定义谁是值得对话的超级用户。 明确忠诚用户的“忠诚”什么？忠诚产品，忠诚品牌，忠诚理念？ 筛选出愿意表达的用户：活跃、乐于输出观点。 如社媒上（如B站、小红书）发布产品评测的人群。建议邀请邀请他们，无论是哪个品牌的使用者，都是有想法且愿意表达的人。 圈层分层、配比访谈：不同场景、不同习惯的用户，痛点和诉求完全不同。 每个圈层选取 5–10 ",
-      "keyIdeas": [
-        "核心信号围绕“本质、洞察与需求：从看见水井，到创造水源”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "本质、洞察与需求：从看见水井，到创造水源",
-        "product-insight"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "insightDensity": 4.3,
-        "argumentDepth": 4.0,
-        "evidenceQuality": 4.4,
-        "nonConsensusValue": 3.7,
-        "transferability": 4.5,
-        "personalRelevance": 3.9
-      },
-      "finalScore": 82.7,
-      "preRankingScore": 73.37,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 2,
-      "duplicateSources": []
-    },
-    {
-      "id": "2427bacb74a96b",
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "titleZh": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "author": "",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-11-13T18:00:39Z",
-      "discoveredAt": "2026-11-16T02:35:06Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
-      "keyIdeas": [
-        "核心信号围绕“Build a Robot Pick-and-Place Simulation with SimReady Assets”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Build a Robot Pick-and-Place Simulation with Sim",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
         "eventImpact": 4.2,
         "sourceCredibility": 4.2,
-        "novelty": 3.8,
+        "novelty": 4.0,
         "aiProductImpact": 4.4,
-        "personalRelevance": 3.9
+        "personalRelevance": 3.8
       },
-      "finalScore": 82.6,
-      "preRankingScore": 60.34,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 11,
-      "duplicateSources": []
-    },
-    {
-      "id": "071bc9829f3578",
-      "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
-      "titleZh": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
-      "url": "https://www.qbitai.com/2026/11/510297.html",
-      "author": "鹭羽",
-      "source": "量子位",
-      "publishedAt": "2026-11-14T10:08:08Z",
-      "discoveredAt": "2026-11-16T02:35:08Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。马斯克也签名了",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "马斯克也签名了",
-      "keyIdeas": [
-        "核心信号围绕“英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.0,
-        "sourceCredibility": 4.5,
-        "novelty": 3.9,
-        "aiProductImpact": 4.1,
-        "personalRelevance": 3.4
-      },
-      "finalScore": 80.8,
-      "preRankingScore": 66.02,
-      "readingTier": "signal",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 2,
-      "duplicateSources": []
-    },
-    {
-      "id": "5b0f73df89a6e3",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "titleZh": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "author": "",
-      "source": "OpenAI News",
-      "publishedAt": "2026-11-12T20:00:00Z",
-      "discoveredAt": "2026-11-16T02:35:06Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "keyIdeas": [
-        "核心信号围绕“How Amplitude ships product improvements in 1–2 days with OpenAI”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "How Amplitude ships product improvements in 1–2 ",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 3.8,
-        "sourceCredibility": 4.4,
-        "novelty": 4.2,
-        "aiProductImpact": 4.1,
-        "personalRelevance": 3.6
-      },
-      "finalScore": 80.8,
-      "preRankingScore": 59.86,
+      "finalScore": 83.2,
+      "preRankingScore": 64.3,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "partial",
@@ -323,44 +287,85 @@
       "duplicateSources": []
     },
     {
-      "id": "7f58f945a6e141",
-      "title": "绿电进Token出！联想重新定义词元工厂",
-      "titleZh": "绿电进Token出！联想重新定义词元工厂",
-      "url": "https://www.qbitai.com/2026/11/510094.html",
-      "author": "杰西卡",
+      "id": "efccb445b06c4e",
+      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+      "titleZh": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+      "url": "https://www.qbitai.com/2026/11/510526.html",
+      "author": "量子位的朋友们",
       "source": "量子位",
-      "publishedAt": "2026-11-14T09:41:02Z",
-      "discoveredAt": "2026-11-16T02:35:08Z",
+      "publishedAt": "2026-11-16T08:45:17Z",
+      "discoveredAt": "2026-11-17T04:58:00Z",
       "language": "zh-CN",
       "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。年产2000万亿Token，成本狂降70%",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。12月1日，细数AI的未竟之问。",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "年产2000万亿Token，成本狂降70%",
+      "sourceSnippet": "12月1日，细数AI的未竟之问。",
       "keyIdeas": [
-        "核心信号围绕“绿电进Token出！联想重新定义词元工厂”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "绿电进Token出！联想重新定义词元工厂",
+        "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
         "ai-news"
       ],
       "importantTerms": [],
       "scores": {
-        "eventImpact": 4.0,
-        "sourceCredibility": 4.1,
-        "novelty": 4.0,
-        "aiProductImpact": 3.9,
-        "personalRelevance": 3.5
+        "eventImpact": 4.1,
+        "sourceCredibility": 3.7,
+        "novelty": 4.4,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 4.1
       },
-      "finalScore": 79.0,
-      "preRankingScore": 66.12,
+      "finalScore": 81.6,
+      "preRankingScore": 68.14,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 7,
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "13493b7c994f35",
+      "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+      "titleZh": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+      "url": "https://www.qbitai.com/2026/11/510493.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-16T07:58:57Z",
+      "discoveredAt": "2026-11-17T04:58:00Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+      "keyIdeas": [
+        "核心信号围绕“SuperLink2026开启创投行业超级链接时刻，12月北京见”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.1,
+        "sourceCredibility": 3.9,
+        "novelty": 3.5,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 79.8,
+      "preRankingScore": 68.69,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
       "duplicateSources": []
     }
   ],
