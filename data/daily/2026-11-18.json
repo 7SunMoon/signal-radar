@@ -1,0 +1,376 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T04:02:11Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 234,
+    "afterDeduplication": 231,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "e0d2ba07cf0f2d",
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "titleZh": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "url": "https://starsling.dev",
+      "author": "yonasb",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-17T19:01:43Z",
+      "discoveredAt": "2026-11-18T04:02:02Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "We’re Yonas and Daniel and we’re building StarSling ( https://starsling.dev ), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows. Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so a burst of agent PRs all run at once. We’re different from other runners because ours come with agents that cut down your CI bill over time. PRs are generated through our CI harness, which runs an agent loop that’s tuned to improve your CI speed and reduce cost. Mastra now merges over 1,800 PRs a month and we got their slowest workflow from 29m 56s on GitHub-hosted runners down to 5m 06s (5.87x) on StarSling. We realized the true value of having an agent loop running on top of fast runners when our agents found an 11-month-old performance bottleneck in better-auth. The fix made one of their test jobs 5.4x faster: https://github.com/better-auth/better-auth/pull/10762 . I previously founded StackShare, which grew to over 1.5M developers. Daniel helped build Netflix's internal developer portal. Last year we started building AI agents for DevOps because shipping code to prod fell way beh",
+      "keyIdeas": [
+        "核心信号围绕“Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Launch HN: StarSling (YC P25) – Self-improving C",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.6,
+        "sourceCredibility": 4.5,
+        "novelty": 4.1,
+        "aiProductImpact": 4.6,
+        "personalRelevance": 3.8
+      },
+      "finalScore": 88.0,
+      "preRankingScore": 78.37,
+      "readingTier": "must-read",
+      "socialSignals": {
+        "points": 62,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=50536468"
+      },
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "7dc6954b4a0345",
+      "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+      "titleZh": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+      "url": "https://www.qbitai.com/2026/11/510726.html",
+      "author": "一水",
+      "source": "量子位",
+      "publishedAt": "2026-11-18T01:03:42Z",
+      "discoveredAt": "2026-11-18T04:02:02Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。英伟达公布了老黄离职后的首份财报",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "英伟达公布了老黄离职后的首份财报",
+      "keyIdeas": [
+        "核心信号围绕“黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.8,
+        "novelty": 4.4,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 84.2,
+      "preRankingScore": 69.86,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "e7d004007b11b6",
+      "title": "做AI产品一年烧掉30万，我才明白：大模型成本根本不是技术问题",
+      "titleZh": "做AI产品一年烧掉30万，我才明白：大模型成本根本不是技术问题",
+      "url": "https://www.woshipm.com/ai/6494644.html",
+      "author": "LONG AI",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-18T01:37:51Z",
+      "discoveredAt": "2026-11-18T04:02:02Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。一位产品经理复盘首款AI产品烧掉30万的教训：90%的API成本浪费在产品决策阶段就已注定。从提示词废话、模型错配、输入偷懒到失败重试和成本盲区，五个产品层面的开关让成本从峰值6.8万降至1万出头，用户量却翻了五倍。这不是技术优化，而是产品经理必须算清的账。 我是个产品经理，去年我们团队凑了点钱做第一款AI产品。 现在回头看，我犯的最蠢的错误，就是把API成本当成了技术问题——觉得只要算法好、工程师厉害，成本自然就降下来了。结果是钱烧了三十万，换来的全是产品决策上的教训。 说实话，写这篇的时候我挺不好意思的，因为这些坑说穿了都是常识，但当时真的是当局者迷。如果你也在做AI产品，或者准备做，希望能帮你少交点学费。 账单发群里那天，没人说话 我们做的是面向C端的AI内容助手，说白了就是用户输需求，AI帮写东西。技术",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "一位产品经理复盘首款AI产品烧掉30万的教训：90%的API成本浪费在产品决策阶段就已注定。从提示词废话、模型错配、输入偷懒到失败重试和成本盲区，五个产品层面的开关让成本从峰值6.8万降至1万出头，用户量却翻了五倍。这不是技术优化，而是产品经理必须算清的账。 我是个产品经理，去年我们团队凑了点钱做第一款AI产品。 现在回头看，我犯的最蠢的错误，就是把API成本当成了技术问题——觉得只要算法好、工程师厉害，成本自然就降下来了。结果是钱烧了三十万，换来的全是产品决策上的教训。 说实话，写这篇的时候我挺不好意思的，因为这些坑说穿了都是常识，但当时真的是当局者迷。如果你也在做AI产品，或者准备做，希望能帮你少交点学费。 账单发群里那天，没人说话 我们做的是面向C端的AI内容助手，说白了就是用户输需求，AI帮写东西。技术选型没什么好犹豫的，直接上当时市面上效果最好的那款模型，觉得效果好体验就不会差，先跑起来再说。 第一个月账单3200，我还在群里发了个红包说挺便宜。第二个月8700，觉得正常，用户涨了嘛。第三个月18500，开始有点肉疼，但DAU在涨，安慰自己这是必经阶段。第四个月42000，我把账单截图发群里，群里安静了五分钟没人说话。 最讽刺的是什么？我们当时的DAU才不到两千。两千个用户，一个月烧四万多API费，算下来每个用户每月给我们贡献两块钱，我们在他身上花二十一块。这生意怎么做都是亏的。 技术负责人说要换模型、要做量化、要搭缓存。我当时还挺生气，觉得为什么早不想着优化，现在账单炸了才说。后来才明白，这事真不能怪技术。 第一个开关：我自己塞进去的废话 最先砍掉的30%成本，不是技术优化出来的，是我自己从提示词里抠出来的。 说出来丢人，最开始的系统提示词写了快两千字，什么”你是一个专业的助手””请用友好的语气回答””请注意排版格式””请分点作答”……这些废话每一次请求都会完整传给模型，一个字不少收钱。 我当时还觉得这是”产品细节”，觉得提示词写得越全，模型表现越好。直到技术负责人给我算了笔账：光这些没用的套话，每个月就烧掉我们一万多块钱。 那天我坐在工位上对着提示词删了一下午，边删边心疼。什么”你是世界上最棒的AI助手”，我当时怎么想的写出这种东西。最后系统提示词从两千字压到三百字，核心约束一条没少，那些自我感动的废话全删了，成本当天就掉了三分之一。 后来我养成一个习惯，提示词里每加一句话，都要算一下这句话每个月要花多少钱。大部分听起来很美好的”产品细节”，根本不值那个价。 第二个开关：80%的请求根本不需要顶配模型 这个认知是被CTO骂醒的。 有天晚上他把我叫到工位上，给我看后台的请求日志：”你自己看，70%的请求是’帮我润色一下这句话”帮我把这段话改短一点”帮我写个朋友圈文案’，这种活你给它用最好的模型干嘛？七块钱一百万字的模型干这个活都嫌浪费。” 我当时",
+      "keyIdeas": [
+        "核心信号围绕“做AI产品一年烧掉30万，我才明白：大模型成本根本不是技术问题”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "做AI产品一年烧掉30万，我才明白：大模型成本根本不是技术问题",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 3.8,
+        "argumentDepth": 4.4,
+        "evidenceQuality": 4.5,
+        "nonConsensusValue": 4.3,
+        "transferability": 3.9,
+        "personalRelevance": 4.2
+      },
+      "finalScore": 83.5,
+      "preRankingScore": 74.76,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "715137d9352475",
+      "title": "What is the best harness for each model?",
+      "titleZh": "What is the best harness for each model?",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "author": "Edward40",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-17T14:53:43Z",
+      "discoveredAt": "2026-11-18T04:02:02Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“What is the best harness for each model?”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "What is the best harness for each model?",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.6,
+        "novelty": 4.4,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 83.4,
+      "preRankingScore": 79.69,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 344,
+        "comments": 120,
+        "hnUrl": "https://news.ycombinator.com/item?id=50532191"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 14,
+      "duplicateSources": []
+    },
+    {
+      "id": "39e9943447463a",
+      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+      "titleZh": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+      "url": "https://github.com/RunanywhereAI/trnrt",
+      "author": "sanchitmonga22",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-17T16:01:04Z",
+      "discoveredAt": "2026-11-18T04:02:02Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run GLM 5.3 flash (FP8) on AWS trn2.48xlarge, and will bring more models support soon. It’s open to contributions :) What it does today: - Serves 2 instances of GLM-5.3 flash on a single box, 8 trn2 with a cache aware router. - Can process 3.57M TPM (tokens per minute) on SemiAnalysis's AgentX benchmarks. - Runs decode as one NKI kernel per layer half, or for the 11 sparse-attention layers fuses both blocks into a single kernel, for faster performance. We started working on Trn2 because we wanted to explore it and see if we can come close to beating it’s performance in terms of cost efficiency compared to H100/H200. A big MoE with 1M context window such as GLM-5.3 flash requires a lot of memory, and memory/tb on a trn2.48xlarge costs less than half compared to 8x h200 on AWS, and hence we wanted to experiment with it and now we’re sharing some early results. But AWS's own stack didn't support the model: vLLM Neuron's latest release did not register any GLM model, and NxDI, AWS's own distrib",
+      "keyIdeas": [
+        "核心信号围绕“Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Show HN: TrnRT – An open-source LLM inference en",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.1,
+        "novelty": 4.1,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 83.4,
+      "preRankingScore": 76.33,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 46,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=50533270"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "f26f2a4dfd6b9b",
+      "title": "Broadening access to AI for scientists",
+      "titleZh": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-16T17:00:00Z",
+      "discoveredAt": "2026-11-18T04:02:01Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "keyIdeas": [
+        "核心信号围绕“Broadening access to AI for scientists”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Broadening access to AI for scientists",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.4,
+        "novelty": 3.7,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 82.8,
+      "preRankingScore": 63.85,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 6,
+      "duplicateSources": []
+    },
+    {
+      "id": "fc6e4b817a0471",
+      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+      "titleZh": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+      "url": "https://www.qbitai.com/2026/11/510707.html",
+      "author": "梦瑶",
+      "source": "量子位",
+      "publishedAt": "2026-11-18T00:49:14Z",
+      "discoveredAt": "2026-11-18T04:02:02Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。Sol逼近旗舰性能",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "Sol逼近旗舰性能",
+      "keyIdeas": [
+        "核心信号围绕“GPT-6.2 Astra和Sol王炸双发！3D又危了”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.0,
+        "novelty": 3.9,
+        "aiProductImpact": 3.5,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 81.6,
+      "preRankingScore": 69.77,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "2991c89a77602a",
+      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+      "titleZh": "李沐加盟的Aimotion，是一家什么AI公司？",
+      "url": "https://www.qbitai.com/2026/11/510688.html",
+      "author": "思邈",
+      "source": "量子位",
+      "publishedAt": "2026-11-17T11:40:37Z",
+      "discoveredAt": "2026-11-18T04:02:02Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。瞄准「产业级世界模型」",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "瞄准「产业级世界模型」",
+      "keyIdeas": [
+        "核心信号围绕“李沐加盟的Aimotion，是一家什么AI公司？”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "李沐加盟的Aimotion，是一家什么AI公司？",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.7,
+        "sourceCredibility": 4.0,
+        "novelty": 4.0,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 78.8,
+      "preRankingScore": 68.47,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
