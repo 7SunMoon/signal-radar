@@ -1,0 +1,372 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T03:53:17Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 235,
+    "afterDeduplication": 233,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "9ae0f72ece6fbb",
+      "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+      "titleZh": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+      "url": "https://www.qbitai.com/2026/11/511079.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-19T04:02:39Z",
+      "discoveredAt": "2026-11-20T03:53:09Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+      "keyIdeas": [
+        "核心信号围绕“安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.4,
+        "novelty": 4.3,
+        "aiProductImpact": 3.7,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 84.4,
+      "preRankingScore": 68.06,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "849bf67a7068c2",
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "titleZh": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "author": "datascientist",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-19T15:38:12Z",
+      "discoveredAt": "2026-11-20T03:53:08Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Pete warden on local AI, open models, voice interfaces, the future of hardware”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Pete warden on local AI, open models, voice inte",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 3.7,
+        "novelty": 3.8,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 83.0,
+      "preRankingScore": 79.32,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 219,
+        "comments": 198,
+        "hnUrl": "https://news.ycombinator.com/item?id=50561508"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "3bd1eda93d31d9",
+      "title": "以活动业务为例，从系统设计到数据的对比分析（一）",
+      "titleZh": "以活动业务为例，从系统设计到数据的对比分析（一）",
+      "url": "https://www.woshipm.com/share/6497129.html",
+      "author": "产品子鱼",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-20T03:19:47Z",
+      "discoveredAt": "2026-11-20T03:53:10Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。面对普通活动与集市活动的系统设计，是统一建模还是分线开发？本文深入对比“主活动-子活动”与“两条业务线”两种思路，从抽象建模、状态机、字段交互到数据迁移，多维度剖析优劣，并附数据表设计细节，助你做出更贴合业务本质的架构决策。 业务背景 业务方展开活动，活动有两种形式： 普通活动：一个活动，由主办方主持，仅开展一次。 集市活动：一个活动，由主办方招收活动中的多个摊主。 系统设计 思路1：两形式下，都是一个活动。采用“一个主活动，多个子活动”，多子活动时，对应多个摊主。 思路2：多个摊主，概念上不属于活动，系统上很可能不具备活动属性。采用“两条业务线，各自开展活动”。 思路1设计不太符合实际业务性质，在文章中仍将其纳入思考，进行对比分析，多角度找出差异，以丰富思考过程。 对比思考 抽象与建模 思路1： 用“活动 +",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "面对普通活动与集市活动的系统设计，是统一建模还是分线开发？本文深入对比“主活动-子活动”与“两条业务线”两种思路，从抽象建模、状态机、字段交互到数据迁移，多维度剖析优劣，并附数据表设计细节，助你做出更贴合业务本质的架构决策。 业务背景 业务方展开活动，活动有两种形式： 普通活动：一个活动，由主办方主持，仅开展一次。 集市活动：一个活动，由主办方招收活动中的多个摊主。 系统设计 思路1：两形式下，都是一个活动。采用“一个主活动，多个子活动”，多子活动时，对应多个摊主。 思路2：多个摊主，概念上不属于活动，系统上很可能不具备活动属性。采用“两条业务线，各自开展活动”。 思路1设计不太符合实际业务性质，在文章中仍将其纳入思考，进行对比分析，多角度找出差异，以丰富思考过程。 对比思考 抽象与建模 思路1： 用“活动 + 子活动”一套骨架承载两种业务，差异用“子活动数量/模式”表达。建模是“先统一、再分支”。 思路2： 普通活动和集市活动各自成为业务对象，在上层用“活动”概念。建模是“分支”，存在统计需求，需聚合。 语义表达的直接性 思路1：集市活动的“活动-摊主”被翻译成“主活动-子活动”，“子活动”对应现实业务的“岗位”；普通活动被翻译成“主活动-唯一子活动”，靠“单子活动模式”还原。语义是间接的。 思路2：集市活动直接是“活动-摊主”，，普通活动直接是“活动”。语义是直接的。 活动创建与配置路径 思路1：统一入口“创建活动”→是否唯一子活动。配置路径是“一个表单 + 模式开关 + 子活动”。 思路2：两个入口“创建普通活动”“创建集市活动”。配置路径是“两套表单”。 状态机 思路1：主活动和子活动各自有状态，需定义联动规则（主活动关闭→子活动是否关闭；子活动满员→主活动是否还可报名）。一套状态机 + 模式分支。 思路2：普通活动状态机和集市活动状态机可分别设计，两类活动有相同或不同。两套状态机 + 聚合层展示。汇总统计需要规定字段映射关系。 字段与交互 思路1，普通活动或集市活动有变更时，需要同时考虑普通活动和集市活动两类活动。 1）规则校验，若一个用户不能同时报普通活动和集市活动，可在统一报名表上做冲突规则校验。 2）活动新加字段“摊主名称”，这是针对集市活动的需求，但两类活动在同一表中，也需要考虑新加字段在普通活动中的意义和呈现。 3）同义字段，只需要在一张表上加一次。 4）字段名字，需要兼顾考虑两类活动，即是否能在两类活动中表明现实含义。 5）前端与交互扩展，组件复用度高，但分支逻辑集中。在绑定页面数据时，数据来源于一套数据表，重点是考虑不同情况下的交互。 如创建活动表单，可能复杂度： 思路2，普通活动或集市活动有变更时，只考虑有变更的活动类型，如有汇总需考虑字段对应。 1）规则校验，若一个用户不能同时报普通活动和集市活动，需要跨业务线编排冲突规则，跨表校",
+      "keyIdeas": [
+        "核心信号围绕“以活动业务为例，从系统设计到数据的对比分析（一）”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "以活动业务为例，从系统设计到数据的对比分析（一）",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 3.7,
+        "argumentDepth": 4.2,
+        "evidenceQuality": 4.5,
+        "nonConsensusValue": 4.4,
+        "transferability": 4.3,
+        "personalRelevance": 3.6
+      },
+      "finalScore": 82.0,
+      "preRankingScore": 74.94,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "f0d0f469e0bfee",
+      "title": "Anthropic’s Nasdaq debut",
+      "titleZh": "Anthropic’s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "author": "wslh",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-19T17:02:40Z",
+      "discoveredAt": "2026-11-20T03:53:08Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Anthropic’s Nasdaq debut”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Anthropic’s Nasdaq debut",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 3.9,
+        "novelty": 4.4,
+        "aiProductImpact": 3.6,
+        "personalRelevance": 4.6
+      },
+      "finalScore": 82.0,
+      "preRankingScore": 79.92,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 991,
+        "comments": 1925,
+        "hnUrl": "https://news.ycombinator.com/item?id=50562754"
+      },
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": null,
+      "duplicateSources": []
+    },
+    {
+      "id": "e683d40fba103b",
+      "title": "The Silent Consensus",
+      "titleZh": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-18T10:00:00Z",
+      "discoveredAt": "2026-11-20T03:53:07Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "keyIdeas": [
+        "核心信号围绕“The Silent Consensus”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "The Silent Consensus",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.7,
+        "sourceCredibility": 4.4,
+        "novelty": 4.4,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 81.6,
+      "preRankingScore": 63.36,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "b898a1b2127c57",
+      "title": "Introducing Gemini 4 Neon",
+      "titleZh": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "author": "",
+      "source": "Google DeepMind Blog",
+      "publishedAt": "2026-11-18T21:35:43Z",
+      "discoveredAt": "2026-11-20T03:53:07Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Introducing Gemini 4 Neon”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Introducing Gemini 4 Neon",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 3.6,
+        "novelty": 4.4,
+        "aiProductImpact": 3.6,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 80.2,
+      "preRankingScore": 62.97,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 14,
+      "duplicateSources": []
+    },
+    {
+      "id": "0b26d6c31cc5bb",
+      "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+      "titleZh": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+      "url": "https://www.qbitai.com/2026/11/511180.html",
+      "author": "鹭羽",
+      "source": "量子位",
+      "publishedAt": "2026-11-19T08:18:30Z",
+      "discoveredAt": "2026-11-20T03:53:09Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。媒体均分登顶历史第一，细节多到爆炸",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "媒体均分登顶历史第一，细节多到爆炸",
+      "keyIdeas": [
+        "核心信号围绕“GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.3,
+        "novelty": 3.6,
+        "aiProductImpact": 3.5,
+        "personalRelevance": 4.1
+      },
+      "finalScore": 79.0,
+      "preRankingScore": 68.21,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 2,
+      "duplicateSources": []
+    },
+    {
+      "id": "77bcf4d6e254b9",
+      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+      "titleZh": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+      "url": "https://www.qbitai.com/2026/11/511426.html",
+      "author": "田, 晏林",
+      "source": "量子位",
+      "publishedAt": "2026-11-20T01:07:38Z",
+      "discoveredAt": "2026-11-20T03:53:09Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+      "keyIdeas": [
+        "核心信号围绕“具身机器人进入真机时代，华为云CloudRobo开始组队发力了”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.7,
+        "sourceCredibility": 3.8,
+        "novelty": 4.4,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 3.6
+      },
+      "finalScore": 77.8,
+      "preRankingScore": 70.24,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
