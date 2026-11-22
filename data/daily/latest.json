@@ -1,24 +1,107 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T03:47:22Z",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T02:51:01Z",
   "mode": "metadata",
   "stats": {
-    "discovered": 235,
-    "afterDeduplication": 233,
+    "discovered": 234,
+    "afterDeduplication": 232,
     "deepReviewed": 40,
     "recommended": 8
   },
   "articles": [
     {
-      "id": "c4ca83ba5741a4",
-      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "titleZh": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "url": "https://signal.org/blog/protecting-your-privacy/",
-      "author": "dotcoma",
+      "id": "d989f106912157",
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "titleZh": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "url": "https://www.qbitai.com/2026/11/511757.html",
+      "author": "衡宇",
+      "source": "量子位",
+      "publishedAt": "2026-11-21T06:30:55Z",
+      "discoveredAt": "2026-11-22T02:50:40Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。还透露了不少训练背后的秘诀",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "还透露了不少训练背后的秘诀",
+      "keyIdeas": [
+        "核心信号围绕“姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.2,
+        "novelty": 4.4,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 86.2,
+      "preRankingScore": 68.1,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "ce37b920e72269",
+      "title": "WorkBuddy「电脑操控」上线，用完彻底回不去了",
+      "titleZh": "WorkBuddy「电脑操控」上线，用完彻底回不去了",
+      "url": "https://www.woshipm.com/ai/6497842.html",
+      "author": "产品笔记",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-21T03:16:26Z",
+      "discoveredAt": "2026-11-22T02:50:41Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。WorkBuddy 上线电脑操控，补齐浏览器操控、远程遥控之后的第三块拼图。开辅助功能和屏幕录制两道权限，它就能跨应用点按、输入、读屏，实测开元宝问问题、刷朋友圈、代发微信消息都做完了。 WorkBuddy 近期大招频发，密集上线新自动化操控能力。 先上线了浏览器操控 ，。 通过浏览器扩展程序，让 WorkBuddy 操控你的浏览器，帮你干活。 紧接着，上线了远程遥控 。 电脑不在身边时，通过手机控制电脑桌面，来帮你干活。 现在，WorkBuddy 上线了第三项自动化操控能力。 这次更厉害，是电脑操控能力。 要通过 WorkBuddy 自动操作你电脑上的各项应用，帮你干活。 打开 WorkBuddy 设置-智能体，可看到「电脑操控」入口。 页面显示，仍为Beta版。提示： 安装成功后，WorkBuddy可使用电",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "WorkBuddy 上线电脑操控，补齐浏览器操控、远程遥控之后的第三块拼图。开辅助功能和屏幕录制两道权限，它就能跨应用点按、输入、读屏，实测开元宝问问题、刷朋友圈、代发微信消息都做完了。 WorkBuddy 近期大招频发，密集上线新自动化操控能力。 先上线了浏览器操控 ，。 通过浏览器扩展程序，让 WorkBuddy 操控你的浏览器，帮你干活。 紧接着，上线了远程遥控 。 电脑不在身边时，通过手机控制电脑桌面，来帮你干活。 现在，WorkBuddy 上线了第三项自动化操控能力。 这次更厉害，是电脑操控能力。 要通过 WorkBuddy 自动操作你电脑上的各项应用，帮你干活。 打开 WorkBuddy 设置-智能体，可看到「电脑操控」入口。 页面显示，仍为Beta版。提示： 安装成功后，WorkBuddy可使用电脑操控能力，你可以随时停止。使用过程中可能会截屏或读取窗口内容，相关权限可在系统设置中收回。 WorkBuddy，这是要接管你的电脑。 在授权范围内， 通过自动操作你电脑上的任意应用 ，来完成任务。 实测丝滑体验如下。 用完后，回不去了。 一、安装和启动 我点击「安装」，很快就完成了。 那如何使用呢？ 遇事不决问 AI，打开 WorkBuddy 问问就好了。 其实我大概知道如何使用，但我还是想让 WorkBuddy 自己回答下，指令： WorkBuddy 新上线的电脑操控，如何使用？ 它告诉我， 开启 2 个权限后，在 WorkBuddy 对话里说需求就行。 我按照要求，开启电脑辅助功能、屏幕录制两个权限。 辅助功能权限 ，用来模拟鼠标键盘操作。用于执行点击、输入任务。 屏幕录制权限 ，用来截图识别屏幕，判断点击位置。 完成授权后，记得按照要求 退出并重新打开 ，这样权限才能写入 WorkBuddy。 然后，也会看到电脑设置里，辅助功能、屏幕录制下， 多了一个 WorkBuddy Computer Use 授权。 然后，就可以在 WorkBuddy 中，下指令。 让 WorkBuddy 操作电脑上应用，做任务了。 二、执行任务 WorkBuddy 操作电脑，是通过 操作电脑上的应用，来完成任务 。 属于跨应用操作。 1 打开元宝输入问题 我先让 WorkBuddy 打开元宝，问问： 打开元宝桌面客户端，输入「元宝搜索 C 端产品，是什么时候发布的？并介绍下这款产品。」 可以看到，它已调用了电脑操作的工具。 它找到并打开了元宝，但是涉及积分消耗，会征得你的同意。我同意后，它开始执行。 可以看到，有个小鼠标，在操作我的电脑。 没多久，就给我返回了结果。 2 查看和总结最新朋友圈内容 然后，我又让它： 帮我打开微信，打开朋友圈，浏览最近的3 条朋友圈内容，总结发给我 这次操作，耗时有点长（中间走了一个我人工导致的弯路，微信窗口我设置得太小了），但是最终还是完",
+      "keyIdeas": [
+        "核心信号围绕“WorkBuddy「电脑操控」上线，用完彻底回不去了”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "WorkBuddy「电脑操控」上线，用完彻底回不去了",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.5,
+        "argumentDepth": 4.2,
+        "evidenceQuality": 4.2,
+        "nonConsensusValue": 3.9,
+        "transferability": 4.4,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 85.2,
+      "preRankingScore": 72.64,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "fd2811614640e9",
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "titleZh": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "author": "cdrnsf",
       "source": "Hacker News",
-      "publishedAt": "2026-11-20T09:42:16Z",
-      "discoveredAt": "2026-11-21T03:47:15Z",
+      "publishedAt": "2026-11-20T13:29:59Z",
+      "discoveredAt": "2026-11-22T02:50:40Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -26,13 +109,13 @@
       "translationStatus": "pending",
       "sourceSnippet": "",
       "keyIdeas": [
-        "核心信号围绕“Restricting AI agents in mobile operating systems platforms from capturing data”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Restricting AI agents in mobile operating system",
+        "Nasdaq erases all 2026 gains as AI sell-off damp",
         "ai-news"
       ],
       "importantTerms": [
@@ -42,155 +125,22 @@
         }
       ],
       "scores": {
-        "eventImpact": 4.1,
-        "sourceCredibility": 4.1,
-        "novelty": 4.6,
-        "aiProductImpact": 4.5,
-        "personalRelevance": 4.2
-      },
-      "finalScore": 85.8,
-      "preRankingScore": 79.19,
-      "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 526,
-        "comments": 310,
-        "hnUrl": "https://news.ycombinator.com/item?id=50572348"
-      },
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 13,
-      "duplicateSources": []
-    },
-    {
-      "id": "3e97e19d49f6ea",
-      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-      "titleZh": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-      "url": "https://www.qbitai.com/2026/11/511582.html",
-      "author": "一水",
-      "source": "量子位",
-      "publishedAt": "2026-11-20T05:24:11Z",
-      "discoveredAt": "2026-11-21T03:47:16Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。已开源Agnes Harness",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "已开源Agnes Harness",
-      "keyIdeas": [
-        "核心信号围绕“双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.1,
-        "sourceCredibility": 4.5,
-        "novelty": 4.3,
+        "eventImpact": 4.6,
+        "sourceCredibility": 4.2,
+        "novelty": 3.6,
         "aiProductImpact": 4.4,
-        "personalRelevance": 3.6
+        "personalRelevance": 3.7
       },
-      "finalScore": 84.6,
-      "preRankingScore": 67.92,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 4,
-      "duplicateSources": []
-    },
-    {
-      "id": "9e9229586485a2",
-      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-      "titleZh": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-      "url": "https://kobi.music/research/dettato",
-      "author": "hidude562",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-17T01:03:05Z",
-      "discoveredAt": "2026-11-21T03:47:15Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "I released dettato, my open weight audio to midi transcription model. It beats muscriptor 1.3b on every set and is roughly 60x smaller, without training on copyrighted recordings. Feel free to ask questions",
-      "keyIdeas": [
-        "核心信号围绕“Show HN: I made an audio-to-MIDI model 60x more efficient”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Show HN: I made an audio-to-MIDI model 60x more ",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 4.5,
-        "sourceCredibility": 4.3,
-        "novelty": 4.5,
-        "aiProductImpact": 3.5,
-        "personalRelevance": 3.6
-      },
-      "finalScore": 83.4,
-      "preRankingScore": 69.62,
+      "finalScore": 83.8,
+      "preRankingScore": 77.27,
       "readingTier": "worth-reading",
       "socialSignals": {
-        "points": 252,
-        "comments": 55,
-        "hnUrl": "https://news.ycombinator.com/item?id=50526023"
+        "points": 501,
+        "comments": 877,
+        "hnUrl": "https://news.ycombinator.com/item?id=50574383"
       },
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
-      "duplicateSources": []
-    },
-    {
-      "id": "511245d7531a0d",
-      "title": "微信又上线一个创作Agent，公众号文章可一键转视频",
-      "titleZh": "微信又上线一个创作Agent，公众号文章可一键转视频",
-      "url": "https://www.woshipm.com/ai/6497655.html",
-      "author": "产品笔记",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-11-21T01:51:04Z",
-      "discoveredAt": "2026-11-21T03:47:16Z",
-      "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。微信在视频号助手里内测了「文章转视频」Agent，输入文字、公众号链接或音频，脚本、分镜、画面和配音都由 AI 一次跑完，素材上限一万字。对只会写不会拍的图文博主来说，这是个直接可用的出口。 继微信上线 「做个小工具」电脑端Agent 后。 微信再放大招，内测「做个小工具」Agent，一句话做个应用 微信再次推出一个新 Agent。 这就是腾讯 2026 年第三季度财报提到的， 面向创作者的 AI 工具：文章转视频 Agent。 财报原文的介绍，在视频号板块这里： 翻译过来是： 我们为创作者推出了一套 AI 工具，可将公众号文章自动转成视频。 分镜设计、脚本撰写、画面/素材生成全部由 AI 自动完成。 这是微信视频号，专为公众号文章转视频做的 AI Agent。 来帮助图文创作者，创作视频。 特别是那些擅长写公",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "微信在视频号助手里内测了「文章转视频」Agent，输入文字、公众号链接或音频，脚本、分镜、画面和配音都由 AI 一次跑完，素材上限一万字。对只会写不会拍的图文博主来说，这是个直接可用的出口。 继微信上线 「做个小工具」电脑端Agent 后。 微信再放大招，内测「做个小工具」Agent，一句话做个应用 微信再次推出一个新 Agent。 这就是腾讯 2026 年第三季度财报提到的， 面向创作者的 AI 工具：文章转视频 Agent。 财报原文的介绍，在视频号板块这里： 翻译过来是： 我们为创作者推出了一套 AI 工具，可将公众号文章自动转成视频。 分镜设计、脚本撰写、画面/素材生成全部由 AI 自动完成。 这是微信视频号，专为公众号文章转视频做的 AI Agent。 来帮助图文创作者，创作视频。 特别是那些擅长写公众号文章，但不擅长做视频的博主。 接下来，探索下这个「文章转视频」Agent。 打开视频号助手后台。 在首页「发表视频」旁边，有个「文章转视频」入口 。 点击，进入创作主界面。 可以看到，该「文章转视频」Agent 创作界面的几个特点： 1）可以直接输入文字， AI 自动生成视频 2）可以输入公众号链接，解析链接中内容，AI 自动生成视频 3）可以上传音频文件，转译音频中内容，AI 自动生成视频 4）文字上限不超过 1 万字 5）可自己选择生成视频的音色和语速 6）以及「更多设置」入口 「文章转视频」Agent 的Slogan 是： 把观点和想法变成视频。 输入文字，或公众号链接，或音频文件后。 点击生成， 会进入AI 自动化生成视频流程中。 AI 自动帮你完成，包括文件解析，文本切分，脚本生成，分镜拆分，可视化动画生成，配音配乐等各个步骤。 最终产出一条完整视频。 你如果对生成的视频不满意，可以对话框中说出你的需求。 让它整体生成或者精细调整。 视频达到预期效果后。 可直接发布到视频号，或者下载视频。 可以看到。 视频号「文章转视频」这个 AI 工具。 是微信，为把公众号高质量文章转成视频，而提供的专用 AI 创作 Agent。 来帮助那些不擅长做视频，或不擅长口播，或不想露脸，或嫌做视频麻烦的博主，产出短视频。 因为微信公众号上，有全国最优质的一批图文、长文博主。 沉淀了大量的优质图文内容。 这部分内容，如果能转成视频，将极大丰富视频号的内容来源。 相比写文章，做视频更加繁琐。 找素材，拼画面，录配音等，都非常费时。 使用一些自动化制作视频的工作流或者 skill。 也需要花大量时间去学习，琢磨，试错。 这把很多的优质图文博主挡在了外面。 现在，微信试图解决这个问题。 你只需要把写好的公众号文章丢给它。 AI 自动帮你产出一条高质量的视频。 然后一键发视频号。 你只需要做你擅长的图文内容就好。 可以看到，最近微信在全面 AI 化。 除了放大小微灰测",
-      "keyIdeas": [
-        "核心信号围绕“微信又上线一个创作Agent，公众号文章可一键转视频”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "微信又上线一个创作Agent，公众号文章可一键转视频",
-        "product-insight"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "insightDensity": 4.3,
-        "argumentDepth": 3.9,
-        "evidenceQuality": 4.4,
-        "nonConsensusValue": 4.1,
-        "transferability": 3.8,
-        "personalRelevance": 4.5
-      },
-      "finalScore": 83.2,
-      "preRankingScore": 74.81,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "partial",
-      "estimatedReadingMinutes": 1,
+      "estimatedReadingMinutes": 5,
       "duplicateSources": []
     },
     {
@@ -201,7 +151,7 @@
       "author": "",
       "source": "OpenAI News",
       "publishedAt": "2026-11-18T10:00:00Z",
-      "discoveredAt": "2026-11-21T03:47:14Z",
+      "discoveredAt": "2026-11-22T02:50:39Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -232,7 +182,7 @@
         "personalRelevance": 4.3
       },
       "finalScore": 81.6,
-      "preRankingScore": 60.97,
+      "preRankingScore": 58.67,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -240,44 +190,95 @@
       "duplicateSources": []
     },
     {
-      "id": "ad37c708a96275",
-      "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
-      "titleZh": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
-      "url": "https://www.qbitai.com/2026/11/511603.html",
-      "author": "量子位的朋友们",
-      "source": "量子位",
-      "publishedAt": "2026-11-20T06:16:06Z",
-      "discoveredAt": "2026-11-21T03:47:16Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
+      "id": "35f854dd7615d7",
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "titleZh": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "author": "LetThingsBeDiff",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-20T23:18:32Z",
+      "discoveredAt": "2026-11-22T02:50:40Z",
+      "language": "en",
+      "category": "career",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
+      "translationStatus": "pending",
+      "sourceSnippet": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria. In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did. Well, since then I have zero luck finding any job in SWE. At this point, I have massive gap in my resume that I can't explain to recruiters, I can still code (C#/.NET/AWS) and learned the AI, but who cares if date of my last employment is Jan2025. What should I do ? If you have an alternative path (something completely different from SWE or SWE adjacent) that pays \"well\", I would like to hear.",
       "keyIdeas": [
-        "核心信号围绕“新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
+        "Ask HN: I have been unemployed for 2y. 15 years ",
+        "career"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "authenticity": 3.9,
+        "specificity": 4.1,
+        "transferability": 3.7,
+        "personalRelevance": 4.2,
+        "insightDensity": 4.6,
+        "novelty": 3.8
+      },
+      "finalScore": 80.4,
+      "preRankingScore": 88.02,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 625,
+        "comments": 706,
+        "hnUrl": "https://news.ycombinator.com/item?id=50583761"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 22,
+      "duplicateSources": []
+    },
+    {
+      "id": "4cb075a5562c5e",
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "titleZh": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "author": "Jay",
+      "source": "量子位",
+      "publishedAt": "2026-11-21T06:32:31Z",
+      "discoveredAt": "2026-11-22T02:50:40Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。专为本地部署而生",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "专为本地部署而生",
+      "keyIdeas": [
+        "核心信号围绕“刚刚，DeepSeek V1作者创业项目曝光：开源Agent”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
         "ai-news"
       ],
       "importantTerms": [],
       "scores": {
         "eventImpact": 4.4,
-        "sourceCredibility": 4.2,
-        "novelty": 4.0,
-        "aiProductImpact": 3.4,
-        "personalRelevance": 4.1
+        "sourceCredibility": 3.5,
+        "novelty": 4.2,
+        "aiProductImpact": 4.2,
+        "personalRelevance": 3.5
       },
       "finalScore": 81.0,
-      "preRankingScore": 68.26,
+      "preRankingScore": 68.05,
       "readingTier": "signal",
       "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
       "duplicateSources": []
     },
     {
@@ -288,7 +289,7 @@
       "author": "",
       "source": "Hugging Face Blog",
       "publishedAt": "2026-11-20T00:00:00Z",
-      "discoveredAt": "2026-11-21T03:47:14Z",
+      "discoveredAt": "2026-11-22T02:50:39Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -319,52 +320,52 @@
         "personalRelevance": 3.7
       },
       "finalScore": 80.0,
-      "preRankingScore": 63.22,
+      "preRankingScore": 60.92,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 16,
+      "estimatedReadingMinutes": 17,
       "duplicateSources": []
     },
     {
-      "id": "77bcf4d6e254b9",
-      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-      "titleZh": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-      "url": "https://www.qbitai.com/2026/11/511426.html",
-      "author": "田, 晏林",
+      "id": "9e7df998d665d2",
+      "title": "米哈游发了个VLA论文",
+      "titleZh": "米哈游发了个VLA论文",
+      "url": "https://www.qbitai.com/2026/11/511740.html",
+      "author": "衡宇",
       "source": "量子位",
-      "publishedAt": "2026-11-20T01:07:38Z",
-      "discoveredAt": "2026-11-21T03:47:16Z",
+      "publishedAt": "2026-11-20T16:25:26Z",
+      "discoveredAt": "2026-11-22T02:50:40Z",
       "language": "zh-CN",
       "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。8B参数，50小时自主运行",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+      "sourceSnippet": "8B参数，50小时自主运行",
       "keyIdeas": [
-        "核心信号围绕“具身机器人进入真机时代，华为云CloudRobo开始组队发力了”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“米哈游发了个VLA论文”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+        "米哈游发了个VLA论文",
         "ai-news"
       ],
       "importantTerms": [],
       "scores": {
-        "eventImpact": 3.7,
-        "sourceCredibility": 3.8,
-        "novelty": 4.4,
-        "aiProductImpact": 3.9,
-        "personalRelevance": 3.6
+        "eventImpact": 3.6,
+        "sourceCredibility": 4.3,
+        "novelty": 3.8,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.8
       },
-      "finalScore": 77.8,
-      "preRankingScore": 67.85,
+      "finalScore": 78.8,
+      "preRankingScore": 66.69,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 4,
+      "estimatedReadingMinutes": 3,
       "duplicateSources": []
     }
   ],
