@@ -1,51 +1,51 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T03:32:21Z",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T06:47:57Z",
   "mode": "metadata",
   "stats": {
-    "discovered": 235,
-    "afterDeduplication": 232,
+    "discovered": 234,
+    "afterDeduplication": 231,
     "deepReviewed": 40,
     "recommended": 8
   },
   "articles": [
     {
-      "id": "e179f41cfb1511",
-      "title": "网上卖药：毛利薄如纸，为什么成了大厂最隐秘的“流量印钞机”？",
-      "titleZh": "网上卖药：毛利薄如纸，为什么成了大厂最隐秘的“流量印钞机”？",
-      "url": "https://www.woshipm.com/share/6498250.html",
-      "author": "王在行",
+      "id": "0ccca3bf766feb",
+      "title": "WorkBuddy悄悄升级2个神仙能力，用了真回不去了..",
+      "titleZh": "WorkBuddy悄悄升级2个神仙能力，用了真回不去了..",
+      "url": "https://www.woshipm.com/ai/6498815.html",
+      "author": "袋鼠帝",
       "source": "人人都是产品经理",
-      "publishedAt": "2026-11-23T02:22:30Z",
-      "discoveredAt": "2026-11-23T03:32:14Z",
+      "publishedAt": "2026-11-24T02:07:07Z",
+      "discoveredAt": "2026-11-24T06:47:51Z",
       "language": "zh-CN",
       "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。同样卖出 100 元的药，线下药店平均净赚约 3 元，京东健康、阿里健康却能净赚约 6 元。2025 年线下药店净减少 2.2 万家，线上营收却做到 734 亿。毛利薄如纸的药品，为什么成了大厂最隐秘的流量入口？关键在周转率、履约成本和医保支付。 同样是卖药， 线上线下已是，冰火两重天， 线下疯狂关店，线上快速赚钱。 2025年， 全国 线下药店净减少 2.2万家。 而线上，京东健康 2025年营收734亿，净利润65亿，连续四年盈利； 阿里健康 营收342亿，净利润19亿。 美团买药 把O2O市场份额做到了60%以上，GMV约600亿。 更反常识的是：有媒体对比财报发现， 同样卖出100元的药品，线下药店平均净赚约3元，医药电商可以净赚约6元。 线下卖的贵，是“高毛利”，电商卖的便宜，是“低毛利”，结果 电商",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。实测 WorkBuddy 两个悄悄上线的能力：一是跨设备数据迁移，换电脑登录账号就能一键导入另一台设备的 107 个任务、16 个分组与 2 个定时任务；二是任务分组管理，可以手动排序、跨组拖动、还能批量关联电脑上的文件夹。 最近我在用WorkBuddy的时候发现它又悄悄升级了两个非常重要的能力。 对我来说实质性的帮助到了我，我也觉得非常值得单独写一篇文章给大家介绍一下。 一个是跨设备数据迁移：换一个电脑照样有之前的任务记录； 另一个是终于升级了任务管理：再也不怕历史聊天记录（任务）难找了。 PS：WorkBuddy需要升级到最新版，我的是5.11.3 事情是这样的，我日常用WorkBuddy都是在我的Mac电脑上。 但我会在我女朋友的电脑上登录我的WorkBuddy账号，让她帮我跑Case、做任务啥的。 以及",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "同样卖出 100 元的药，线下药店平均净赚约 3 元，京东健康、阿里健康却能净赚约 6 元。2025 年线下药店净减少 2.2 万家，线上营收却做到 734 亿。毛利薄如纸的药品，为什么成了大厂最隐秘的流量入口？关键在周转率、履约成本和医保支付。 同样是卖药， 线上线下已是，冰火两重天， 线下疯狂关店，线上快速赚钱。 2025年， 全国 线下药店净减少 2.2万家。 而线上，京东健康 2025年营收734亿，净利润65亿，连续四年盈利； 阿里健康 营收342亿，净利润19亿。 美团买药 把O2O市场份额做到了60%以上，GMV约600亿。 更反常识的是：有媒体对比财报发现， 同样卖出100元的药品，线下药店平均净赚约3元，医药电商可以净赚约6元。 线下卖的贵，是“高毛利”，电商卖的便宜，是“低毛利”，结果 电商的净利率，反而是线下的两倍 。 药，毛利薄、履约贵、监管严，按理说不是个好生意。 为什么京东、阿里、美团， 全都把它当必争之地？ 01 药品的“第一层剪刀差”：毛利极低，但周转极高 先看清药品这门生意的底牌。 药品是标品。同一盒布洛芬，在任何平台都是同一个厂家、同一个批号。标品意味着没有溢价空间。用户打开比价软件，贵一毛钱就换一家。 所以医药电商的毛利率并不高。阿里健康毛利率从24.3%回落到24.0%；京东健康毛利率虽提升到26.1%，但这已经是靠自营供应链效率一寸一寸抠出来的结果。 但药品有一个线下零售不具备的特性： 高频、刚需、抗周期。 一个人可以少买零食、少换手机，但没法在发烧的时候“等等再买”。 京东健康2025年商品收入609亿，占总营收83%；阿里健康医药自营占比同样高达86.6%。 这两家公司不是在做“医疗”，是在做一个 高频流量入口。 京东主站的低频是3C家电（三年换一部手机），药品能把用户打开App的频率从“月”拉到“周”。高频流量进来后，买药顺手带盒保健品，逛一逛健康消费。 药本身不赚钱。药带来的流量和复购，才是大厂要的东西。 02 第二层剪刀差：线下是刚性成本，线上是弹性成本 药品毛利薄，履约成本又高，这是行业公认的难题。但线上和线下的“贵”，贵在不同地方。 线下药店的履约成本是刚性的。房租、执业药师工资、水电，不管一天进来10个人还是100个人，这笔钱都得花。夜间更是灾难：行业数据显示，线上购药夜间订单占比达20%，但全国24小时营业的药店不足10%。开一晚上店，可能只卖两盒退烧药，连电费都覆盖不住。 医药电商的履约成本，是 弹性 的。 美团的打法最典型：复用外卖骑手网络。白天送餐，夜间送药。夜间单价高、竞争少，平台用“高毛利品类补贴低毛利服务”。五年时间，把24小时药店从2000多家做到16000家，靠的是用订单密度把夜间运力“摊”出来。 京东走的是另一条路。自营药房、自建供应链，把履约成本占自营收入的比例从9.8%压到9.",
+      "sourceSnippet": "实测 WorkBuddy 两个悄悄上线的能力：一是跨设备数据迁移，换电脑登录账号就能一键导入另一台设备的 107 个任务、16 个分组与 2 个定时任务；二是任务分组管理，可以手动排序、跨组拖动、还能批量关联电脑上的文件夹。 最近我在用WorkBuddy的时候发现它又悄悄升级了两个非常重要的能力。 对我来说实质性的帮助到了我，我也觉得非常值得单独写一篇文章给大家介绍一下。 一个是跨设备数据迁移：换一个电脑照样有之前的任务记录； 另一个是终于升级了任务管理：再也不怕历史聊天记录（任务）难找了。 PS：WorkBuddy需要升级到最新版，我的是5.11.3 事情是这样的，我日常用WorkBuddy都是在我的Mac电脑上。 但我会在我女朋友的电脑上登录我的WorkBuddy账号，让她帮我跑Case、做任务啥的。 以及我经常出差，会远程操控我MacMini上的WorkBuddy干活。 PS：特别是最近Hy4 flash还有免费额度，性价比很高。得猛猛蹬～ 但一直以来都有个问题，其他电脑上登录我WorkBuddy的账号，没法看到我电脑上之前的对话记录。 同样的，在其他电脑上跑的任务，也没法同步到我的电脑。这就很痛苦。 PS：像Codex也是有这个问题。 上面是我的场景，但是相信大家或多或少都会遇到这种多设备的问题吧 比如你上班用的是办公电脑，回家用的是家用电脑。 OK，我就带大家操作一下子（找了一台新电脑），很简单。 在新电脑上登录自己的WorkBuddy账号，可以看到右上角直接弹出提示，支持一键导入数据～ 点击导入，就会跳到下面这个设置框。 在设置->数据导入，也可以进入到这个设置。 可以看到WorkBuddy也支持导入本地Codex、Claude Code，不过这不是今天的重点。 我切到「导入其他电脑数据」，这里它会把所有登录这个账号的设备查找出来。 我想导入我的主力机的数据，点击展开，可以看到有107个任务，16个分组，2个定时任务。 点击「全部导入」 然后它就开始吭哧吭哧工作啦！ 导入的过程中，左侧任务栏能看到实时导入的数据。 整个过程速度挺快的，大概1分钟左右就搞定了～ 哈哈哈，熟悉的感觉又回来啦！！！ 同样的，如果你在新电脑上跑了新任务。 回到我自己的主力机上，也可以一键同步过来。 而且这次由于只有一个对话，导入得更快，只用了1秒。 有了这个功能，再也不怕换电脑后没有数据了。 而且别人帮你跑的任务，也能一键同步过来了，爽～ 但是我觉得这个功能还缺另一个自动同步的开关，因为如果每次都要手动同步还是有点麻烦的。期待官方赶紧把这个开关加上。 然后是任务管理终于升级啦！ 用 WorkBuddy 久了，任务越堆越多，如果按时间顺序排列经常找不到之前的聊天窗口。 我一般找不到，都是只能在搜索里面搜关键词，但是也很难找，每次都感觉好麻烦。 如果可以按工作习惯整理任务列表",
       "keyIdeas": [
-        "核心信号围绕“网上卖药：毛利薄如纸，为什么成了大厂最隐秘的“流量印钞机”？”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“WorkBuddy悄悄升级2个神仙能力，用了真回不去了..”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "网上卖药：毛利薄如纸，为什么成了大厂最隐秘的“流量印钞机”？",
+        "WorkBuddy悄悄升级2个神仙能力，用了真回不去了..",
         "product-insight"
       ],
       "importantTerms": [],
       "scores": {
-        "insightDensity": 4.3,
-        "argumentDepth": 4.3,
-        "evidenceQuality": 3.4,
-        "nonConsensusValue": 3.9,
-        "transferability": 4.2,
+        "insightDensity": 4.2,
+        "argumentDepth": 4.4,
+        "evidenceQuality": 3.9,
+        "nonConsensusValue": 4.5,
+        "transferability": 4.1,
         "personalRelevance": 4.4
       },
-      "finalScore": 82.1,
-      "preRankingScore": 74.88,
+      "finalScore": 85.1,
+      "preRankingScore": 74.53,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -53,167 +53,212 @@
       "duplicateSources": []
     },
     {
-      "id": "e01ed0ee19c351",
-      "title": "中国计算，走出新的登峰之路",
-      "titleZh": "中国计算，走出新的登峰之路",
-      "url": "https://www.qbitai.com/2026/11/511849.html",
-      "author": "衡宇",
-      "source": "量子位",
-      "publishedAt": "2026-11-21T14:09:59Z",
-      "discoveredAt": "2026-11-23T03:32:14Z",
-      "language": "zh-CN",
+      "id": "3c69fd56490c16",
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "titleZh": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "author": "MrBuddyCasino",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-23T17:07:26Z",
+      "discoveredAt": "2026-11-24T06:47:50Z",
+      "language": "en",
       "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。近日，2026年国际超级计算大会上，中国科学技术大学联合中科院物理所、国家高性能计算机工程技术研究中心完成的铁钼辅因子量子化学计算项目，成功摘得这一高性能计算领域的“诺贝尔奖”。 同一时间，中科天机SD3全球公里级气象数值模拟系统入围戈登·贝尔气候建模奖决赛。中国企业团队也首次出现在该奖项决赛名单。 两项应用，一个扎进物质内部的量子层面，一个俯瞰地球大气层风云变幻。计算模型、数据组织、精度需求大相径庭，却共享着同一个计算底座—— 全国产十万卡AI超集群曙光8000 。 从今年7月正式投用并接入国家超算互联网，到曙光8000计算成果站上全球顶级应用领奖台，中间只隔了不到半年。这个时间尺度，比任何跑分成绩都更能说明中国高端计算之重。 在高性能计算领域，一台新机器上线，通常的节奏是先跑基准测试，再迁移成熟应用，经历若",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
-      "translationStatus": "not-needed",
+      "translationStatus": "pending",
       "sourceSnippet": "",
       "keyIdeas": [
-        "核心信号围绕“中国计算，走出新的登峰之路”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "中国计算，走出新的登峰之路",
+        "\"Dario is hyping the dangers so OSS models are i",
         "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.8,
+        "novelty": 4.6,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 4.1
+      },
+      "finalScore": 83.4,
+      "preRankingScore": 79.63,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 1494,
+        "comments": 841,
+        "hnUrl": "https://news.ycombinator.com/item?id=50615308"
+      },
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": null,
+      "duplicateSources": []
+    },
+    {
+      "id": "f8a4e02f421246",
+      "title": "Connected intelligence for in-house legal",
+      "titleZh": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-23T08:00:00Z",
+      "discoveredAt": "2026-11-24T06:47:49Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "keyIdeas": [
+        "核心信号围绕“Connected intelligence for in-house legal”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Connected intelligence for in-house legal",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.9,
+        "sourceCredibility": 4.3,
+        "novelty": 4.5,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 3.4
+      },
+      "finalScore": 83.0,
+      "preRankingScore": 65.98,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "61dcf1169479ac",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "titleZh": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "author": "Sergey Shirobokov, Ben Jaderberg and Ryan Babbush",
+      "source": "Google DeepMind Blog",
+      "publishedAt": "2026-11-23T16:59:40Z",
+      "discoveredAt": "2026-11-24T06:47:50Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "keyIdeas": [
+        "核心信号围绕“Finding faster quantum algorithms with agents and formal verification”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Finding faster quantum algorithms with agents an",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 3.7,
+        "novelty": 4.1,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 82.4,
+      "preRankingScore": 65.59,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "1e5b99aef06aa5",
+      "title": "这一次，豆包工作活成了WorkBuddy的样子",
+      "titleZh": "这一次，豆包工作活成了WorkBuddy的样子",
+      "url": "https://www.woshipm.com/ai/6498939.html",
+      "author": "产品笔记",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-24T02:39:47Z",
+      "discoveredAt": "2026-11-24T06:47:51Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。GLM-5.4 首发当天，豆包工作把它放到非自家模型的第二位，比 WorkBuddy 还早几个小时。曾经死守自家模型的办公应用，这次连 Qwen 都一口气接了三款，开放得有点彻底。 今天，GLM-5.4 悄悄发布。 官方这样总结 GLM-5.4： GLM-5.4是我们第一代采用Loop Transformer架构的旗舰模型。 GLM-5.4是「泛Coding」的开启。 在视觉Coding、视觉复刻和长程任务中表现突出。 几个关键词，采用 Loop Transformer 模型架构，泛Coding 能力更强 ，视觉能力更强。 从用户实测和反馈看， 好坏参半。 智谱官方通知提到。 这次 GLM-5.4新模型联合首发伙伴， WorkBuddy、豆包工作、千问办公赫然在列。 有意思的是：截至目前，国产 AI 办公Wor",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "GLM-5.4 首发当天，豆包工作把它放到非自家模型的第二位，比 WorkBuddy 还早几个小时。曾经死守自家模型的办公应用，这次连 Qwen 都一口气接了三款，开放得有点彻底。 今天，GLM-5.4 悄悄发布。 官方这样总结 GLM-5.4： GLM-5.4是我们第一代采用Loop Transformer架构的旗舰模型。 GLM-5.4是「泛Coding」的开启。 在视觉Coding、视觉复刻和长程任务中表现突出。 几个关键词，采用 Loop Transformer 模型架构，泛Coding 能力更强 ，视觉能力更强。 从用户实测和反馈看， 好坏参半。 智谱官方通知提到。 这次 GLM-5.4新模型联合首发伙伴， WorkBuddy、豆包工作、千问办公赫然在列。 有意思的是：截至目前，国产 AI 办公WorkBuddy、豆包工作、千问办公三家中。 是豆包工作第一时间上线 GLM-5.4， 并且位置非常靠前，放在非自家模型第二位。 并且官方公众号，郑重其事地通知了大家。 之前，死守自家豆包模型的豆包、豆包工作，开始大范围接入了第三方模型。 并且，在某些方面，比 WorkBuddy 还狠。 比如在友商的 Qwen 4 Max发布后，第一时间接入。 还一口气，接入了三款 Qwen。 要知道，大厂之间的墙是很高的，壁垒是很深的。 WorkBuddy 虽然支持自定义，用户可自己接入 Qwen。 但官方也没有把 Qwen 模型接进来。 豆包工作，这次开放第三方模型接入，是真的想通了，并且做得很彻底。 因为就短短几个月的死守自家的模型了，直接把用户、把市场拱手让人了。 豆包工作，不但接入了 Qwen，还第一时间接入了新模型 GLM 5.4。 比 WorkBuddy 还早。 我在晚上十点多用 WorkBuddy 时，仍然显示 GLM 5.3。 反观一向热衷于第一时间接入新模型 WorkBuddy。 这次反而没有最快接入。 不过，就在我发文章的时候，WorkBuddy 也接入了GLM 5.4。 显示资源紧张，订阅会员享受优先调度服务。 这一次，豆包工作，比 WorkBuddy 快了几个小时。 再看看千问办公，GLM 5.4 还没有上线，最新版 GLM 仍为 5.3。 这次 GLM 5.4 旗舰模型接入速度。 豆包工作，优于 WorkBuddy，千问办公垫底。 速度，能看到决心和态度。 豆包和豆包工作，从一开始死守自家模型。 到彻底开放，到争先接入新模型。 大概率是被市场狠狠地刺痛了。 豆包工作，终于活成了 WorkBuddy 的样子。 并且，这次，还跑在了 WorkBuddy 的前面。 本文由作者【三哥】，微信公众号：【产品笔记】，原创/授权 发布于人人都是产品经理，未经许可，禁止转载。 题图来自Unsplash，基于 CC0 协议。",
+      "keyIdeas": [
+        "核心信号围绕“这一次，豆包工作活成了WorkBuddy的样子”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "这一次，豆包工作活成了WorkBuddy的样子",
+        "product-insight"
       ],
       "importantTerms": [],
       "scores": {
-        "eventImpact": 3.4,
-        "sourceCredibility": 4.5,
-        "novelty": 4.4,
-        "aiProductImpact": 4.2,
+        "insightDensity": 3.8,
+        "argumentDepth": 4.1,
+        "evidenceQuality": 3.8,
+        "nonConsensusValue": 4.1,
+        "transferability": 4.5,
         "personalRelevance": 4.5
       },
-      "finalScore": 81.8,
-      "preRankingScore": 66.26,
+      "finalScore": 82.3,
+      "preRankingScore": 74.4,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 4,
+      "estimatedReadingMinutes": 1,
       "duplicateSources": []
     },
     {
-      "id": "de5cd1a6d51dc9",
-      "title": "Perplexity and Intelligence",
-      "titleZh": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "author": "",
-      "source": "OpenAI News",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "discoveredAt": "2026-11-23T03:32:12Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "keyIdeas": [
-        "核心信号围绕“Perplexity and Intelligence”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Perplexity and Intelligence",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 4.0,
-        "sourceCredibility": 4.4,
-        "novelty": 3.9,
-        "aiProductImpact": 3.9,
-        "personalRelevance": 3.9
-      },
-      "finalScore": 80.6,
-      "preRankingScore": 64.69,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 14,
-      "duplicateSources": [
-        "Hacker News"
-      ]
-    },
-    {
-      "id": "38c61351fe0dc3",
-      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "titleZh": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "author": "happosai",
+      "id": "81ecb7742efe53",
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "titleZh": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "author": "toebee",
       "source": "Hacker News",
-      "publishedAt": "2026-11-22T08:57:34Z",
-      "discoveredAt": "2026-11-23T03:32:14Z",
+      "publishedAt": "2026-11-23T13:42:38Z",
+      "discoveredAt": "2026-11-24T06:47:50Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
       "translationStatus": "pending",
-      "sourceSnippet": "",
+      "sourceSnippet": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding. To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks. Benchmarks (BF16 / 3-bit / 2.5-bit / 2-bit): - DeepSWE: 39.8 / 41.0 / 41.9 / 28.6 - Terminal-Bench 2.1: 62.6 / 63.8 / 60.2 / 52.4 - AIME 25+26: 97.7 / 98.3 / 96.5 / 86.0 - MSGM: 94.0 / 93.1 / 91.8 / 90.6 - RealWorldQA: 82.4 / 82.4 / 81.3 / 80.9 Decode speed is comparable to other quants on an RTX PRO 6000. Context-length results below (3-bit / 2.5-bit / 2-bit / Unsloth UD-IQ3_XXS): - 4K: 88.9 / 99.2 / 111.7 / 94.7 - 16K: 84.5 / 93.8 / 105.1 / 89.8 - 64K: 70.7 / 77.5 / 85.0 / 74.8 Running these currently require our llama.cpp fork: ( https://github.com/nari-labs/nari-llama.cpp ) Feedback and questions welcome. We'd love to hear how these perform on your workloads.",
       "keyIdeas": [
-        "核心信号围绕“87% of the Anthropic power will come from gas and 11% from coal in 2028”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“NariQ: BF16-level Qwen3.8-27B in a 10 GB file”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "87% of the Anthropic power will come from gas an",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 4.5,
-        "sourceCredibility": 3.7,
-        "novelty": 3.7,
-        "aiProductImpact": 3.6,
-        "personalRelevance": 4.5
-      },
-      "finalScore": 80.0,
-      "preRankingScore": 79.14,
-      "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 910,
-        "comments": 908,
-        "hnUrl": "https://news.ycombinator.com/item?id=50597612"
-      },
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 12,
-      "duplicateSources": []
-    },
-    {
-      "id": "80d31a6dee298b",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "titleZh": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "author": "",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "discoveredAt": "2026-11-23T03:32:12Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
-      "keyIdeas": [
-        "核心信号围绕“Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Welcome Inkling 2 Mini, Cutting-edge Performance",
+        "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
         "ai-news"
       ],
       "importantTerms": [
@@ -224,149 +269,103 @@
       ],
       "scores": {
         "eventImpact": 4.1,
-        "sourceCredibility": 3.4,
-        "novelty": 4.2,
-        "aiProductImpact": 4.4,
-        "personalRelevance": 3.7
+        "sourceCredibility": 4.3,
+        "novelty": 4.0,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 3.9
       },
-      "finalScore": 80.0,
-      "preRankingScore": 58.45,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 17,
+      "finalScore": 81.6,
+      "preRankingScore": 79.64,
+      "readingTier": "signal",
+      "socialSignals": {
+        "points": 153,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=50611402"
+      },
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
       "duplicateSources": []
     },
     {
-      "id": "0256f71b4552ad",
-      "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
-      "titleZh": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
-      "url": "https://www.qbitai.com/2026/11/511855.html",
-      "author": "衡宇",
+      "id": "66daef5c735170",
+      "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
+      "titleZh": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
+      "url": "https://www.qbitai.com/2026/11/512297.html",
+      "author": "量子位的朋友们",
       "source": "量子位",
-      "publishedAt": "2026-11-21T14:14:09Z",
-      "discoveredAt": "2026-11-23T03:32:14Z",
+      "publishedAt": "2026-11-24T02:36:08Z",
+      "discoveredAt": "2026-11-24T06:47:51Z",
       "language": "zh-CN",
       "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。AI创作者现场给乐队做MV，3小时极限出片，当晚直接登上乐队演奏大屏！？（惊呆.jpg) 就咱熟悉的那个剪映，刚搞了个 AI×音乐视觉黑客松 ，直接把真实乐队、真实歌曲搬进比赛现场。 一群AI创作者用 剪映Hub ，挑战在几个小时内给乐队做出MV和LIVE舞台视觉。 更刺激的是，一些优秀作品当天还能够登上主舞台大屏，跟着乐队现场演出一起炸场，真·跨界啊。。。 甚至，还有不少参赛选手直接用AI造出过去需要专业团队才能完成的复杂场景。 什么这coding那vibe，围着各种编程软件噼里啪啦开发一下午产品，这画面再熟悉不过了。 他们直接把乐队、AIGC、和黑客松，看似不搭边的三个要素搞一起了。。。 而且还不是单纯生成AIGC音乐内容，他们是要给乐队的音乐，制作一套能够直接用于舞台演出的视觉作品！！ 如果大家在电视或现",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "",
+      "sourceSnippet": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。",
       "keyIdeas": [
-        "核心信号围绕“AI给乐队现场搓MV，这是黑客松还是音乐节啊”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕““得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+        "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大",
         "ai-news"
       ],
       "importantTerms": [],
       "scores": {
-        "eventImpact": 4.0,
-        "sourceCredibility": 3.9,
-        "novelty": 4.3,
-        "aiProductImpact": 4.2,
-        "personalRelevance": 3.9
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.8,
+        "novelty": 4.2,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 3.4
       },
-      "finalScore": 81.4,
-      "preRankingScore": 66.27,
+      "finalScore": 80.4,
+      "preRankingScore": 70.08,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 2,
+      "estimatedReadingMinutes": 8,
       "duplicateSources": []
     },
     {
-      "id": "5a5efc229d8211",
-      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
-      "titleZh": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
-      "url": "https://www.qbitai.com/2026/11/511904.html",
-      "author": "程浅",
+      "id": "8dc9facacc6411",
+      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+      "titleZh": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+      "url": "https://www.qbitai.com/2026/11/512330.html",
+      "author": "量子位的朋友们",
       "source": "量子位",
-      "publishedAt": "2026-11-22T06:21:47Z",
-      "discoveredAt": "2026-11-23T03:32:14Z",
+      "publishedAt": "2026-11-24T03:30:46Z",
+      "discoveredAt": "2026-11-24T06:47:51Z",
       "language": "zh-CN",
       "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。用葡萄糖发电控制血糖。",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。中国AI数据平台加速崛起",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "用葡萄糖发电控制血糖。",
+      "sourceSnippet": "中国AI数据平台加速崛起",
       "keyIdeas": [
-        "核心信号围绕“Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+        "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
         "ai-news"
       ],
       "importantTerms": [],
       "scores": {
-        "eventImpact": 3.8,
-        "sourceCredibility": 4.5,
-        "novelty": 4.0,
-        "aiProductImpact": 3.9,
-        "personalRelevance": 3.4
+        "eventImpact": 4.1,
+        "sourceCredibility": 3.7,
+        "novelty": 4.2,
+        "aiProductImpact": 3.8,
+        "personalRelevance": 4.3
       },
-      "finalScore": 79.2,
-      "preRankingScore": 67.99,
+      "finalScore": 80.0,
+      "preRankingScore": 69.79,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
       "estimatedReadingMinutes": 3,
-      "duplicateSources": []
-    },
-    {
-      "id": "ce223767ccc95a",
-      "title": "Agent swarm trying to solve P vs. NP",
-      "titleZh": "Agent swarm trying to solve P vs. NP",
-      "url": "https://pequalnp.com/",
-      "author": "bananaflag",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-22T21:53:45Z",
-      "discoveredAt": "2026-11-23T03:32:14Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
-      "keyIdeas": [
-        "核心信号围绕“Agent swarm trying to solve P vs. NP”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Agent swarm trying to solve P vs. NP",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 3.5,
-        "sourceCredibility": 3.9,
-        "novelty": 4.3,
-        "aiProductImpact": 4.2,
-        "personalRelevance": 3.7
-      },
-      "finalScore": 78.0,
-      "preRankingScore": 72.35,
-      "readingTier": "signal",
-      "socialSignals": {
-        "points": 127,
-        "comments": 107,
-        "hnUrl": "https://news.ycombinator.com/item?id=50604314"
-      },
-      "contentAvailability": "partial",
-      "estimatedReadingMinutes": null,
       "duplicateSources": []
     }
   ],
