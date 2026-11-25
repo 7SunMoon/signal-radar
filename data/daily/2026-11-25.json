@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T05:15:34Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 234,
+    "afterDeduplication": 231,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "b02e5d7aa184a6",
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "titleZh": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "url": "https://www.qbitai.com/2026/11/512362.html",
+      "author": "衡宇",
+      "source": "量子位",
+      "publishedAt": "2026-11-24T06:35:06Z",
+      "discoveredAt": "2026-11-25T05:15:24Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。端侧老炮辛米尔，打通物理AI规模化落地之路",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+      "keyIdeas": [
+        "核心信号围绕“业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.1,
+        "sourceCredibility": 4.1,
+        "novelty": 4.5,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 86.0,
+      "preRankingScore": 67.94,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "99b93f3e109849",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "titleZh": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "discoveredAt": "2026-11-25T05:15:23Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "keyIdeas": [
+        "核心信号围绕“Clay helps sales teams win with Codex and ChatGPT”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Clay helps sales teams win with Codex and ChatGP",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.3,
+        "novelty": 4.2,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 83.8,
+      "preRankingScore": 64.51,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "f44b1c99151498",
+      "title": "从物理课到关注流里的江湖",
+      "titleZh": "从物理课到关注流里的江湖",
+      "url": "https://www.woshipm.com/share/6499748.html",
+      "author": "熊出墨请注意",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-25T01:57:35Z",
+      "discoveredAt": "2026-11-25T05:15:24Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。《张朝阳的物理课》走到第五年：300 期、3 万分钟、545 万观众，三本书进了国家图书馆。作者把视线从黑板挪到台下，六位科普播主都来自关注流，这才是这门课第五年还值得写的原因。 2026年11月8日，《张朝阳的物理课》五周年特别直播开播。 按惯例，主角应该在黑板上。 搜狐创始人、董事局主席兼首席执行官、物理学博士张朝阳从引力势出发，推了三十分钟勒让德多项式展开，用物理办法解了一道数学题。 但那天，台下坐着的人比黑板上那道题更值得看：小行星防御专家、北京交通大学物理科学与工程学院教授、理论物理博士、东南大学教授、中南民族大学教授，还有一位三甲医院妇科副主任医师。六个人都是搜狐视频关注流上的科普播主。张朝阳在直播里说，“今天也是物理学或者是科学播主的一个盛会”。 一门课讲到第五年，凭什么值得写？如果答案只是期数，",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "《张朝阳的物理课》走到第五年：300 期、3 万分钟、545 万观众，三本书进了国家图书馆。作者把视线从黑板挪到台下，六位科普播主都来自关注流，这才是这门课第五年还值得写的原因。 2026年11月8日，《张朝阳的物理课》五周年特别直播开播。 按惯例，主角应该在黑板上。 搜狐创始人、董事局主席兼首席执行官、物理学博士张朝阳从引力势出发，推了三十分钟勒让德多项式展开，用物理办法解了一道数学题。 但那天，台下坐着的人比黑板上那道题更值得看：小行星防御专家、北京交通大学物理科学与工程学院教授、理论物理博士、东南大学教授、中南民族大学教授，还有一位三甲医院妇科副主任医师。六个人都是搜狐视频关注流上的科普播主。张朝阳在直播里说，“今天也是物理学或者是科学播主的一个盛会”。 一门课讲到第五年，凭什么值得写？如果答案只是期数，它跟任何一个日更账号没区别。更值得评估的，是它背后站着的那群人。 五年的沉淀 媒体公开报道显示，《张朝阳的物理课》已直播300期，在线总时长超3万分钟，五年来累计与545.51万名观众一同研算了量子力学、相对论、天体物理、流体力学等领域的物理问题。三本同名科普著作已出版并被中国国家图书馆收藏，第四本关于广义相对论和微分几何的书，将于2027年春季关注流大会推出。 据张朝阳回忆，最初是雪山上聊天想算卫星高度和同步卫星，后来决定边研习边讲；也不掩饰是现学的，“我今天讲的东西，全部都是我这几年学的，现学现卖”。 五年后带出来的东西超出了这门课。关注流官方科普运营账号“科学探索小组”负责挖掘播主、发起话题；科学演讲局2023年推出九期硬核科普策划，《元宵节特别版：科学的浪漫》入选广电总局推优作品名单；2026年春节场升级为由科学顾问团与用户票选八大热点、八位播主出演的“科学春晚”；2026年11月，科普IP《万物皆有理》联合中国移动做了《移探究竟》探展直播。 根据公开信息，关注流科学内容已覆盖物理、天文、生物、地质、航天、医学。 中国青年报社社会调查中心联合问卷网2025年6月对1341人的调查里，50.3%感觉长期接触碎片化信息后思考能力下降、逻辑不清晰，48.9%感觉长时间阅读观影的能力下降，32.1%变得不善于与他人线下沟通。一位受访者的描述更直接：视频超过1分钟就没耐心看完，十几秒内拿不到有用信息就觉得是浪费时间。 关注流播主孙悦老师在科学演讲局讲过室温超导，也把“可乐瞬间变冰沙”搬上了台；陈征博士在五周年现场接着那道引力势的推导，谈怎么迁移到电势，说这样能帮学生理解电场。 五周年那场直播的提问环节，一位清华附中物理教师问，AI能不能帮物理课扩大传播。张朝阳说，AI已经在帮着整理和检索课程内容，但学习者仍要亲自还原推导过程。最稀缺的不是内容，是可被追问、可被回放、可被别人接着往下讲的内容。 物理课跑通的是后一条链路。关键不在讲解、提问、沉淀、传播，在传",
+      "keyIdeas": [
+        "核心信号围绕“从物理课到关注流里的江湖”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "从物理课到关注流里的江湖",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.1,
+        "argumentDepth": 3.6,
+        "evidenceQuality": 4.3,
+        "nonConsensusValue": 4.3,
+        "transferability": 4.3,
+        "personalRelevance": 4.5
+      },
+      "finalScore": 83.0,
+      "preRankingScore": 74.67,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "197dc8b3ac4dbd",
+      "title": "A training engine for your local model, using your idle compute",
+      "titleZh": "A training engine for your local model, using your idle compute",
+      "url": "https://github.com/sous-labs/songe",
+      "author": "bluepeter",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-24T15:03:40Z",
+      "discoveredAt": "2026-11-25T05:15:24Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“A training engine for your local model, using your idle compute”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "A training engine for your local model, using yo",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.1,
+        "novelty": 3.7,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 81.4,
+      "preRankingScore": 73.96,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 205,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=50629231"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "f8a4e02f421246",
+      "title": "Connected intelligence for in-house legal",
+      "titleZh": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-23T08:00:00Z",
+      "discoveredAt": "2026-11-25T05:15:23Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "keyIdeas": [
+        "核心信号围绕“Connected intelligence for in-house legal”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Connected intelligence for in-house legal",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.2,
+        "novelty": 4.4,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.3
+      },
+      "finalScore": 81.0,
+      "preRankingScore": 63.73,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "de5cd1a6d51dc9",
+      "title": "Perplexity and Intelligence",
+      "titleZh": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "discoveredAt": "2026-11-25T05:15:23Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "keyIdeas": [
+        "核心信号围绕“Perplexity and Intelligence”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Perplexity and Intelligence",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.4,
+        "novelty": 3.9,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 80.6,
+      "preRankingScore": 59.71,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 14,
+      "duplicateSources": []
+    },
+    {
+      "id": "b6b7396fedc7db",
+      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+      "titleZh": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+      "url": "https://www.qbitai.com/2026/11/512305.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-24T03:21:12Z",
+      "discoveredAt": "2026-11-25T05:15:24Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
+      "keyIdeas": [
+        "核心信号围绕“释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.4,
+        "sourceCredibility": 4.2,
+        "novelty": 4.2,
+        "aiProductImpact": 4.1,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 79.2,
+      "preRankingScore": 67.9,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 8,
+      "duplicateSources": []
+    },
+    {
+      "id": "5d4293c836cff1",
+      "title": "Google Cloud 出海峰会报名开启",
+      "titleZh": "Google Cloud 出海峰会报名开启",
+      "url": "https://www.qbitai.com/2026/11/512370.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-24T06:52:29Z",
+      "discoveredAt": "2026-11-25T05:15:24Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
+      "keyIdeas": [
+        "核心信号围绕“Google Cloud 出海峰会报名开启”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Google Cloud 出海峰会报名开启",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 3.9,
+        "novelty": 3.7,
+        "aiProductImpact": 3.7,
+        "personalRelevance": 4.3
+      },
+      "finalScore": 79.0,
+      "preRankingScore": 68.23,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
