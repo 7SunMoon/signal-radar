@@ -1,54 +1,63 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T05:15:34Z",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T04:43:25Z",
   "mode": "metadata",
   "stats": {
     "discovered": 234,
-    "afterDeduplication": 231,
+    "afterDeduplication": 232,
     "deepReviewed": 40,
     "recommended": 8
   },
   "articles": [
     {
-      "id": "b02e5d7aa184a6",
-      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-      "titleZh": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-      "url": "https://www.qbitai.com/2026/11/512362.html",
-      "author": "衡宇",
-      "source": "量子位",
-      "publishedAt": "2026-11-24T06:35:06Z",
-      "discoveredAt": "2026-11-25T05:15:24Z",
-      "language": "zh-CN",
+      "id": "f63f4cad146807",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "titleZh": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "author": "nb-t",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-25T21:48:10Z",
+      "discoveredAt": "2026-11-26T04:43:17Z",
+      "language": "en",
       "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。端侧老炮辛米尔，打通物理AI规模化落地之路",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
       "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
       "keyIdeas": [
-        "核心信号围绕“业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Much shorter version of GRH Lean verification from Anthropic”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+        "Much shorter version of GRH Lean verification fr",
         "ai-news"
       ],
-      "importantTerms": [],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
       "scores": {
-        "eventImpact": 4.1,
-        "sourceCredibility": 4.1,
-        "novelty": 4.5,
-        "aiProductImpact": 4.5,
-        "personalRelevance": 4.5
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.3,
+        "novelty": 4.0,
+        "aiProductImpact": 4.4,
+        "personalRelevance": 4.6
       },
-      "finalScore": 86.0,
-      "preRankingScore": 67.94,
+      "finalScore": 87.0,
+      "preRankingScore": 80.31,
       "readingTier": "worth-reading",
-      "socialSignals": {},
+      "socialSignals": {
+        "points": 348,
+        "comments": 176,
+        "hnUrl": "https://news.ycombinator.com/item?id=50648050"
+      },
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
+      "estimatedReadingMinutes": 1,
       "duplicateSources": []
     },
     {
@@ -59,7 +68,7 @@
       "author": "",
       "source": "OpenAI News",
       "publishedAt": "2026-11-24T00:00:00Z",
-      "discoveredAt": "2026-11-25T05:15:23Z",
+      "discoveredAt": "2026-11-26T04:43:16Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -90,7 +99,7 @@
         "personalRelevance": 4.0
       },
       "finalScore": 83.8,
-      "preRankingScore": 64.51,
+      "preRankingScore": 62.17,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -98,56 +107,231 @@
       "duplicateSources": []
     },
     {
-      "id": "f44b1c99151498",
-      "title": "从物理课到关注流里的江湖",
-      "titleZh": "从物理课到关注流里的江湖",
-      "url": "https://www.woshipm.com/share/6499748.html",
-      "author": "熊出墨请注意",
+      "id": "42a9cae2ca4441",
+      "title": "研发团队最后只剩两个产品经理",
+      "titleZh": "研发团队最后只剩两个产品经理",
+      "url": "https://www.woshipm.com/share/6500633.html",
+      "author": "菜根老谭",
       "source": "人人都是产品经理",
-      "publishedAt": "2026-11-25T01:57:35Z",
-      "discoveredAt": "2026-11-25T05:15:24Z",
+      "publishedAt": "2026-11-26T02:55:37Z",
+      "discoveredAt": "2026-11-26T04:43:18Z",
       "language": "zh-CN",
       "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。《张朝阳的物理课》走到第五年：300 期、3 万分钟、545 万观众，三本书进了国家图书馆。作者把视线从黑板挪到台下，六位科普播主都来自关注流，这才是这门课第五年还值得写的原因。 2026年11月8日，《张朝阳的物理课》五周年特别直播开播。 按惯例，主角应该在黑板上。 搜狐创始人、董事局主席兼首席执行官、物理学博士张朝阳从引力势出发，推了三十分钟勒让德多项式展开，用物理办法解了一道数学题。 但那天，台下坐着的人比黑板上那道题更值得看：小行星防御专家、北京交通大学物理科学与工程学院教授、理论物理博士、东南大学教授、中南民族大学教授，还有一位三甲医院妇科副主任医师。六个人都是搜狐视频关注流上的科普播主。张朝阳在直播里说，“今天也是物理学或者是科学播主的一个盛会”。 一门课讲到第五年，凭什么值得写？如果答案只是期数，",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。一位老领导判断，往后整个产品研发团队两个产品经理就够。作者用两个多月、一百多亿 Token 把产品从需求做到上线，代码几乎没手写，被压平的正是中间那层只负责「翻译」的环节。 老领导的一句话，说中了我书里的判断：技术正在变成一项基本技能 01 老大哥的一顿饭 前几天跟一位老领导吃饭。他是我刚工作那几年的领导，这些年一直很支持我，我私下里叫他一声老大哥。 聊着聊着，就说到了我以前待过的那家公司。他说起那边一些老总的说法和判断。 他们现在的技术团队、研发团队，是由产品经理来负责的。往后再规划，整个产品研发团队，可能两个产品经理就够了。 我听完没马上接话。 不是因为觉得他们夸张。是因为这些判断，跟我这两年反复在讲、在书里写的那一套，几乎是撞在一起的。 一个坐在办公室里算成本的老板，和一个坐在桌前写书的人，得出了同一个结",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "《张朝阳的物理课》走到第五年：300 期、3 万分钟、545 万观众，三本书进了国家图书馆。作者把视线从黑板挪到台下，六位科普播主都来自关注流，这才是这门课第五年还值得写的原因。 2026年11月8日，《张朝阳的物理课》五周年特别直播开播。 按惯例，主角应该在黑板上。 搜狐创始人、董事局主席兼首席执行官、物理学博士张朝阳从引力势出发，推了三十分钟勒让德多项式展开，用物理办法解了一道数学题。 但那天，台下坐着的人比黑板上那道题更值得看：小行星防御专家、北京交通大学物理科学与工程学院教授、理论物理博士、东南大学教授、中南民族大学教授，还有一位三甲医院妇科副主任医师。六个人都是搜狐视频关注流上的科普播主。张朝阳在直播里说，“今天也是物理学或者是科学播主的一个盛会”。 一门课讲到第五年，凭什么值得写？如果答案只是期数，它跟任何一个日更账号没区别。更值得评估的，是它背后站着的那群人。 五年的沉淀 媒体公开报道显示，《张朝阳的物理课》已直播300期，在线总时长超3万分钟，五年来累计与545.51万名观众一同研算了量子力学、相对论、天体物理、流体力学等领域的物理问题。三本同名科普著作已出版并被中国国家图书馆收藏，第四本关于广义相对论和微分几何的书，将于2027年春季关注流大会推出。 据张朝阳回忆，最初是雪山上聊天想算卫星高度和同步卫星，后来决定边研习边讲；也不掩饰是现学的，“我今天讲的东西，全部都是我这几年学的，现学现卖”。 五年后带出来的东西超出了这门课。关注流官方科普运营账号“科学探索小组”负责挖掘播主、发起话题；科学演讲局2023年推出九期硬核科普策划，《元宵节特别版：科学的浪漫》入选广电总局推优作品名单；2026年春节场升级为由科学顾问团与用户票选八大热点、八位播主出演的“科学春晚”；2026年11月，科普IP《万物皆有理》联合中国移动做了《移探究竟》探展直播。 根据公开信息，关注流科学内容已覆盖物理、天文、生物、地质、航天、医学。 中国青年报社社会调查中心联合问卷网2025年6月对1341人的调查里，50.3%感觉长期接触碎片化信息后思考能力下降、逻辑不清晰，48.9%感觉长时间阅读观影的能力下降，32.1%变得不善于与他人线下沟通。一位受访者的描述更直接：视频超过1分钟就没耐心看完，十几秒内拿不到有用信息就觉得是浪费时间。 关注流播主孙悦老师在科学演讲局讲过室温超导，也把“可乐瞬间变冰沙”搬上了台；陈征博士在五周年现场接着那道引力势的推导，谈怎么迁移到电势，说这样能帮学生理解电场。 五周年那场直播的提问环节，一位清华附中物理教师问，AI能不能帮物理课扩大传播。张朝阳说，AI已经在帮着整理和检索课程内容，但学习者仍要亲自还原推导过程。最稀缺的不是内容，是可被追问、可被回放、可被别人接着往下讲的内容。 物理课跑通的是后一条链路。关键不在讲解、提问、沉淀、传播，在传",
+      "sourceSnippet": "一位老领导判断，往后整个产品研发团队两个产品经理就够。作者用两个多月、一百多亿 Token 把产品从需求做到上线，代码几乎没手写，被压平的正是中间那层只负责「翻译」的环节。 老领导的一句话，说中了我书里的判断：技术正在变成一项基本技能 01 老大哥的一顿饭 前几天跟一位老领导吃饭。他是我刚工作那几年的领导，这些年一直很支持我，我私下里叫他一声老大哥。 聊着聊着，就说到了我以前待过的那家公司。他说起那边一些老总的说法和判断。 他们现在的技术团队、研发团队，是由产品经理来负责的。往后再规划，整个产品研发团队，可能两个产品经理就够了。 我听完没马上接话。 不是因为觉得他们夸张。是因为这些判断，跟我这两年反复在讲、在书里写的那一套，几乎是撞在一起的。 一个坐在办公室里算成本的老板，和一个坐在桌前写书的人，得出了同一个结论。 那这个结论，大概不是我们俩谁想多了。 02 那些抱怨都是真的 一讲 AI 编程，就有人摇头：生成的东西没法直接用，改起来比自己写还慢；一到复杂业务就露馅；看着像模像样，跑起来一堆坑。 这些抱怨有真的部分，我不打算否认。AI 写的代码要人看、要人改，接手一个十年前的老系统时它也会犯迷糊。它不会替你背责任，也不会在凌晨三点爬起来处理线上告警。 但另一件事也在同时发生：它的下限，已经越过了「初中级程序员能干的那条活」的那条线。 我现在的产品研发，完全依赖 AI 编程。 两个多月、一百多亿 Token，产品从需求到上线，代码我基本没手写。 那我每天在干什么？判断需求、排优先级、把事拆成具体任务、自己跑一遍流程、验收对不对。 注意这五件事里，没有一件是「写代码」。 所以「AI 会不会替代程序员」这个问题，其实已经问偏了。三年了，各有各的证据，谁也说服不了谁。真正该问的是另一个： 它已经替代到哪一层了？ 03 被抹掉的不是写代码，是「翻译」 把初中级程序员一天干的活摊开看：产品经理说要做什么，他理解一下，翻成表结构、接口、页面、逻辑，再调通、改 bug、修修补补。 核心动作其实是 翻译 ——把人的意图，翻成机器能执行的东西。 AI 最擅长的恰好就是翻译。你说得越清楚，它翻得越快、越全、越不容易漏。 于是这一层被压平了。压平之后，整条链上只剩两头： 说清楚要做什么 ，和 判断做成什么样算好 。 链条没有断。断的是中间那几节只负责翻译的环节 这一压，沿链站着的几个岗位，境遇就完全不一样了： 同一条链，三个位置 前端、后端、测试 ：只接「把需求翻成实现」这一段，这段最容易被压平。会做的人还很多，需求却在减少。 技术负责人、架构 ：管的是「选哪条路、以后怎么改」。判断还在，但一个人加上 AI，就不太需要很多人在旁边配合。 产品经理 ：站在「要做什么」这一头，离客户和钱最近。翻译这一层没了，他的判断反而成了整条链上最贵的部分。 这个差别不是「谁更聪明」，是 站位 。 ",
       "keyIdeas": [
-        "核心信号围绕“从物理课到关注流里的江湖”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“研发团队最后只剩两个产品经理”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "从物理课到关注流里的江湖",
+        "研发团队最后只剩两个产品经理",
         "product-insight"
       ],
       "importantTerms": [],
       "scores": {
-        "insightDensity": 4.1,
-        "argumentDepth": 3.6,
-        "evidenceQuality": 4.3,
-        "nonConsensusValue": 4.3,
-        "transferability": 4.3,
-        "personalRelevance": 4.5
+        "insightDensity": 3.7,
+        "argumentDepth": 4.5,
+        "evidenceQuality": 3.5,
+        "nonConsensusValue": 4.4,
+        "transferability": 4.4,
+        "personalRelevance": 4.4
       },
-      "finalScore": 83.0,
-      "preRankingScore": 74.67,
+      "finalScore": 82.9,
+      "preRankingScore": 74.82,
       "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "68d697d2d6d001",
+      "title": "短剧成了悬在互联网公司头上的一把利剑",
+      "titleZh": "短剧成了悬在互联网公司头上的一把利剑",
+      "url": "https://www.woshipm.com/it/6500464.html",
+      "author": "吴怼怼",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-26T01:52:33Z",
+      "discoveredAt": "2026-11-26T04:43:18Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。当网易丁磊坦言短剧冲击游戏，B站陈睿却称毫无影响，同一问题两种答案背后，是AI短剧正以惊人效率争夺用户时间。然而，短剧从业者却陷入越繁荣越难赚钱的怪圈。本文从三场财报对话切入，拆解注意力迁徙如何重塑中概股竞争格局，并追问AI时代什么依然昂贵。 2026年三季度中概股财报季，一个颇有意思的现象是，互联网公司开始被分析师追问同一个问题：短剧有没有影响你们的生意？ 11月19日，网易发布三季度财报，游戏及相关增值服务收入同比下降1.7%。在随后的财报电话会上，丁磊坦言，今年短剧特别是AI短剧呈现爆发式增长，对用户注意力有着巨大的吸引力，短期内确实会对游戏产生影响。 五天后，轮到B站交卷。面对类似的问题，陈睿给出了一个截然不同的回答：没有。 有意思的是，两场电话会上提出这一问题的，都是来自高盛的分析师Lincoln K",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "当网易丁磊坦言短剧冲击游戏，B站陈睿却称毫无影响，同一问题两种答案背后，是AI短剧正以惊人效率争夺用户时间。然而，短剧从业者却陷入越繁荣越难赚钱的怪圈。本文从三场财报对话切入，拆解注意力迁徙如何重塑中概股竞争格局，并追问AI时代什么依然昂贵。 2026年三季度中概股财报季，一个颇有意思的现象是，互联网公司开始被分析师追问同一个问题：短剧有没有影响你们的生意？ 11月19日，网易发布三季度财报，游戏及相关增值服务收入同比下降1.7%。在随后的财报电话会上，丁磊坦言，今年短剧特别是AI短剧呈现爆发式增长，对用户注意力有着巨大的吸引力，短期内确实会对游戏产生影响。 五天后，轮到B站交卷。面对类似的问题，陈睿给出了一个截然不同的回答：没有。 有意思的是，两场电话会上提出这一问题的，都是来自高盛的分析师Lincoln Kong。 陈睿的底气来自一组数据：三季度，B站日活用户达到1.24亿，月活用户达到3.94亿，用户日均使用时长达到121分钟，三项指标均创历史新高。 陈睿还打了一个比方，短内容和B站的内容，就像薯片和米饭，满足的是不同场景下的用户需求。 而就在不久前，付鹏刚刚给火热的AI漫剧行业泼了一盆冷水。他认为，AI带来的生产效率提升，并没有实质性地改善许多创作者的盈利状况，流量分发环节仍然拿走了大量收益。 把这三个人的观点放在一起看，事情变得有意思起来。 一边是成熟的互联网公司开始忌惮短剧，一边是短剧行业的从业者发现自己越来越难赚到钱。 一个自身商业模式尚存争议的行业，却正在成为悬在中概股头上的一把利剑。 01 互联网正在重新分配时间 过去十几年，中国互联网经历了几轮注意力的大迁徙。从门户到社交媒体，从图文到短视频，从搜索引擎到算法推荐。每一次迁徙，都伴随着旧有商业版图的松动和新兴巨头的崛起。 短剧正在推动新一轮迁徙。 QuestMobile发布的《2026中国移动互联网秋季大报告》显示，短剧和短视频两大赛道对全网使用时长增长的贡献率达到了111.5%。 这个超过100%的数字意味着，短剧和短视频承接了移动互联网新增的用户时长，而其他赛道的时长增量合计出现了负增长。 过去，互联网公司习惯在各自的行业坐标系里寻找竞争对手。爱奇艺看腾讯视频，网易看腾讯游戏，快手看抖音，腾讯音乐看网易云音乐。 这种竞争逻辑正在失效。 一个晚上原本打算玩两小时游戏的人，可能躺在沙发上刷了两小时短剧。用户没有卸载原来的App，甚至没有取消会员，只是在不知不觉间改变了自己的时间分配。 用户可以同时拥有十几个App，可以同时是多个平台的付费会员，但一个人每天只有24个小时。 更值得关注的是，AI正在进一步放大短剧的生产效率。 网易花费数年时间打磨一款开放世界游戏，竞争的却可能是一批以天为单位更新、以相对低廉的成本试错的娱乐产品。 双方的内容质量、制作难度和艺术价值或许完全不在一个维度，但在用",
+      "keyIdeas": [
+        "核心信号围绕“短剧成了悬在互联网公司头上的一把利剑”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "短剧成了悬在互联网公司头上的一把利剑",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.5,
+        "argumentDepth": 4.1,
+        "evidenceQuality": 3.9,
+        "nonConsensusValue": 3.6,
+        "transferability": 4.2,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 82.7,
+      "preRankingScore": 74.72,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "7df80db3eb201c",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "titleZh": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "author": "gumby",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-25T15:14:32Z",
+      "discoveredAt": "2026-11-26T04:43:17Z",
+      "language": "en",
+      "category": "product-insight",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“A few questions for the guy who went snorkeling in a Home Depot retention pond”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "A few questions for the guy who went snorkeling ",
+        "product-insight"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "insightDensity": 4.4,
+        "argumentDepth": 4.4,
+        "evidenceQuality": 4.2,
+        "nonConsensusValue": 3.8,
+        "transferability": 3.8,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 81.7,
+      "preRankingScore": 79.65,
+      "readingTier": "worth-reading",
+      "socialSignals": {
+        "points": 457,
+        "comments": 112,
+        "hnUrl": "https://news.ycombinator.com/item?id=50643129"
+      },
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 12,
+      "duplicateSources": []
+    },
+    {
+      "id": "2203f5966aa278",
+      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+      "titleZh": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+      "url": "https://www.qbitai.com/2026/11/512582.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-25T14:21:20Z",
+      "discoveredAt": "2026-11-26T04:43:18Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+      "keyIdeas": [
+        "核心信号围绕“算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.5,
+        "sourceCredibility": 4.2,
+        "novelty": 4.1,
+        "aiProductImpact": 3.7,
+        "personalRelevance": 3.7
+      },
+      "finalScore": 82.4,
+      "preRankingScore": 69.07,
+      "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
       "estimatedReadingMinutes": 5,
       "duplicateSources": []
     },
     {
-      "id": "197dc8b3ac4dbd",
-      "title": "A training engine for your local model, using your idle compute",
-      "titleZh": "A training engine for your local model, using your idle compute",
-      "url": "https://github.com/sous-labs/songe",
-      "author": "bluepeter",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-24T15:03:40Z",
-      "discoveredAt": "2026-11-25T05:15:24Z",
+      "id": "88570fc3e9d889",
+      "title": "沈向洋刚讲了好多AI非共识啊",
+      "titleZh": "沈向洋刚讲了好多AI非共识啊",
+      "url": "https://www.qbitai.com/2026/11/512840.html",
+      "author": "杰西卡",
+      "source": "量子位",
+      "publishedAt": "2026-11-26T03:13:16Z",
+      "discoveredAt": "2026-11-26T04:43:18Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。“灵巧手是人类最后的尊严”",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "“灵巧手是人类最后的尊严”",
+      "keyIdeas": [
+        "核心信号围绕“沈向洋刚讲了好多AI非共识啊”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "沈向洋刚讲了好多AI非共识啊",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.0,
+        "sourceCredibility": 4.3,
+        "novelty": 3.7,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 4.1
+      },
+      "finalScore": 82.2,
+      "preRankingScore": 69.98,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    },
+    {
+      "id": "37b5c9ba932667",
+      "title": "Where scientists draw the line on AI agents",
+      "titleZh": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-11-25T18:52:55Z",
+      "discoveredAt": "2026-11-26T04:43:16Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -155,13 +339,13 @@
       "translationStatus": "pending",
       "sourceSnippet": "",
       "keyIdeas": [
-        "核心信号围绕“A training engine for your local model, using your idle compute”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“Where scientists draw the line on AI agents”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "A training engine for your local model, using yo",
+        "Where scientists draw the line on AI agents",
         "ai-news"
       ],
       "importantTerms": [
@@ -171,196 +355,18 @@
         }
       ],
       "scores": {
-        "eventImpact": 4.2,
-        "sourceCredibility": 4.1,
-        "novelty": 3.7,
-        "aiProductImpact": 4.5,
-        "personalRelevance": 3.5
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.4,
+        "novelty": 3.5,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.0
       },
       "finalScore": 81.4,
-      "preRankingScore": 73.96,
-      "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 205,
-        "comments": 64,
-        "hnUrl": "https://news.ycombinator.com/item?id=50629231"
-      },
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 4,
-      "duplicateSources": []
-    },
-    {
-      "id": "f8a4e02f421246",
-      "title": "Connected intelligence for in-house legal",
-      "titleZh": "Connected intelligence for in-house legal",
-      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "author": "",
-      "source": "OpenAI News",
-      "publishedAt": "2026-11-23T08:00:00Z",
-      "discoveredAt": "2026-11-25T05:15:23Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-      "keyIdeas": [
-        "核心信号围绕“Connected intelligence for in-house legal”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Connected intelligence for in-house legal",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 3.8,
-        "sourceCredibility": 4.2,
-        "novelty": 4.4,
-        "aiProductImpact": 4.3,
-        "personalRelevance": 3.3
-      },
-      "finalScore": 81.0,
-      "preRankingScore": 63.73,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "partial",
-      "estimatedReadingMinutes": 1,
-      "duplicateSources": []
-    },
-    {
-      "id": "de5cd1a6d51dc9",
-      "title": "Perplexity and Intelligence",
-      "titleZh": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "author": "",
-      "source": "OpenAI News",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "discoveredAt": "2026-11-25T05:15:23Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "keyIdeas": [
-        "核心信号围绕“Perplexity and Intelligence”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Perplexity and Intelligence",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 4.0,
-        "sourceCredibility": 4.4,
-        "novelty": 3.9,
-        "aiProductImpact": 3.9,
-        "personalRelevance": 3.9
-      },
-      "finalScore": 80.6,
-      "preRankingScore": 59.71,
+      "preRankingScore": 65.02,
       "readingTier": "signal",
       "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 14,
-      "duplicateSources": []
-    },
-    {
-      "id": "b6b7396fedc7db",
-      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-      "titleZh": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-      "url": "https://www.qbitai.com/2026/11/512305.html",
-      "author": "量子位的朋友们",
-      "source": "量子位",
-      "publishedAt": "2026-11-24T03:21:12Z",
-      "discoveredAt": "2026-11-25T05:15:24Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
-      "keyIdeas": [
-        "核心信号围绕“释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 3.4,
-        "sourceCredibility": 4.2,
-        "novelty": 4.2,
-        "aiProductImpact": 4.1,
-        "personalRelevance": 4.4
-      },
-      "finalScore": 79.2,
-      "preRankingScore": 67.9,
-      "readingTier": "signal",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 8,
-      "duplicateSources": []
-    },
-    {
-      "id": "5d4293c836cff1",
-      "title": "Google Cloud 出海峰会报名开启",
-      "titleZh": "Google Cloud 出海峰会报名开启",
-      "url": "https://www.qbitai.com/2026/11/512370.html",
-      "author": "量子位的朋友们",
-      "source": "量子位",
-      "publishedAt": "2026-11-24T06:52:29Z",
-      "discoveredAt": "2026-11-25T05:15:24Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
-      "keyIdeas": [
-        "核心信号围绕“Google Cloud 出海峰会报名开启”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Google Cloud 出海峰会报名开启",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.2,
-        "sourceCredibility": 3.9,
-        "novelty": 3.7,
-        "aiProductImpact": 3.7,
-        "personalRelevance": 4.3
-      },
-      "finalScore": 79.0,
-      "preRankingScore": 68.23,
-      "readingTier": "signal",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 1,
+      "estimatedReadingMinutes": 13,
       "duplicateSources": []
     }
   ],
