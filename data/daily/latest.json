@@ -1,149 +1,15 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T04:48:54Z",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T04:34:01Z",
   "mode": "metadata",
   "stats": {
-    "discovered": 234,
-    "afterDeduplication": 232,
+    "discovered": 235,
+    "afterDeduplication": 233,
     "deepReviewed": 40,
     "recommended": 8
   },
   "articles": [
-    {
-      "id": "f63f4cad146807",
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "titleZh": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
-      "author": "nb-t",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-25T21:48:10Z",
-      "discoveredAt": "2026-11-27T04:48:46Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
-      "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
-      "keyIdeas": [
-        "核心信号围绕“Much shorter version of GRH Lean verification from Anthropic”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "Much shorter version of GRH Lean verification fr",
-        "ai-news"
-      ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
-      "scores": {
-        "eventImpact": 4.5,
-        "sourceCredibility": 4.3,
-        "novelty": 4.0,
-        "aiProductImpact": 4.4,
-        "personalRelevance": 4.6
-      },
-      "finalScore": 87.0,
-      "preRankingScore": 77.9,
-      "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 551,
-        "comments": 349,
-        "hnUrl": "https://news.ycombinator.com/item?id=50648050"
-      },
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 1,
-      "duplicateSources": []
-    },
-    {
-      "id": "eedbc4d84ef4e6",
-      "title": "横向评测这个内容形态，在小红书做到头了？",
-      "titleZh": "横向评测这个内容形态，在小红书做到头了？",
-      "url": "https://www.woshipm.com/share/6501207.html",
-      "author": "Sally",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-11-27T03:15:54Z",
-      "discoveredAt": "2026-11-27T04:48:47Z",
-      "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。小红书11月初落地消费行业横测限制规则，蒲公英商单和聚光广告一起管。横测不是不能做，是旧玩法失效了。九种当下能套用的内容形式，加一套三步方法论，把底层原因讲透。 最近很多品牌操盘手、博主都在被一件事困扰：小红书横测新规落地，曾经高效拿流量、做种草的横向测评，正在被平台严格管控。 很多人第一反应：以后是不是彻底不能做测评内容了？ 其实不是，用户找解决方案的需求永远不会消失，只是旧的内容玩法行不通。 今天这篇，我们把新规边界、横测失效的底层原因、当下可落地的内容模板，以及最核心的内容底层方法论一次性讲透。【来源于楠开口11.25直播】 一、新规之下，哪些横测100%不能做？ 11月初小红书正式发布消费行业横向测评营销笔记限制规则，规则同时覆盖蒲公英商单与聚光效果广告，美妆个护、耐消品、运动户外、服装配饰、汽车等消费",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "小红书11月初落地消费行业横测限制规则，蒲公英商单和聚光广告一起管。横测不是不能做，是旧玩法失效了。九种当下能套用的内容形式，加一套三步方法论，把底层原因讲透。 最近很多品牌操盘手、博主都在被一件事困扰：小红书横测新规落地，曾经高效拿流量、做种草的横向测评，正在被平台严格管控。 很多人第一反应：以后是不是彻底不能做测评内容了？ 其实不是，用户找解决方案的需求永远不会消失，只是旧的内容玩法行不通。 今天这篇，我们把新规边界、横测失效的底层原因、当下可落地的内容模板，以及最核心的内容底层方法论一次性讲透。【来源于楠开口11.25直播】 一、新规之下，哪些横测100%不能做？ 11月初小红书正式发布消费行业横向测评营销笔记限制规则，规则同时覆盖蒲公英商单与聚光效果广告，美妆个护、耐消品、运动户外、服装配饰、汽车等消费品行业全部纳入管控范围。 这几类内容属于明确违规： 参数/体验/功效横向对比 ：单篇笔记出现2个及以上相同品类、不同品牌，做功效、使用体验、参数的多维对比； 榜单、评分或分档 ：红黑榜、优秀/普通/拉胯这类分级打分形式全部禁用； 画面或表达形成隐性排序 ：即便没有文字打分，依靠排版、图片顺序，暗示产品优劣高低，同样属于违规。 一旦踩线，笔记无法报备、不能投流、搜索推广失效；就算侥幸过审，遭遇竞品投诉就会直接失效。 二、横测明明越来越失效，为什么企业依旧舍不得放弃？ 不可否认，横测是效率极高的内容形式：它可以快速承接用户搜索需求，帮用户对比筛选，精准捕获意向客户。 但现在这套打法遇到双重挤压： 外部：平台规则收紧，大量内容无法商业化； 内部：赛道内卷严重，大通品类横测泛滥，用户审美疲劳，笔记既无前端流量，也没后端转化。 很多品牌陷入困境：同行都在做横测，我不做就怕丢失流量；继续做，又面临卡审、被同行投诉后下降的风险，并且投放 ROI 持续走低。 这里要理清一个核心认知： 用户需要的不是 “多品牌对比的横测形式”，用户需要的是快速解决自己问题的方案 。 形式可以变，但用户的底层需求不变。与其死磕旧模板，不如重构内容，用新的形式承接用户 “对比筛选、找解决方案” 的原生需求。 三、目前品牌商家可以快速套用的 9 种横测内容形式！ 我们按照窗口期长短【短期应急的窗口期玩法、当下就能抄作业的模板、以及不受规则变动影响的长期布局方向】，整理出了 9 种可以直接参考的内容形式。 1、品牌名打码 ：产品实物画面保留，品牌名称做打码遮挡；部分类目现在放行，已经有类目开始拦截不可做，仅适合短期测试使用。 2、A款/B款代号替代品牌 ：整篇完全不出现真实品牌名，只用字母代号指代多款产品；只描述个人使用体感、适配场景，严禁评判产品好坏。 3、视频化表达 ：目前大量横测是图文，视频角度管控没那么严苛。以过来人视角、真实使用、真实表达做测评，在管控不严的类目仍可做。 4、live",
-      "keyIdeas": [
-        "核心信号围绕“横向评测这个内容形态，在小红书做到头了？”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "横向评测这个内容形态，在小红书做到头了？",
-        "product-insight"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "insightDensity": 4.2,
-        "argumentDepth": 4.5,
-        "evidenceQuality": 4.3,
-        "nonConsensusValue": 3.9,
-        "transferability": 4.1,
-        "personalRelevance": 4.2
-      },
-      "finalScore": 84.3,
-      "preRankingScore": 74.85,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 3,
-      "duplicateSources": []
-    },
-    {
-      "id": "cfe59deac44d0e",
-      "title": "分享6个快速学习陌生领域的新技巧，黎曼猜想我都能看懂了",
-      "titleZh": "分享6个快速学习陌生领域的新技巧，黎曼猜想我都能看懂了",
-      "url": "https://www.woshipm.com/zhichang/6501189.html",
-      "author": "卡尔的AI沃茨",
-      "source": "人人都是产品经理",
-      "publishedAt": "2026-11-27T02:33:37Z",
-      "discoveredAt": "2026-11-27T04:48:47Z",
-      "language": "zh-CN",
-      "category": "product-insight",
-      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。这两天应该没有人没看过黎曼猜想被攻克的消息吧。作者把学陌生领域拆成四个理解度阶段：0%看科普动画，25%上手交互网页，50%摸透机制，75%串清因果，最后用记忆宫殿收口。 这两天应该没有人没看过黎曼猜想被攻克的消息吧，前情提要一下，11 月 20 号，Anthropic数学家 Alpöge放出一份证明，说自己和Claude合作攻克了黎曼猜想。 只隔了一天，Lean和Mathlib社区就发联合声明正式背书。 确认是真的。 但离谱的地方来了。 Alpöge交出来的不是常规数学论文，是14个压缩包、解压1.4GB的1737万行Lean代码，外加25万页草稿。 多个独立内核核验零报错，可连Alpöge自己都承认没太看懂Claude的总结，甚至调侃转述出来可能完全说不通。 我看完好奇心完全上来了，顺手让Opus 5.5写",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "这两天应该没有人没看过黎曼猜想被攻克的消息吧。作者把学陌生领域拆成四个理解度阶段：0%看科普动画，25%上手交互网页，50%摸透机制，75%串清因果，最后用记忆宫殿收口。 这两天应该没有人没看过黎曼猜想被攻克的消息吧，前情提要一下，11 月 20 号，Anthropic数学家 Alpöge放出一份证明，说自己和Claude合作攻克了黎曼猜想。 只隔了一天，Lean和Mathlib社区就发联合声明正式背书。 确认是真的。 但离谱的地方来了。 Alpöge交出来的不是常规数学论文，是14个压缩包、解压1.4GB的1737万行Lean代码，外加25万页草稿。 多个独立内核核验零报错，可连Alpöge自己都承认没太看懂Claude的总结，甚至调侃转述出来可能完全说不通。 我看完好奇心完全上来了，顺手让Opus 5.5写了一段演示代码动画，想搞明白这个猜想到底在讲啥。 代码动画跑起来还是炫的，满屏复平面螺旋线、梅林变换公式，右边还刷着瀑布一样的 Lean 4 代码。 我盯着屏幕看了两分钟，愣个是没看懂它在演啥咧（山东口音） 。 现在学陌生领域，卡住我们的早就不只是找不到资料，是AI输出太硬核，我人脑消化不良。 就算当下聊懂一点，过三天对话窗口被冲到底部、过程文件散落各处，换台电脑更是直接知识库归零。AI可以是我的外挂大脑，但我也不能纯不过脑子啊。 很多人一听后面要反复跑动画、做网页、画流程图，第一反应肯定是，这不得把我订阅模型的额度烧穿啊。其实真不用，平时想薅全网免费模型额度的，直接去我们自己做的 goodcase .ai 里的Token Ocean 里捞鱼就行，今天海里就游着 48 条模型鱼、62 条免费羊毛。 刚好3天前，腾讯把混元 Hy4 全系列开源了，跟黎曼猜想公布正好是同一天。 WorkBuddy里直接把 Hy4 flash 挂成了限时免费（0.00x），还同步更新了任务分组、单分组关联多文件夹和跨设备数据迁移。 所以我跟我的平时用来记忆的工作流就一拍即合，把之前视频里说过的降维理解法，加上我自己常用的神探夏洛克同款记忆宫殿思路，今天也是毫无保留分享给大家。 最开始对陌生领域几乎 0% 理解的时候，别啃长文，先看科普动画。 让 AI 直接出一集 3Blue1Brown 风格的 2 分钟动画，把来龙去脉立住。 之所以专门点名 3Blue1Brown，是因为它是数学科普界公认的天花板，精髓不在画面多花哨，我也不需要用一大堆额度去上五颜六色，他们就擅长用最克制的2D几何演变，把抽象公式背后的直觉一步步演活。 我对「【你要学的陌生主题，如：黎曼猜想与 Claude 1737 万行代码证明争议】」几乎是 0 基础。请先充分搜索最新资料，再生成一个 3Blue1Brown 风格的 2 分钟单文件 HTML 讲解动画（克制 2D 几何演变，带分幕字幕与播放进度条，不要堆砌",
-      "keyIdeas": [
-        "核心信号围绕“分享6个快速学习陌生领域的新技巧，黎曼猜想我都能看懂了”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "分享6个快速学习陌生领域的新技巧，黎曼猜想我都能看懂了",
-        "product-insight"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "insightDensity": 4.0,
-        "argumentDepth": 3.8,
-        "evidenceQuality": 4.1,
-        "nonConsensusValue": 4.5,
-        "transferability": 4.5,
-        "personalRelevance": 4.5
-      },
-      "finalScore": 84.0,
-      "preRankingScore": 74.77,
-      "readingTier": "worth-reading",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 6,
-      "duplicateSources": []
-    },
     {
       "id": "99b93f3e109849",
       "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -152,7 +18,7 @@
       "author": "",
       "source": "OpenAI News",
       "publishedAt": "2026-11-24T00:00:00Z",
-      "discoveredAt": "2026-11-27T04:48:45Z",
+      "discoveredAt": "2026-11-28T04:33:53Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -183,7 +49,7 @@
         "personalRelevance": 4.0
       },
       "finalScore": 83.8,
-      "preRankingScore": 59.76,
+      "preRankingScore": 57.38,
       "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
@@ -191,135 +57,86 @@
       "duplicateSources": []
     },
     {
-      "id": "6f6a6b07f17a72",
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "titleZh": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "author": "ritzaco",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-26T09:44:23Z",
-      "discoveredAt": "2026-11-27T04:48:46Z",
-      "language": "en",
-      "category": "ai-news",
-      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "id": "cf873df82d3046",
+      "title": "OpenAI 和 Anthropic 在招什么样的营销人才？",
+      "titleZh": "OpenAI 和 Anthropic 在招什么样的营销人才？",
+      "url": "https://www.woshipm.com/zhichang/6501777.html",
+      "author": "寻空",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-28T03:11:31Z",
+      "discoveredAt": "2026-11-28T04:33:55Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。一边是 AI 替代营销人的讨论，一边是 OpenAI 五十个营销岗位、Anthropic 十九个在招，年薪开到 23.9 万至 40 万美元。作者拆完招聘要求，归出五种共同能力，也解释了为何 AI 越强越需要营销。 AI正在取代越来越多的工作，营销是受到冲击最直接的行业之一。我之前也在《大厂减市场预算，加AI预算》这篇文章中谈过这个问题。 但有一个现象挺有意思，当很多企业都在讨论AI如何替代营销人时，AI大模型公司却在大量招聘营销人才。 我看了一下OpenAI、Anthropic和Google DeepMind的招聘信息，发现这些公司对营销人才的需求很强劲。 现在，在OpenAI官网搜索Marketing关键词，显示有50个相关招聘岗位，Anthropic的Marketing & Brand部门有19个开放岗位",
       "translationZh": "",
-      "translationStatus": "pending",
-      "sourceSnippet": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "一边是 AI 替代营销人的讨论，一边是 OpenAI 五十个营销岗位、Anthropic 十九个在招，年薪开到 23.9 万至 40 万美元。作者拆完招聘要求，归出五种共同能力，也解释了为何 AI 越强越需要营销。 AI正在取代越来越多的工作，营销是受到冲击最直接的行业之一。我之前也在《大厂减市场预算，加AI预算》这篇文章中谈过这个问题。 但有一个现象挺有意思，当很多企业都在讨论AI如何替代营销人时，AI大模型公司却在大量招聘营销人才。 我看了一下OpenAI、Anthropic和Google DeepMind的招聘信息，发现这些公司对营销人才的需求很强劲。 现在，在OpenAI官网搜索Marketing关键词，显示有50个相关招聘岗位，Anthropic的Marketing & Brand部门有19个开放岗位，Google DeepMind也在招聘整合营销经理。 OpenAI 给负责 ChatGPT 消费订阅的增长产品营销经理开出 23.9 万至 26.5 万美元的年薪，另有股权。Anthropic 给负责创业公司客户营销的岗位开出的年薪是 32 万至 40 万美元。 AI连营销人自己的工作都能做了，为什么AI公司还要花钱招聘营销人？ 我拆解了三家公司的招聘要求，发现营销人的价值正在发生一次比较明显的变化。 01 三家AI巨头到底在招什么营销人？ 先看OpenAI。 从招聘信息来看，产品营销和增长营销是比较值得关注的两个方向。 比如，有一个岗位叫Product Marketing Lead, API Models & Research，主要负责模型、研究成果和API产品的市场推广。 这个岗位的一个要求是，营销负责人需要深入研究团队，理解模型的能力、评测结果、技术限制和不同模型之间的差异，然后把这些复杂的技术信息转化为用户能够理解的产品价值。 这个岗位还要求营销人员把客户和市场洞察带回研究及产品团队，影响产品决策。也就是说，营销人员需要参与到产品研发和市场定位的过程中。 另一个岗位是Growth Product Marketing Manager，负责ChatGPT付费订阅业务。 这个岗位比较好理解，就是推动用户增长和商业化。它需要研究用户需求，设计不同的订阅套餐和定价策略，通过产品功能、营销活动和用户沟通提高付费转化率，同时关注用户激活、活跃度、留存和套餐升级。 再看Anthropic。 我比较关注它的Product Marketing Manager, Knowledge Work – Enterprise岗位。 这个岗位面对的是企业客户，尤其是企业管理层、IT负责人、安全负责人和系统管理员。 企业采购AI时会考虑很多问题，比如数据安全、隐私保护、权限管理、部署成本、合规要求，以及AI究竟能给企业带来多少实际价值。 Anthropic希望营销人员能够理解",
       "keyIdeas": [
-        "核心信号围绕“Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email”展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“OpenAI 和 Anthropic 在招什么样的营销人才？”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "Google Will Make AI Agents Use Its MCP Servers. ",
-        "ai-news"
+        "OpenAI 和 Anthropic 在招什么样的营销人才？",
+        "product-insight"
       ],
-      "importantTerms": [
-        {
-          "term": "signal",
-          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
-        }
-      ],
+      "importantTerms": [],
       "scores": {
-        "eventImpact": 4.2,
-        "sourceCredibility": 4.1,
-        "novelty": 4.6,
-        "aiProductImpact": 3.5,
-        "personalRelevance": 4.6
+        "insightDensity": 4.3,
+        "argumentDepth": 4.5,
+        "evidenceQuality": 3.9,
+        "nonConsensusValue": 4.3,
+        "transferability": 4.3,
+        "personalRelevance": 3.5
       },
       "finalScore": 83.2,
-      "preRankingScore": 79.09,
+      "preRankingScore": 74.86,
       "readingTier": "worth-reading",
-      "socialSignals": {
-        "points": 288,
-        "comments": 239,
-        "hnUrl": "https://news.ycombinator.com/item?id=50653477"
-      },
+      "socialSignals": {},
       "contentAvailability": "full",
-      "estimatedReadingMinutes": 9,
+      "estimatedReadingMinutes": 4,
       "duplicateSources": []
     },
     {
-      "id": "93e45d54ad57f6",
-      "title": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
-      "titleZh": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
-      "url": "https://www.qbitai.com/2026/11/513075.html",
-      "author": "听雨",
+      "id": "005b7c4e65ee53",
+      "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+      "titleZh": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+      "url": "https://www.qbitai.com/2026/11/513346.html",
+      "author": "量子位的朋友们",
       "source": "量子位",
-      "publishedAt": "2026-11-27T02:03:10Z",
-      "discoveredAt": "2026-11-27T04:48:47Z",
+      "publishedAt": "2026-11-27T11:18:24Z",
+      "discoveredAt": "2026-11-28T04:33:54Z",
       "language": "zh-CN",
       "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。担心课题被AI抢先，该怎么办？",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
       "translationZh": "",
       "translationStatus": "not-needed",
-      "sourceSnippet": "担心课题被AI抢先，该怎么办？",
+      "sourceSnippet": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
       "keyIdeas": [
-        "核心信号围绕“陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料””展开，需要结合原文确认其实际影响范围。",
+        "核心信号围绕“全国首批首家！商汤大装置获Token工厂智算能力最高评级”展开，需要结合原文确认其实际影响范围。",
         "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
       ],
       "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
       "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
       "topics": [
-        "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
+        "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
         "ai-news"
       ],
       "importantTerms": [],
       "scores": {
         "eventImpact": 4.2,
-        "sourceCredibility": 4.4,
-        "novelty": 3.9,
-        "aiProductImpact": 4.2,
-        "personalRelevance": 4.1
+        "sourceCredibility": 4.5,
+        "novelty": 4.3,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 3.4
       },
-      "finalScore": 83.4,
-      "preRankingScore": 69.87,
-      "readingTier": "signal",
+      "finalScore": 82.8,
+      "preRankingScore": 68.74,
+      "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "full",
       "estimatedReadingMinutes": 3,
-      "duplicateSources": []
-    },
-    {
-      "id": "b29a7806a19df0",
-      "title": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！",
-      "titleZh": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！",
-      "url": "https://www.qbitai.com/2026/11/513087.html",
-      "author": "量子位的朋友们",
-      "source": "量子位",
-      "publishedAt": "2026-11-27T02:19:12Z",
-      "discoveredAt": "2026-11-27T04:48:47Z",
-      "language": "zh-CN",
-      "category": "ai-news",
-      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。11月26日，“乾崑生态 共赴热爱”华为乾崑生态大会在广州南沙体育馆举行。",
-      "translationZh": "",
-      "translationStatus": "not-needed",
-      "sourceSnippet": "11月26日，“乾崑生态 共赴热爱”华为乾崑生态大会在广州南沙体育馆举行。",
-      "keyIdeas": [
-        "核心信号围绕“乾崑共创者计划发布：加入乾崑生态，共创出行未来！”展开，需要结合原文确认其实际影响范围。",
-        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
-      ],
-      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
-      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
-      "topics": [
-        "乾崑共创者计划发布：加入乾崑生态，共创出行未来！",
-        "ai-news"
-      ],
-      "importantTerms": [],
-      "scores": {
-        "eventImpact": 4.1,
-        "sourceCredibility": 4.3,
-        "novelty": 3.8,
-        "aiProductImpact": 4.2,
-        "personalRelevance": 4.4
-      },
-      "finalScore": 82.6,
-      "preRankingScore": 70.12,
-      "readingTier": "signal",
-      "socialSignals": {},
-      "contentAvailability": "full",
-      "estimatedReadingMinutes": 1,
       "duplicateSources": []
     },
     {
@@ -330,7 +147,7 @@
       "author": "",
       "source": "OpenAI News",
       "publishedAt": "2026-11-23T08:00:00Z",
-      "discoveredAt": "2026-11-27T04:48:45Z",
+      "discoveredAt": "2026-11-28T04:33:53Z",
       "language": "en",
       "category": "ai-news",
       "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
@@ -361,11 +178,185 @@
         "personalRelevance": 3.3
       },
       "finalScore": 81.0,
-      "preRankingScore": 58.98,
-      "readingTier": "signal",
+      "preRankingScore": 56.6,
+      "readingTier": "worth-reading",
       "socialSignals": {},
       "contentAvailability": "partial",
       "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "c01600d4160315",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "titleZh": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "discoveredAt": "2026-11-28T04:33:53Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Swarms, Flocks, Gangs: How to build, train, and ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.4,
+        "novelty": 3.9,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 80.4,
+      "preRankingScore": 60.74,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 17,
+      "duplicateSources": []
+    },
+    {
+      "id": "37b5c9ba932667",
+      "title": "Where scientists draw the line on AI agents",
+      "titleZh": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-11-25T18:52:55Z",
+      "discoveredAt": "2026-11-28T04:33:53Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Where scientists draw the line on AI agents”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Where scientists draw the line on AI agents",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.3,
+        "novelty": 3.4,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 79.4,
+      "preRankingScore": 60.23,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 13,
+      "duplicateSources": []
+    },
+    {
+      "id": "6aa339a9d53659",
+      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+      "titleZh": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+      "url": "https://www.qbitai.com/2026/11/513352.html",
+      "author": "田, 晏林",
+      "source": "量子位",
+      "publishedAt": "2026-11-27T14:07:33Z",
+      "discoveredAt": "2026-11-28T04:33:54Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+      "keyIdeas": [
+        "核心信号围绕“人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.6,
+        "sourceCredibility": 4.1,
+        "novelty": 3.6,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 78.4,
+      "preRankingScore": 68.87,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "44a871db658d8e",
+      "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+      "titleZh": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+      "url": "https://www.qbitai.com/2026/11/513227.html",
+      "author": "鹭羽",
+      "source": "量子位",
+      "publishedAt": "2026-11-27T07:01:20Z",
+      "discoveredAt": "2026-11-28T04:33:54Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。地图能随时修，记忆能跨任务用",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "地图能随时修，记忆能跨任务用",
+      "keyIdeas": [
+        "核心信号围绕“刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.9,
+        "sourceCredibility": 3.7,
+        "novelty": 4.2,
+        "aiProductImpact": 3.6,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 76.4,
+      "preRankingScore": 67.99,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
       "duplicateSources": []
     }
   ],

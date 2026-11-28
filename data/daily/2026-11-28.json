@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T04:34:01Z",
+  "mode": "metadata",
+  "stats": {
+    "discovered": 235,
+    "afterDeduplication": 233,
+    "deepReviewed": 40,
+    "recommended": 8
+  },
+  "articles": [
+    {
+      "id": "99b93f3e109849",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "titleZh": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "discoveredAt": "2026-11-28T04:33:53Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "keyIdeas": [
+        "核心信号围绕“Clay helps sales teams win with Codex and ChatGPT”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Clay helps sales teams win with Codex and ChatGP",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.3,
+        "sourceCredibility": 4.3,
+        "novelty": 4.2,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 83.8,
+      "preRankingScore": 57.38,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "cf873df82d3046",
+      "title": "OpenAI 和 Anthropic 在招什么样的营销人才？",
+      "titleZh": "OpenAI 和 Anthropic 在招什么样的营销人才？",
+      "url": "https://www.woshipm.com/zhichang/6501777.html",
+      "author": "寻空",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-11-28T03:11:31Z",
+      "discoveredAt": "2026-11-28T04:33:55Z",
+      "language": "zh-CN",
+      "category": "product-insight",
+      "summaryZh": "文章提供了可以迁移到 AI 产品判断与设计中的分析框架。一边是 AI 替代营销人的讨论，一边是 OpenAI 五十个营销岗位、Anthropic 十九个在招，年薪开到 23.9 万至 40 万美元。作者拆完招聘要求，归出五种共同能力，也解释了为何 AI 越强越需要营销。 AI正在取代越来越多的工作，营销是受到冲击最直接的行业之一。我之前也在《大厂减市场预算，加AI预算》这篇文章中谈过这个问题。 但有一个现象挺有意思，当很多企业都在讨论AI如何替代营销人时，AI大模型公司却在大量招聘营销人才。 我看了一下OpenAI、Anthropic和Google DeepMind的招聘信息，发现这些公司对营销人才的需求很强劲。 现在，在OpenAI官网搜索Marketing关键词，显示有50个相关招聘岗位，Anthropic的Marketing & Brand部门有19个开放岗位",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "一边是 AI 替代营销人的讨论，一边是 OpenAI 五十个营销岗位、Anthropic 十九个在招，年薪开到 23.9 万至 40 万美元。作者拆完招聘要求，归出五种共同能力，也解释了为何 AI 越强越需要营销。 AI正在取代越来越多的工作，营销是受到冲击最直接的行业之一。我之前也在《大厂减市场预算，加AI预算》这篇文章中谈过这个问题。 但有一个现象挺有意思，当很多企业都在讨论AI如何替代营销人时，AI大模型公司却在大量招聘营销人才。 我看了一下OpenAI、Anthropic和Google DeepMind的招聘信息，发现这些公司对营销人才的需求很强劲。 现在，在OpenAI官网搜索Marketing关键词，显示有50个相关招聘岗位，Anthropic的Marketing & Brand部门有19个开放岗位，Google DeepMind也在招聘整合营销经理。 OpenAI 给负责 ChatGPT 消费订阅的增长产品营销经理开出 23.9 万至 26.5 万美元的年薪，另有股权。Anthropic 给负责创业公司客户营销的岗位开出的年薪是 32 万至 40 万美元。 AI连营销人自己的工作都能做了，为什么AI公司还要花钱招聘营销人？ 我拆解了三家公司的招聘要求，发现营销人的价值正在发生一次比较明显的变化。 01 三家AI巨头到底在招什么营销人？ 先看OpenAI。 从招聘信息来看，产品营销和增长营销是比较值得关注的两个方向。 比如，有一个岗位叫Product Marketing Lead, API Models & Research，主要负责模型、研究成果和API产品的市场推广。 这个岗位的一个要求是，营销负责人需要深入研究团队，理解模型的能力、评测结果、技术限制和不同模型之间的差异，然后把这些复杂的技术信息转化为用户能够理解的产品价值。 这个岗位还要求营销人员把客户和市场洞察带回研究及产品团队，影响产品决策。也就是说，营销人员需要参与到产品研发和市场定位的过程中。 另一个岗位是Growth Product Marketing Manager，负责ChatGPT付费订阅业务。 这个岗位比较好理解，就是推动用户增长和商业化。它需要研究用户需求，设计不同的订阅套餐和定价策略，通过产品功能、营销活动和用户沟通提高付费转化率，同时关注用户激活、活跃度、留存和套餐升级。 再看Anthropic。 我比较关注它的Product Marketing Manager, Knowledge Work – Enterprise岗位。 这个岗位面对的是企业客户，尤其是企业管理层、IT负责人、安全负责人和系统管理员。 企业采购AI时会考虑很多问题，比如数据安全、隐私保护、权限管理、部署成本、合规要求，以及AI究竟能给企业带来多少实际价值。 Anthropic希望营销人员能够理解",
+      "keyIdeas": [
+        "核心信号围绕“OpenAI 和 Anthropic 在招什么样的营销人才？”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "OpenAI 和 Anthropic 在招什么样的营销人才？",
+        "product-insight"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "insightDensity": 4.3,
+        "argumentDepth": 4.5,
+        "evidenceQuality": 3.9,
+        "nonConsensusValue": 4.3,
+        "transferability": 4.3,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 83.2,
+      "preRankingScore": 74.86,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "005b7c4e65ee53",
+      "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+      "titleZh": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+      "url": "https://www.qbitai.com/2026/11/513346.html",
+      "author": "量子位的朋友们",
+      "source": "量子位",
+      "publishedAt": "2026-11-27T11:18:24Z",
+      "discoveredAt": "2026-11-28T04:33:54Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+      "keyIdeas": [
+        "核心信号围绕“全国首批首家！商汤大装置获Token工厂智算能力最高评级”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.5,
+        "novelty": 4.3,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 3.4
+      },
+      "finalScore": 82.8,
+      "preRankingScore": 68.74,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 3,
+      "duplicateSources": []
+    },
+    {
+      "id": "f8a4e02f421246",
+      "title": "Connected intelligence for in-house legal",
+      "titleZh": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "author": "",
+      "source": "OpenAI News",
+      "publishedAt": "2026-11-23T08:00:00Z",
+      "discoveredAt": "2026-11-28T04:33:53Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "keyIdeas": [
+        "核心信号围绕“Connected intelligence for in-house legal”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Connected intelligence for in-house legal",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 3.8,
+        "sourceCredibility": 4.2,
+        "novelty": 4.4,
+        "aiProductImpact": 4.3,
+        "personalRelevance": 3.3
+      },
+      "finalScore": 81.0,
+      "preRankingScore": 56.6,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "partial",
+      "estimatedReadingMinutes": 1,
+      "duplicateSources": []
+    },
+    {
+      "id": "c01600d4160315",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "titleZh": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "discoveredAt": "2026-11-28T04:33:53Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Swarms, Flocks, Gangs: How to build, train, and ",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.4,
+        "sourceCredibility": 3.4,
+        "novelty": 3.9,
+        "aiProductImpact": 4.0,
+        "personalRelevance": 4.4
+      },
+      "finalScore": 80.4,
+      "preRankingScore": 60.74,
+      "readingTier": "worth-reading",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 17,
+      "duplicateSources": []
+    },
+    {
+      "id": "37b5c9ba932667",
+      "title": "Where scientists draw the line on AI agents",
+      "titleZh": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "author": "",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-11-25T18:52:55Z",
+      "discoveredAt": "2026-11-28T04:33:53Z",
+      "language": "en",
+      "category": "ai-news",
+      "summaryZh": "当前为 Metadata Review。真实原文已经采集；配置 OpenAI 后将生成中文详细摘要与核心译文。",
+      "translationZh": "",
+      "translationStatus": "pending",
+      "sourceSnippet": "",
+      "keyIdeas": [
+        "核心信号围绕“Where scientists draw the line on AI agents”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "Where scientists draw the line on AI agents",
+        "ai-news"
+      ],
+      "importantTerms": [
+        {
+          "term": "signal",
+          "explanationZh": "尚未成为共识、但可能影响后续判断的早期迹象。"
+        }
+      ],
+      "scores": {
+        "eventImpact": 4.2,
+        "sourceCredibility": 4.3,
+        "novelty": 3.4,
+        "aiProductImpact": 3.9,
+        "personalRelevance": 3.9
+      },
+      "finalScore": 79.4,
+      "preRankingScore": 60.23,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 13,
+      "duplicateSources": []
+    },
+    {
+      "id": "6aa339a9d53659",
+      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+      "titleZh": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+      "url": "https://www.qbitai.com/2026/11/513352.html",
+      "author": "田, 晏林",
+      "source": "量子位",
+      "publishedAt": "2026-11-27T14:07:33Z",
+      "discoveredAt": "2026-11-28T04:33:54Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+      "keyIdeas": [
+        "核心信号围绕“人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.6,
+        "sourceCredibility": 4.1,
+        "novelty": 3.6,
+        "aiProductImpact": 4.5,
+        "personalRelevance": 4.0
+      },
+      "finalScore": 78.4,
+      "preRankingScore": 68.87,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 4,
+      "duplicateSources": []
+    },
+    {
+      "id": "44a871db658d8e",
+      "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+      "titleZh": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+      "url": "https://www.qbitai.com/2026/11/513227.html",
+      "author": "鹭羽",
+      "source": "量子位",
+      "publishedAt": "2026-11-27T07:01:20Z",
+      "discoveredAt": "2026-11-28T04:33:54Z",
+      "language": "zh-CN",
+      "category": "ai-news",
+      "summaryZh": "这项进展可能改变 AI 产品的能力边界、成本结构或交互方式。地图能随时修，记忆能跨任务用",
+      "translationZh": "",
+      "translationStatus": "not-needed",
+      "sourceSnippet": "地图能随时修，记忆能跨任务用",
+      "keyIdeas": [
+        "核心信号围绕“刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑”展开，需要结合原文确认其实际影响范围。",
+        "判断价值时应同时关注一手证据、可迁移的方法和作者未明说的前提。"
+      ],
+      "counterPoint": "现有信息可能夸大短期变化，且缺少足够的长期使用数据或反例；阅读时应区分事实、预测与作者立场。",
+      "whyForMe": "它可用于训练你对 AI 产品机会的判断，并沉淀为面试中的行业观点或项目决策依据。",
+      "topics": [
+        "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+        "ai-news"
+      ],
+      "importantTerms": [],
+      "scores": {
+        "eventImpact": 3.9,
+        "sourceCredibility": 3.7,
+        "novelty": 4.2,
+        "aiProductImpact": 3.6,
+        "personalRelevance": 3.5
+      },
+      "finalScore": 76.4,
+      "preRankingScore": 67.99,
+      "readingTier": "signal",
+      "socialSignals": {},
+      "contentAvailability": "full",
+      "estimatedReadingMinutes": 5,
+      "duplicateSources": []
+    }
+  ],
+  "errors": []
+}
